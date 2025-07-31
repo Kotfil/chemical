@@ -37,6 +37,34 @@ export const GoogleIcon = ({
   </svg>
 );
 
+export const TelegramIcon = ({
+  fill = "currentColor",
+  size = 22,
+  height = 12,
+  width = 12,
+  ...props
+}) => {
+  return (
+    <svg
+      height={size || height || 24}
+      viewBox="0 0 28 24"
+      width={size || width || 24}
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <g
+        fill="none"
+        stroke={fill}
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+      >
+        <path d="M21 3L3 10.5l6.25 2.25L18 6l-7.5 9v3l3-2.25 4.5 3.75L21 3z" />
+      </g>
+    </svg>
+  );
+};
+
 export const FacebookIcon = ({
   size = 50,
   colors = ["#1877F2", "#145DBF", "#0F46A0", "#0A3682"], // Пример оттенков синего для Facebook
@@ -57,6 +85,42 @@ export const FacebookIcon = ({
       d="M16 8C16 3.6 12.4 0 8 0C3.6 0 0 3.6 0 8C0 12 2.9 15.3 6.7 15.9V10.3H4.7V8H6.7V6.2C6.7 4.2 7.9 3.1 9.7 3.1C10.6 3.1 11.5 3.3 11.5 3.3V5.3H10.5C9.5 5.3 9.2 5.9 9.2 6.5V8H11.4L11 10.3H9.1V16C13.1 15.4 16 12 16 8Z"
       fill="white"
     />
+  </svg>
+);
+
+export const InstagramIcon = ({
+  size = 25,
+  colors = ["#f09433", "#e6683c", "#dc2743", "#cc2366"],
+  ...props
+}: {
+  size?: number;
+  colors?: string[];
+} & React.SVGProps<SVGSVGElement>) => (
+  <svg
+    width={size}
+    height={size}
+    viewBox="0 0 24 24"
+    fill="none"
+    xmlns="http://www.w3.org/2000/svg"
+    {...props}
+  >
+    <defs>
+      <linearGradient id="igGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+        <stop offset="0%" stopColor={colors[0]} />
+        <stop offset="25%" stopColor={colors[1]} />
+        <stop offset="50%" stopColor={colors[2]} />
+        <stop offset="100%" stopColor={colors[3]} />
+      </linearGradient>
+    </defs>
+    <path
+      d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5h10c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5H7zm10 2a3 3 0 0 1 3 3v10a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3V7a3 3 0 0 1 3-3h10z"
+      fill="url(#igGradient)"
+    />
+    <path
+      d="M12 7a5 5 0 1 0 0.001 10.001A5 5 0 0 0 12 7zm0 2a3 3 0 1 1 0.001 6.001A3 3 0 0 1 12 9z"
+      fill="url(#igGradient)"
+    />
+    <circle cx="17.5" cy="6.5" r="1.5" fill="url(#igGradient)" />
   </svg>
 );
 

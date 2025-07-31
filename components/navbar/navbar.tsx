@@ -10,7 +10,6 @@ import NextLink from "next/link";
 
 import { siteConfig } from "@/config/site";
 import { ThemeSwitch } from "@/components/theme-switch";
-import { DiscordIcon, GithubIcon, TwitterIcon } from "@/components/icons";
 import Image from "next/image";
 import { LogoWrapper } from "@/components/navbar/navbar.styles";
 import { Grid } from "@mui/material";

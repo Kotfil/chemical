@@ -1,6 +1,11 @@
 import { Grid } from "@mui/material";
-import { FacebookIcon, LinkedinIcon } from "@/components/button/social-button";
 import { Button } from "@heroui/button";
+import {
+  FacebookIcon,
+  InstagramIcon,
+  LinkedinIcon,
+  TelegramIcon,
+} from "@/components/icons";
 
 export const SocialIcons = () => (
   <>

@@ -73,16 +73,19 @@ const initialEdges = labels.map((_, i) => ({
 export default function CooperationSchedule() {
   const [nodes, setNodes] = useState(initialNodes);
   const [edges, setEdges] = useState(initialEdges);
-
+  //@ts-ignore
   const onNodesChange = useCallback(
+    //@ts-ignore
     (changes) => setNodes((nds) => applyNodeChanges(changes, nds)),
     [],
   );
   const onEdgesChange = useCallback(
+    //@ts-ignore
     (changes) => setEdges((eds) => applyEdgeChanges(changes, eds)),
     [],
   );
   const onConnect = useCallback(
+    //@ts-ignore
     (connection) => setEdges((eds) => addEdge(connection, eds)),
     [],
   );
@@ -90,6 +93,7 @@ export default function CooperationSchedule() {
   return (
     <div style={{ width: "100vw", height: "100vh" }}>
       <ReactFlow
+        //@ts-ignore
         nodes={nodes}
         edges={edges}
         onNodesChange={onNodesChange}
