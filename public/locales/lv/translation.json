@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "Lejl./istaba F 6/F Mega Cube Nr. 8 Wang Kwong Road KL, Honkonga",
+    "subtitle_second": "Dibināts 2009",
+    "navigation_list": [
+      { "label": "Sākums", "href": "/" },
+      { "label": "Produkti", "href": "/products" },
+      { "label": "Sadarbība", "href": "/co-operation" }
+    ]
+  }
+}

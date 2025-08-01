@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "Διαμ./Δωμάτιο F 6/F Mega Cube No.8 Οδός Wang Kwong KL, Χονγκ Κονγκ",
+    "subtitle_second": "Έτος ίδρυσης 2009",
+    "navigation_list": [
+      { "label": "Αρχική", "href": "/" },
+      { "label": "Προϊόντα", "href": "/products" },
+      { "label": "Συνεργασία", "href": "/co-operation" }
+    ]
+  }
+}

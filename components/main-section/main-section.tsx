@@ -1,23 +1,14 @@
-import React, {FC} from "react";
-import {title} from "@/components/primitives";
+import React, { FC } from 'react';
+import { MainTitle } from './main-title/main-title';
+import { MainChoice } from '@/components/main-section/main-choice/main-choice';
+import { MainSelection } from '@/components/main-section/main-selection/main-selection';
 
 export const MainSection: FC = () => {
-    return (
-        <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
-            <div className="inline-block max-w-xl text-center justify-center">
-                <span className={title({color: "yellow"})}>ONE-STOP SOLUTION SUPPLIER OF &nbsp;</span>
-                <span className={title({color: "violet"})}>CIVIL BLASTING AND &nbsp;</span>
-                <br/>
-                <span className={title({color: "blue"})}>
-        CHEMICAL RAW MATERIALS
-        </span>
-
-            </div>
-
-        </section>
-    )
+  return (
+    <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
+      <MainTitle />
+      <MainChoice />
+      <MainSelection />
+    </section>
+  );
 };
-
-{/*<div className={subtitle({class: "mt-4"})}>*/}
-{/*    Beautiful, fast and modern React UI library.*/}
-{/*</div>*/}

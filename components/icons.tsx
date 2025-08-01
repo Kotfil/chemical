@@ -1,44 +1,9 @@
-import * as React from "react";
+import * as React from 'react';
 
-import { IconSvgProps } from "@/types";
+import { IconSvgProps } from '@/types';
 
-export const GoogleIcon = ({
-  size = 25,
-  colors = ["#FFC107", "#FF3D00", "#4CAF50", "#1976D2"],
-  ...props
-}: {
-  size?: number;
-  colors?: string[];
-} & React.SVGProps<SVGSVGElement>) => (
-  <svg
-    width={size}
-    height={size}
-    viewBox="0 0 20 20"
-    fill="none"
-    xmlns="http://www.w3.org/2000/svg"
-    {...props}
-  >
-    <path
-      d="M18.9884 8.20463H18.25V8.16659H10V11.8333H15.1806C14.4248 13.9677 12.3939 15.4999 10 15.4999C6.96267 15.4999 4.50004 13.0373 4.50004 9.99992C4.50004 6.96254 6.96267 4.49992 10 4.49992C11.4021 4.49992 12.6776 5.02884 13.6488 5.89279L16.2416 3.3C14.6045 1.77421 12.4145 0.833252 10 0.833252C4.93775 0.833252 0.833374 4.93763 0.833374 9.99992C0.833374 15.0622 4.93775 19.1666 10 19.1666C15.0623 19.1666 19.1667 15.0622 19.1667 9.99992C19.1667 9.38529 19.1035 8.78534 18.9884 8.20463Z"
-      fill={colors[0]}
-    />
-    <path
-      d="M1.89001 5.73329L4.90172 7.942C5.71664 5.92442 7.69022 4.49992 9.99976 4.49992C11.4018 4.49992 12.6773 5.02883 13.6486 5.89279L16.2413 3.3C14.6042 1.77421 12.4143 0.833252 9.99976 0.833252C6.47885 0.833252 3.42543 2.82104 1.89001 5.73329Z"
-      fill={colors[1]}
-    />
-    <path
-      d="M10.0001 19.1665C12.3679 19.1665 14.5193 18.2604 16.1459 16.7868L13.3088 14.3861C12.3576 15.1095 11.1952 15.5008 10.0001 15.4998C7.61585 15.4998 5.59139 13.9795 4.82873 11.8579L1.83948 14.161C3.35656 17.1297 6.43748 19.1665 10.0001 19.1665Z"
-      fill={colors[2]}
-    />
-    <path
-      d="M18.9883 8.20455H18.2499V8.1665H9.99988V11.8332H15.1804C14.8189 12.849 14.1677 13.7367 13.3072 14.3865L13.3086 14.3856L16.1457 16.7864C15.9449 16.9688 19.1665 14.5832 19.1665 9.99984C19.1665 9.38521 19.1033 8.78525 18.9883 8.20455Z"
-      fill={colors[3]}
-    />
-  </svg>
-);
-
-export const TelegramIcon = ({
-  fill = "currentColor",
+export const JabberIcon = ({
+  fill = '#FFA500', // оранжевый, часто ассоциируемый с XMPP/Jabber
   size = 22,
   height = 12,
   width = 12,
@@ -47,40 +12,181 @@ export const TelegramIcon = ({
   return (
     <svg
       height={size || height || 24}
-      viewBox="0 0 28 24"
       width={size || width || 24}
+      viewBox="0 0 64 64"
       xmlns="http://www.w3.org/2000/svg"
       {...props}
     >
-      <g
+      <path
+        fill={fill}
+        d="M32 6C17.6 6 6 16.3 6 29c0 6.4 3.2 12.1 8.4 16.2L12 58l9.5-5.1C25 54.1 28.4 55 32 55c14.4 0 26-10.3 26-23S46.4 6 32 6z"
+      />
+      <text
+        x="50%"
+        y="50%"
+        textAnchor="middle"
+        dominantBaseline="central"
+        fontSize="20"
+        fontWeight="bold"
+        fill="#fff"
+        fontFamily="Arial, sans-serif"
+      >
+        J
+      </text>
+      <path
+        d="M32 6C17.6 6 6 16.3 6 29c0 6.4 3.2 12.1 8.4 16.2L12 58l9.5-5.1C25 54.1 28.4 55 32 55c14.4 0 26-10.3 26-23S46.4 6 32 6z"
         fill="none"
-        stroke={fill}
+        stroke="#fff"
         strokeLinecap="round"
         strokeLinejoin="round"
         strokeWidth={1.5}
-      >
-        <path d="M21 3L3 10.5l6.25 2.25L18 6l-7.5 9v3l3-2.25 4.5 3.75L21 3z" />
-      </g>
+      />
+    </svg>
+  );
+};
+
+export const WeChatIcon = ({
+  fill = '#7BB32E', // фирменный зелёный цвет WeChat
+  size = 22,
+  height = 12,
+  width = 12,
+  ...props
+}) => {
+  return (
+    <svg
+      height={size || height || 24}
+      width={size || width || 24}
+      viewBox="0 0 64 64"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <path
+        fill={fill}
+        d="M32 6C17.6 6 6 16.3 6 29c0 6.4 3.2 12.1 8.4 16.2L12 58l9.5-5.1C25 54.1 28.4 55 32 55c14.4 0 26-10.3 26-23S46.4 6 32 6z"
+      />
+      <path
+        d="M22 27a3 3 0 110-6 3 3 0 010 6zm10 0a3 3 0 110-6 3 3 0 010 6zm6 14a3 3 0 110-6 3 3 0 010 6zm10 0a3 3 0 110-6 3 3 0 010 6z"
+        fill="#fff"
+      />
+      <path
+        d="M32 6C17.6 6 6 16.3 6 29c0 6.4 3.2 12.1 8.4 16.2L12 58l9.5-5.1C25 54.1 28.4 55 32 55c14.4 0 26-10.3 26-23S46.4 6 32 6z"
+        fill="none"
+        stroke="#fff"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+      />
+    </svg>
+  );
+};
+
+export const ViberIcon = ({
+  fill = '#7360F2', // фирменный цвет Viber
+  size = 22,
+  height = 12,
+  width = 12,
+  ...props
+}) => {
+  return (
+    <svg
+      height={size || height || 24}
+      width={size || width || 24}
+      viewBox="0 0 512 512"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <path
+        fill={fill}
+        d="M391.6 351.6c-14.3 0-41.5-12.1-77.6-38.3-31.1-22.8-52.2-49.2-68.6-83.3-13.2-27.2-15.6-47.5-15.9-53.4-.4-5.6 3.8-10.5 9.4-11.3l49.5-7c5.1-.7 10.1 1.8 12.3 6.5l21.5 47.1c1.9 4.2.7 9.1-2.8 12.1l-18.5 15.6c6.5 13.7 16.5 26.8 29.3 38.1 13.4 11.8 27.4 19.6 40.3 22.8l14.3-18.2c2.8-3.6 7.7-5 12.1-3.4l51 18.8c4.9 1.8 8.2 6.5 7.9 11.7-.3 5.8-3.5 23.2-25.5 44.3-14.4 13.9-32.8 21.1-53.1 21.1z"
+      />
+      <path
+        d="M256 0C114.6 0 0 99.7 0 222.5c0 56.3 25.4 108.8 67.2 147.5V512l98.4-53.9c28.1 8 58.1 12.5 90.4 12.5 141.4 0 256-99.7 256-222.5S397.4 0 256 0z"
+        fill={fill}
+      />
+      <path
+        d="M315.2 139.4c0 6.7-5.4 12.1-12.1 12.1s-12.1-5.4-12.1-12.1c0-12.5-10.2-22.7-22.7-22.7s-22.7 10.2-22.7 22.7c0 6.7-5.4 12.1-12.1 12.1s-12.1-5.4-12.1-12.1c0-26 21.2-47.2 47.2-47.2s47.2 21.2 47.2 47.2z"
+        fill="#fff"
+      />
+      <path
+        d="M322.6 204.5c-6.7 0-12.1-5.4-12.1-12.1 0-27.9-22.7-50.6-50.6-50.6s-50.6 22.7-50.6 50.6c0 6.7-5.4 12.1-12.1 12.1s-12.1-5.4-12.1-12.1c0-41.6 33.9-75.4 75.4-75.4s75.4 33.9 75.4 75.4c.1 6.7-5.3 12.1-12.1 12.1z"
+        fill="#fff"
+      />
+    </svg>
+  );
+};
+
+export const WhatsappIcon = ({
+  fill = '#25D366', // фирменный цвет WhatsApp
+  size = 22,
+  height = 12,
+  width = 12,
+  ...props
+}) => {
+  return (
+    <svg
+      height={size || height || 24}
+      width={size || width || 24}
+      viewBox="0 0 32 32"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <path
+        fill={fill}
+        d="M16.004 3C9.38 3 4 8.38 4 15c0 2.671.989 5.118 2.621 7.026L4 29l7.237-2.58A11.96 11.96 0 0 0 16.004 27C22.624 27 28 21.62 28 15S22.624 3 16.004 3z"
+      />
+      <path
+        d="M16.004 3C9.38 3 4 8.38 4 15c0 2.671.989 5.118 2.621 7.026L4 29l7.237-2.58A11.96 11.96 0 0 0 16.004 27C22.624 27 28 21.62 28 15S22.624 3 16.004 3z"
+        fill="none"
+        stroke="#ffffff"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+      />
+      <path
+        fill="#fff"
+        d="M21.1 18.3c-.3-.2-1.8-.9-2-1s-.5-.2-.7.2c-.3.4-.8 1-1 1.1-.2.1-.4.1-.7 0-.3-.2-1.1-.4-2-1.2s-1.4-1.8-1.5-2.1c-.1-.3 0-.4.1-.6.2-.2.3-.3.5-.5.2-.2.2-.3.3-.5s.1-.3 0-.5c-.1-.2-.7-1.7-.9-2.3-.2-.6-.5-.5-.7-.5h-.6c-.2 0-.5.1-.8.4s-1 1-1 2.4 1 2.8 1.2 3c.2.2 2 3.2 5 4.4 2.9 1.2 2.9.8 3.4.7.5-.1 1.7-.7 1.9-1.3.2-.6.2-1.2.1-1.3z"
+      />
+    </svg>
+  );
+};
+
+export const TelegramIcon = ({
+  fill = '#229ED9', // фирменный цвет Telegram
+  size = 22,
+  height = 12,
+  width = 12,
+  ...props
+}) => {
+  return (
+    <svg
+      height={size || height || 24}
+      width={size || width || 24}
+      viewBox="0 0 28 24"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <path fill={fill} d="M21 3L3 10.5l6.25 2.25L18 6l-7.5 9v3l3-2.25 4.5 3.75L21 3z" />
+      <path
+        d="M21 3L3 10.5l6.25 2.25L18 6l-7.5 9v3l3-2.25 4.5 3.75L21 3z"
+        fill="none"
+        stroke="#ffffff"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+      />
     </svg>
   );
 };
 
 export const FacebookIcon = ({
   size = 50,
-  colors = ["#1877F2", "#145DBF", "#0F46A0", "#0A3682"], // Пример оттенков синего для Facebook
+  colors = ['#1877F2', '#145DBF', '#0F46A0', '#0A3682'], // Пример оттенков синего для Facebook
   ...props
 }: {
   size?: number;
   colors?: string[];
 } & React.SVGProps<SVGSVGElement>) => (
-  <svg
-    width={size}
-    height={size}
-    viewBox="0 -3 24 24"
-    fill="none"
-    xmlns="http://www.w3.org/2000/svg"
-    {...props}
-  >
+  <svg width={size} height={size} viewBox="0 -3 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
     <path
       d="M16 8C16 3.6 12.4 0 8 0C3.6 0 0 3.6 0 8C0 12 2.9 15.3 6.7 15.9V10.3H4.7V8H6.7V6.2C6.7 4.2 7.9 3.1 9.7 3.1C10.6 3.1 11.5 3.3 11.5 3.3V5.3H10.5C9.5 5.3 9.2 5.9 9.2 6.5V8H11.4L11 10.3H9.1V16C13.1 15.4 16 12 16 8Z"
       fill="white"
@@ -90,20 +196,13 @@ export const FacebookIcon = ({
 
 export const InstagramIcon = ({
   size = 25,
-  colors = ["#f09433", "#e6683c", "#dc2743", "#cc2366"],
+  colors = ['#f09433', '#e6683c', '#dc2743', '#cc2366'],
   ...props
 }: {
   size?: number;
   colors?: string[];
 } & React.SVGProps<SVGSVGElement>) => (
-  <svg
-    width={size}
-    height={size}
-    viewBox="0 0 24 24"
-    fill="none"
-    xmlns="http://www.w3.org/2000/svg"
-    {...props}
-  >
+  <svg width={size} height={size} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
     <defs>
       <linearGradient id="igGradient" x1="0%" y1="0%" x2="100%" y2="100%">
         <stop offset="0%" stopColor={colors[0]} />
@@ -126,20 +225,13 @@ export const InstagramIcon = ({
 
 export const LinkedinIcon = ({
   size = 50,
-  colors = ["#1877F2", "#145DBF", "#0F46A0", "#0A3682"], // Пример оттенков синего для Facebook
+  colors = ['#1877F2', '#145DBF', '#0F46A0', '#0A3682'], // Пример оттенков синего для Facebook
   ...props
 }: {
   size?: number;
   colors?: string[];
 } & React.SVGProps<SVGSVGElement>) => (
-  <svg
-    width={size}
-    height={size}
-    viewBox="0 0 24 24"
-    fill="none"
-    xmlns="http://www.w3.org/2000/svg"
-    {...props}
-  >
+  <svg width={size} height={size} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
     <path
       d="M20.25 0H3.75C1.67893 0 0 1.67893 0 3.75V20.25C0 22.3211 1.67893 24 3.75 24H20.25C22.3211 24 24 22.3211 24 20.25V3.75C24 1.67893 22.3211 0 20.25 0Z"
       fill="#2867B2"
@@ -151,12 +243,7 @@ export const LinkedinIcon = ({
   </svg>
 );
 
-export const PlanetIcon: React.FC<IconSvgProps> = ({
-  size = 24,
-  width,
-  height,
-  ...props
-}) => {
+export const PlanetIcon: React.FC<IconSvgProps> = ({ size = 24, width, height, ...props }) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -175,12 +262,7 @@ export const PlanetIcon: React.FC<IconSvgProps> = ({
   );
 };
 
-export const MoonFilledIcon = ({
-  size = 24,
-  width,
-  height,
-  ...props
-}: IconSvgProps) => (
+export const MoonFilledIcon = ({ size = 24, width, height, ...props }: IconSvgProps) => (
   <svg
     aria-hidden="true"
     focusable="false"
@@ -197,12 +279,7 @@ export const MoonFilledIcon = ({
   </svg>
 );
 
-export const SunFilledIcon = ({
-  size = 24,
-  width,
-  height,
-  ...props
-}: IconSvgProps) => (
+export const SunFilledIcon = ({ size = 24, width, height, ...props }: IconSvgProps) => (
   <svg
     aria-hidden="true"
     focusable="false"
@@ -216,58 +293,5 @@ export const SunFilledIcon = ({
       <path d="M19 12a7 7 0 11-7-7 7 7 0 017 7z" />
       <path d="M12 22.96a.969.969 0 01-1-.96v-.08a1 1 0 012 0 1.038 1.038 0 01-1 1.04zm7.14-2.82a1.024 1.024 0 01-.71-.29l-.13-.13a1 1 0 011.41-1.41l.13.13a1 1 0 010 1.41.984.984 0 01-.7.29zm-14.28 0a1.024 1.024 0 01-.71-.29 1 1 0 010-1.41l.13-.13a1 1 0 011.41 1.41l-.13.13a1 1 0 01-.7.29zM22 13h-.08a1 1 0 010-2 1.038 1.038 0 011.04 1 .969.969 0 01-.96 1zM2.08 13H2a1 1 0 010-2 1.038 1.038 0 011.04 1 .969.969 0 01-.96 1zm16.93-7.01a1.024 1.024 0 01-.71-.29 1 1 0 010-1.41l.13-.13a1 1 0 011.41 1.41l-.13.13a.984.984 0 01-.7.29zm-14.02 0a1.024 1.024 0 01-.71-.29l-.13-.14a1 1 0 011.41-1.41l.13.13a1 1 0 010 1.41.97.97 0 01-.7.3zM12 3.04a.969.969 0 01-1-.96V2a1 1 0 012 0 1.038 1.038 0 01-1 1.04z" />
     </g>
-  </svg>
-);
-
-export const HeartFilledIcon = ({
-  size = 24,
-  width,
-  height,
-  ...props
-}: IconSvgProps) => (
-  <svg
-    aria-hidden="true"
-    focusable="false"
-    height={size || height}
-    role="presentation"
-    viewBox="0 0 24 24"
-    width={size || width}
-    {...props}
-  >
-    <path
-      d="M12.62 20.81c-.34.12-.9.12-1.24 0C8.48 19.82 2 15.69 2 8.69 2 5.6 4.49 3.1 7.56 3.1c1.82 0 3.43.88 4.44 2.24a5.53 5.53 0 0 1 4.44-2.24C19.51 3.1 22 5.6 22 8.69c0 7-6.48 11.13-9.38 12.12Z"
-      fill="currentColor"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      strokeWidth={1.5}
-    />
-  </svg>
-);
-
-export const SearchIcon = (props: IconSvgProps) => (
-  <svg
-    aria-hidden="true"
-    fill="none"
-    focusable="false"
-    height="1em"
-    role="presentation"
-    viewBox="0 0 24 24"
-    width="1em"
-    {...props}
-  >
-    <path
-      d="M11.5 21C16.7467 21 21 16.7467 21 11.5C21 6.25329 16.7467 2 11.5 2C6.25329 2 2 6.25329 2 11.5C2 16.7467 6.25329 21 11.5 21Z"
-      stroke="currentColor"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      strokeWidth="2"
-    />
-    <path
-      d="M22 22L20 20"
-      stroke="currentColor"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      strokeWidth="2"
-    />
   </svg>
 );

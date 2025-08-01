@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "Butas/kambarys F 6/F Mega Cube Nr. 8 Wang Kwong Road KL, Honkongas",
+    "subtitle_second": "Įkurta 2009 m.",
+    "navigation_list": [
+      { "label": "Pagrindinis", "href": "/" },
+      { "label": "Produktai", "href": "/products" },
+      { "label": "Bendradarbiavimas", "href": "/co-operation" }
+    ]
+  }
+}

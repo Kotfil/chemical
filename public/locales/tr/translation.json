@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "Lejl./oda F 6/F Mega Cube No. 8 Wang Kwong Road KL, Hong Kong",
+    "subtitle_second": "Kuruluş: 2009",
+    "navigation_list": [
+      { "label": "Ana Sayfa", "href": "/" },
+      { "label": "Ürünler", "href": "/products" },
+      { "label": "İş Birliği", "href": "/co-operation" }
+    ]
+  }
+}

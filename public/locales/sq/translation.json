@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "Dhomë F, kati 6, Mega Cube nr. 8 Wang Kwong Road, KL, Hong Kong",
+    "subtitle_second": "Them. 2009",
+    "navigation_list": [
+      { "label": "Kreu", "href": "/" },
+      { "label": "Produktet", "href": "/products" },
+      { "label": "Bashkëpunimi", "href": "/co-operation" }
+    ]
+  }
+}

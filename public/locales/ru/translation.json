@@ -1,0 +1,21 @@
+{
+  "navigation": {
+    "title": "ГОНКОНГСКАЯ КОМПАНИЯ SAFRAN INDUSTRY С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ.",
+    "subtitle": "Квартира/офис F 6/F, Mega Cube №8, улица Ванг Квонг, Куала-Лумпур, Гонконг",
+    "subtitle_second": "Основано в 2009",
+    "navigation_list": [
+      {
+        "label": "Главная",
+        "href": "/"
+      },
+      {
+        "label": "Продукты",
+        "href": "/products"
+      },
+      {
+        "label": "Сотрудничество",
+        "href": "/co-operation"
+      }
+    ]
+  }
+}

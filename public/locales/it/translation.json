@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "Stanza F, 6/F Mega Cube, N. 8 Wang Kwong Road, KL, Hong Kong",
+    "subtitle_second": "Fondata nel 2009",
+    "navigation_list": [
+      { "label": "Home", "href": "/" },
+      { "label": "Prodotti", "href": "/products" },
+      { "label": "Collaborazione", "href": "/co-operation" }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "F szoba, 6. emelet, Mega Cube 8. szám, Wang Kwong út, KL, Hongkong",
+    "subtitle_second": "Alapítva 2009",
+    "navigation_list": [
+      { "label": "Főoldal", "href": "/" },
+      { "label": "Termékek", "href": "/products" },
+      { "label": "Együttműködés", "href": "/co-operation" }
+    ]
+  }
+}

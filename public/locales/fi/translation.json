@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "Huone F, 6/F Mega Cube, No. 8 Wang Kwong Road, KL, Hongkong",
+    "subtitle_second": "Perustettu 2009",
+    "navigation_list": [
+      { "label": "Etusivu", "href": "/" },
+      { "label": "Tuotteet", "href": "/products" },
+      { "label": "Yhteistyö", "href": "/co-operation" }
+    ]
+  }
+}

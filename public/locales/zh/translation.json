@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "香港九龍宏光道8號Mega Cube 6樓F室",
+    "subtitle_second": "成立於2009年",
+    "navigation_list": [
+      { "label": "主页", "href": "/" },
+      { "label": "产品", "href": "/products" },
+      { "label": "合作", "href": "/co-operation" }
+    ]
+  }
+}

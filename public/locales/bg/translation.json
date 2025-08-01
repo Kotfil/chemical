@@ -1,0 +1,12 @@
+{
+  "navigation": {
+    "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
+    "subtitle": "Апартамент/стая F 6/F Mega Cube №8, ул. Ванг Куонг, KL, Хонконг",
+    "subtitle_second": "Основана 2009 г.",
+    "navigation_list": [
+      { "label": "Начало", "href": "/" },
+      { "label": "Продукти", "href": "/products" },
+      { "label": "Сътрудничество", "href": "/co-operation" }
+    ]
+  }
+}

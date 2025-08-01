@@ -1,5 +1,5 @@
-"use client";
-import React, { FC, Suspense } from "react";
+'use client';
+import React, { FC, Suspense } from 'react';
 import {
   Button,
   Modal,
@@ -9,91 +9,57 @@ import {
   ModalHeader,
   Skeleton,
   useDisclosure,
-} from "@heroui/react";
-import {
-  Flag,
-  FlexWrapGrid,
-  FlexWrapGrid2,
-  Grid,
-  ScrollContainer,
-} from "./localization.styles";
-import { Grid as MUIgrid } from "@mui/material";
-import { languages } from "@/mock/languages-list.mock";
-import { PlanetIcon } from "@/components/icons";
-
-// const EUFlagIcon = ({
-//                         size = 24,
-//                         ...props
-//                     }: React.SVGProps<SVGSVGElement> & { size?: number }) => {
-//     return (
-//         <svg
-//             width={size}
-//             height={size}
-//             viewBox="0 0 24 24"
-//             fill="none"
-//             xmlns="http://www.w3.org/2000/svg"
-//             {...props}
-//         >
-//             <rect width="24" height="24" rx="2" fill="#003399"/>
-//             <g fill="#FFCC00">
-//                 {[...Array(12)].map((_, i) => {
-//                     const angle = (i * 30 * Math.PI) / 180;
-//                     const cx = 12 + 7 * Math.cos(angle);
-//                     const cy = 12 + 7 * Math.sin(angle);
-//                     return (
-//                         <polygon
-//                             key={i}
-//                             points={`${cx},${cy - 0.75} ${cx + 0.25},${cy - 0.25} ${cx + 0.75},${cy - 0.25} ${cx + 0.35},${cy + 0.1} ${cx + 0.5},${cy + 0.6} ${cx},${cy + 0.3} ${cx - 0.5},${cy + 0.6} ${cx - 0.35},${cy + 0.1} ${cx - 0.75},${cy - 0.25} ${cx - 0.25},${cy - 0.25}`}
-//                             fill="#FFCC00"
-//                         />
-//                     );
-//                 })}
-//             </g>
-//         </svg>
-//     );
-// };
+} from '@heroui/react';
+import { Flag } from './localization.styles';
+import { PlanetIcon } from '@/components/icons';
+import { useTranslation } from 'react-i18next';
+import { languagesListMock } from '@/mock/languages-list.mock';
 
 export const Localization: FC = () => {
   const { isOpen, onOpen, onOpenChange } = useDisclosure();
+  const { i18n } = useTranslation();
+  const normalizeLocale = (locale: string) => locale.split('-')[0];
+  const currentLocale = normalizeLocale(i18n.language || 'en');
+
+  const handleLanguageChange = async (locale: string) => {
+    try {
+      await i18n.changeLanguage(locale);
+    } catch (e) {
+      console.error('Language switch failed:', e);
+    }
+  };
+  const currentLang = languagesListMock.find(lang => normalizeLocale(lang.locale) === normalizeLocale(currentLocale));
 
   return (
     <>
       <Suspense fallback={<Skeleton />}>
-        <Button
-          aria-label="Like"
-          isIconOnly
-          onPress={onOpen}
-          variant={"solid"}
-          color="default"
-          size={"md"}
-        >
-          <PlanetIcon />
+        <Button aria-label="Like" isIconOnly onPress={onOpen} variant={'solid'} color="default" size={'md'}>
+          {currentLang ? <Flag width={30} height={30} src={currentLang.link} alt={currentLang.alt} /> : <PlanetIcon />}
         </Button>
-        <Modal isOpen={isOpen} onOpenChange={onOpenChange} size={"5xl"}>
+        <Modal isOpen={isOpen} onOpenChange={onOpenChange} size={'5xl'}>
           <ModalContent>
-            {(onClose) => (
+            {onClose => (
               <>
                 <ModalHeader className="flex flex-col gap-1"></ModalHeader>
                 <ModalBody>
                   <div
                     style={{
-                      display: "grid",
-                      gridTemplateColumns: "repeat(5, 1fr)",
-                      gap: "8px",
+                      display: 'grid',
+                      gridTemplateColumns: 'repeat(5, 1fr)',
+                      gap: '8px',
                     }}
                   >
-                    {languages.slice(0, 48).map(({ title, alt, link }, i) => (
+                    {languagesListMock.map(({ title, alt, link, locale }, i) => (
                       <Button
                         key={i}
-                        size={"sm"}
-                        variant={"flat"}
-                        // href={link}
-                        // target="_blank"
-                        rel="noopener noreferrer"
-                        aria-label={title}
-                        endContent={
-                          <Flag width={14} height={14} src={link} alt={alt} />
-                        }
+                        size="md"
+                        variant={normalizeLocale(currentLocale) === normalizeLocale(locale) ? 'solid' : 'flat'}
+                        color={normalizeLocale(currentLocale) === normalizeLocale(locale) ? 'primary' : 'default'}
+                        onPress={() => {
+                          handleLanguageChange(locale);
+                          onClose();
+                        }}
+                        endContent={<Flag width={30} height={30} src={link} alt={alt} />}
                       >
                         {title}
                       </Button>
