@@ -1,9 +1,21 @@
-import React, { FC, useMemo } from 'react';
+'use client';
+import React, { FC } from 'react';
 import { Grid } from '@mui/material';
 import { TitleSection } from '@/components/title-section/title-section';
-import { SelectionCard } from '@/components/main-section/main-selection/selection-card/selection-card';
-import { useTranslation } from 'react-i18next';
-import { NavigationItem } from '@/components/navbar/navbar.types';
+
+import dynamic from 'next/dynamic';
+import { Skeleton } from '@heroui/react';
+
+const SelectionCard = dynamic(
+  () =>
+    import('@/components/main-section/main-selection/selection-card/selection-card').then(mod => ({
+      default: mod.SelectionCard,
+    })),
+  {
+    ssr: false,
+    loading: () => <Skeleton />,
+  },
+);
 
 export const MainSelection: FC = () => {
   return (

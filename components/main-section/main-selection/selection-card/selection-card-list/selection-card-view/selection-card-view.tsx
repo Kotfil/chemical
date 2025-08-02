@@ -1,4 +1,3 @@
-'use client';
 import React, { FC } from 'react';
 import { Card, CardBody } from '@heroui/card';
 import { Divider } from '@heroui/divider';

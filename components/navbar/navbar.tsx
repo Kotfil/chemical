@@ -1,34 +1,28 @@
 'use client';
 import { Navbar as HeroUINavbar, NavbarBrand, NavbarContent, NavbarItem } from '@heroui/navbar';
-import { Link } from '@heroui/link';
 import NextLink from 'next/link';
-
-import { siteConfig } from '@/config/site';
 import { ThemeSwitch } from '@/components/theme-switch';
 import Image from 'next/image';
 import { LogoWrapper } from '@/components/navbar/navbar.styles';
 import { Grid } from '@mui/material';
-import clsx from 'clsx';
 import { Divider } from '@heroui/divider';
-import { usePathname } from 'next/navigation';
+import { useTranslation } from 'next-i18next';
+import { NavbarMenu } from '@/components/navbar/navbar-menu/navbar-menu';
 import { Localization } from '@/components/localization/localization';
-import { useTranslation } from 'react-i18next';
-import { useMemo } from 'react';
-import { NavigationItem } from '@/components/navbar/navbar.types';
 import { SocialIcons } from '@/components/social/socialIcons';
+import { useEffect, useState } from 'react';
 
 export const Navbar = () => {
-  const pathname = usePathname();
   const { t } = useTranslation();
+  const [mounted, setMounted] = useState(false);
 
-  const navigationListMenu: NavigationItem[] = useMemo(() => {
-    const result = t('navigation.navigation_list', { returnObjects: true });
-    if (Array.isArray(result)) {
-      return result as NavigationItem[];
-    }
-    console.error('Перевод navigation не является массивом:', result);
-    return [];
-  }, [t]);
+  useEffect(() => {
+    setMounted(true);
+  }, []);
+
+  const title = mounted ? t('navigation.title') : '';
+  const subtitle = mounted ? t('navigation.subtitle') : '';
+  const subtitleSecond = mounted ? t('navigation.subtitle_second') : '';
 
   return (
     <HeroUINavbar maxWidth="xl" position="sticky" height={'4rem (64px)'}>
@@ -43,19 +37,13 @@ export const Navbar = () => {
                   </LogoWrapper>
                   <Grid width={'100%'} height={'100%'}>
                     <Grid>
-                      <p className="font-bold text-[clamp(0.45rem,1.54vw,1.15rem)] leading-tight">
-                        {t('navigation.title')}
-                      </p>
+                      <p className="font-bold text-[clamp(0.45rem,1.54vw,1.15rem)] leading-tight">{title}</p>
                     </Grid>
                     <Grid>
-                      <p className="mt-1 text-[clamp(0.75rem,2vw,1.25rem)] opacity-80 leading-snug">
-                        {t('navigation.subtitle')}
-                      </p>
+                      <p className="mt-1 text-[clamp(0.75rem,2vw,1.25rem)] opacity-80 leading-snug">{subtitle}</p>
                     </Grid>
                     <Grid>
-                      <p className="mt-1 text-[clamp(0.75rem,2vw,1.25rem)] opacity-80 leading-snug">
-                        {t('navigation.subtitle_second')}
-                      </p>
+                      <p className="mt-1 text-[clamp(0.75rem,2vw,1.25rem)] opacity-80 leading-snug">{subtitleSecond}</p>
                     </Grid>
                   </Grid>
                 </NextLink>
@@ -94,33 +82,14 @@ export const Navbar = () => {
         </Grid>
         <Divider />
         <Grid width={'100%'} alignItems="center" pt={1}>
-          <Grid display="flex" width={'100%'} justifyContent="space-around" alignItems="center">
-            {navigationListMenu?.map(item => {
-              const isActive = pathname === item.href;
-              console.log(pathname, 'path');
-              return (
-                <NavbarItem key={item.href}>
-                  <Grid width={'100%'}>
-                    <Link
-                      as={NextLink}
-                      className={clsx(
-                        'text-[clamp(0.875rem,1.5vw,2rem)]',
-                        'transition-none',
-                        'hover:underline-none',
-                        'focus:outline-none',
-                        'active:opacity-100',
-                        'active:scale-100',
-                        isActive ? 'text-primary font-medium' : 'text-foreground',
-                      )}
-                      color="primary"
-                      href={item.href}
-                    >
-                      {item.label}
-                    </Link>
-                  </Grid>
-                </NavbarItem>
-              );
-            })}
+          <Grid
+            display="flex"
+            width={'100%'}
+            justifyContent="space-around"
+            alignItems="center"
+            suppressHydrationWarning
+          >
+            <NavbarMenu />
           </Grid>
         </Grid>
       </Grid>

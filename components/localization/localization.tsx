@@ -1,5 +1,5 @@
 'use client';
-import React, { FC, Suspense } from 'react';
+import React, { FC, Suspense, useEffect, useState } from 'react';
 import {
   Button,
   Modal,
@@ -12,15 +12,18 @@ import {
 } from '@heroui/react';
 import { Flag } from './localization.styles';
 import { PlanetIcon } from '@/components/icons';
-import { useTranslation } from 'react-i18next';
+import { useTranslation } from 'next-i18next';
 import { languagesListMock } from '@/mock/languages-list.mock';
 
 export const Localization: FC = () => {
   const { isOpen, onOpen, onOpenChange } = useDisclosure();
+  const [mounted, setMounted] = useState(false);
   const { i18n } = useTranslation();
   const normalizeLocale = (locale: string) => locale.split('-')[0];
   const currentLocale = normalizeLocale(i18n.language || 'en');
-
+  useEffect(() => {
+    setMounted(true);
+  }, []);
   const handleLanguageChange = async (locale: string) => {
     try {
       await i18n.changeLanguage(locale);
@@ -28,8 +31,7 @@ export const Localization: FC = () => {
       console.error('Language switch failed:', e);
     }
   };
-  const currentLang = languagesListMock.find(lang => normalizeLocale(lang.locale) === normalizeLocale(currentLocale));
-
+  const currentLang = mounted ? languagesListMock.find(lang => normalizeLocale(lang.locale) === currentLocale) : null;
   return (
     <>
       <Suspense fallback={<Skeleton />}>
