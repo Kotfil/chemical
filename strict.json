@@ -1,0 +1,327 @@
+{
+  ".gitignore": "file",
+  ".idea": {
+    ".gitignore": "file",
+    "chemical.iml": "file",
+    "dbnavigator.xml": "file",
+    "inspectionProfiles": {},
+    "modules.xml": "file",
+    "prettier.xml": "file",
+    "vcs.xml": "file",
+    "workspace.xml": "file"
+  },
+  ".next": {
+    "app-build-manifest.json": "file",
+    "build-manifest.json": "file",
+    "cache": {
+      ".rscinfo": "file",
+      "swc": {
+        "plugins": {
+          "v7_windows_x86_64_9.0.0": {}
+        }
+      },
+      "webpack": {
+        "client-development": {
+          "0.pack.gz": "file",
+          "1.pack.gz": "file",
+          "2.pack.gz": "file",
+          "3.pack.gz": "file",
+          "index.pack.gz": "file",
+          "index.pack.gz.old": "file"
+        },
+        "server-development": {
+          "0.pack.gz": "file",
+          "index.pack.gz": "file"
+        },
+        "server-production": {
+          "0.pack": "file",
+          "index.pack": "file"
+        }
+      }
+    },
+    "package.json": "file",
+    "react-loadable-manifest.json": "file",
+    "server": {
+      "app": {
+        "_not-found": {
+          "page.js": "file",
+          "page_client-reference-manifest.js": "file"
+        }
+      },
+      "app-paths-manifest.json": "file",
+      "interception-route-rewrite-manifest.js": "file",
+      "middleware-build-manifest.js": "file",
+      "middleware-manifest.json": "file",
+      "middleware-react-loadable-manifest.js": "file",
+      "next-font-manifest.js": "file",
+      "next-font-manifest.json": "file",
+      "pages-manifest.json": "file",
+      "server-reference-manifest.js": "file",
+      "server-reference-manifest.json": "file",
+      "vendor-chunks": {
+        "next.js": "file"
+      },
+      "webpack-runtime.js": "file"
+    },
+    "static": {
+      "chunks": {
+        "app": {
+          "error.js": "file",
+          "_not-found": {
+            "page.js": "file"
+          }
+        },
+        "app-pages-internals.js": "file",
+        "main-app.js": "file",
+        "polyfills.js": "file",
+        "webpack.js": "file",
+        "_app-pages-browser_node_modules_next_dist_client_dev_noop-turbopack-hmr_js.js": "file"
+      },
+      "development": {
+        "_buildManifest.js": "file",
+        "_ssgManifest.js": "file"
+      },
+      "webpack": {
+        "53244bc55d430fde.webpack.hot-update.json": "file",
+        "633457081244afec._.hot-update.json": "file",
+        "webpack.53244bc55d430fde.hot-update.js": "file"
+      }
+    },
+    "trace": "file",
+    "types": {
+      "cache-life.d.ts": "file",
+      "package.json": "file"
+    }
+  },
+  ".npmrc": "file",
+  ".prettierignore": "file",
+  ".prettierrc": "file",
+  ".vscode": {
+    "settings.json": "file"
+  },
+  "app": {
+    "error.tsx": "file",
+    "providers.tsx": "file",
+    "[locale]": {
+      "co-operation": {
+        "page.tsx": "file"
+      },
+      "layout.tsx": "file",
+      "page.tsx": "file",
+      "products": {
+        "page.tsx": "file"
+      }
+    }
+  },
+  "components": {
+    "cooperation-section": {
+      "cooperation-schedule": {
+        "cooperation-schedule.tsx": "file"
+      },
+      "cooperation-section.tsx": "file"
+    },
+    "counter.tsx": "file",
+    "icons.tsx": "file",
+    "localization": {
+      "localization.styles.ts": "file",
+      "localization.tsx": "file"
+    },
+    "main-section": {
+      "main-choice": {
+        "main-choice-questions": {
+          "main-choice-questions.tsx": "file"
+        },
+        "main-choice.tsx": "file"
+      },
+      "main-section.tsx": "file",
+      "main-selection": {
+        "main-selection.tsx": "file",
+        "selection-card": {
+          "selection-card-list": {
+            "selection-card-list.tsx": "file",
+            "selection-card-view": {
+              "selection-card-view.tsx": "file"
+            }
+          },
+          "selection-card.tsx": "file",
+          "selection-card.types.ts": "file"
+        }
+      },
+      "main-title": {
+        "main-title.tsx": "file"
+      }
+    },
+    "navbar": {
+      "navbar-menu": {
+        "navbar-menu.tsx": "file"
+      },
+      "navbar-title": {
+        "navbar-title.tsx": "file"
+      },
+      "navbar.styles.ts": "file",
+      "navbar.tsx": "file",
+      "navbar.types.ts": "file"
+    },
+    "primitives.ts": "file",
+    "products-section": {
+      "product-table": {
+        "product-table.tsx": "file"
+      },
+      "products-section.tsx": "file"
+    },
+    "social": {
+      "socialIcons.tsx": "file"
+    },
+    "subtitle-section": {
+      "subtitle-section.tsx": "file",
+      "subtitle-section.types.ts": "file"
+    },
+    "theme-switch.tsx": "file",
+    "title-section": {
+      "title-section.tsx": "file",
+      "title-section.types.ts": "file"
+    }
+  },
+  "config": {
+    "fonts.ts": "file",
+    "site.ts": "file"
+  },
+  "ecosystem.config.js": "file",
+  "env": "file",
+  "eslint.config.mjs": "file",
+  "lib": {
+    "i18n-client.ts": "file",
+    "i18n-server.ts": "file",
+    "registry.tsx": "file"
+  },
+  "LICENSE": "file",
+  "locales": {
+    "bg": {
+      "translation.json": "file"
+    },
+    "bs": {
+      "translation.json": "file"
+    },
+    "ca": {
+      "translation.json": "file"
+    },
+    "cs": {
+      "translation.json": "file"
+    },
+    "da": {
+      "translation.json": "file"
+    },
+    "de": {
+      "translation.json": "file"
+    },
+    "el": {
+      "translation.json": "file"
+    },
+    "en": {
+      "translation.json": "file"
+    },
+    "es": {
+      "translation.json": "file"
+    },
+    "et": {
+      "translation.json": "file"
+    },
+    "fi": {
+      "translation.json": "file"
+    },
+    "fr": {
+      "translation.json": "file"
+    },
+    "hr": {
+      "translation.json": "file"
+    },
+    "hu": {
+      "translation.json": "file"
+    },
+    "it": {
+      "translation.json": "file"
+    },
+    "lt": {
+      "translation.json": "file"
+    },
+    "lv": {
+      "translation.json": "file"
+    },
+    "mk": {
+      "translation.json": "file"
+    },
+    "nb": {
+      "translation.json": "file"
+    },
+    "nl": {
+      "translation.json": "file"
+    },
+    "pl": {
+      "translation.json": "file"
+    },
+    "pt-BR": {
+      "translation.json": "file"
+    },
+    "pt-PT": {
+      "translation.json": "file"
+    },
+    "ro": {
+      "translation.json": "file"
+    },
+    "ru": {
+      "translation.json": "file"
+    },
+    "sk": {
+      "translation.json": "file"
+    },
+    "sl": {
+      "translation.json": "file"
+    },
+    "sq": {
+      "translation.json": "file"
+    },
+    "sr": {
+      "translation.json": "file"
+    },
+    "sv": {
+      "translation.json": "file"
+    },
+    "tr": {
+      "translation.json": "file"
+    },
+    "uk": {
+      "translation.json": "file"
+    },
+    "zh": {
+      "translation.json": "file"
+    }
+  },
+  "mock": {
+    "languages-list.mock.ts": "file"
+  },
+  "next-env.d.ts": "file",
+  "next.config.js": "file",
+  "package-lock.json": "file",
+  "package.json": "file",
+  "postcss.config.js": "file",
+  "public": {
+    "assets": {
+      "LOGO.png": "file"
+    },
+    "favicon.ico": "file",
+    "mock.temp.json": "file",
+    "next.svg": "file",
+    "vercel.svg": "file"
+  },
+  "README.md": "file",
+  "strict.mjs": "file",
+  "styles": {
+    "globals.css": "file"
+  },
+  "tailwind.config.js": "file",
+  "tsconfig.json": "file",
+  "types": {
+    "index.ts": "file"
+  },
+  "yarn.lock": "file"
+}

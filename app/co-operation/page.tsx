@@ -1,5 +1,5 @@
-import React from "react";
-import { CooperationSection } from "@/components/cooperation-section/cooperation-section";
+import React from 'react';
+import { CooperationSection } from '@/app/components/cooperation-section/cooperation-section';
 
 export default function CooperationPage() {
   return (

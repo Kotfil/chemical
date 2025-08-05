@@ -1,5 +1,5 @@
-import React, { FC } from "react";
-import { ProductsSection } from "@/components/products-section/products-section";
+import React from 'react';
+import { ProductsSection } from '@/app/components/products-section/products-section';
 
 export default function ProductsPage() {
   return (
