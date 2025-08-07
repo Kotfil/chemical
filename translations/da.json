@@ -6,7 +6,177 @@
     "navigation_list": [
       { "label": "Hjem", "href": "/" },
       { "label": "Produkter", "href": "/products" },
-      { "label": "Samarbejde", "href": "/co-operation" }
+      { "label": "Samarbejde", "href": "/co-operation" },
+      {
+        "label": "Galleri",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "ONE-STOP LØSNINGSLEVERANDØR FOR",
+    "title_second": "CIVILE SPRÆNGNINGSARBEJDER OG",
+    "title_third": "KEMISKE RÅMATERIALER",
+    "main_choice": {
+      "title": "HVORFOR STOLER KUNDER PÅ OS?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Vi er godkendt af National Defence Department til at eksportere høj kvalitet sprængstofmateriale til minedrift, stenbrud og byggeindustri."
+        },
+        {
+          "id": 2,
+          "text": "Vi er registreret som international handelsagentvirksomhed hos Kinas Ministry of Commerce."
+        },
+        {
+          "id": 3,
+          "text": "Vi er eksekutivt direktørmedlemskab af China Import and Export Association."
+        },
+        {
+          "id": 4,
+          "text": "Vi er belønnet af China Import and Export Association med 3A’s troværdighed i seneste 4 sammenhængende år."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "HVORFOR VÆLGE OS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABILE STÆRKE PARTNERE",
+          "text": "Vi samarbejdede med mange berømte producenter både hjemligt og i udlandet. Vi har en stabil forsyningskæde, så vi kan tilbyde dig den bedste pris og stabile kvalitetsprodukter. I forhold til dit marked kan vi vælge den bedste kilde til varer, der opfylder dine krav."
+        },
+        {
+          "id": 2,
+          "title": "BEKVEMMELIG BELIGGENHED",
+          "text": "Vi tilbyder dig den bedste pris og stabile kvalitetsprodukter. I forhold til dit marked kan vi vælge mere præcist og give kunder tryghed."
+        },
+        {
+          "id": 3,
+          "title": "ERFAREN ARBEJDSSYSTEM",
+          "text": "Med mange års erfaring har vi erfarne speditører, vi kan planlægge ordrer til tiden og skabe balance mellem leveringstid og omkostninger, hvilket hjælper kunder med at spare store omkostninger uden at forsinke salgsplanen."
+        },
+        {
+          "id": 4,
+          "title": "KVALITETSGARANTI",
+          "text": "Vi kan levere COA, COO, MSDS, TDS og andre certifikater, som du har brug for til lettere toldbehandling og for at sikre produktkvaliteten."
+        },
+        {
+          "id": 5,
+          "title": "HURTIG LEVERING",
+          "text": "Baseret på vores stærke forsyningskæde og ekspertise inden for transport kan vi hurtigt sende i henhold til aftalt tidsplan, så varerne ankommer til bestemmelsesstedet i tide uden at forsinke din normale brug."
+        },
+        {
+          "id": 6,
+          "title": "KONKURRENCEDYGTIG PRIS",
+          "text": "Vi er første klasses agent for mange fabrikker. Baseret på vores store forsendelsesvolumen kan vi forhandle konkurrencedygtige priser fra fabrikken kombineret med vores professionelle eksporttjenester, som gør os fremtrædende på det internationale marked."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LISTE OVER VORES PRODUKTER",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel tube"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonating Cord"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Electric Detonator"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Electronic Detonator"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Non‑electric Detonator"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluene Diisocyanate"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Module"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Booster"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Sodium Cyanide‑1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsion Explosive"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Water Gel explosive"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerythritol tetranitrate"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismic Explosive Cartridges"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "COPPER‑CLAD STEEL composite materials"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "COLD‑ROLLED STEEL CLAD with copper and brass"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "GENERELT SAMARBEJDSSYSTEM",
+    "cooperation_schedule": {
+      "core": "GENERELT SAMARBEJDSSYSTEM",
+      "labels": [
+        "Forhandlinger",
+        "Kontraktunderskrift",
+        "Indbetaling af depositum",
+        "Kvalitetskontrol",
+        "Betaling af restbeløb",
+        "Forsendelse",
+        "Efter-salgs service"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "DEMONSTRATION AF VORES PRODUKTER"
   }
+
 }

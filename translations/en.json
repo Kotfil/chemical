@@ -15,35 +15,181 @@
       {
         "label": "Co-operation",
         "href": "/co-operation"
+      },
+      {
+        "label": "Gallery",
+        "href": "/gallery"
       }
     ]
   },
-  "selection": {
-    "selection_card_list": [
+
+
+
+
+  "main_section": {
+    "title_first": "ONE-STOP SOLUTION SUPPLIER OF ",
+    "title_second": "CIVIL BLASTING AND  ",
+    "title_third": "CHEMICAL RAW MATERIALS",
+    "main_choice": {
+      "title": "WHY DO CUSTOMERS TRUST US?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "We are approved by the National Defense Department to have accesses to export excellent quality explosives material to mining, quarrying and construction industries."
+        },
+        {
+          "id": 2,
+          "text": "We are a registered international trade agent enterprise in Ministry of Commerce of China."
+        },
+        {
+          "id": 3,
+          "text": "We are an executive director membership of China Import and Export Association."
+        },
+        {
+          "id": 4,
+          "text": "We are warded by China Import and Export Association with 3A’s credibility in latest consecutive 4 years."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "WHY CHOOSE US?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABLE STRONG PARTNERS",
+          "text": "We cooperated with many famous manufacturers home and abroad. We have stable supply chain so that we can provide you best price and stable quality, according to your market we can choose the best source of goods to meet your requirements."
+        },
+        {
+          "id": 2,
+          "title": "CONVENIENT LOCATION",
+          "text": "Provide you best price and stable quality, according to your market we can choose the more accurately and gives customers peace of mind."
+        },
+        {
+          "id": 3,
+          "title": "SKILLFUL WORKING SYSTEM",
+          "text": "With many years experience,we have mature shipping agent, we can plan orders in time and strike a good balance between shipping time and expenses to help customers save a lot of costs without delaying the sales plan."
+        },
+        {
+          "id": 4,
+          "title": "QUALITY ASSURANCE",
+          "text": "We can supply COA, COO, MSDS, TDS and other certificates that you need for easier clearance and check products quality."
+        },
+        {
+          "id": 5,
+          "title": "FAST DELIVERY",
+          "text": "Based on our strong supply chain and expertise on shipping, we can ship quickly according to the agreed time to ensure that the goods arrive at the destination port on time without delaying your normal use."
+        },
+        {
+          "id": 6,
+          "title": "COMPETITIVE PRICE",
+          "text": "We are the first-level agent of many kinds of factories. Based on our huge shipment volume, we can get a competitive price from the factory plus our professional export services that will make us outstand on the international trade."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LIST OF OUR PRODUCTS",
+    "product_table": [
       {
-        "title": "STABLE STRONG PARTNERS",
-        "description": "We cooperated with many famous manufacturers home and abroad. We have stable supply chain so that we can provide you best price and stable quality, according to your market we can choose the best source of goods to meet your requirements."
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel tube"
       },
       {
-        "title": "CONVENIENT LOCATION",
-        "description": "Provide you best price and stable quality, according to your market we can choose the more accurately and gives customers peace of mind."
+        "english": "RDX – Hexogen",
+        "translation": "Detonating Cord"
       },
       {
-        "title": "SKILLFUL WORKING SYSTEM",
-        "description": "With many years experience,we have mature shipping agent, we can plan orders in time and strike a good balance between shipping time and expenses to help customers save a lot of costs without delaying the sales plan."
+        "english": "HMX – Octogen",
+        "translation": "Electric Detonator"
       },
       {
-        "title": "QUALITY ASSURANCE",
-        "description": "We can supply COA, COO, MSDS, TDS and other certificates that you need for easier clearance and check products quality."
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Electronic Detonator"
       },
       {
-        "title": "FAST DELIVERY",
-        "description": "Based on our strong supply chain and expertise on shipping, we can ship quickly according to the agreed time to ensure that the goods arrive at the destination port on time without delaying your normal use."
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Non-electric Detonator"
       },
       {
-        "title": "COMPETITIVE PRICE",
-        "description": "We are the first-level agent of many kinds of factories. Based on our huge shipment volume, we can get a competitive price from the factory plus our professional export services that will make us outstand on the international trade."
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluene Diisocyanate"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Module"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Booster"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Sodium Cyanide-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsion Explosive"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Water Gel explosive"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerythritol tetranitrate"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismic Explosive Cartridges"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "COPPER-CLAD STEEL composite materials"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "COLD-ROLLED STEEL CLAD with copper and brass"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
       }
     ]
+
+  },
+  "cooperation_section": {
+    "title": "GENERAL ALGORITHM OF CO-OPERATION",
+    "cooperation_schedule": {
+      "core": "GENERAL ALGORITHM\nOF CO-OPERATION",
+      "labels": [
+        "Negotiations",
+        "Signing contract",
+        "Paying deposit",
+        "Checking quality",
+        "Paying remaining amount",
+        "Shipping",
+        "After-sale service"
+      ]
+    }
+
+  },
+  "gallery_section": {
+    "title": "DEMONSTRATION OF OUR PRODUCTS"
   }
 }

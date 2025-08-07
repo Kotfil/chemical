@@ -6,7 +6,178 @@
     "navigation_list": [
       { "label": "Strona główna", "href": "/" },
       { "label": "Produkty", "href": "/products" },
-      { "label": "Współpraca", "href": "/co-operation" }
+      { "label": "Współpraca", "href": "/co-operation" },
+
+      {
+        "label": "Galeria",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "DOSTAWCA KOMPLEKSOWYCH ROZWIĄZAŃ ",
+    "title_second": "W ZAKRESIE CYWILNYCH WYBUCHÓW ORAZ ",
+    "title_third": "CHEMICZNYCH SUROWCÓW",
+    "main_choice": {
+      "title": "DLACZEGO KLIENCI NAM UFASZĄ?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Jesteśmy zatwierdzeni przez Ministerstwo Obrony Narodowej do eksportu materiałów wybuchowych najwyższej jakości do przemysłu wydobywczego, kamieniarskiego i budowlanego."
+        },
+        {
+          "id": 2,
+          "text": "Jesteśmy zarejestrowanym międzynarodowym agentem handlowym w Ministerstwie Handlu Chin."
+        },
+        {
+          "id": 3,
+          "text": "Jesteśmy członkiem zarządu China Import and Export Association."
+        },
+        {
+          "id": 4,
+          "text": "Zostaliśmy wyróżnieni przez China Import and Export Association z wiarygodnością 3A przez ostatnie 4 kolejne lata."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "DLACZEGO WARTO WYBRAĆ NAS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABILNI, SILNI PARTNERZY",
+          "text": "Współpracujemy z wieloma znanymi producentami w kraju i za granicą. Mamy stabilny łańcuch dostaw, dzięki czemu możemy zaoferować najlepszą cenę i stałą jakość. W zależności od rynku dobieramy najlepsze źródła towarów, aby spełnić Twoje wymagania."
+        },
+        {
+          "id": 2,
+          "title": "DOGODNA LOKALIZACJA",
+          "text": "Oferujemy najlepszą cenę i stabilną jakość, dostosowaną do Twojego rynku, co daje klientom spokój ducha."
+        },
+        {
+          "id": 3,
+          "title": "SPRAWNY SYSTEM PRACY",
+          "text": "Dzięki wieloletniemu doświadczeniu mamy dojrzałego agenta transportowego, który planuje zamówienia na czas i znajduje dobry balans między czasem dostawy a kosztami, pomagając klientom zaoszczędzić znaczne koszty bez opóźniania planu sprzedaży."
+        },
+        {
+          "id": 4,
+          "title": "GWARANCJA JAKOŚCI",
+          "text": "Możemy dostarczyć COA, COO, MSDS, TDS oraz inne certyfikaty potrzebne do łatwiejszego odprawy i kontroli jakości produktów."
+        },
+        {
+          "id": 5,
+          "title": "SZYBKA DOSTAWA",
+          "text": "Bazując na silnym łańcuchu dostaw i doświadczeniu w transporcie, możemy szybko wysłać towar zgodnie z ustalonym terminem, zapewniając dotarcie przesyłki na czas bez opóźnień w normalnym użytkowaniu."
+        },
+        {
+          "id": 6,
+          "title": "KONKURENCYJNE CENY",
+          "text": "Jesteśmy agentem pierwszego stopnia wielu fabryk. Dzięki dużemu wolumenowi wysyłek otrzymujemy konkurencyjne ceny od fabryk oraz świadczymy profesjonalne usługi eksportowe, co pozwala nam wyróżnić się na rynku międzynarodowym."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LISTA NASZYCH PRODUKTÓW",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Rurka Nonel"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Lina detonująca"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Detonator elektryczny"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Detonator elektroniczny"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Detonator nieelektryczny"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluendiizocyjanian"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Moduł"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Wzmacniacz (Booster)"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Cyjanek sodu-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsja wybuchowa"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Wybuch w żelu wodnym"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerytrol tetranitrat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Kartusze wybuchowe sejsmiczne"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Kompozyty ze stali pokrytej miedzią"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Stal walcowana na zimno pokryta miedzią i mosiądzem"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "OGÓLNY ALGORYTM WSPÓŁPRACY",
+    "cooperation_schedule": {
+      "core": "OGÓLNY ALGORYTM\nWSPÓŁPRACY",
+      "labels": [
+        "Negocjacje",
+        "Podpisanie umowy",
+        "Wpłata zaliczki",
+        "Kontrola jakości",
+        "Wpłata pozostałej kwoty",
+        "Wysyłka",
+        "Obsługa posprzedażowa"
+      ]
+    }
+  },
+
+  "gallery_section": {
+    "title": "PREZENTACJA NASZYCH PRODUKTÓW"
   }
 }

@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "Domů", "href": "/" },
       { "label": "Produkty", "href": "/products" },
-      { "label": "Spolupráce", "href": "/co-operation" }
+      { "label": "Spolupráce", "href": "/co-operation" },
+      {
+        "label": "Galerie",
+        "href": "/gallery"
+      }
+    ]},
+
+  "main_section": {
+    "title_first": "DODAVATEL KOMPLEXNÍHO ŘEŠENÍ PRO",
+    "title_second": "CIVILNÍ TRHACÍ PRÁCE A",
+    "title_third": "CHEMICKÉ SUROVINY",
+    "main_choice": {
+      "title": "PROČ NÁM ZÁKAZNÍCI DŮVĚŘUJÍ?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Jsme schváleni Ministerstvem národní obrany pro vývoz vysoce kvalitního výbušného materiálu pro těžební, lomový a stavební průmysl."
+        },
+        {
+          "id": 2,
+          "text": "Jsme registrovaný podnik mezinárodního obchodu u Ministerstva obchodu Číny."
+        },
+        {
+          "id": 3,
+          "text": "Jsme výkonným členem Čínské asociace pro import a export."
+        },
+        {
+          "id": 4,
+          "text": "Byli jsme oceněni Čínskou asociací pro import a export ratingem důvěryhodnosti 3A za poslední čtyři roky po sobě."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "PROČ SI VYBRAT NÁS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABILNÍ A SILNÍ PARTNEŘI",
+          "text": "Spolupracujeme s mnoha známými výrobci doma i v zahraničí. Máme stabilní dodavatelský řetězec, takže vám můžeme nabídnout nejlepší cenu a stabilní kvalitu. Podle vašeho trhu můžeme vybrat nejlepší zdroj zboží podle vašich požadavků."
+        },
+        {
+          "id": 2,
+          "title": "VÝHODNÁ POLOHA",
+          "text": "Nabízíme nejlepší cenu a stabilní kvalitu, podle vašeho trhu můžeme vybírat přesněji a poskytnout zákazníkům klid."
+        },
+        {
+          "id": 3,
+          "title": "ZKUŠENÝ PRACOVNÍ SYSTÉM",
+          "text": "Díky dlouholetým zkušenostem máme zralého přepravního agenta, můžeme plánovat objednávky včas a najít rovnováhu mezi dobou přepravy a náklady, což zákazníkům ušetří náklady bez zpoždění prodejního plánu."
+        },
+        {
+          "id": 4,
+          "title": "ZÁRUKA KVALITY",
+          "text": "Můžeme dodat COA, COO, MSDS, TDS a další certifikáty, které potřebujete pro snadnější celní odbavení a kontrolu kvality výrobků."
+        },
+        {
+          "id": 5,
+          "title": "RYCHLÉ DODÁNÍ",
+          "text": "Na základě silného dodavatelského řetězce a odborných znalostí v oblasti přepravy můžeme zboží doručit rychle a včas, bez zpoždění vašeho běžného používání."
+        },
+        {
+          "id": 6,
+          "title": "KONKURENCESCHOPNÁ CENA",
+          "text": "Jsme přímým agentem mnoha továren. Díky velkému objemu objednávek získáváme konkurenceschopné ceny a kombinací s profesionálním exportním servisem vynikáme na mezinárodním trhu."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "SEZNAM NAŠICH PRODUKTŮ",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel trubice"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonační šňůra"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektrický rozbuška"
+      },
+      {
+        "english": "PPAN – Porézní granulovaný dusičnan amonný",
+        "translation": "Elektronický rozbuška"
+      },
+      {
+        "english": "CPAN – Chemicky čistý dusičnan amonný",
+        "translation": "Ne-elektrická rozbuška"
+      },
+      {
+        "english": "C4 – Plastická trhavina",
+        "translation": "Toluendiisokyanát"
+      },
+      {
+        "english": "NC – Nitrobavlna",
+        "translation": "Modul"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Booster"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Dusičnan sodný"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulzní trhavina"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Vodní gelová trhavina"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN (tetranitrát pentaerythritolu)"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Čip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismické trhací patrony"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Kompozitní materiály s ocelí plátovanou mědí"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Za studena válcovaná ocel plátovaná mědí a mosazí"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
     ]
+  },
+  "cooperation_section": {
+    "title": "OBECNÝ POSTUP SPOLUPRÁCE",
+    "cooperation_schedule": {
+      "core": "OBECNÝ POSTUP\nSPOLUPRÁCE",
+      "labels": [
+        "Jednání",
+        "Podpis smlouvy",
+        "Zálohová platba",
+        "Kontrola kvality",
+        "Doplatek",
+        "Doprava",
+        "Poprodejní servis"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "PREZENTACE NAŠICH PRODUKTŮ"
   }
 }

@@ -6,7 +6,177 @@
     "navigation_list": [
       { "label": "Avaleht", "href": "/" },
       { "label": "Tooted", "href": "/products" },
-      { "label": "Koostöö", "href": "/co-operation" }
+      { "label": "Koostöö", "href": "/co-operation" },
+      {
+        "label": "Galerii",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "ÜHETS STOPPIS LAHENDUSTE PAKKUJA ",
+    "title_second": "TSIVILPLAHVATUSED JA ",
+    "title_third": "KEEMILISED TOORAINED",
+    "main_choice": {
+      "title": "MIKS KLIENDID MEILE USALDAVAD?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Meil on Rahvusliku Kaitseosakonna heakskiit, mis võimaldab meil eksportida suure kvaliteediga lõhkeaineid kaevandamise, karjääride ja ehitusvaldkonna jaoks."
+        },
+        {
+          "id": 2,
+          "text": "Oleme Hiina Kaubandusministeeriumi registreeritud rahvusvaheline kaubandusagentuur."
+        },
+        {
+          "id": 3,
+          "text": "Oleme Hiina Impordi- ja Eksportassotsiatsiooni täitevjuhtide liikmed."
+        },
+        {
+          "id": 4,
+          "text": "Meid on Hiina Impordi- ja Eksportassotsiatsioon tunnustanud 3A usaldusväärsuse eest viimased neli järjestikust aastat."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "MIKS VALIDA MEID?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABIILSED TUGEVAD PARTNERID",
+          "text": "Oleme teinud koostööd paljude tuntud tootjatega nii kodu- kui välismaal. Meil on stabiilne tarneahel, et pakkuda parimat hinda ja stabiilset kvaliteeti, vastavalt teie turule valime parima kaubaallika teie nõudmiste rahuldamiseks."
+        },
+        {
+          "id": 2,
+          "title": "MUGAV ASUKOHT",
+          "text": "Pakume parimat hinda ja stabiilset kvaliteeti, vastavalt teie turule saame täpsemalt valida ja anda klientidele meelerahu."
+        },
+        {
+          "id": 3,
+          "title": "KOGENUD TÖÖSÜSTEEM",
+          "text": "Paljude aastate kogemusega on meil küps laevandusagentuur, saame tellimusi õigeaegselt planeerida ning leida hea tasakaalu saatmisaegade ja kulude vahel, aidates klientidel säästa palju kulusid ilma müügiplaani hilinemata."
+        },
+        {
+          "id": 4,
+          "title": "KVALITEEDIKINDLUS",
+          "text": "Võime pakkuda COA, COO, MSDS, TDS ja muid sertifikaate, mida vajate lihtsamaks tollivormistuseks ja toodete kvaliteedi kontrollimiseks."
+        },
+        {
+          "id": 5,
+          "title": "KIIRKOHALDUS",
+          "text": "Tugeva tarneahela ja laevandusalase ekspertiisi põhjal saame kiiresti saata vastavalt kokkulepitud ajale, tagades, et kaubad jõuaksid sihtsadama õigeks ajaks ilma teie tavakasutust hiljendamata."
+        },
+        {
+          "id": 6,
+          "title": "KONKURENTSIVÕIMELINE HIND",
+          "text": "Oleme paljude tehase esmatasandi agent. Suure saadetiste mahu põhjal saame tehase konkurentsivõimelise hinna ning meie professionaalsed eksporditeenused teevad meist rahvusvahelises kaubanduses silmapaistva."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "MEIE TOOTEDE LOETELU",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel toru"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonaatori nöör"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektriline detonaator"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektrooniline detonaator"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Mittetulevik detonaator"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Tolueendiisotsüanaat"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Moodul"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Kordisti"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Naatriumtsüaniid-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsioonplahvatus"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Veepõhine geelplahvatus"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerütritool tetranitraat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Kiip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismilised plahvatuspatroonid"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Vaskkattega terase komposiitmaterjalid"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Külmvaltsitud teras vask- ja messingkattega"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "KOOSTÖÖ ÜLDINE ALGORITM",
+    "cooperation_schedule": {
+      "core": "KOOSTÖÖ ÜLDINE\nALGORITM",
+      "labels": [
+        "Läbirääkimised",
+        "Lepingu sõlmimine",
+        "Ettemaksu tasumine",
+        "Kvaliteedi kontroll",
+        "Järelejäänud summa tasumine",
+        "Saatmine",
+        "Järelteenindus"
+      ]
+    }
+  },
+
+  "gallery_section": {
+    "title": "MEIE TOODETE DEMONSTRATSIOON"
   }
 }

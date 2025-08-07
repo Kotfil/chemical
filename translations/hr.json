@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "Početna", "href": "/" },
       { "label": "Proizvodi", "href": "/products" },
-      { "label": "Suradnja", "href": "/co-operation" }
+      { "label": "Suradnja", "href": "/co-operation" },
+      {
+        "label": "Galerija",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "JEDNOSTAVNI DOBAVLJAČ RJEŠENJA ZA ",
+    "title_second": "GRAĐANSKO RAZBIJANJE I ",
+    "title_third": "KEMIJSKE SIROVINE",
+    "main_choice": {
+      "title": "ZAŠTO NAM KUPCI VJERUJU?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Odobreni smo od Ministarstva nacionalne obrane za pristup izvozu visokokvalitetnih eksploziva za rudarstvo, kamenoiseče i građevinsku industriju."
+        },
+        {
+          "id": 2,
+          "text": "Registrirani smo kao međunarodni trgovački agent pri Ministarstvu trgovine Kine."
+        },
+        {
+          "id": 3,
+          "text": "Član smo izvršnog odbora Kineske udruge za uvoz i izvoz."
+        },
+        {
+          "id": 4,
+          "text": "Nagrađeni smo od strane Kineske udruge za uvoz i izvoz s vjerodostojnošću 3A tijekom posljednje četiri uzastopne godine."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "ZAŠTO ODABRATI NAS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABILNI I JAKI PARTNERI",
+          "text": "Surađujemo s mnogim poznatim proizvođačima doma i u inozemstvu. Imamo stabilan opskrbni lanac kako bismo vam mogli osigurati najbolju cijenu i stabilnu kvalitetu. Prema vašem tržištu biramo najbolji izvor robe za ispunjenje vaših zahtjeva."
+        },
+        {
+          "id": 2,
+          "title": "PRAKTIČNA LOKACIJA",
+          "text": "Nudimo vam najbolju cijenu i stabilnu kvalitetu, prema vašem tržištu precizno biramo i pružamo kupcima sigurnost."
+        },
+        {
+          "id": 3,
+          "title": "STRUČAN RADNI SUSTAV",
+          "text": "S dugogodišnjim iskustvom imamo zrele brodarske agente, možemo pravovremeno planirati narudžbe i pronaći dobar balans između vremena isporuke i troškova kako bismo pomogli kupcima uštedjeti velike troškove bez odgađanja prodajnih planova."
+        },
+        {
+          "id": 4,
+          "title": "JAMSTVO KVALITETE",
+          "text": "Možemo isporučiti COA, COO, MSDS, TDS i druge certifikate koje trebate za lakše carinjenje i provjeru kvalitete proizvoda."
+        },
+        {
+          "id": 5,
+          "title": "BRZA ISPORUKA",
+          "text": "Temeljeno na našem snažnom opskrbnom lancu i stručnosti u brodarenju, možemo brzo isporučiti prema dogovorenom vremenu kako bismo osigurali da roba stigne na odredišni port na vrijeme bez odgađanja vaše uobičajene uporabe."
+        },
+        {
+          "id": 6,
+          "title": "KONKURENTNA CIJENA",
+          "text": "Prvi smo agent za mnoge tvornice. Na temelju velikog obujma isporuka dobivamo konkurentne cijene od tvornica, plus naše profesionalne izvozne usluge koje nas čine istaknutima na međunarodnoj trgovini."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "POPIS NAŠIH PROIZVODA",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel cijev"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonacijski konop"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Električni detonator"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektronički detonator"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Nenelektrični detonator"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluendiizocijanat"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modul"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Pojačivač"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Cijanid natrija-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulzijski eksploziv"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Vodeni gel eksploziv"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaeritritol tetranitarat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Čip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seizmičke eksplozivne patrone"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Kompozitni materijali od čelika presvučenog bakrom"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Hladno valjani čelik obložen bakrom i mesingom"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "OPĆI ALGORITAM SURADNJE",
+    "cooperation_schedule": {
+      "core": "OPĆI ALGORITAM\nSURADNJE",
+      "labels": [
+        "Pregovori",
+        "Potpisivanje ugovora",
+        "Plaćanje avansa",
+        "Provjera kvalitete",
+        "Plaćanje preostalog iznosa",
+        "Otprema",
+        "Naknadna usluga"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "DEMONSTRACIJA NAŠIH PROIZVODA"
   }
 }

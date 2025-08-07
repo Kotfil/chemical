@@ -6,7 +6,176 @@
     "navigation_list": [
       { "label": "Startpagina", "href": "/" },
       { "label": "Producten", "href": "/products" },
-      { "label": "Samenwerking", "href": "/co-operation" }
+      { "label": "Samenwerking", "href": "/co-operation" },
+      {
+        "label": "Galerij",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "ONE-STOP OPLOSSING LEVERANCIER VAN ",
+    "title_second": "CIVIELE SPRINGWERK EN ",
+    "title_third": "CHEMISCHE GRONDSTOFFEN",
+    "main_choice": {
+      "title": "WAAROM VERTROUWEN KLANTEN OP ONS?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Wij zijn goedgekeurd door het Ministerie van Defensie om hoogwaardige explosieven te exporteren naar de mijnbouw-, steengroeve- en bouwsector."
+        },
+        {
+          "id": 2,
+          "text": "Wij zijn een geregistreerde internationale handelsagent bij het Ministerie van Handel van China."
+        },
+        {
+          "id": 3,
+          "text": "Wij zijn een bestuurslid van de China Import- en Exportvereniging."
+        },
+        {
+          "id": 4,
+          "text": "Wij zijn onderscheiden met een 3A-credibiliteit door de China Import- en Exportvereniging gedurende de afgelopen 4 opeenvolgende jaren."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "WAAROM KIEZEN VOOR ONS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABIELE STERKE PARTNERS",
+          "text": "We werken samen met vele bekende fabrikanten binnen- en buitenland. We hebben een stabiele toeleveringsketen zodat we de beste prijs en stabiele kwaliteit kunnen bieden. Afhankelijk van uw markt kunnen we de beste goederenbron kiezen om aan uw eisen te voldoen."
+        },
+        {
+          "id": 2,
+          "title": "GEMAKKELIJKE LOCATIE",
+          "text": "We bieden de beste prijs en stabiele kwaliteit, afhankelijk van uw markt kunnen we nauwkeuriger kiezen en klanten gemoedsrust geven."
+        },
+        {
+          "id": 3,
+          "title": "VAARDIG WERKSYSTEEM",
+          "text": "Met jarenlange ervaring hebben we een volwassen expediteur. We kunnen bestellingen tijdig plannen en een goede balans vinden tussen levertijd en kosten om klanten veel kosten te besparen zonder het verkoopplan te vertragen."
+        },
+        {
+          "id": 4,
+          "title": "KWALITEITSVERZEKERING",
+          "text": "We kunnen COA, COO, MSDS, TDS en andere certificaten leveren die u nodig heeft voor eenvoudigere inklaring en kwaliteitscontrole."
+        },
+        {
+          "id": 5,
+          "title": "SNELLE LEVERING",
+          "text": "Op basis van onze sterke toeleveringsketen en expertise in verzending kunnen we snel leveren volgens de afgesproken tijd om ervoor te zorgen dat de goederen op tijd op de bestemmingshaven aankomen zonder uw normale gebruik te vertragen."
+        },
+        {
+          "id": 6,
+          "title": "CONCURRENTIEPRIJZEN",
+          "text": "We zijn de eerstelijns agent van vele soorten fabrieken. Op basis van ons enorme verzendvolume kunnen we een concurrerende prijs van de fabriek krijgen plus onze professionele exportdiensten, waardoor we uitblinken in de internationale handel."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LIJST VAN ONZE PRODUCTEN",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel-buis"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Ontstekingskoord"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektrische ontsteker"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektronische ontsteker"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Niet-elektrische ontsteker"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Tolueendi-isocyanaat"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Module"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Booster"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Natriumcyanide-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsie-explosief"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Watergel-explosief"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerythritol tetranitraat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismische explosieve patronen"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "KOPER-OMHULD STAAL composietmaterialen"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "KOUDGEROLD STAAL BEDUID MET koper en messing"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ALGEMENE ALGORITME VAN SAMENWERKING",
+    "cooperation_schedule": {
+      "core": "ALGEMENE ALGORITME\nVAN SAMENWERKING",
+      "labels": [
+        "Onderhandelingen",
+        "Contractondertekening",
+        "Betaling van aanbetaling",
+        "Kwaliteitscontrole",
+        "Betaling van resterend bedrag",
+        "Verzending",
+        "Service na verkoop"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "DEMONSTRATIE VAN ONZE PRODUCTEN"
   }
 }

@@ -6,7 +6,177 @@
     "navigation_list": [
       { "label": "Pagrindinis", "href": "/" },
       { "label": "Produktai", "href": "/products" },
-      { "label": "Bendradarbiavimas", "href": "/co-operation" }
+      { "label": "Bendradarbiavimas", "href": "/co-operation" },
+      {
+        "label": "Galerija",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "VIENO VISO SPRENDIMO TIEKĖJAS ",
+    "title_second": "CIVILINIŲ SPROGDINIMŲ IR ",
+    "title_third": "CHEMINIŲ ŽALIAVŲ",
+    "main_choice": {
+      "title": "KODĖL MUS PASITIKI KLIENTAI?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Esame patvirtinti Nacionalinio gynybos departamento eksportuoti aukštos kokybės sprogstamąsias medžiagas kalnakasybos, karjerų ir statybos pramonei."
+        },
+        {
+          "id": 2,
+          "text": "Esame registruota tarptautinė prekybos agentų įmonė Kinijos prekybos ministerijoje."
+        },
+        {
+          "id": 3,
+          "text": "Esame Kinijos importo ir eksporto asociacijos vykdomojo direktoriaus nariai."
+        },
+        {
+          "id": 4,
+          "text": "Kinijos importo ir eksporto asociacija mums suteikė 3A patikimumo įvertinimą per paskutinius 4 metus iš eilės."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "KODĖL RINKTIS MUS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABILŪS IR PATIKIMI PARTNERIAI",
+          "text": "Bendradarbiaujame su daugybe žinomų gamintojų tiek šalies viduje, tiek užsienyje. Turime stabilų tiekimo grandinę, todėl galime pasiūlyti geriausią kainą ir pastovią kokybę, o pagal jūsų rinką pasirinksime geriausią prekių tiekimo šaltinį."
+        },
+        {
+          "id": 2,
+          "title": "PATOGI VIETA",
+          "text": "Siūlome geriausią kainą ir pastovią kokybę, pagal jūsų rinką tiksliau pasirenkame tiekimo šaltinius, suteikdami klientams ramybę."
+        },
+        {
+          "id": 3,
+          "title": "PATYRĘ DARBO PROCESAI",
+          "text": "Turėdami daug metų patirties, turime brandų siuntimo agentą, kuris laiku planuoja užsakymus ir išlaiko gerą balansą tarp siuntimo laiko ir išlaidų, padėdamas klientams sutaupyti daug sąnaudų nepraleidžiant pardavimo plano."
+        },
+        {
+          "id": 4,
+          "title": "KOKYBĖS GARANTIJOS",
+          "text": "Galime pateikti COA, COO, MSDS, TDS ir kitus sertifikatus, kurių jums reikia lengvesnei muitinei ir produktų kokybės patikrai."
+        },
+        {
+          "id": 5,
+          "title": "GREITAS PRISTATYMAS",
+          "text": "Remdamiesi stipria tiekimo grandine ir siuntimo patirtimi, galime greitai išsiųsti prekes sutartu laiku, užtikrindami, kad prekės laiku pasiektų paskirties uostą, nesutrikdant įprasto naudojimo."
+        },
+        {
+          "id": 6,
+          "title": "KONKURENCINGA KAINA",
+          "text": "Esame pirmo lygio agentas daugeliui gamyklų. Dėl didelio siuntų kiekio gauname konkurencingą kainą iš gamyklų ir teikiame profesionalias eksporto paslaugas, leidžiančias mums išsiskirti tarptautinėje prekyboje."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "MŪSŲ PRODUKTŲ SĄRAŠAS",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel vamzdelis"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonacinė virvė"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektrinis detonatorius"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektroninis detonatorius"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Neelektrinis detonatorius"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Tolueno diizocianatas"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modulis"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Stiprintuvas (Booster)"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Cianido natris-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsinis sprogstamasis mišinys"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Vandens želės sprogstamasis mišinys"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN pentaeritritolio tetranitratas"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chipas"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seisminiai sprogstamieji kasetai"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Variniu dengtos plieno kompozitai"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Šaltai valcuoto plieno lakštai padengti variu ir žalvariu"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "BENDRAS BENDRADARBIAVIMO ALGORITMAS",
+    "cooperation_schedule": {
+      "core": "BENDRAS BENDRADARBIAVIMO\nALGORITMAS",
+      "labels": [
+        "Derybos",
+        "Sutarties pasirašymas",
+        "Avanso apmokėjimas",
+        "Kokybės tikrinimas",
+        "Likusios sumos apmokėjimas",
+        "Siuntimas",
+        "Pardavimo po aptarnavimas"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "MŪSŲ PRODUKTŲ DEMONSTRAVIMAS"
   }
 }
+

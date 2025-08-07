@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "Início", "href": "/" },
       { "label": "Produtos", "href": "/products" },
-      { "label": "Cooperação", "href": "/co-operation" }
+      { "label": "Cooperação", "href": "/co-operation" },
+      {
+        "label": "Galeria",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "FORNECEDOR INTEGRADO DE SOLUÇÕES DE ",
+    "title_second": "DETONAÇÃO CIVIL E ",
+    "title_third": "MATÉRIAS-PRIMAS QUÍMICAS",
+    "main_choice": {
+      "title": "PORQUE É QUE OS CLIENTES CONFIAM EM NÓS?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Estamos aprovados pelo Departamento de Defesa Nacional para exportar materiais explosivos de excelente qualidade para as indústrias de mineração, extração e construção."
+        },
+        {
+          "id": 2,
+          "text": "Somos uma empresa registada como agente de comércio internacional no Ministério do Comércio da China."
+        },
+        {
+          "id": 3,
+          "text": "Somos membros da direção executiva da Associação Chinesa de Importação e Exportação."
+        },
+        {
+          "id": 4,
+          "text": "Fomos distinguidos com a credibilidade 3A pela Associação Chinesa de Importação e Exportação nos últimos 4 anos consecutivos."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "PORQUE ESCOLHER-NOS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "PARCEIROS SÓLIDOS E ESTÁVEIS",
+          "text": "Colaboramos com muitos fabricantes de renome nacionais e internacionais. Temos uma cadeia de fornecimento estável que nos permite oferecer o melhor preço e qualidade consistente. De acordo com o seu mercado, escolhemos a melhor origem dos produtos para satisfazer as suas necessidades."
+        },
+        {
+          "id": 2,
+          "title": "LOCALIZAÇÃO CONVENIENTE",
+          "text": "Fornecemos os melhores preços e qualidade estável. De acordo com o seu mercado, selecionamos com precisão e oferecemos tranquilidade aos nossos clientes."
+        },
+        {
+          "id": 3,
+          "title": "SISTEMA DE TRABALHO EFICIENTE",
+          "text": "Com muitos anos de experiência, trabalhamos com agentes de transporte experientes. Planeamos os pedidos atempadamente e equilibramos o tempo de envio com os custos para ajudar os clientes a poupar, sem atrasar os seus planos de venda."
+        },
+        {
+          "id": 4,
+          "title": "GARANTIA DE QUALIDADE",
+          "text": "Podemos fornecer COA, COO, MSDS, TDS e outros certificados necessários para facilitar o desalfandegamento e verificar a qualidade dos produtos."
+        },
+        {
+          "id": 5,
+          "title": "ENTREGA RÁPIDA",
+          "text": "Com base na nossa forte cadeia de fornecimento e experiência logística, conseguimos expedir rapidamente de acordo com o prazo acordado, garantindo a chegada da mercadoria ao porto de destino sem atrasos."
+        },
+        {
+          "id": 6,
+          "title": "PREÇOS COMPETITIVOS",
+          "text": "Somos agentes de primeiro nível de vários fabricantes. Graças ao nosso grande volume de expedições, conseguimos obter preços competitivos diretamente da fábrica, aliados aos nossos serviços profissionais de exportação, o que nos torna destacados no comércio internacional."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LISTA DOS NOSSOS PRODUTOS",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Tubo Nonel"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Corda Detonante"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Detonador Eléctrico"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Detonador Electrónico"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Detonador Não-Eléctrico"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Diisocianato de Tolueno"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Módulo"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Reforçador"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Cianeto de Sódio - 1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Explosivo de Emulsão"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Explosivo em Gel Aquoso"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Tetranitrato de Pentaeritritol"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Cartuchos de Explosivos Sísmicos"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Materiais Compostos de Aço Revestido a Cobre"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Aço Laminado a Frio Revestido com Cobre e Latão"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ALGORITMO GERAL DE COOPERAÇÃO",
+    "cooperation_schedule": {
+      "core": "ALGORITMO GERAL\nDE COOPERAÇÃO",
+      "labels": [
+        "Negociações",
+        "Assinatura do contrato",
+        "Pagamento do sinal",
+        "Verificação da qualidade",
+        "Pagamento do montante restante",
+        "Expedição",
+        "Serviço pós-venda"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "DEMONSTRAÇÃO DOS NOSSOS PRODUTOS"
   }
 }

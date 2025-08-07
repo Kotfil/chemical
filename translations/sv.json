@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "Hem", "href": "/" },
       { "label": "Produkter", "href": "/products" },
-      { "label": "Samarbete", "href": "/co-operation" }
+      { "label": "Samarbete", "href": "/co-operation" },
+      {
+        "label": "Galleri",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "LEVERANTÖR AV HELHETSLÖSNINGAR FÖR ",
+    "title_second": "CIVIL SPRENGNING OCH ",
+    "title_third": "KEMISKA RÅMATERIAL",
+    "main_choice": {
+      "title": "VARFÖR LITAR KUNDER PÅ OSS?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Vi är godkända av Försvarsdepartementet att exportera sprängämnen av utmärkt kvalitet till gruv-, stenbrotts- och byggindustrin."
+        },
+        {
+          "id": 2,
+          "text": "Vi är ett registrerat internationellt handelsföretag hos Kinas handelsministerium."
+        },
+        {
+          "id": 3,
+          "text": "Vi är medlem i styrelsen för Kinas import- och exportförening."
+        },
+        {
+          "id": 4,
+          "text": "Vi har tilldelats 3A:s kreditvärdighet av Kinas import- och exportförening under de senaste fyra åren i rad."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "VARFÖR VÄLJA OSS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABILA STARKA PARTNER",
+          "text": "Vi samarbetar med många kända tillverkare både nationellt och internationellt. Vi har en stabil leveranskedja så att vi kan erbjuda dig bästa pris och stabil kvalitet, och beroende på din marknad kan vi välja den bästa varukällan för att möta dina behov."
+        },
+        {
+          "id": 2,
+          "title": "BEKVÄMT LÄGE",
+          "text": "Vi erbjuder bästa pris och stabil kvalitet, anpassat efter din marknad för att öka precisionen och skapa trygghet för kunderna."
+        },
+        {
+          "id": 3,
+          "title": "SKICKLIGT ARBETSSYSTEM",
+          "text": "Med många års erfarenhet har vi etablerat samarbete med erfarna fraktagenter. Vi kan planera beställningar i tid och hitta en bra balans mellan leveranstid och kostnader för att hjälpa kunder att spara mycket pengar utan att försena försäljningsplanen."
+        },
+        {
+          "id": 4,
+          "title": "KVALITETSSÄKRING",
+          "text": "Vi kan tillhandahålla COA, COO, MSDS, TDS och andra certifikat du behöver för enklare tullklarering och kvalitetskontroll."
+        },
+        {
+          "id": 5,
+          "title": "SNABB LEVERANS",
+          "text": "Tack vare vår starka leveranskedja och expertis inom frakt kan vi leverera snabbt enligt överenskommen tid för att säkerställa att varorna når destinationshamnen i tid utan att störa din normala användning."
+        },
+        {
+          "id": 6,
+          "title": "KONKURRENSKRAFTIGA PRISER",
+          "text": "Vi är förstahandsagent för många fabriker. Tack vare vår stora volym kan vi få konkurrenskraftiga priser från fabriken, och tillsammans med vår professionella exportservice gör det att vi utmärker oss inom internationell handel."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LISTA ÖVER VÅRA PRODUKTER",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel-slang"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonerande snöre"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektrisk detonator"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektronisk detonator"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Icke-elektrisk detonator"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluen diisocyanat"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modul"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Förstärkare"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Natriumcyanid-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsionssprängämne"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Vattengelssprängämne"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN – Pentaerytritol tetranitrat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismiska sprängpatroner"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "KOPPARBEKLÄTT STÅL – kompositmaterial"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "KALLVALSAT STÅL BEKLÄTT med koppar och mässing"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ALLMÄN SAMARBETSALGORITM",
+    "cooperation_schedule": {
+      "core": "ALLMÄN SAMARBETS-\nALGORITM",
+      "labels": [
+        "Förhandlingar",
+        "Undertecknande av kontrakt",
+        "Betalning av förskott",
+        "Kvalitetskontroll",
+        "Slutbetalning",
+        "Leverans",
+        "Eftermarknadsservice"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "DEMONSTRATION AV VÅRA PRODUKTER"
   }
 }

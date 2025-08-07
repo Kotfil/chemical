@@ -6,7 +6,178 @@
     "navigation_list": [
       { "label": "Accueil", "href": "/" },
       { "label": "Produits", "href": "/products" },
-      { "label": "Coopération", "href": "/co-operation" }
+      { "label": "Coopération", "href": "/co-operation" },
+      {
+        "label": "Galerie",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "FOURNISSEUR DE SOLUTIONS COMPLETES POUR ",
+    "title_second": "LE DÉCAPAGE CIVIL ET ",
+    "title_third": "LES MATIÈRES PREMIÈRES CHIMIQUES",
+    "main_choice": {
+      "title": "POURQUOI LES CLIENTS NOUS FONT-ILS CONFIANCE ?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Nous sommes approuvés par le Ministère de la Défense Nationale pour avoir accès à l'exportation de matériaux explosifs de qualité excellente pour les industries minières, de carrières et de construction."
+        },
+        {
+          "id": 2,
+          "text": "Nous sommes une entreprise enregistrée en tant qu'agent commercial international auprès du Ministère du Commerce de Chine."
+        },
+        {
+          "id": 3,
+          "text": "Nous sommes membres directeurs exécutifs de l'Association chinoise d'importation et d'exportation."
+        },
+        {
+          "id": 4,
+          "text": "Nous avons été récompensés par l'Association chinoise d'importation et d'exportation avec une crédibilité 3A pendant 4 années consécutives récentes."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "POURQUOI NOUS CHOISIR ?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "PARTENAIRES FORTS ET STABLES",
+          "text": "Nous collaborons avec de nombreux fabricants réputés nationaux et internationaux. Nous disposons d'une chaîne d'approvisionnement stable pour vous offrir les meilleurs prix et une qualité stable. Selon votre marché, nous choisissons la meilleure source de produits pour répondre à vos exigences."
+        },
+        {
+          "id": 2,
+          "title": "EMPLACEMENT PRATIQUE",
+          "text": "Nous vous proposons les meilleurs prix et une qualité stable, en choisissant avec précision selon votre marché, ce qui rassure nos clients."
+        },
+        {
+          "id": 3,
+          "title": "SYSTÈME DE TRAVAIL EXPERT",
+          "text": "Avec de nombreuses années d'expérience, nous disposons d'agents d'expédition expérimentés. Nous planifions les commandes à temps et trouvons un bon équilibre entre délais d'expédition et coûts pour aider nos clients à économiser beaucoup sans retarder leurs plans de vente."
+        },
+        {
+          "id": 4,
+          "title": "GARANTIE DE QUALITÉ",
+          "text": "Nous pouvons fournir les certificats COA, COO, MSDS, TDS et autres dont vous avez besoin pour faciliter le dédouanement et vérifier la qualité des produits."
+        },
+        {
+          "id": 5,
+          "title": "LIVRAISON RAPIDE",
+          "text": "Grâce à notre chaîne d'approvisionnement solide et notre expertise en expédition, nous pouvons livrer rapidement selon le délai convenu, garantissant que les marchandises arrivent au port de destination à temps sans retarder votre utilisation normale."
+        },
+        {
+          "id": 6,
+          "title": "PRIX COMPÉTITIF",
+          "text": "Nous sommes agent de premier niveau pour de nombreuses usines. Grâce à notre volume d'expédition important, nous obtenons un prix compétitif auprès des usines, ainsi que des services d'exportation professionnels qui nous permettent de nous démarquer dans le commerce international."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LISTE DE NOS PRODUITS",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Tube Nonel"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Corde détonante"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Détonateur électrique"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Détonateur électronique"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Détonateur non électrique"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Diisocyanate de toluène"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Module"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Amorceur"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Cyanure de sodium-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Explosif émulsion"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Explosif gel aqueux"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaérythritol tétranitrate"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Puce"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Cartouches explosives sismiques"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Matériaux composites en acier plaqué cuivre"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Acier laminé à froid plaqué cuivre et laiton"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ALGORITHME GÉNÉRAL DE COOPÉRATION",
+    "cooperation_schedule": {
+      "core": "ALGORITHME GÉNÉRAL\nDE COOPÉRATION",
+      "labels": [
+        "Négociations",
+        "Signature du contrat",
+        "Paiement de l'acompte",
+        "Contrôle de qualité",
+        "Paiement du solde",
+        "Expédition",
+        "Service après-vente"
+      ]
+    }
+  },
+
+
+  "gallery_section": {
+    "title": "DÉMONSTRATION DE NOS PRODUITS"
   }
 }

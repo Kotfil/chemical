@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "主页", "href": "/" },
       { "label": "产品", "href": "/products" },
-      { "label": "合作", "href": "/co-operation" }
+      { "label": "合作", "href": "/co-operation" },
+      {
+        "label": "画廊",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "一站式供应商，提供",
+    "title_second": "民用爆破及",
+    "title_third": "化学原材料",
+    "main_choice": {
+      "title": "客户为何信任我们？",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "我们获得国家国防部批准，有权向采矿、采石和建筑行业出口优质炸药材料。"
+        },
+        {
+          "id": 2,
+          "text": "我们是中国商务部注册的国际贸易代理企业。"
+        },
+        {
+          "id": 3,
+          "text": "我们是中国进出口协会的执行理事会员。"
+        },
+        {
+          "id": 4,
+          "text": "我们连续四年获得中国进出口协会3A级信誉认证。"
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "为何选择我们？",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "稳定可靠的合作伙伴",
+          "text": "我们与国内外众多知名制造商合作，拥有稳定的供应链，能够为您提供最佳价格和稳定的质量。根据您的市场需求，我们可以选择最优货源以满足您的要求。"
+        },
+        {
+          "id": 2,
+          "title": "地理位置便利",
+          "text": "为您提供最佳价格和稳定质量，根据您的市场需求，我们能更精准地选择，给客户带来安心保障。"
+        },
+        {
+          "id": 3,
+          "title": "高效的工作体系",
+          "text": "凭借多年经验，我们拥有成熟的货运代理，能够及时安排订单，在运输时间和费用之间取得良好平衡，帮助客户节省大量成本而不耽误销售计划。"
+        },
+        {
+          "id": 4,
+          "title": "质量保证",
+          "text": "我们可提供COA、COO、MSDS、TDS及您所需的其他证书，方便通关及产品质量检验。"
+        },
+        {
+          "id": 5,
+          "title": "快速交货",
+          "text": "基于我们强大的供应链和运输专业知识，我们能按约定时间快速发货，确保货物准时抵达目的港，不影响您的正常使用。"
+        },
+        {
+          "id": 6,
+          "title": "竞争力价格",
+          "text": "我们是多家工厂的一级代理，凭借庞大的出货量，可从工厂获得极具竞争力的价格，加上我们专业的出口服务，使我们在国际贸易中脱颖而出。"
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "产品列表",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "诺内尔导爆管"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "导爆索"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "电雷管"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "电子雷管"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "非电雷管"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "塑料炸药"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "模块"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "氰化钠"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "硝酸钠"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "乳化炸药"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "水凝胶炸药"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN季戊四醇四硝酸酯"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "硝酸"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "地震用炸药弹"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "硝酸钾"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "冷轧铜包钢和黄铜"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "合作通用流程",
+    "cooperation_schedule": {
+      "core": "合作通用流程",
+      "labels": [
+        "谈判",
+        "签署合同",
+        "支付定金",
+        "质量检验",
+        "支付余款",
+        "发货",
+        "售后服务"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "我们的产品展示"
   }
 }

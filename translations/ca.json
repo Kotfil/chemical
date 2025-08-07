@@ -6,7 +6,178 @@
     "navigation_list": [
       { "label": "Inici", "href": "/" },
       { "label": "Productes", "href": "/products" },
-      { "label": "Cooperació", "href": "/co-operation" }
+      { "label": "Cooperació", "href": "/co-operation" },
+      {
+        "label": "Galeria",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "PROVEÏDOR DE SOLUCIONS COMPLETES PER A",
+    "title_second": "OPERACIONS D’EXPLOSIÓ CIVILS I",
+    "title_third": "MATÈRIES PRIMERES QUÍMIQUES",
+    "main_choice": {
+      "title": "PER QUÈ ELS CLIENTS CONFIEN EN NOSALTRES?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Estem aprovats pel Departament de Defensa Nacional per exportar material explosiu d’alta qualitat per a indústries de mineria, pedreres i construcció."
+        },
+        {
+          "id": 2,
+          "text": "Som una empresa agent comercial internacional registrada al Ministeri de Comerç de la Xina."
+        },
+        {
+          "id": 3,
+          "text": "Som membres executius de l’Associació xinesa d’importació i exportació."
+        },
+        {
+          "id": 4,
+          "text": "Hem estat premiats per l’Associació xinesa d’importació i exportació amb la credibilitat de 3A durant quatre anys consecutius."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "PER QUÈ TRIAR-NOS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "SOCIS FORTS I ESTABLES",
+          "text": "Col·laborem amb molts fabricants reconeguts nacionals i internacionals. Tenim una cadena d’aprovisionament estable que ens permet oferir millors preus i qualitat constant. Segons el teu mercat, podem seleccionar la millor font de productes per satisfer les teves necessitats."
+        },
+        {
+          "id": 2,
+          "title": "UBICACIÓ ESTRATÈGICA",
+          "text": "Oferim el millor preu i qualitat estable, segons el teu mercat podem triar amb precisió i brindar tranquil·litat als clients."
+        },
+        {
+          "id": 3,
+          "title": "SISTEMA DE TREBALL EXPERT",
+          "text": "Amb molts anys d’experiència i un agent de transport madur podem planificar comandes a temps i superar l’equilibri entre temps d’enviament i despeses, ajudant els clients a estalviar costos sense retardar els plans de venda."
+        },
+        {
+          "id": 4,
+          "title": "GARANTIA DE QUALITAT",
+          "text": "Podem subministrar COA, COO, MSDS, TDS i altres certificats que necessites per facilitar el despatx d’aduanes i comprovar la qualitat del producte."
+        },
+        {
+          "id": 5,
+          "title": "ENTREGA RÀPIDA",
+          "text": "Basant-nos en la nostra cadena de subministrament forta i experiència en transport podem enviar ràpidament segons l’acord, perquè les mercaderies arribin a temps sense retardar el teu ús normal."
+        },
+        {
+          "id": 6,
+          "title": "PREU COMPETITIU",
+          "text": "Som agents de primer nivell per a moltes fàbriques. Gràcies al gran volum de lliuraments podem negociar preus competitius directament amb el fabricant, combinat amb els nostres serveis professionals d’exportació que ens fan destacar al mercat internacional."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LLISTA DELS NOSTRES PRODUCTES",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel tube"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonating Cord"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Electric Detonator"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Electronic Detonator"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Non‑electric Detonator"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluene Diisocyanate"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Module"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Booster"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Sodium Cyanide‑1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsion Explosive"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Water Gel explosive"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerythritol tetranitrate"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismic Explosive Cartridges"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "COPPER‑CLAD STEEL composite materials"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "COLD‑ROLLED STEEL CLAD with copper and brass"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ALGORITME GENERAL DE COOPERACIÓ",
+    "cooperation_schedule": {
+      "core": "ALGORITME GENERAL\nDE COOPERACIÓ",
+      "labels": [
+        "Negociacions",
+        "Signatura del contracte",
+        "Pagament del dipòsit",
+        "Control de qualitat",
+        "Pagament de l’import restant",
+        "Enviament",
+        "Servei postvenda"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "DEMOSTRACIÓ DELS NOSTRES PRODUCTES"
   }
+
+
 }

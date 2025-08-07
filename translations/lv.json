@@ -6,7 +6,176 @@
     "navigation_list": [
       { "label": "Sākums", "href": "/" },
       { "label": "Produkti", "href": "/products" },
-      { "label": "Sadarbība", "href": "/co-operation" }
+      { "label": "Sadarbība", "href": "/co-operation" },
+      {
+        "label": "Galerija",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "VIENAS PIETEIKUMU RISINĀJUMU PIEGĀDĀTĀJS ",
+    "title_second": "CIVILAJĀM SPRĀDZIENSPĒKĀM UN ",
+    "title_third": "ĶĪMISKĀM IZEJVIELĀM",
+    "main_choice": {
+      "title": "KĀPĒC KLIENTI MŪS UZTICAS?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Mēs esam apstiprināti Nacionālās aizsardzības departamentā ar tiesībām eksportēt izcilas kvalitātes sprāgstvielas ieguves, karjera un būvniecības nozarēm."
+        },
+        {
+          "id": 2,
+          "text": "Mēs esam reģistrēta starptautiskā tirdzniecības aģenta uzņēmums Ķīnas Tirdzniecības ministrijā."
+        },
+        {
+          "id": 3,
+          "text": "Mēs esam Ķīnas Iepirkumu un Eksporta asociācijas izpilddirektoru locekļi."
+        },
+        {
+          "id": 4,
+          "text": "Mūs ir apbalvojusi Ķīnas Iepirkumu un Eksporta asociācija ar 3A uzticamību pēdējos 4 gadus pēc kārtas."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "KĀPĒC IZVĒLĒTIES MŪS?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABILAS UN SPĒCĪGAS PARTNERI",
+          "text": "Mēs sadarbojamies ar daudziem slaveniem ražotājiem gan vietējā, gan ārvalstu tirgū. Mums ir stabila piegādes ķēde, tāpēc varam piedāvāt labāko cenu un stabilu kvalitāti, pēc jūsu tirgus izvēlamies labāko preču avotu, lai apmierinātu jūsu prasības."
+        },
+        {
+          "id": 2,
+          "title": "ĒRTA ATRAŠANĀS VIETA",
+          "text": "Piedāvājam labāko cenu un stabilu kvalitāti, pēc jūsu tirgus izvēlamies precīzāk un sniedzam klientiem mieru."
+        },
+        {
+          "id": 3,
+          "title": "PRASMĪGA DARBA SISTĒMA",
+          "text": "Ar daudzu gadu pieredzi mums ir nobrieduši kuģošanas aģenti, mēs varam laikus plānot pasūtījumus un panākt labu līdzsvaru starp piegādes laiku un izdevumiem, palīdzot klientiem ietaupīt daudz izmaksu, nekavējot pārdošanas plānu."
+        },
+        {
+          "id": 4,
+          "title": "KVALITĀTES GARANTIJA",
+          "text": "Varam nodrošināt COA, COO, MSDS, TDS un citus sertifikātus, kas nepieciešami vienkāršākai muitas formalitāšu nokārtošanai un produktu kvalitātes pārbaudei."
+        },
+        {
+          "id": 5,
+          "title": "ĀTRA PIEGĀDE",
+          "text": "Balstoties uz mūsu spēcīgo piegādes ķēdi un kuģošanas pieredzi, varam ātri nosūtīt preces pēc vienošanās laika, nodrošinot, ka tās savlaicīgi nonāk galamērķa ostā, nekavējot jūsu ikdienas lietošanu."
+        },
+        {
+          "id": 6,
+          "title": "KONKURENTSPĒJĪGA CENA",
+          "text": "Mēs esam pirmā līmeņa aģents daudziem rūpnīcu veidiem. Pamatojoties uz mūsu lielo sūtījumu apjomu, varam iegūt konkurētspējīgas cenas no rūpnīcām, kā arī profesionālus eksporta pakalpojumus, kas ļauj mums izcelties starptautiskajā tirdzniecībā."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "MŪSU PRODUKTU SARAKSTS",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel caurule"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonējošā virve"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektriskais detonators"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektroniskais detonators"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Neelektriskais detonators"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Tolūlēna diizocianāts"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modulis"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Pastiprinātājs"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Nātrija cianīds-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsijas sprāgstviela"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Ūdens želejas sprāgstviela"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaeritritola tetranitrāts"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Čips"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismiskās sprāgstvielu patronas"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Varš pārklāts tērauda kompozītmateriāls"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Dzesēti auksti valcēts tērauds ar vara un misiņa pārklājumu"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "VISPĀRĪGA SADARBĪBAS ALGORITMA",
+    "cooperation_schedule": {
+      "core": "VISPĀRĪGA\nSADARBĪBAS ALGORITMA",
+      "labels": [
+        "Pārrunas",
+        "Līguma parakstīšana",
+        "Iemaksas veikšana",
+        "Kvalitātes pārbaude",
+        "Atlikuma apmaksa",
+        "Nosūtīšana",
+        "Pēcpārdošanas serviss"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "MŪSU PRODUKTU DEMONSTRĀCIJA"
   }
 }

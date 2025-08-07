@@ -147,7 +147,7 @@ export const languagesListMock = [
   {
     title: '中文',
     alt: 'Chinese Flag',
-    link: `https://cdn-cf.cms.flixbus.com/drupal-assets/flags/zh-us.min.svg`,
+    link: `https://media.istockphoto.com/id/1313883994/vector/china-flag-icon-vector-illustration-round.jpg?s=612x612&w=0&k=20&c=AZV1wxSTLbCp6DbmkBU0r4h9Lhizy2tWapqmuAMBYSY=`,
     locale: 'zh',
   },
   {

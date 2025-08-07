@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "Főoldal", "href": "/" },
       { "label": "Termékek", "href": "/products" },
-      { "label": "Együttműködés", "href": "/co-operation" }
+      { "label": "Együttműködés", "href": "/co-operation" },
+      {
+        "label": "Galéria",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "EGYHELYES MEGOLDÁSSZÁLLÍTÓ ",
+    "title_second": "POLGÁRI ROBBANTÁSHOZ ÉS ",
+    "title_third": "VEGYI ALAPANYAGOKHOZ",
+    "main_choice": {
+      "title": "MIÉRT BÍZNAK BENNÜNK AZ ÜGYFELEK?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "A Nemzetvédelmi Minisztérium jóváhagyásával rendelkezünk, hogy kiváló minőségű robbanóanyagokat exportáljunk a bányászati, kőfejtő és építőipari szektorok számára."
+        },
+        {
+          "id": 2,
+          "text": "Regisztrált nemzetközi kereskedelmi ügynök vállalkozás vagyunk a Kínai Kereskedelmi Minisztériumban."
+        },
+        {
+          "id": 3,
+          "text": "Végrehajtó igazgatói tagságunk van a Kínai Import-Export Szövetségben."
+        },
+        {
+          "id": 4,
+          "text": "A Kínai Import-Export Szövetségtől 3A hitelességet kaptunk az elmúlt 4 egymást követő évben."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "MIÉRT VÁLASSZON MINKET?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABIL ERŐS PARTNEREK",
+          "text": "Számos híres hazai és külföldi gyártóval működünk együtt. Stabil ellátási láncunk van, így a legjobb árat és stabil minőséget tudjuk biztosítani, az Ön piacának megfelelően a legjobb beszerzési forrást választjuk az igényei kielégítésére."
+        },
+        {
+          "id": 2,
+          "title": "KÉNYELMES ELHELYEZKEDÉS",
+          "text": "A legjobb árat és stabil minőséget kínáljuk, az Ön piacának megfelelően pontosabban választunk, és biztonságot nyújtunk ügyfeleinknek."
+        },
+        {
+          "id": 3,
+          "title": "SZAKÉRTŐI MUNKARENDSZER",
+          "text": "Sokéves tapasztalattal rendelkezünk, érett hajózási ügynököt alkalmazunk, időben meg tudjuk tervezni a megrendeléseket, és jól egyensúlyozzuk a szállítási időt és költségeket, hogy ügyfeleink sok költséget megtakarítsanak anélkül, hogy késleltetnék az értékesítési terveket."
+        },
+        {
+          "id": 4,
+          "title": "MINŐSÉGBIZTOSÍTÁS",
+          "text": "Tudunk biztosítani COA, COO, MSDS, TDS és egyéb tanúsítványokat, amelyek megkönnyítik a vámkezelést és a termékminőség ellenőrzését."
+        },
+        {
+          "id": 5,
+          "title": "GYORS SZÁLLÍTÁS",
+          "text": "Erős ellátási láncunkra és hajózási szakértelmünkre alapozva gyorsan tudunk szállítani a megállapodott idő szerint, biztosítva, hogy az áruk időben megérkezzenek a rendeltetési kikötőbe, anélkül, hogy késleltetnék a normál használatot."
+        },
+        {
+          "id": 6,
+          "title": "VERSENYKÉPES ÁR",
+          "text": "Számos gyár első szintű ügynökei vagyunk. Nagy szállítási volumenünk alapján versenyképes árat kapunk a gyártótól, továbbá szakmai export szolgáltatásaink révén kiemelkedünk a nemzetközi kereskedelemben."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "TERMÉKEINK LISTÁJA",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel cső"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonációs zsinór"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektromos gyújtó"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektronikus gyújtó"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Nem elektromos gyújtó"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluén-dizocianát"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modul"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Fokozó"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Nátrium-cianid-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulziós robbanóanyag"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Vízzel gél robbanóanyag"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaeritrit-tetranitrát"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Szeizmikus robbanópatronok"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Rézzel borított acél kompozit anyagok"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "HIDEGEN HENGERELT ACÉL RÉZZEL ÉS SÁRGARÉZZEL BORÍTVA"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ÁLTALÁNOS EGYÜTTMŰKÖDÉSI ALGORITMUS",
+    "cooperation_schedule": {
+      "core": "ÁLTALÁNOS EGYÜTTMŰKÖDÉSI\nALGORITMUS",
+      "labels": [
+        "Tárgyalások",
+        "Szerződés aláírása",
+        "Előleg fizetése",
+        "Minőség ellenőrzése",
+        "Hátralék fizetése",
+        "Szállítás",
+        "Értékesítés utáni szolgáltatás"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "TERMÉKEINK BEMUTATÁSA"
   }
 }

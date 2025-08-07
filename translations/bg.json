@@ -6,7 +6,176 @@
     "navigation_list": [
       { "label": "Начало", "href": "/" },
       { "label": "Продукти", "href": "/products" },
-      { "label": "Сътрудничество", "href": "/co-operation" }
+      { "label": "Сътрудничество", "href": "/co-operation" },
+      {
+        "label": "Галерия",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "ЕДНА-СТОП РЕШЕНИЕ ЗА ДОСТАВЧИК НА",
+    "title_second": "ГРАЖДАНСКИ ВЗРИВНИ РАБОТИ И",
+    "title_third": "ХИМИЧЕСКИ СУРОВИ МАТЕРИАЛИ",
+    "main_choice": {
+      "title": "ЗАЩО КЛИЕНТИТЕ НИ ДОВЕРЯВАТ?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Със сертифициране от Министерството на отбраната за износ на висококачествени взривни материали за минната, каменоломната и строителната индустрия."
+        },
+        {
+          "id": 2,
+          "text": "Регистрирани сме като международна търговска агенция към Министерството на търговията на Китай."
+        },
+        {
+          "id": 3,
+          "text": "Член сме на управителния съвет на Китайската асоциация за внос и износ."
+        },
+        {
+          "id": 4,
+          "text": "Наградени сме от Китайската асоциация за внос и износ с тройна ‘3A’ кредитна рейтингово признание в продължение на 4 последователни години."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "ЗАЩО ДА ИЗБЕРЕТЕ НАС?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "СТАБИЛНИ СИЛНИ ПАРТНЬОРИ",
+          "text": "Сътрудничим с много известни производители в страната и чужбина. Имаме стабилен доставен веригов поток, който ни позволява да предложим най-добри цени и стабилно качество. Съобразно вашия пазар, можем да подберем най-добрия източник на стоки, за да отговорим на вашите изисквания."
+        },
+        {
+          "id": 2,
+          "title": "УДОБНО РАЗПОЛОЖЕНИЕ",
+          "text": "Осигуряваме най-добра цена и стабилно качество. Съобразно вашия пазар, можем по-точно да изберем и осигурим спокойствие за клиентите."
+        },
+        {
+          "id": 3,
+          "title": "ПРОФЕСИОНАЛНА СИСТЕМА НА РАБОТА",
+          "text": "С многогодишен опит имаме утвърдена агентска система за доставки. Можем да планираме поръчките навреме и да намерим баланс между срок на доставка и разходи, така че клиентите да спестяват значителни средства без да се забавя техният търговски план."
+        },
+        {
+          "id": 4,
+          "title": "ГАРАНЦИЯ ЗА КАЧЕСТВО",
+          "text": "Можем да осигурим COA, COO, MSDS, TDS и други сертификати, които ви трябват за улесняване на митнически проверки и гарантиране на качеството на продукта."
+        },
+        {
+          "id": 5,
+          "title": "БЪРЗА ДОСТАВКА",
+          "text": "Базирайки се на силната ни верига и опит в експедирането, можем бързо да изпращаме според уговорените срокове, за да достигнат стоките навреме без да забавяме нормалната ви работа."
+        },
+        {
+          "id": 6,
+          "title": "КОНКУРЕНТНА ЦЕНА",
+          "text": "Ние сме първо ниво агенти на множество фабрики. Поради големия ни обем на доставка можем да договорим конкурентни цени директно от производителя, комбинирано с нашите професионални износни услуги, които ни отличават на международния пазар."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "СПИСЪК НА НАШИТЕ ПРОДУКТИ",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel tube"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Detonating Cord"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Electric Detonator"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Electronic Detonator"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Non‑electric Detonator"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluene Diisocyanate"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Module"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Booster"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Sodium Cyanide‑1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsion Explosive"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Water Gel explosive"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerythritol tetranitrate"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismic Explosive Cartridges"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "COPPER‑CLAD STEEL composite materials"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "COLD‑ROLLED STEEL CLAD with copper and brass"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ОБЩ АЛГОРИТЪМ НА СЪТРУДНИЧЕСТВО",
+    "cooperation_schedule": {
+      "core": "ОБЩ АЛГОРИТЪМ\nНА СЪТРУДНИЧЕСТВО",
+      "labels": [
+        "Преговори",
+        "Подписване на договор",
+        "Плащане на депозит",
+        "Проверка на качеството",
+        "Плащане на оставащата сума",
+        "Транспорт",
+        "Обслужване след продажба"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "ДЕМОНСТРАЦИЯ НА НАШИТЕ ПРОДУКТИ"
   }
 }
+

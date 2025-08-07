@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "Ana Sayfa", "href": "/" },
       { "label": "Ürünler", "href": "/products" },
-      { "label": "İş Birliği", "href": "/co-operation" }
+      { "label": "İş Birliği", "href": "/co-operation" },
+      {
+        "label": "Galeri",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "TEK NOKTADAN ÇÖZÜM TEDARİKÇİSİ ",
+    "title_second": "SİVİL PATLATMA VE ",
+    "title_third": "KİMYASAL HAMMADDELER",
+    "main_choice": {
+      "title": "MÜŞTERİLER BİZE NEDEN GÜVENİYOR?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Milli Savunma Bakanlığı tarafından onaylanmış ve madencilik, taş ocağı ve inşaat sektörlerine yüksek kaliteli patlayıcı malzeme ihraç etme iznine sahibiz."
+        },
+        {
+          "id": 2,
+          "text": "Çin Ticaret Bakanlığı'na kayıtlı uluslararası ticaret acentesiyiz."
+        },
+        {
+          "id": 3,
+          "text": "Çin İthalat ve İhracat Derneği'nin icra direktörü üyeliğine sahibiz."
+        },
+        {
+          "id": 4,
+          "text": "Son dört yıl üst üste Çin İthalat ve İhracat Derneği tarafından 3A güvenilirlik derecesi ile ödüllendirildik."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "NEDEN BİZİ SEÇMELİSİNİZ?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "GÜÇLÜ VE İSTİKRARLI ORTAKLAR",
+          "text": "Yurtiçinde ve yurtdışında birçok tanınmış üreticiyle iş birliği yapıyoruz. İstikrarlı bir tedarik zincirimiz var, böylece pazarınıza göre en uygun kaynağı seçerek en iyi fiyatı ve sabit kaliteyi sağlayabiliyoruz."
+        },
+        {
+          "id": 2,
+          "title": "AVANTAJLI KONUM",
+          "text": "Pazarınıza göre daha doğru seçim yaparak sizlere en iyi fiyatı ve istikrarlı kaliteyi sunuyoruz, bu da müşterilere güven veriyor."
+        },
+        {
+          "id": 3,
+          "title": "USTACA İŞLEYEN SİSTEM",
+          "text": "Uzun yıllara dayanan tecrübemizle, olgunlaşmış bir nakliye acentesi sistemimiz var; siparişleri zamanında planlayabiliyor ve nakliye süresi ile maliyet arasında denge kurarak müşterilerimizin satış planlarını geciktirmeden tasarruf etmelerine yardımcı oluyoruz."
+        },
+        {
+          "id": 4,
+          "title": "KALİTE GÜVENCESİ",
+          "text": "Gümrük işlemlerini kolaylaştırmak ve ürün kalitesini kontrol etmek için gerekli olan COA, COO, MSDS, TDS ve diğer sertifikaları sağlayabiliyoruz."
+        },
+        {
+          "id": 5,
+          "title": "HIZLI TESLİMAT",
+          "text": "Güçlü tedarik zincirimiz ve nakliye konusundaki uzmanlığımız sayesinde, ürünleri anlaşılan zamanda sevk ederek varış limanına zamanında ulaşmalarını sağlıyoruz."
+        },
+        {
+          "id": 6,
+          "title": "REKABETÇİ FİYAT",
+          "text": "Birçok fabrikanın birinci düzey acentesiyiz. Büyük sevkiyat hacmimize dayanarak fabrikalardan rekabetçi fiyatlar alabiliyor, profesyonel ihracat hizmetlerimizle uluslararası ticarette öne çıkıyoruz."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "ÜRÜN LİSTEMİZ",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel tüp"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Patlatma Kablosu"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektrikli Ateşleyici"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektronik Ateşleyici"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Elektriksel Olmayan Ateşleyici"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluen Diizosiyanat"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modül"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Yükseltici"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Sodyum Siyanür-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emülsiyon Patlayıcı"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Su Jel Patlayıcı"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaeritritol tetranitrat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Yonga"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Sismik Patlayıcı Kartuşlar"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "BAKIR KAPLAMALI ÇELİK bileşik malzemeler"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "BAKIR VE PİRİNÇ KAPLAMALI SOĞUK HADDELENMİŞ ÇELİK"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "GENEL İŞ BİRLİĞİ ALGORİTMASI",
+    "cooperation_schedule": {
+      "core": "GENEL İŞ BİRLİĞİ\nALGORİTMASI",
+      "labels": [
+        "Görüşmeler",
+        "Sözleşme imzalama",
+        "Depozito ödeme",
+        "Kalite kontrol",
+        "Kalan miktarın ödenmesi",
+        "Nakliye",
+        "Satış sonrası hizmet"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "ÜRÜNLERIMIZIN GÖSTERIMI"
   }
 }

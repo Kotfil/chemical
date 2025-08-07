@@ -6,7 +6,176 @@
     "navigation_list": [
       { "label": "Etusivu", "href": "/" },
       { "label": "Tuotteet", "href": "/products" },
-      { "label": "Yhteistyö", "href": "/co-operation" }
+      { "label": "Yhteistyö", "href": "/co-operation" },
+      {
+        "label": "Galleria",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "KOKONAISVALTAINEN RATKAISUN TOIMITTAJA ",
+    "title_second": "SIVIILIRAJAKOULUUN JA ",
+    "title_third": "KEMIALLISIIN RAAKA-AINEISIIN",
+    "main_choice": {
+      "title": "MIKSI ASIAKKAAT LUOTTAVAT MEIHIN?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Olemme puolustusministeriön hyväksymiä ja meillä on oikeus viedä erinomaisen laadukkaita räjähteitä kaivos-, louhinta- ja rakennusteollisuudelle."
+        },
+        {
+          "id": 2,
+          "text": "Olemme Kiinan kauppaministeriön rekisteröity kansainvälinen kauppa-agentuuriyritys."
+        },
+        {
+          "id": 3,
+          "text": "Olemme Kiinan tuonti- ja vientiliiton hallituksen jäsen."
+        },
+        {
+          "id": 4,
+          "text": "Meille on myönnetty Kiinan tuonti- ja vientiliiton 3A-luottamusarvio viimeiset neljä peräkkäistä vuotta."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "MIKSI VALITA MEIDÄT?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "VAKAA JA VAHVAT KUMPPANIT",
+          "text": "Olemme tehneet yhteistyötä monien tunnettujen valmistajien kanssa kotimaassa ja ulkomailla. Meillä on vakaa toimitusketju, joten voimme tarjota parhaan hinnan ja vakaan laadun. Markkinoiden mukaan valitsemme parhaan tavaranlähteen täyttämään tarpeesi."
+        },
+        {
+          "id": 2,
+          "title": "SOPIVA SIJAINTI",
+          "text": "Tarjoamme parhaan hinnan ja vakaan laadun, markkinoiden mukaan valitsemme tarkemmin ja annamme asiakkaille mielenrauhaa."
+        },
+        {
+          "id": 3,
+          "title": "TAITAVA TOIMINTAJÄRJESTELMÄ",
+          "text": "Monen vuoden kokemuksella meillä on kypsä laivausagentti, voimme suunnitella tilaukset ajoissa ja löytää hyvän tasapainon lähetysaikojen ja kulujen välillä auttaen asiakkaita säästämään paljon kustannuksia ilman myyntisuunnitelman viivästymistä."
+        },
+        {
+          "id": 4,
+          "title": "LAADUNVARMISTUS",
+          "text": "Voimme toimittaa COA-, COO-, MSDS-, TDS- ja muita sertifikaatteja, joita tarvitset helpompaan tullaukseen ja tuotteiden laadun tarkastukseen."
+        },
+        {
+          "id": 5,
+          "title": "NOPEA TOIMITUS",
+          "text": "Vahvan toimitusketjun ja laivausasiantuntemuksemme perusteella voimme toimittaa nopeasti sovitun aikataulun mukaisesti varmistaen, että tavarat saapuvat määräsatamaan ajallaan ilman normaalia käyttöäsi viivästyttäen."
+        },
+        {
+          "id": 6,
+          "title": "KILPAILUKYKYINEN HINTA",
+          "text": "Olemme monien tehtaiden ensitason agentti. Suuren lähetysmäärän ansiosta saamme tehtaalta kilpailukykyisen hinnan sekä ammattimaiset vientipalvelumme, jotka tekevät meistä erottuvan kansainvälisessä kaupassa."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "TUOTELUETTELOMME",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel-putki"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Sytytysnaru"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Sähkösytytin"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Elektroninen sytytin"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Ei-sähköinen sytytin"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Tolueenidi-isosyanaatti"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Moduuli"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Vahvistin"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Natriumsyanidi-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsiopräjähde"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Vesigeelipräjähde"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerytritoli tetranitraatti"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Sirun osa"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismiset räjähdepatruunat"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Kuparipinnoitettu teräskomposiittimateriaali"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Kylmävalssattu teräs kuparilla ja messingillä"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "YHTEISTYÖN YLEINEN ALGORITMI",
+    "cooperation_schedule": {
+      "core": "YHTEISTYÖN YLEINEN\nALGORITMI",
+      "labels": [
+        "Neuvottelut",
+        "Sopimuksen allekirjoitus",
+        "Ennakkomaksu",
+        "Laadun tarkastus",
+        "Jäljellä olevan summan maksu",
+        "Toimitus",
+        "Jälkipalvelu"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "TUOTTEIDEMME ESITTELY"
   }
 }

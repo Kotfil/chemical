@@ -6,7 +6,177 @@
     "navigation_list": [
       { "label": "Startseite", "href": "/" },
       { "label": "Produkte", "href": "/products" },
-      { "label": "Zusammenarbeit", "href": "/co-operation" }
+      { "label": "Zusammenarbeit", "href": "/co-operation" },
+      {
+        "label": "Galerie",
+        "href": "/gallery"
+      }
     ]
+  },
+
+  "main_section": {
+    "title_first": "EINZELSTELLEN-ANBIETER FÜR ",
+    "title_second": "ZIVILE SPRENGARBEITEN UND ",
+    "title_third": "CHEMISCHE ROHSTOFFE",
+    "main_choice": {
+      "title": "WARUM VERTRAUEN KUNDEN UNS?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Wir sind vom Nationalen Verteidigungsministerium zugelassen, hochwertige Sprengstoffe für Bergbau, Steinbrüche und Bauindustrie zu exportieren."
+        },
+        {
+          "id": 2,
+          "text": "Wir sind ein registriertes internationales Handelsagentenunternehmen beim chinesischen Handelsministerium."
+        },
+        {
+          "id": 3,
+          "text": "Wir sind Mitglied des Exekutivdirektorats der China Import- und Exportvereinigung."
+        },
+        {
+          "id": 4,
+          "text": "Wir wurden von der China Import- und Exportvereinigung in den letzten vier aufeinanderfolgenden Jahren mit 3A-Kreditwürdigkeit ausgezeichnet."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "WARUM UNS WÄHLEN?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "STABILE STARKE PARTNER",
+          "text": "Wir arbeiten mit vielen bekannten Herstellern im In- und Ausland zusammen. Wir verfügen über eine stabile Lieferkette, sodass wir Ihnen den besten Preis und stabile Qualität bieten können. Je nach Ihrem Markt wählen wir die beste Warenquelle, um Ihre Anforderungen zu erfüllen."
+        },
+        {
+          "id": 2,
+          "title": "GÜNSTIGE LAGE",
+          "text": "Wir bieten Ihnen den besten Preis und stabile Qualität. Je nach Ihrem Markt wählen wir präzise und geben den Kunden Sicherheit."
+        },
+        {
+          "id": 3,
+          "title": "ERFAHRENS ARBEITSSYSTEM",
+          "text": "Mit langjähriger Erfahrung verfügen wir über erfahrene Spediteure. Wir können Bestellungen rechtzeitig planen und eine gute Balance zwischen Lieferzeit und Kosten finden, um den Kunden zu helfen, viel Geld zu sparen, ohne den Verkaufsplan zu verzögern."
+        },
+        {
+          "id": 4,
+          "title": "QUALITÄTSSICHERUNG",
+          "text": "Wir können COA, COO, MSDS, TDS und andere Zertifikate liefern, die Sie für eine einfachere Zollabfertigung und Qualitätskontrolle der Produkte benötigen."
+        },
+        {
+          "id": 5,
+          "title": "SCHNELLE LIEFERUNG",
+          "text": "Basierend auf unserer starken Lieferkette und Expertise im Versand können wir schnell nach vereinbartem Zeitplan versenden, sodass die Ware rechtzeitig am Zielhafen ankommt, ohne Ihren normalen Gebrauch zu verzögern."
+        },
+        {
+          "id": 6,
+          "title": "WETTBEWERBSFÄHIGER PREIS",
+          "text": "Wir sind Erstagents vieler Fabriken. Aufgrund unseres großen Versandvolumens können wir konkurrenzfähige Preise von der Fabrik erhalten, ergänzt durch unseren professionellen Exportservice, der uns im internationalen Handel hervorhebt."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LISTE UNSERER PRODUKTE",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Nonel-Rohr"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Zündschnur"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Elektrischer Zünder"
+      },
+      {
+        "english": "PPAN – Poröse Körner Ammoniumnitrat",
+        "translation": "Elektronischer Zünder"
+      },
+      {
+        "english": "CPAN – Chemisch reines Ammoniumnitrat",
+        "translation": "Nicht-elektrischer Zünder"
+      },
+      {
+        "english": "C4 – Plastiksprengstoff",
+        "translation": "Toluen-Diisocyanat"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modul"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Booster"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Natriumcyanid-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Emulsionssprengstoff"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Wasser-Gel-Sprengstoff"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaerythritol-Tetranitrat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Chip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Seismische Sprengkartuschen"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Kupferbeschichtete Stahl-Verbundwerkstoffe"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "Kaltgewalzter Stahl mit Kupfer- und Messingbeschichtung"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ALLGEMEINER KOOPERATIONSPROZESS",
+    "cooperation_schedule": {
+      "core": "ALLGEMEINER KOOPERATIONSPROZESS",
+      "labels": [
+        "Verhandlungen",
+        "Vertragsunterzeichnung",
+        "Anzahlung leisten",
+        "Qualitätskontrolle",
+        "Restzahlung leisten",
+        "Versand",
+        "Kundendienst"
+      ]
+    }
+  },
+
+  "gallery_section": {
+    "title": "DEMONSTRATION UNSERER PRODUKTE"
   }
 }

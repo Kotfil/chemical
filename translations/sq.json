@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "Kreu", "href": "/" },
       { "label": "Produktet", "href": "/products" },
-      { "label": "Bashkëpunimi", "href": "/co-operation" }
+      { "label": "Bashkëpunimi", "href": "/co-operation" },
+      {
+        "label": "Galeria",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "FURNIZUES I ZGJIDHJES NJË-NDALUAR I ",
+    "title_second": "SHPRËTHIMEVE CIVILE DHE ",
+    "title_third": "LËNDËVE TË PARA KIMIKE",
+    "main_choice": {
+      "title": "PSE NA BESOJNË KLIENTËT?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Ne jemi të miratuar nga Departamenti i Mbrojtjes Kombëtare për të pasur akses në eksportimin e materialeve eksplozive me cilësi të shkëlqyer për industrinë e minierave, guroreve dhe ndërtimit."
+        },
+        {
+          "id": 2,
+          "text": "Ne jemi një ndërmarrje e regjistruar si agjent tregtar ndërkombëtar në Ministrinë e Tregtisë së Kinës."
+        },
+        {
+          "id": 3,
+          "text": "Ne jemi anëtar drejtor ekzekutiv i Shoqatës së Importit dhe Eksportit të Kinës."
+        },
+        {
+          "id": 4,
+          "text": "Ne jemi shpërblyer nga Shoqata e Importit dhe Eksportit të Kinës me besueshmëri 3A për katër vitet e fundit radhazi."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "PSE TË NA ZGJIDHNI NE?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "PARTNERË TË QËNDRUESHËM DHE TË FORTË",
+          "text": "Ne kemi bashkëpunuar me shumë prodhues të njohur vendas dhe të huaj. Ne kemi një zinxhir furnizimi të qëndrueshëm, në mënyrë që t’ju ofrojmë çmimin më të mirë dhe cilësi të qëndrueshme. Sipas tregut tuaj, ne mund të zgjedhim burimin më të mirë të mallrave për të përmbushur kërkesat tuaja."
+        },
+        {
+          "id": 2,
+          "title": "VENDNDODHJE E PËRSHTATSHME",
+          "text": "Ju ofrojmë çmim të mirë dhe cilësi të qëndrueshme; sipas tregut tuaj, mund të zgjedhim më saktësisht dhe t’ju japim klientëve siguri mendore."
+        },
+        {
+          "id": 3,
+          "title": "SISTEM PUNE I ZOTËR",
+          "text": "Me përvojë shumëvjeçare, kemi agjentë të pjekur transporti detar, mund të planifikojmë porositë në kohë dhe të arrijmë një ekuilibër të mirë midis kohës së transportit dhe shpenzimeve për të ndihmuar klientët të kursejnë shumë kosto pa vonuar planin e shitjeve."
+        },
+        {
+          "id": 4,
+          "title": "GARANCI CILËSIE",
+          "text": "Ne mund të sigurojmë COA, COO, MSDS, TDS dhe certifikata të tjera që ju nevojiten për lehtësimin e doganës dhe kontrollin e cilësisë së produkteve."
+        },
+        {
+          "id": 5,
+          "title": "DORËZIM I SHPEJTË",
+          "text": "Bazuar në zinxhirin tonë të fortë të furnizimit dhe ekspertizën në dërgesa, ne mund të dërgojmë me shpejtësi sipas kohës së rënë dakord, për të siguruar që mallrat të arrijnë në portin e destinacionit në kohë pa vonuar përdorimin tuaj normal."
+        },
+        {
+          "id": 6,
+          "title": "ÇMIM KONKURRUES",
+          "text": "Ne jemi agjentë të nivelit të parë për shumë lloje fabrikash. Bazuar në volumin tonë të madh të dërgesave, mund të marrim çmim konkurrues nga fabrika dhe bashkë me shërbimet tona profesionale të eksportit, do të spikasim në tregtinë ndërkombëtare."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LISTA E PRODUKTEVE TONA",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Tubi Nonel"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Litar Detonues"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Detonator Elektrik"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Detonator Elektronik"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Detonator Jo-Elektrik"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluene Diisocyanate"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modul"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Nxitës"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Cianidi i Natriumit-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Eksploziv Emulsion"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Eksploziv Gel Uji"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaeritritol tetranitrat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Çip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Fishekë Eksplozivë Sizmikë"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Materiale të kompozituara ÇELIK TË MBULUAR ME BAKËR"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "ÇELIK I RULUAR NË TË FTOHTË I MBULUAR ME BAKËR DHE BRONZ"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ALGORITMI I PËRGJITHSHËM I BASHKËPUNIMIT",
+    "cooperation_schedule": {
+      "core": "ALGORITMI I PËRGJITHSHËM\nI BASHKËPUNIMIT",
+      "labels": [
+        "Negocimi",
+        "Nënshkrimi i kontratës",
+        "Pagesa e paradhënies",
+        "Kontrolli i cilësisë",
+        "Pagesa e shumës së mbetur",
+        "Transporti",
+        "Shërbim pas shitjes"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "DEMONSTRAIM I PRODUKTEVE TONA"
   }
 }

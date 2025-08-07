@@ -1,10 +1,8 @@
-import styled from 'styled-components';
 import { Button } from '@heroui/button';
 import {
   FacebookIcon,
   InstagramIcon,
   JabberIcon,
-  LinkedinIcon,
   TelegramIcon,
   ViberIcon,
   WeChatIcon,
@@ -12,17 +10,6 @@ import {
 } from '@/app/components/icon/icons';
 import { Grid } from '@mui/material';
 import { Tooltip } from '@heroui/react';
-
-// Обёртка: 4 колонки, 2 ряда
-// const IconsWrapper = styled.div`
-//   display: grid;
-//   grid-template-columns: repeat(4, 1fr);
-//   gap: 16px;
-//   width: 100%;
-//   max-width: 300px;
-//   justify-items: center;
-//   align-items: center;
-// `;
 
 export const SocialIcons = () => (
   <Grid display={'flex'} flexDirection={'column'} alignItems={'center'}>
@@ -64,14 +51,8 @@ export const SocialIcons = () => (
           </Button>
         </Tooltip>
       </Grid>
-      <Grid p={0.2}>
-        <Tooltip content="LinkedIn">
-          <Button isIconOnly aria-label="LinkedIn" color="primary">
-            <LinkedinIcon />
-          </Button>
-        </Tooltip>
-      </Grid>
-      <Grid p={0.2}>
+
+      <Grid p={0.2} pt={1}>
         <Tooltip content="Facebook">
           <Button isIconOnly aria-label="Facebook" color="primary">
             <FacebookIcon />

@@ -6,7 +6,175 @@
     "navigation_list": [
       { "label": "Acasă", "href": "/" },
       { "label": "Produse", "href": "/products" },
-      { "label": "Colaborare", "href": "/co-operation" }
+      { "label": "Colaborare", "href": "/co-operation" },
+      {
+        "label": "Galerie",
+        "href": "/gallery"
+      }
     ]
+  },
+  "main_section": {
+    "title_first": "FURNIZOR COMPLET DE SOLUȚII PENTRU ",
+    "title_second": "EXPLOZII CIVILE ȘI ",
+    "title_third": "MATERII PRIME CHIMICE",
+    "main_choice": {
+      "title": "DE CE NE AU ÎNCREDERE CLIENȚII?",
+      "main_choice_list": [
+        {
+          "id": 1,
+          "text": "Suntem aprobați de Departamentul Apărării Naționale pentru a exporta materiale explozive de calitate excelentă către industriile miniere, de cariere și construcții."
+        },
+        {
+          "id": 2,
+          "text": "Suntem o întreprindere înregistrată ca agent de comerț internațional la Ministerul Comerțului din China."
+        },
+        {
+          "id": 3,
+          "text": "Suntem membru director executiv al Asociației Chineze de Import și Export."
+        },
+        {
+          "id": 4,
+          "text": "Am fost premiați de Asociația Chineză de Import și Export cu credibilitate de nivel 3A în ultimii 4 ani consecutivi."
+        }
+      ]
+    },
+    "main_selection": {
+      "title": "DE CE SĂ NE ALEGI?",
+      "main_selection_list": [
+        {
+          "id": 1,
+          "title": "PARTENERI STABILI ȘI PUTERNICI",
+          "text": "Colaborăm cu mulți producători renumiți din țară și din străinătate. Avem un lanț de aprovizionare stabil, astfel încât putem oferi cel mai bun preț și calitate stabilă. În funcție de piața dumneavoastră, putem alege cea mai bună sursă de marfă pentru a vă satisface cerințele."
+        },
+        {
+          "id": 2,
+          "title": "LOCAȚIE CONVENABILĂ",
+          "text": "Oferim cel mai bun preț și calitate stabilă, în funcție de piața dumneavoastră putem alege cu mai multă precizie și oferim clienților liniște sufletească."
+        },
+        {
+          "id": 3,
+          "title": "SISTEM DE LUCRU EXPERIMENTAT",
+          "text": "Având mulți ani de experiență, colaborăm cu agenți de transport maturi, putem planifica comenzile la timp și menține un echilibru bun între timpul de livrare și costuri pentru a ajuta clienții să economisească bani fără a întârzia planul de vânzări."
+        },
+        {
+          "id": 4,
+          "title": "ASIGURAREA CALITĂȚII",
+          "text": "Putem furniza COA, COO, MSDS, TDS și alte certificate necesare pentru o vamă mai ușoară și pentru a verifica calitatea produselor."
+        },
+        {
+          "id": 5,
+          "title": "LIVRARE RAPIDĂ",
+          "text": "Pe baza lanțului nostru de aprovizionare solid și a expertizei în transport, putem expedia rapid conform termenului convenit pentru a ne asigura că mărfurile ajung la timp în portul de destinație fără a vă afecta utilizarea normală."
+        },
+        {
+          "id": 6,
+          "title": "PREȚ COMPETITIV",
+          "text": "Suntem agenți de nivel 1 pentru mai multe tipuri de fabrici. Datorită volumului nostru mare de livrări, putem obține un preț competitiv de la fabrică, iar serviciile noastre profesionale de export ne fac să ne remarcăm în comerțul internațional."
+        }
+      ]
+    }
+  },
+  "product_section": {
+    "title": "LISTA PRODUSELOR NOASTRE",
+    "product_table": [
+      {
+        "english": "TNT – Trinitrotoluene",
+        "translation": "Tub Nonel"
+      },
+      {
+        "english": "RDX – Hexogen",
+        "translation": "Cord detonant"
+      },
+      {
+        "english": "HMX – Octogen",
+        "translation": "Detonator electric"
+      },
+      {
+        "english": "PPAN – Porous prills ammonium nitrate",
+        "translation": "Detonator electronic"
+      },
+      {
+        "english": "CPAN – Chemical pure ammonium nitrate",
+        "translation": "Detonator ne-electric"
+      },
+      {
+        "english": "C4 – Plastic explosive",
+        "translation": "Toluene Diisocyanate"
+      },
+      {
+        "english": "NC – Nitrocellulose",
+        "translation": "Modul"
+      },
+      {
+        "english": "SODIUM CYANIDE",
+        "translation": "Booster"
+      },
+      {
+        "english": "SODIUM NITRATE",
+        "translation": "Cianură de sodiu-1756x2048"
+      },
+      {
+        "english": "SODIUM PERCHLORATE (NaClO₄)",
+        "translation": "Exploziv emulsionat"
+      },
+      {
+        "english": "AMMONIUM NITRATE",
+        "translation": "Exploziv gelatinos"
+      },
+      {
+        "english": "AMMONIUM PERCHLORATE",
+        "translation": "PETN Pentaeritrit tetranitrat"
+      },
+      {
+        "english": "NITRIC ACID",
+        "translation": "Cip"
+      },
+      {
+        "english": "MAGNESIUM NITRATE",
+        "translation": "Cartușe explozive seismice"
+      },
+      {
+        "english": "POTASSIUM NITRATE (KNO₃)",
+        "translation": "Materiale compozite din oțel placat cu cupru"
+      },
+      {
+        "english": "POTASSIUM PERCHLORATE",
+        "translation": "OȚEL LAMINAT LA RECE placat cu cupru și alamă"
+      },
+      {
+        "english": "SODIUM AZIDE",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "translation": ""
+      }
+    ]
+  },
+  "cooperation_section": {
+    "title": "ALGORITMUL GENERAL DE COOPERARE",
+    "cooperation_schedule": {
+      "core": "ALGORITMUL GENERAL\nDE COOPERARE",
+      "labels": [
+        "Negocieri",
+        "Semnarea contractului",
+        "Plata avansului",
+        "Verificarea calității",
+        "Plata sumei rămase",
+        "Expediere",
+        "Servicii post-vânzare"
+      ]
+    }
+  },
+  "gallery_section": {
+    "title": "DEMONSTRAREA PRODUSELOR NOASTRE"
   }
 }
