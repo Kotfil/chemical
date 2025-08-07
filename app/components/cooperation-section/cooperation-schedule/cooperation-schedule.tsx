@@ -73,14 +73,17 @@ export default function CooperationSchedule() {
 
   const [nodes, setNodes] = useState(initialNodes);
   const [edges, setEdges] = useState(initialEdges);
-
+  //@ts-ignore
   const onNodesChange = useCallback(changes => setNodes(nds => applyNodeChanges(changes, nds)), []);
+  //@ts-ignore
   const onEdgesChange = useCallback(changes => setEdges(eds => applyEdgeChanges(changes, eds)), []);
+  //@ts-ignore
   const onConnect = useCallback(connection => setEdges(eds => addEdge(connection, eds)), []);
 
   return (
     <div style={{ width: '100vw', height: '100vh', color: 'violet' }}>
       <ReactFlow
+        //@ts-ignore
         nodes={nodes}
         edges={edges}
         onNodesChange={onNodesChange}
