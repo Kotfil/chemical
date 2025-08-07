@@ -8,7 +8,7 @@ export const siteConfig = {
     },
     {
       label: 'Products',
-      href: '/products',
+      href: '/produce',
     },
     {
       label: 'Co-operation',

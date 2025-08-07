@@ -19,13 +19,13 @@
       {
         "label": "Gallery",
         "href": "/gallery"
+      },
+      {
+        "label": "About",
+        "href": "/about"
       }
     ]
   },
-
-
-
-
   "main_section": {
     "title_first": "ONE-STOP SOLUTION SUPPLIER OF ",
     "title_second": "CIVIL BLASTING AND  ",
@@ -171,7 +171,6 @@
         "translation": ""
       }
     ]
-
   },
   "cooperation_section": {
     "title": "GENERAL ALGORITHM OF CO-OPERATION",
@@ -187,9 +186,72 @@
         "After-sale service"
       ]
     }
-
   },
   "gallery_section": {
-    "title": "DEMONSTRATION OF OUR PRODUCTS"
+    "title": "DEMONSTRATION OF OUR PRODUCTS",
+    "factory_title": "Factory",
+    "produce_title": "Produce"
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: A Global Pioneer in Integrated Chemical Solutions",
+    "about_text": {
+      "intro": [
+        "Established in 2009 in the dynamic commercial hub of Hong Kong, Hong Kong Safran Industry Co Limited has emerged as a global reference point in the field of ammonium nitrate and explosive materials. Its ascent has been driven by a sharp strategic vision, continuous innovation, and uncompromising regulatory compliance.",
+        "Guided by the principles of safety, efficiency, and sustainability, the company delivers advanced chemical solutions across the mining, construction, defense, and civilian sectors. By cultivating a broad product portfolio and leveraging a worldwide service network, Safran has successfully sidestepped destructive price-based competition, forging instead a market position marked by resilience and uniqueness."
+      ],
+      "section1": {
+        "title": "1. Global Reach and Strategic Positioning",
+        "paragraphs": [
+          "With Hong Kong recognized as the world’s third-largest financial center and a major free trade port, Safran enjoys a strategic base in one of the globe’s most business-friendly environments. The city’s favorable tax regime, world-class logistics, and robust international banking system empower the company to respond swiftly to global demand and integrate efficiently within the international supply chain.",
+          "For instance, duty-free trade policies and modern port infrastructure allow Safran to carry out cost-effective cross-border transactions. Simultaneously, the company manages capital flows seamlessly through offshore banking frameworks. Strategic ties between Hong Kong, mainland China, and nations aligned with the Belt and Road Initiative further enable Safran to deepen its footprint in emerging markets—now spanning over 80 countries across Asia, the Middle East, and the Americas."
+        ]
+      },
+      "section2": {
+        "title": "2. Technological Innovation and Diversified Offerings",
+        "paragraph1": "At the heart of Safran’s enduring success lies its technological sophistication and wide-ranging product mix. As China’s foremost supplier of ammonium nitrate, the company holds defense-grade certifications from the Ministry of National Defence, assuring unmatched safety and performance in its explosive materials. Its technological breakthroughs have further extended into the defense sector, where it supplies vital components such as precision ammunition, armored vehicles, and tactical drones.",
+        "list": [
+          "Civilian-grade materials: ammonium nitrate, emulsion explosives, water gel explosives",
+          "Military solutions: tank armor, artillery shells, tactical UAVs, intelligent detonation systems",
+          "Specialty chemicals: nitrates, nitrocellulose, perchlorates for high-end industrial use"
+        ],
+        "paragraph2": "Through sustained investment in research and development, the company has pioneered patented formulations—ranging from low-sensitivity explosives to eco-friendly propellants—that enhance performance while constructing a robust technological moat."
+      },
+      "section3": {
+        "title": "3. Regulatory Compliance and Industry Trust",
+        "paragraphs": [
+          "Safran places compliance and safety at the core of its operations. In addition to certifications from key regulatory authorities, including the Ministry of National Defence and the Ministry of Transport, the company strictly adheres to internationally recognized standards such as ISO 9001 for quality management and REACH for environmental safety.",
+          "For example, Safran’s ammonium nitrate production employs a closed-loop process, cutting carbon emissions by over 30%—a reflection of the company’s commitment to global carbon neutrality initiatives. This disciplined approach has positioned Safran as a long-term, trusted partner to leading industry players like BHP Billiton and China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Integrated Supply Chain and Value-Added Services",
+        "paragraph1": "Through both vertical integration and horizontal expansion, Safran has constructed a fully integrated, end-to-end service model that extends far beyond traditional supply functions. This “one-stop” system encompasses:",
+        "list": [
+          "Upstream control: Strategic alliances with premier global mining firms secure raw material supply",
+          "Midstream innovation: Optimized explosive formulations and blast design enhance outcomes",
+          "Downstream collaboration: Co-development of high-value products like concrete additives and energy materials"
+        ],
+        "paragraph2": "One notable case involves a composite ammonium nitrate-fuel oil explosive solution created for a mining firm in Africa. This innovation improved blasting efficiency by 20% and reduced operational costs by 15%, offering a compelling alternative to conventional price-driven approaches."
+      },
+      "section5": {
+        "title": "5. Sustainability and Corporate Responsibility",
+        "paragraph1": "Aligned with evolving ESG imperatives, Safran embeds green chemistry and responsible innovation at the heart of its business strategy. Key initiatives include:",
+        "list": [
+          "Circular economy practices: Reprocessing of by-products like waste sulfuric acid",
+          "Low-carbon production: Adoption of solar and biomass energy, targeting 18% carbon reduction by 2024",
+          "Community development: Safety training facilities in developing regions to uplift standards"
+        ],
+        "paragraph2": "These sustainability efforts have earned Safran formal recognition from the United Nations Global Compact and contributed to ESG rating premiums in capital markets."
+      },
+      "conclusion": {
+        "title": "Conclusion",
+        "paragraphs": [
+          "Safran’s trajectory is built on an unwavering commitment to technological leadership, regulatory integrity, and service excellence. As the global chemical industry shifts toward higher value-added products, Safran has charted a path beyond the commoditized landscape of price wars.",
+          "Its multifaceted strategy—cutting-edge technology, agile service models, and a strong environmental conscience—has transformed the company into a reliable, long-term partner for clients worldwide.",
+          "Looking ahead, Safran is well-positioned to reinforce its leadership in the global market, particularly through continued advancements in defense-grade materials and circular economy innovations, thereby setting new standards of excellence across the industry."
+        ]
+      },
+      "disclaimer": "Disclaimer: All data and examples presented are derived from publicly available sources and industry trend analyses. Details regarding specific partnerships remain confidential under non-disclosure agreements."
+    }
   }
 }

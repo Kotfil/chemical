@@ -6,9 +6,10 @@ import { MainSelection } from '@/app/components/main-section/main-selection/main
 export const MainSection: FC = () => {
   return (
     <section className="flex flex-col items-center justify-center gap-4 py-8 md:py-10">
-      <MainTitle />
-      <MainChoice />
-      <MainSelection />
+      main
+      {/*<MainTitle />*/}
+      {/*<MainChoice />*/}
+      {/*<MainSelection />*/}
     </section>
   );
 };
