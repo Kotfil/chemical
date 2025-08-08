@@ -15,20 +15,22 @@ export default async function ProductTable() {
     <TableContainer
       component={Paper}
       sx={{
-        minWidth: 700,
+        minWidth: 320,
+        maxWidth: '100vw',
+        overflowX: 'auto', // прокрутка при узком экране
         fontSize: 'clamp(12px, 1.5vw, 18px)',
       }}
     >
-      <Table size="small" sx={{ minWidth: 700, fontSize: 'clamp(12px, 1.5vw, 18px)' }} aria-label="explosives table">
+      <Table
+        size="small"
+        sx={{
+          minWidth: 700, // чтобы таблица не сжималась меньше
+          fontSize: 'clamp(12px, 1.5vw, 18px)',
+        }}
+        aria-label="explosives table"
+      >
         <TableHead>
-          <TableRow>
-            <TableCell>
-              <strong>Item / Abbreviation</strong>
-            </TableCell>
-            <TableCell>
-              <strong>Translation / Description</strong>
-            </TableCell>
-          </TableRow>
+          <TableRow></TableRow>
         </TableHead>
         <TableBody>
           {rows.map((row, index) => (

@@ -7,7 +7,7 @@ export default async function AboutSafran() {
   const aboutText = dict.about_section.about_text;
 
   return (
-    <section className="max-w-[1200px] mx-auto px-5 py-16">
+    <section className="max-w-[1200px] mx-auto px-5 py-3">
       <Card>
         <CardBody>
           {aboutText.intro.map((paragraph: string, i: number) => (

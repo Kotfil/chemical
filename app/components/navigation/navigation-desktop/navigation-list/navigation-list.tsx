@@ -7,9 +7,9 @@ import NextLink from 'next/link';
 import clsx from 'clsx';
 import { usePathname } from 'next/navigation';
 import { useTranslation } from '@/app/components/i18n/I18n-context';
-import { NavItem } from '@/app/components/navigation/navigation-desktop/navigation-menu/navigation-menu.types';
+import { NavItem } from '@/app/components/navigation/navigation-desktop/navigation-list/navigation-menu.types';
 
-export const NavigationMenu = () => {
+export const NavigationList = () => {
   const t = useTranslation() as any;
   const pathname = usePathname();
 

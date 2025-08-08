@@ -1,14 +1,10 @@
 import { Button } from '@heroui/button';
 import {
-  FacebookIcon,
   GumletIcon,
-  InstagramIcon,
   JabberIcon,
   RumbleIcon,
   TelegramIcon,
   TelegraphIcon,
-  ViberIcon,
-  WeChatIcon,
   WhatsappIcon,
 } from '@/app/components/icon/icons';
 import { Grid } from '@mui/material';
@@ -36,9 +32,6 @@ export const SocialIcons = () => (
           </a>
         </Tooltip>
       </Grid>
-    </Grid>
-
-    <Grid display="flex" alignItems="center">
       <Grid p={0.2}>
         <Tooltip content="Telegram">
           <a href="https://t.me/hksafran" target="_blank" rel="noopener noreferrer">
@@ -48,8 +41,10 @@ export const SocialIcons = () => (
           </a>
         </Tooltip>
       </Grid>
+    </Grid>
 
-      <Grid p={0.2} pt={1}>
+    <Grid display="flex" alignItems="center">
+      <Grid p={0.2}>
         <Tooltip content="Telegraph">
           <a
             href="https://telegra.ph/Hong-Kong-Safran-Industry-Co-Limited-08-05"

@@ -91,71 +91,75 @@
     "title": "LIST OF OUR PRODUCTS",
     "product_table": [
       {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel tube"
+        "english": "Trinitrotoluene (TNT)",
+        "translation": "导爆管 Nonel tube"
       },
       {
-        "english": "RDX – Hexogen",
-        "translation": "Detonating Cord"
+        "english": "Hexogen (RDX)",
+        "translation": "导爆索 Detonating Cord"
       },
       {
-        "english": "HMX – Octogen",
-        "translation": "Electric Detonator"
+        "english": "Octogen (HMX)",
+        "translation": "电雷管 Electric Detonator"
       },
       {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Electronic Detonator"
+        "english": "Porous prills ammonium nitrate (PPAN)",
+        "translation": "电子雷管 Electronic Detonator"
       },
       {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Non-electric Detonator"
+        "english": "Chemical pure ammonium nitrate (CPAN)",
+        "translation": "非电雷管 Non-electric Detonator"
       },
       {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluene Diisocyanate"
+        "english": "Plastic explosive (C4)",
+        "translation": "甲苯二异性氰酸酯 Toluene Diisocyanate"
       },
       {
-        "english": "NC – Nitrocellulose",
-        "translation": "Module"
+        "english": "Nitrocellulose (NC)",
+        "translation": "模组 Module"
       },
       {
-        "english": "SODIUM CYANIDE",
-        "translation": "Booster"
+        "english": "Sodium cyanide",
+        "translation": "起爆具 Booster"
       },
       {
-        "english": "SODIUM NITRATE",
-        "translation": "Sodium Cyanide-1756x2048"
+        "english": "Sodium nitrate",
+        "translation": "氨化钠 Sodium Cyanide-1756x2048"
       },
       {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsion Explosive"
+        "english": "Sodium perchlorate (NaClO4)",
+        "translation": "乳化炸药 Emulsion Explosive"
       },
       {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Water Gel explosive"
+        "english": "Ammonium nitrate (AN)",
+        "translation": "水胶炸药 Water Gel explosive"
       },
       {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerythritol tetranitrate"
+        "english": "Ammonium perchlorate (AP)",
+        "translation": "太安 PETN Pentaerythritol tetranitrate"
       },
       {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
+        "english": "Nitric acid",
+        "translation": "芯片 Chip"
       },
       {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismic Explosive Cartridges"
+        "english": "Magnesium nitrate",
+        "translation": "震源药柱 Seismic Explosive Cartridges"
       },
       {
-        "english": "POTASSIUM NITRATE (KNO₃)",
+        "english": "Potassium nitrate (KNO3)",
         "translation": "COPPER-CLAD STEEL composite materials"
       },
       {
-        "english": "POTASSIUM PERCHLORATE",
+        "english": "Potassium perchlorate (KClO3)",
         "translation": "COLD-ROLLED STEEL CLAD with copper and brass"
       },
       {
-        "english": "SODIUM AZIDE",
+        "english": "Sodium azide",
+        "translation": ""
+      },
+      {
+        "english": "Black powder",
         "translation": ""
       },
       {
@@ -163,11 +167,11 @@
         "translation": ""
       },
       {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
+        "english": "Piric acid (trinitrocresol, TNP)",
         "translation": ""
       },
       {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
+        "english": "Nitroglycerin (C3H5N3O9)",
         "translation": ""
       }
     ]

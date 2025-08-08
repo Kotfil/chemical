@@ -21,7 +21,7 @@ export default async function LocaleLayout({ children }: { children: React.React
           <StyledComponentsRegistry>
             <div className="relative flex flex-col h-screen">
               <Navigation />
-              <main className="container mx-auto max-w-7xl pt-16 px-6 flex-grow">{children}</main>
+              <main className="container mx-auto max-w-7xl pt-1 px-6 flex-grow">{children}</main>
               <footer className="w-full flex items-center justify-center py-3" />
             </div>
           </StyledComponentsRegistry>
