@@ -1,9 +1,12 @@
 import { Button } from '@heroui/button';
 import {
   FacebookIcon,
+  GumletIcon,
   InstagramIcon,
   JabberIcon,
+  RumbleIcon,
   TelegramIcon,
+  TelegraphIcon,
   ViberIcon,
   WeChatIcon,
   WhatsappIcon,
@@ -16,31 +19,14 @@ export const SocialIcons = () => (
     <Grid display="flex" alignItems="center">
       <Grid p={0.2}>
         <Tooltip content="Jabber">
-          <a href="https://example.com/jabber" target="_blank" rel="noopener noreferrer">
+          <a href="https://safran-hk@xmpp.is" target="_blank" rel="noopener noreferrer">
             <Button isIconOnly aria-label="Jabber" variant="ghost">
               <JabberIcon />
             </Button>
           </a>
         </Tooltip>
       </Grid>
-      <Grid p={0.2}>
-        <Tooltip content="WeChat">
-          <a href="https://example.com/wechat" target="_blank" rel="noopener noreferrer">
-            <Button isIconOnly aria-label="WeChat" variant="ghost">
-              <WeChatIcon />
-            </Button>
-          </a>
-        </Tooltip>
-      </Grid>
-      <Grid p={0.2}>
-        <Tooltip content="Viber">
-          <a href="https://example.com/viber" target="_blank" rel="noopener noreferrer">
-            <Button isIconOnly aria-label="Viber" variant="ghost">
-              <ViberIcon />
-            </Button>
-          </a>
-        </Tooltip>
-      </Grid>
+
       <Grid p={0.2}>
         <Tooltip content="WhatsApp">
           <a href="https://wa.me/37281547893" target="_blank" rel="noopener noreferrer">
@@ -64,20 +50,33 @@ export const SocialIcons = () => (
       </Grid>
 
       <Grid p={0.2} pt={1}>
-        <Tooltip content="Facebook">
-          <a href="https://facebook.com/example" target="_blank" rel="noopener noreferrer">
+        <Tooltip content="Telegraph">
+          <a
+            href="https://telegra.ph/Hong-Kong-Safran-Industry-Co-Limited-08-05"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Button isIconOnly aria-label="Facebook" color="primary">
-              <FacebookIcon />
+              <TelegraphIcon />
             </Button>
           </a>
         </Tooltip>
       </Grid>
 
       <Grid p={0.2}>
-        <Tooltip content="Instagram">
-          <a href="https://instagram.com/example" target="_blank" rel="noopener noreferrer">
-            <Button isIconOnly aria-label="Instagram" variant="bordered">
-              <InstagramIcon />
+        <Tooltip content="Rumble">
+          <a href="https://rumble.com/user/safran_eu" target="_blank" rel="noopener noreferrer">
+            <Button isIconOnly aria-label="Rumble" variant="bordered">
+              <RumbleIcon />
+            </Button>
+          </a>
+        </Tooltip>
+      </Grid>
+      <Grid p={0.2}>
+        <Tooltip content="Gumlet.Tv">
+          <a href="https://gumlet.tv/channel/6894505ba5cebfc625e07ab1/" target="_blank" rel="noopener noreferrer">
+            <Button isIconOnly aria-label="Gumlet.Tv" variant="bordered">
+              <GumletIcon />
             </Button>
           </a>
         </Tooltip>

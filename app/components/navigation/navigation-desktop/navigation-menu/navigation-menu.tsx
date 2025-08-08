@@ -7,7 +7,7 @@ import NextLink from 'next/link';
 import clsx from 'clsx';
 import { usePathname } from 'next/navigation';
 import { useTranslation } from '@/app/components/i18n/I18n-context';
-import { NavItem } from '@/app/components/navigation/navigation-menu/navigation-menu.types';
+import { NavItem } from '@/app/components/navigation/navigation-desktop/navigation-menu/navigation-menu.types';
 
 export const NavigationMenu = () => {
   const t = useTranslation() as any;

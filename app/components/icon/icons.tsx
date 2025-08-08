@@ -178,48 +178,78 @@ export const TelegramIcon = ({
   );
 };
 
-export const FacebookIcon = ({
+export const TelegraphIcon = ({
   size = 50,
-  colors = ['#1877F2', '#145DBF', '#0F46A0', '#0A3682'], // Пример оттенков синего для Facebook
+  colors = ['#F8FAFB', '#E2E8F0', '#CBD5E1', '#94A3B8'], // светлый градиент
   ...props
 }: {
   size?: number;
   colors?: string[];
 } & React.SVGProps<SVGSVGElement>) => (
-  <svg width={size} height={size} viewBox="0 -3 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+  <svg width={size} height={size} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+    <defs>
+      <radialGradient id="telegraph-gradient" cx="50%" cy="50%" r="50%">
+        <stop offset="0%" stopColor={colors[0]} />
+        <stop offset="40%" stopColor={colors[1]} />
+        <stop offset="70%" stopColor={colors[2]} />
+        <stop offset="100%" stopColor={colors[3]} />
+      </radialGradient>
+    </defs>
+    <circle cx="32" cy="32" r="32" fill="url(#telegraph-gradient)" />
     <path
-      d="M16 8C16 3.6 12.4 0 8 0C3.6 0 0 3.6 0 8C0 12 2.9 15.3 6.7 15.9V10.3H4.7V8H6.7V6.2C6.7 4.2 7.9 3.1 9.7 3.1C10.6 3.1 11.5 3.3 11.5 3.3V5.3H10.5C9.5 5.3 9.2 5.9 9.2 6.5V8H11.4L11 10.3H9.1V16C13.1 15.4 16 12 16 8Z"
+      d="M16 33.5L46.2 22.3C47.5 21.8 48.8 22.9 48.3 24.3L42.3 43.3C41.9 44.6 40.3 45.1 39.3 44.2L33.1 38.6L28.6 43.2C28.3 43.6 27.8 43.8 27.3 43.8L27.2 43.8C26 43.8 25.2 42.5 25.6 41.4L30.2 28.6L18 35.2C16.7 35.9 15.2 34.3 16 33.5Z"
+      fill="#1F2937"
+    />
+  </svg>
+);
+
+export const GumletIcon = ({
+  size = 50,
+  colors = ['#FF6C37', '#FF5B2B', '#E14A1F', '#B93816'], // оттенки оранжевого
+  ...props
+}: {
+  size?: number;
+  colors?: string[];
+} & React.SVGProps<SVGSVGElement>) => (
+  <svg width={size} height={size} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+    <defs>
+      <linearGradient id="gumlet-gradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stopColor={colors[0]} />
+        <stop offset="33%" stopColor={colors[1]} />
+        <stop offset="66%" stopColor={colors[2]} />
+        <stop offset="100%" stopColor={colors[3]} />
+      </linearGradient>
+    </defs>
+    <rect width="64" height="64" rx="12" fill="url(#gumlet-gradient)" />
+    <path
+      d="M32.6 18.7c-6.2 0-11.3 5-11.3 11.3 0 6.2 5 11.3 11.3 11.3 4.8 0 9.1-3 10.6-7.3H37.1c-0.7 1.4-2.1 2.3-3.8 2.3-2.4 0-4.3-2-4.3-4.3s2-4.3 4.3-4.3c1.7 0 3.1 0.9 3.8 2.3h6.1c-1.4-4.3-5.7-7.3-10.6-7.3Z"
       fill="white"
     />
   </svg>
 );
 
-export const InstagramIcon = ({
-  size = 25,
-  colors = ['#f09433', '#e6683c', '#dc2743', '#cc2366'],
+export const RumbleIcon = ({
+  size = 50,
+  colors = ['#7FEA3C', '#57C937', '#3BA631', '#1E802A'], // зелёные оттенки Rumble
   ...props
 }: {
   size?: number;
   colors?: string[];
 } & React.SVGProps<SVGSVGElement>) => (
-  <svg width={size} height={size} viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
+  <svg width={size} height={size} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
     <defs>
-      <linearGradient id="igGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <linearGradient id="rumble-gradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
         <stop offset="0%" stopColor={colors[0]} />
-        <stop offset="25%" stopColor={colors[1]} />
-        <stop offset="50%" stopColor={colors[2]} />
+        <stop offset="33%" stopColor={colors[1]} />
+        <stop offset="66%" stopColor={colors[2]} />
         <stop offset="100%" stopColor={colors[3]} />
       </linearGradient>
     </defs>
+    <rect width="64" height="64" rx="12" fill="url(#rumble-gradient)" />
     <path
-      d="M7 2C4.24 2 2 4.24 2 7v10c0 2.76 2.24 5 5 5h10c2.76 0 5-2.24 5-5V7c0-2.76-2.24-5-5-5H7zm10 2a3 3 0 0 1 3 3v10a3 3 0 0 1-3 3H7a3 3 0 0 1-3-3V7a3 3 0 0 1 3-3h10z"
-      fill="url(#igGradient)"
+      d="M31.1 16.2C30.1 15.1 28.4 15.1 27.4 16.2L15.6 30.2C14.8 31.1 14.8 32.5 15.6 33.4L27.4 47.4C28.4 48.5 30.1 48.5 31.1 47.4L42.9 33.4C43.7 32.5 43.7 31.1 42.9 30.2L31.1 16.2ZM28.8 25.4L35.5 31.8L28.8 38.2V25.4Z"
+      fill="white"
     />
-    <path
-      d="M12 7a5 5 0 1 0 0.001 10.001A5 5 0 0 0 12 7zm0 2a3 3 0 1 1 0.001 6.001A3 3 0 0 1 12 9z"
-      fill="url(#igGradient)"
-    />
-    <circle cx="17.5" cy="6.5" r="1.5" fill="url(#igGradient)" />
   </svg>
 );
 

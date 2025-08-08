@@ -1,22 +1,26 @@
 import { Grid } from '@mui/material';
-import { getLocaleDict } from '@/app/i18n-service';
-export const dynamic = 'force-dynamic';
+import { NavbarBrand, NavbarContent } from '@heroui/navbar';
+import NextLink from 'next/link';
+import { LogoWrapper } from '@/app/components/navigation/navigation.styles';
+import Image from 'next/image';
+import { Client18nProvider } from '@/app/components/i18n/client-18n-provider';
+import { NavigationTitleText } from '@/app/components/navigation/navigation-title/navigation-title-text/navigation-title-text';
 
-export const NavigationTitle = async () => {
-  const { dict } = await getLocaleDict();
+export const NavigationTitle = () => {
   return (
-    <>
-      <Grid>
-        <p className="font-bold text-[clamp(0.45rem,1.54vw,1.15rem)] leading-tight">{dict.navigation.title}</p>
-      </Grid>
-      <Grid>
-        <p className="mt-1 text-[clamp(0.75rem,2vw,1.25rem)] opacity-80 leading-snug">{dict.navigation.subtitle}</p>
-      </Grid>
-      <Grid>
-        <p className="mt-1 text-[clamp(0.75rem,2vw,1.25rem)] opacity-80 leading-snug">
-          {dict.navigation.subtitle_second}
-        </p>
-      </Grid>
-    </>
+    <NavbarContent className="basis-1/5 sm:basis-full" justify="start">
+      <NavbarBrand as="li" className="gap-3 max-w-fit">
+        <NextLink className="flex justify-start items-center gap-1" href="/">
+          <LogoWrapper>
+            <Image src={'/assets/LOGO.png'} alt="Logo" width={120} height={60} priority />
+          </LogoWrapper>
+          <Grid width={'100%'} height={'100%'}>
+            <Client18nProvider>
+              <NavigationTitleText />
+            </Client18nProvider>
+          </Grid>
+        </NextLink>
+      </NavbarBrand>
+    </NavbarContent>
   );
 };
