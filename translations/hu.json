@@ -10,7 +10,8 @@
       {
         "label": "Galéria",
         "href": "/gallery"
-      }
+      },
+      { "label": "Rólunk", "href": "/about" }
     ]
   },
   "main_section": {

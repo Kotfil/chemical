@@ -11,7 +11,7 @@
       {
         "label": "Galeria",
         "href": "/gallery"
-      }
+      },{ "label": "O nas", "href": "/about" }
     ]
   },
 

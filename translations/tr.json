@@ -10,7 +10,8 @@
       {
         "label": "Galeri",
         "href": "/gallery"
-      }
+      },
+      { "label": "Hakkımızda", "href": "/about" }
     ]
   },
   "main_section": {

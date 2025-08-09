@@ -10,7 +10,8 @@
       {
         "label": "Galerija",
         "href": "/gallery"
-      }
+      },
+      { "label": "Apie mus", "href": "/about" }
     ]
   },
 

@@ -10,7 +10,8 @@
       {
         "label": "画廊",
         "href": "/gallery"
-      }
+      },
+      { "label": "关于我们", "href": "/about" }
     ]
   },
   "main_section": {

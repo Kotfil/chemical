@@ -10,7 +10,8 @@
       {
         "label": "Galleri",
         "href": "/gallery"
-      }
+      },
+      { "label": "Om os", "href": "/about" }
     ]
   },
 

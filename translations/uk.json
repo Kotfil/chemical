@@ -19,7 +19,8 @@
       {
         "label": "Галерея",
         "href": "/gallery"
-      }
+      },
+      { "label": "Про нас", "href": "/about" }
     ]
   },
   "main_section": {

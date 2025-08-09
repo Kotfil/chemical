@@ -10,7 +10,8 @@
       {
         "label": "Galleria",
         "href": "/gallery"
-      }
+      },
+      { "label": "Tietoa meistä", "href": "/about" }
     ]
   },
 

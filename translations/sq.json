@@ -10,7 +10,8 @@
       {
         "label": "Galeria",
         "href": "/gallery"
-      }
+      },
+      { "label": "Rreth nesh", "href": "/about" }
     ]
   },
   "main_section": {

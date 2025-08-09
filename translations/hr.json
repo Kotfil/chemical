@@ -10,7 +10,8 @@
       {
         "label": "Galerija",
         "href": "/gallery"
-      }
+      },
+      { "label": "O nama", "href": "/about" }
     ]
   },
   "main_section": {

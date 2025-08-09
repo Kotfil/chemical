@@ -10,7 +10,8 @@
       {
         "label": "Galerii",
         "href": "/gallery"
-      }
+      },
+      { "label": "Meist", "href": "/about" }
     ]
   },
 

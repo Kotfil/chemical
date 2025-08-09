@@ -10,7 +10,8 @@
       {
         "label": "Galerie",
         "href": "/gallery"
-      }
+      },
+      { "label": "À propos", "href": "/about" }
     ]
   },
 

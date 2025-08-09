@@ -1,20 +1,12 @@
 'use client';
 
 import React, { FC, Suspense, useEffect, useState } from 'react';
-import {
-  Button,
-  Modal,
-  ModalBody,
-  ModalContent,
-  ModalFooter,
-  ModalHeader,
-  Skeleton,
-  useDisclosure,
-} from '@heroui/react';
+import { Button, Modal, ModalBody, ModalContent, ModalHeader, Skeleton, useDisclosure } from '@heroui/react';
 import { Flag } from './localization.styles';
 import { PlanetIcon } from '@/app/components/icon/icons';
 import { useRouter } from 'next/navigation';
 import { languagesListMock } from '@/mock/languages-list.mock';
+import useMediaQuery from '@mui/material/useMediaQuery';
 
 export const Localization: FC = () => {
   const { isOpen, onOpen, onOpenChange } = useDisclosure();
@@ -45,6 +37,7 @@ export const Localization: FC = () => {
     onOpenChange();
     router.refresh();
   };
+  const isSmallScreen = useMediaQuery('(max-width:500px)');
 
   const currentLang = mounted ? languagesListMock.find(lang => lang.locale === currentLangCode) : null;
 
@@ -69,7 +62,7 @@ export const Localization: FC = () => {
                   {languagesListMock.map(({ title, alt, link, locale }, i) => (
                     <Button
                       key={i}
-                      size="md"
+                      size="lg"
                       variant={currentLangCode === locale ? 'solid' : 'flat'}
                       color={currentLangCode === locale ? 'primary' : 'default'}
                       onPress={() => {
@@ -78,16 +71,11 @@ export const Localization: FC = () => {
                       }}
                       endContent={<Flag width={30} height={30} src={link} alt={alt} />}
                     >
-                      {title}
+                      {!isSmallScreen && title}
                     </Button>
                   ))}
                 </div>
               </ModalBody>
-              <ModalFooter>
-                <Button color="default" onPress={onClose}>
-                  Close
-                </Button>
-              </ModalFooter>
             </>
           )}
         </ModalContent>

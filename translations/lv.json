@@ -10,7 +10,8 @@
       {
         "label": "Galerija",
         "href": "/gallery"
-      }
+      },
+      { "label": "Par mums", "href": "/about" }
     ]
   },
 

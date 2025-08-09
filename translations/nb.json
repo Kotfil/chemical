@@ -10,7 +10,8 @@
       {
         "label": "Galleri",
         "href": "/gallery"
-      }
+      },
+      { "label": "Om oss", "href": "/about" }
     ]
   },
   "main_section": {

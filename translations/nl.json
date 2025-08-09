@@ -10,7 +10,8 @@
       {
         "label": "Galerij",
         "href": "/gallery"
-      }
+      },
+      { "label": "Over ons", "href": "/about" }
     ]
   },
 
