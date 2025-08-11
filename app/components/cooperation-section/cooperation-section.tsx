@@ -12,7 +12,7 @@ export const CooperationSection: FC = async () => {
       <Grid pb={2} pt={3}>
         <TitleSection>{dict.cooperation_section.title as string}</TitleSection>
       </Grid>
-      <Grid>
+      <Grid width={'100%'} alignItems={'center'} display={'flex'}>
         <Client18nProvider>
           <CooperationSchedule />
         </Client18nProvider>
