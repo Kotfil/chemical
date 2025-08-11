@@ -11,21 +11,8 @@ export const ProductsSection: FC = async () => {
       <Grid pb={3} pt={4}>
         <TitleSection>{dict.product_section.title as string}</TitleSection>
       </Grid>
-      <Grid
-        container
-        justifyContent="center"
-        sx={{
-          width: '100%',
-          overflowX: 'hidden',
-        }}
-      >
-        <Grid
-          sx={{
-            width: '100%',
-            maxWidth: '100%',
-            overflowX: 'auto',
-          }}
-        >
+      <Grid container justifyContent="center" sx={{ width: '100%', overflowX: 'hidden' }}>
+        <Grid sx={{ width: '100%', maxWidth: '100%' }}>
           <ProductTable />
         </Grid>
       </Grid>

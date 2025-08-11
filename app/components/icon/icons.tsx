@@ -229,7 +229,7 @@ export const GumletIcon = ({
 );
 
 export const RumbleIcon = ({
-  size = 50,
+  size = 35,
   colors = ['#7FEA3C', '#57C937', '#3BA631', '#1E802A'], // зелёные оттенки Rumble
   ...props
 }: {

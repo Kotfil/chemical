@@ -15,7 +15,7 @@ export const SocialIcons = () => (
     <Grid display="flex" alignItems="center">
       <Grid p={0.2}>
         <Tooltip content="Jabber">
-          <a href="https://safran-hk@xmpp.is" target="_blank" rel="noopener noreferrer">
+          <a href="xmpp:safran-hk@xmpp.is" target="_blank" rel="noopener noreferrer">
             <Button isIconOnly aria-label="Jabber" variant="ghost">
               <JabberIcon />
             </Button>
@@ -58,12 +58,10 @@ export const SocialIcons = () => (
         </Tooltip>
       </Grid>
 
-      <Grid p={0.2}>
+      <Grid p={0.2} pb={1}>
         <Tooltip content="Rumble">
           <a href="https://rumble.com/user/safran_eu" target="_blank" rel="noopener noreferrer">
-            <Button isIconOnly aria-label="Rumble" variant="bordered">
-              <RumbleIcon />
-            </Button>
+            <RumbleIcon />
           </a>
         </Tooltip>
       </Grid>

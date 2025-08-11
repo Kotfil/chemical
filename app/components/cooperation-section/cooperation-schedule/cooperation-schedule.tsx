@@ -25,6 +25,7 @@ export default function CooperationSchedule() {
           'text-red font-blogger flex items-center justify-center text-center rounded-md bg-blue-500 font-semibold',
 
         style: {
+          fontSize: '1.5rem',
           width: nodeWidth,
           height: nodeHeight,
           borderRadius: 10,

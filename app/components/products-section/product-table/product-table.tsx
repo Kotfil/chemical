@@ -16,17 +16,15 @@ export default async function ProductTable() {
       component={Paper}
       sx={{
         width: '100%',
-        maxWidth: '3840px',
-        minWidth: 320,
-        mx: 'auto', // по центру экрана
-        overflowX: 'auto',
+        maxWidth: '100%',
         fontSize: 'clamp(12px, 1.5vw, 18px)',
       }}
     >
       <Table
         size="small"
         sx={{
-          minWidth: 700,
+          width: '100%',
+          tableLayout: 'auto',
           fontSize: 'clamp(12px, 1.5vw, 18px)',
         }}
         aria-label="explosives table"
