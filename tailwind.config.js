@@ -9,9 +9,13 @@ const config = {
   ],
   theme: {
     extend: {
+      screens: {
+        xs: '320px',
+      },
       fontFamily: {
         sans: ['var(--font-sans)'],
         mono: ['var(--font-mono)'],
+        blogger: ['var(--font-blogger)', 'ui-sans-serif', 'system-ui'],
       },
     },
   },

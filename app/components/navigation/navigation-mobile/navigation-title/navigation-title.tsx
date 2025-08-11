@@ -4,7 +4,7 @@ import NextLink from 'next/link';
 import { LogoWrapper } from '@/app/components/navigation/navigation.styles';
 import Image from 'next/image';
 import { Client18nProvider } from '@/app/components/i18n/client-18n-provider';
-import { NavigationTitleText } from '@/app/components/navigation/navigation-title/navigation-title-text/navigation-title-text';
+import { NavigationTitleText } from '@/app/components/navigation/navigation-mobile/navigation-title/navigation-title-text/navigation-title-text';
 
 export const NavigationTitle = () => {
   return (

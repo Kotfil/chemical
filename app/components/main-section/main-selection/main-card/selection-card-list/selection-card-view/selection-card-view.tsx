@@ -6,11 +6,13 @@ import { SubtitleSection } from '@/app/components/subtitle-section/subtitle-sect
 
 export const SelectionCardView: FC<SelectionCardProps> = ({ title, text }) => {
   return (
-    <Card className="max-w-[400px]">
-      <CardBody>
+    <Card className="max-w-[400px] h-[210px]">
+      {' '}
+      {/* фиксированная высота */}
+      <CardBody className="flex flex-col h-full">
         <SubtitleSection>{title}</SubtitleSection>
         <Divider />
-        <p>{text}</p>
+        <p className="pt-1 font-blogger flex-grow overflow-hidden">{text}</p> {/* чтобы текст не влиял на высоту */}
       </CardBody>
     </Card>
   );

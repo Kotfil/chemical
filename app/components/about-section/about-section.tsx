@@ -6,10 +6,15 @@ import { TitleSection } from '@/app/components/title-section/title-section';
 
 export const AboutSection: FC = async () => {
   const { dict } = await getLocaleDict();
+  const fullTitle = dict.about_section.title as string;
+
+  const [mainTitle, subTitle] = fullTitle.split(':', 2);
+
   return (
-    <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2}>
-      <Grid>
-        <TitleSection> {dict.about_section.title as string}</TitleSection>
+    <Grid width="100%" display="flex" flexDirection="column" px={2}>
+      <Grid pb={2} pt={4}>
+        <TitleSection>{mainTitle.trim()}</TitleSection>
+        {subTitle && <TitleSection>{subTitle.trim()}</TitleSection>}
       </Grid>
       <Grid>
         <AboutSafran />

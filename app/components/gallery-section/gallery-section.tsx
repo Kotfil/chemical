@@ -1,21 +1,15 @@
 import { Grid } from '@mui/material';
 import { GalleryPhoto } from '@/app/components/gallery-section/gallery-photo/gallery-photo';
-import { GalleryVideo } from '@/app/components/gallery-section/gallery-video/gallery-video';
-import { getLocaleDict } from '@/app/i18n-service';
-import { TitleSection } from '@/app/components/title-section/title-section';
+import { GalleryVideoList } from '@/app/components/gallery-section/gallery-video-list/gallery-video-list';
 
-export const GallerySection = async () => {
-  const { dict } = await getLocaleDict();
+export const GallerySection = () => {
   return (
     <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2}>
-      <Grid>
-        <TitleSection> {dict.gallery_section.title as string}</TitleSection>
-      </Grid>
-      <Grid>
+      <Grid pb={2} pt={3}>
         <GalleryPhoto />
       </Grid>
       <Grid>
-        <GalleryVideo />
+        <GalleryVideoList />
       </Grid>
     </Grid>
   );

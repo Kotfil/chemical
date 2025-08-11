@@ -2,7 +2,7 @@ import { Grid } from '@mui/material';
 import { Divider } from '@heroui/divider';
 import { Client18nProvider } from '@/app/components/i18n/client-18n-provider';
 import { SocialIcons } from '@/app/components/social/socialIcons';
-import { NavigationTitle } from '@/app/components/navigation/navigation-title/navigation-title';
+import { NavigationTitle } from '@/app/components/navigation/navigation-mobile/navigation-title/navigation-title';
 import { Navbar as HeroUINavbar, NavbarContent } from '@heroui/navbar';
 import { NavigationList } from '@/app/components/navigation/navigation-desktop/navigation-list/navigation-list';
 import { NavigationOption } from '@/app/components/navigation/navigation-desktop/navigation-option/navigation-option';

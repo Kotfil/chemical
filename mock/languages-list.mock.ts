@@ -55,12 +55,6 @@ export const languagesListMock = [
     locale: 'nb',
   },
   {
-    title: 'Português',
-    alt: 'Brazilian Flag',
-    link: `https://cdn-cf.cms.flixbus.com/drupal-assets/flags/pt-br.min.svg`,
-    locale: 'pt-BR',
-  },
-  {
     title: 'Slovenščina',
     alt: 'Slovenian Flag',
     link: `https://cdn-cf.cms.flixbus.com/drupal-assets/flags/sl.min.svg`,

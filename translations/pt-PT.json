@@ -1,76 +1,73 @@
 {
   "navigation": {
     "title": "HONGKONG SAFRAN INDUSTRY CO. LIMITED.",
-    "subtitle": "Sala F, 6.º andar, Mega Cube, n.º 8 Wang Kwong Road, KL, Hong Kong",
+    "subtitle": "Flat/RM F 6/F Mega Cube No.8 Wang Kwong Road KL, Hong Kong",
     "subtitle_second": "Fundada em 2009",
     "navigation_list": [
       { "label": "Início", "href": "/" },
       { "label": "Produtos", "href": "/products" },
       { "label": "Cooperação", "href": "/co-operation" },
-      {
-        "label": "Galeria",
-        "href": "/gallery"
-      },
+      { "label": "Galeria", "href": "/gallery" },
       { "label": "Sobre nós", "href": "/about" }
     ]
   },
   "main_section": {
-    "title_first": "FORNECEDOR INTEGRADO DE SOLUÇÕES DE ",
-    "title_second": "DETONAÇÃO CIVIL E ",
+    "title_first": "SOLUÇÃO INTEGRAL DE FORNECIMENTO DE",
+    "title_second": "DESENVOLVIMENTO CIVIL E",
     "title_third": "MATÉRIAS-PRIMAS QUÍMICAS",
     "main_choice": {
-      "title": "PORQUE É QUE OS CLIENTES CONFIAM EM NÓS?",
+      "title": "POR QUE OS CLIENTES CONFIAM EM NÓS?",
       "main_choice_list": [
         {
           "id": 1,
-          "text": "Estamos aprovados pelo Departamento de Defesa Nacional para exportar materiais explosivos de excelente qualidade para as indústrias de mineração, extração e construção."
+          "text": "Somos aprovados pelo Ministério da Defesa Nacional para exportar material explosivo de excelente qualidade para as indústrias de mineração, pedreiras e construção."
         },
         {
           "id": 2,
-          "text": "Somos uma empresa registada como agente de comércio internacional no Ministério do Comércio da China."
+          "text": "Somos uma empresa agente comercial internacional registada no Ministério do Comércio da China."
         },
         {
           "id": 3,
-          "text": "Somos membros da direção executiva da Associação Chinesa de Importação e Exportação."
+          "text": "Somos membros executivos da Associação Chinesa de Importação e Exportação."
         },
         {
           "id": 4,
-          "text": "Fomos distinguidos com a credibilidade 3A pela Associação Chinesa de Importação e Exportação nos últimos 4 anos consecutivos."
+          "text": "Fomos distinguidos pela Associação Chinesa de Importação e Exportação com credibilidade 3A nos últimos quatro anos consecutivos."
         }
       ]
     },
     "main_selection": {
-      "title": "PORQUE ESCOLHER-NOS?",
+      "title": "POR QUE ESCOLHER-NOS?",
       "main_selection_list": [
         {
           "id": 1,
-          "title": "PARCEIROS SÓLIDOS E ESTÁVEIS",
-          "text": "Colaboramos com muitos fabricantes de renome nacionais e internacionais. Temos uma cadeia de fornecimento estável que nos permite oferecer o melhor preço e qualidade consistente. De acordo com o seu mercado, escolhemos a melhor origem dos produtos para satisfazer as suas necessidades."
+          "title": "PARCEIROS FORTES E ESTÁVEIS",
+          "text": "Cooperamos com vários fabricantes renomados nacionais e internacionais. Temos uma cadeia de abastecimento estável que nos permite oferecer o melhor preço e qualidade constante; conforme o seu mercado, escolhemos a melhor fonte de mercadorias para atender às suas exigências."
         },
         {
           "id": 2,
           "title": "LOCALIZAÇÃO CONVENIENTE",
-          "text": "Fornecemos os melhores preços e qualidade estável. De acordo com o seu mercado, selecionamos com precisão e oferecemos tranquilidade aos nossos clientes."
+          "text": "Oferecemos o melhor preço e qualidade consistente; adaptamo-nos ao seu mercado de forma mais precisa, tranquilizando os clientes."
         },
         {
           "id": 3,
-          "title": "SISTEMA DE TRABALHO EFICIENTE",
-          "text": "Com muitos anos de experiência, trabalhamos com agentes de transporte experientes. Planeamos os pedidos atempadamente e equilibramos o tempo de envio com os custos para ajudar os clientes a poupar, sem atrasar os seus planos de venda."
+          "title": "SISTEMA DE TRABALHO EXPERIENTE",
+          "text": "Com anos de experiência, contamos com agentes de transporte consolidados. Planeamos pedidos atempadamente e equilibramos prazos de envio e custos para ajudar os clientes a poupar, sem atrasar os planos de venda."
         },
         {
           "id": 4,
           "title": "GARANTIA DE QUALIDADE",
-          "text": "Podemos fornecer COA, COO, MSDS, TDS e outros certificados necessários para facilitar o desalfandegamento e verificar a qualidade dos produtos."
+          "text": "Podemos fornecer COA, COO, MSDS, TDS e outros certificados necessários para facilitar o processo de desalfandegamento e assegurar a qualidade do produto."
         },
         {
           "id": 5,
           "title": "ENTREGA RÁPIDA",
-          "text": "Com base na nossa forte cadeia de fornecimento e experiência logística, conseguimos expedir rapidamente de acordo com o prazo acordado, garantindo a chegada da mercadoria ao porto de destino sem atrasos."
+          "text": "Com base na nossa cadeia de abastecimento robusta e expertise em logística, podemos despachar rapidamente dentro do prazo acordado, assegurando que a mercadoria chega ao porto de destino a tempo, sem atrasar o seu uso normal."
         },
         {
           "id": 6,
-          "title": "PREÇOS COMPETITIVOS",
-          "text": "Somos agentes de primeiro nível de vários fabricantes. Graças ao nosso grande volume de expedições, conseguimos obter preços competitivos diretamente da fábrica, aliados aos nossos serviços profissionais de exportação, o que nos torna destacados no comércio internacional."
+          "title": "PREÇO COMPETITIVO",
+          "text": "Somos agentes de primeiro nível de diversas fábricas. Graças ao nosso elevado volume de envio, conseguimos obter preços competitivos, somados aos serviços profissionais de exportação, o que nos destaca no comércio internacional."
         }
       ]
     }
@@ -78,104 +75,109 @@
   "product_section": {
     "title": "LISTA DOS NOSSOS PRODUTOS",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Tubo Nonel"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Corda Detonante"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Detonador Eléctrico"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Detonador Electrónico"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Detonador Não-Eléctrico"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Diisocianato de Tolueno"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Módulo"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Reforçador"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Cianeto de Sódio - 1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Explosivo de Emulsão"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Explosivo em Gel Aquoso"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Tetranitrato de Pentaeritritol"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Cartuchos de Explosivos Sísmicos"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Materiais Compostos de Aço Revestido a Cobre"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Aço Laminado a Frio Revestido com Cobre e Latão"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "english": "Trinitrotoluene (TNT)", "translation": "Tubo não elétrico (Nonel tube)" },
+      { "english": "Hexogen (RDX)", "translation": "Corda detonadora (Detonating Cord)" },
+      { "english": "Octogen (HMX)", "translation": "Detonador elétrico (Electric Detonator)" },
+      { "english": "Porous prills ammonium nitrate (PPAN)", "translation": "Detonador electrónico (Electronic Detonator)" },
+      { "english": "Chemical pure ammonium nitrate (CPAN)", "translation": "Detonador não elétrico (Non-electric Detonator)" },
+      { "english": "Plastic explosive (C4)", "translation": "Isocianato de tolueno (Toluene Diisocyanate)" },
+      { "english": "Nitrocellulose (NC)", "translation": "Módulo (Module)" },
+      { "english": "Sodium cyanide", "translation": "Amplificador (Booster)" },
+      { "english": "Sodium nitrate", "translation": "Cianeto de sódio (Sodium Cyanide-1756x2048)" },
+      { "english": "Sodium perchlorate (NaClO4)", "translation": "Explosivo emulsionado (Emulsion Explosive)" },
+      { "english": "Ammonium nitrate (AN)", "translation": "Explosivo em gel aquoso (Water Gel explosive)" },
+      { "english": "Ammonium perchlorate (AP)", "translation": "PETN (Pentaerythritol tetranitrate)" },
+      { "english": "Nitric acid", "translation": "Chip (Chip)" },
+      { "english": "Magnesium nitrate", "translation": "Cartuchos explosivos sísmicos (Seismic Explosive Cartridges)" },
+      { "english": "Potassium nitrate (KNO3)", "translation": "Materiais compósitos de aço revestido (COPPER-CLAD STEEL composite materials)" },
+      { "english": "Potassium perchlorate (KClO3)", "translation": "Aço laminado a frio revestido com cobre e latão (COLD-ROLLED STEEL CLAD with copper and brass)" },
+      { "english": "Sodium azide", "translation": "" },
+      { "english": "Black powder", "translation": "" },
+      { "english": "UAN", "translation": "" },
+      { "english": "Piric acid (trinitrocresol, TNP)", "translation": "" },
+      { "english": "Nitroglycerin (C3H5N3O9)", "translation": "" }
     ]
   },
   "cooperation_section": {
     "title": "ALGORITMO GERAL DE COOPERAÇÃO",
     "cooperation_schedule": {
-      "core": "ALGORITMO GERAL\nDE COOPERAÇÃO",
+      "core": "ALGORITMO GERAL\nde COOPERAÇÃO",
       "labels": [
         "Negociações",
         "Assinatura do contrato",
-        "Pagamento do sinal",
+        "Pagamento do depósito",
         "Verificação da qualidade",
         "Pagamento do montante restante",
-        "Expedição",
+        "Envio",
         "Serviço pós-venda"
       ]
     }
   },
   "gallery_section": {
-    "title": "DEMONSTRAÇÃO DOS NOSSOS PRODUTOS"
+    "title": "DEMONSTRAÇÃO DOS NOSSOS PRODUTOS",
+    "factory_title": "Fábrica",
+    "produce_title": "Produção"
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Um Pioneiro Global em Soluções Químicas Integradas",
+    "about_text": {
+      "intro": [
+        "Estabelecida em 2009 no dinâmico centro comercial de Hong Kong, a Hong Kong Safran Industry Co Limited tornou-se uma referência global no setor de nitrato de amónio e materiais explosivos. O seu crescimento tem sido impulsionado por visão estratégica apurada, inovação contínua e conformidade rigorosa com as regulamentações.",
+        "Guiada pelos princípios de segurança, eficiência e sustentabilidade, a empresa oferece soluções químicas avançadas nos setores de mineração, construção, defesa e civil. Ao cultivar um amplo portfólio de produtos e aproveitar uma rede de serviços global, a Safran evitou com sucesso a competição destrutiva baseada no preço, firmando em vez disso uma posição de mercado marcada por resiliência e singularidade."
+      ],
+      "section1": {
+        "title": "1. Alcance Global e Posicionamento Estratégico",
+        "paragraphs": [
+          "Com Hong Kong reconhecida como o terceiro maior centro financeiro do mundo e um importante porto livre de comércio, a Safran beneficia de uma base estratégica num dos ambientes mais favoráveis aos negócios. O regime fiscal favorável da cidade, logística de classe mundial e sistema bancário internacional robusto permitem à empresa responder rapidamente à procura global e integrar-se eficazmente na cadeia de abastecimento internacional.",
+          "Por exemplo, políticas de comércio isento de direitos e infraestrutura portuária moderna permitem à Safran realizar transações transfronteiriças com eficiência de custos. Simultaneamente, a empresa gere os fluxos de capital de forma fluida através de estruturas bancárias offshore. Laços estratégicos entre Hong Kong, a China continental e países alinhados com a Iniciativa Belt and Road permitem à Safran aprofundar sua presença em mercados emergentes — agora em mais de 80 países na Ásia, Médio Oriente e Américas."
+        ]
+      },
+      "section2": {
+        "title": "2. Inovação Tecnológica e Ofertas Diversificadas",
+        "paragraph1": "No cerne do sucesso duradouro da Safran está a sua sofisticação tecnológica e ampla variedade de produtos. Como principal fornecedora de nitrato de amónio da China, a empresa detém certificações de grau militar do Ministério da Defesa, garantindo segurança e desempenho incomparáveis nos seus materiais explosivos. Os seus avanços tecnológicos estenderam-se ainda ao setor de defesa, fornecendo componentes essenciais como munições de precisão, veículos blindados e drones táticos.",
+        "list": [
+          "Materiais de grau civil: nitrato de amónio, explosivos emulsionados, explosivos em gel aquoso",
+          "Soluções militares: armadura de tanques, projéteis de artilharia, UAVs táticos, sistemas de detonação inteligentes",
+          "Produtos químicos especiais: nitratos, nitrocelulose, percloratos para uso industrial de alto nível"
+        ],
+        "paragraph2": "Através de investimento contínuo em I&D, a empresa desenvolveu formulações patenteadas — desde explosivos de baixa sensibilidade até propelentes ecológicos — que aprimoram o desempenho ao mesmo tempo que constroem um robusto diferencial tecnológico."
+      },
+      "section3": {
+        "title": "3. Conformidade Regulamentar e Confiança na Indústria",
+        "paragraphs": [
+          "A Safran coloca a conformidade e a segurança no centro das suas operações. Além de certificações de autoridades regulatórias chave, incluindo o Ministério da Defesa Nacional e o Ministério dos Transportes, a empresa cumpre rigorosamente padrões reconhecidos internacionalmente como ISO 9001 para gestão da qualidade e REACH para segurança ambiental.",
+          "Por exemplo, a produção de nitrato de amónio da Safran utiliza um processo em circuito fechado, reduzindo as emissões de carbono em mais de 30% — um reflexo do compromisso da empresa com iniciativas globais de neutralidade carbónica. Esta abordagem disciplinada posicionou a Safran como um parceiro confiável de longo prazo para players líderes como BHP Billiton e China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Cadeia de Abastecimento Integrada e Serviços de Valor Acrescentado",
+        "paragraph1": "Através da integração vertical e expansão horizontal, a Safran construiu um modelo de serviço “one-stop” totalmente integrado, que vai muito além das funções tradicionais de fornecimento. Este sistema abrange:",
+        "list": [
+          "Controlo upstream: alianças estratégicas com empresas mineiras globais de primeira linha para assegurar o abastecimento de matérias-primas",
+          "Inovação midstream: formulações explosivas otimizadas e design de detonações para melhores resultados",
+          "Colaboração downstream: codesenvolvimento de produtos de alto valor como aditivos de concreto e materiais energéticos"
+        ],
+        "paragraph2": "Um caso notável envolve uma solução explosiva composta de nitrato de amónio e óleo combustível criada para uma empresa mineira em África. Esta inovação aumentou a eficiência da detonação em 20% e reduziu custos operacionais em 15%, oferecendo uma alternativa convincente às abordagens tradicionais guiadas pelo preço."
+      },
+      "section5": {
+        "title": "5. Sustentabilidade e Responsabilidade Corporativa",
+        "paragraph1": "Alinhada com imperativos ESG emergentes, a Safran incorpora química verde e inovação responsável no coração de sua estratégia de negócios. As principais iniciativas incluem:",
+        "list": [
+          "Práticas de economia circular: reprocesamento de subprodutos como ácido sulfúrico residual",
+          "Produção de baixo carbono: adoção de energia solar e biomassa, visando redução de 18% nas emissões de carbono até 2024",
+          "Desenvolvimento comunitário: instalações de formação em segurança em regiões em desenvolvimento para elevar padrões"
+        ],
+        "paragraph2": "Esses esforços de sustentabilidade valeram à Safran o reconhecimento formal do Pacto Global das Nações Unidas e contribuíram para prémios de classificação ESG nos mercados de capitais."
+      },
+      "conclusion": {
+        "title": "Conclusão",
+        "paragraphs": [
+          "A trajetória da Safran é construída sobre um compromisso inabalável com liderança tecnológica, integridade regulatória e excelência no serviço. À medida que a indústria química global se desloca para produtos de maior valor agregado, a Safran traçou um caminho além do cenário comoditizado das guerras de preços.",
+          "Sua estratégia multifacetada — tecnologia de ponta, modelos de serviço ágeis e forte consciência ambiental — transformou a empresa em um parceiro confiável e duradouro para clientes em todo o mundo.",
+          "Olhando para o futuro, a Safran está bem posicionada para reforçar sua liderança no mercado global, especialmente por meio de avanços contínuos em materiais de grau militar e inovações na economia circular, estabelecendo novos padrões de excelência no setor."
+        ]
+      },
+      "disclaimer": "Isenção de responsabilidade: Todos os dados e exemplos apresentados derivam de fontes públicas e análises de tendências da indústria. Detalhes sobre parcerias específicas permanecem confidenciais sob acordos de não divulgação."
+    }
   }
 }

@@ -11,15 +11,15 @@ export const NavigationMobileOption = () => {
         <SocialIcons />
       </Grid>
       <Grid display={'flex'} justifyContent={'flex-start'} alignItems={'center'}>
-        <Grid display="flex" alignItems="center" justifyContent="space-around" pb={1} flexDirection={'column'}>
-          <Grid pt={0.5} pr={1}>
+        <Grid display="flex" alignItems="center" justifyContent="space-around" pb={1} pt={2} flexDirection={'column'}>
+          <Grid pr={1}>
             <ThemeSwitch />
           </Grid>
-          <Grid pr={1}>
+          <Grid pr={1} pt={2}>
             <Localization />
           </Grid>
         </Grid>
-        <Grid display={'flex'} flexDirection={'column'} alignItems={'center'}>
+        <Grid display={'flex'} pl={2} pt={2} flexDirection={'column'} alignItems={'center'}>
           <NavigationContact />
         </Grid>
       </Grid>

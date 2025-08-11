@@ -1,17 +1,13 @@
-'use client';
-
-import { NavbarItem } from '@heroui/navbar';
 import { Grid } from '@mui/material';
 import { Link } from '@heroui/link';
 import NextLink from 'next/link';
 import clsx from 'clsx';
-import { usePathname } from 'next/navigation';
-import { useTranslation } from '@/app/components/i18n/I18n-context';
+import React from 'react';
 import { NavItem } from '@/app/components/navigation/navigation-desktop/navigation-list/navigation-menu.types';
+import { useTranslation } from '@/app/components/i18n/I18n-context';
 
-export const NavigationList = () => {
+export const FooterMenuList = () => {
   const t = useTranslation() as any;
-  const pathname = usePathname();
 
   const navItems = t.navigation.navigation_list as NavItem[];
 
@@ -19,24 +15,22 @@ export const NavigationList = () => {
     console.error('navigation_list не массив:', navItems);
     return null;
   }
-
   return (
     <>
       {navItems.map(item => {
-        const isActive = pathname === item.href;
         return (
-          <NavbarItem key={item.href}>
-            <Grid width="100%">
+          <div key={item.href} style={{}}>
+            <Grid px={1}>
               <Link
                 as={NextLink}
                 className={`font-blogger ${clsx(
-                  'text-[clamp(0.875rem,1.5vw,2rem)]',
+                  'text-[clamp(1rem,2vw,3rem)]',
                   'transition-none',
                   'hover:underline-none',
                   'focus:outline-none',
                   'active:opacity-100',
                   'active:scale-100',
-                  isActive ? 'text-primary font-medium' : 'text-foreground',
+                  'text-foreground font-blogger',
                 )}`}
                 color="primary"
                 href={item.href}
@@ -44,7 +38,7 @@ export const NavigationList = () => {
                 {item.label}
               </Link>
             </Grid>
-          </NavbarItem>
+          </div>
         );
       })}
     </>

@@ -9,7 +9,7 @@ export const CooperationSection: FC = async () => {
   const { dict } = await getLocaleDict();
   return (
     <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2}>
-      <Grid>
+      <Grid pb={2} pt={3}>
         <TitleSection>{dict.cooperation_section.title as string}</TitleSection>
       </Grid>
       <Grid>

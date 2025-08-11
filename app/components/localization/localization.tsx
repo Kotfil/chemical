@@ -40,6 +40,7 @@ export const Localization: FC = () => {
   const isSmallScreen = useMediaQuery('(max-width:500px)');
 
   const currentLang = mounted ? languagesListMock.find(lang => lang.locale === currentLangCode) : null;
+  const btnSize = isSmallScreen ? 'md' : 'lg';
 
   return (
     <Suspense fallback={<Skeleton />}>
@@ -62,7 +63,7 @@ export const Localization: FC = () => {
                   {languagesListMock.map(({ title, alt, link, locale }, i) => (
                     <Button
                       key={i}
-                      size="lg"
+                      size={btnSize}
                       variant={currentLangCode === locale ? 'solid' : 'flat'}
                       color={currentLangCode === locale ? 'primary' : 'default'}
                       onPress={() => {
@@ -71,7 +72,7 @@ export const Localization: FC = () => {
                       }}
                       endContent={<Flag width={30} height={30} src={link} alt={alt} />}
                     >
-                      {!isSmallScreen && title}
+                      {!isSmallScreen ? title : locale}
                     </Button>
                   ))}
                 </div>

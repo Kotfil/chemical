@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'blogger';
+    src: url('/font/blogger/blogger-sans.regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'blogger';
+    src: url('/font/blogger/blogger-sans.italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+}

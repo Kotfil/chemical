@@ -9,7 +9,6 @@ export const Navigation = () => {
   const isDesktop = useMediaQuery('(min-width: 820px)');
 
   return useMemo(() => {
-    // return isDesktop ? <NavigationDesktop /> : <NavigationMobile />;
     return isDesktop ? (
       <NavigationDesktop />
     ) : (

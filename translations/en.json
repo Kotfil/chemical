@@ -85,96 +85,76 @@
           "text": "We are the first-level agent of many kinds of factories. Based on our huge shipment volume, we can get a competitive price from the factory plus our professional export services that will make us outstand on the international trade."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "ADVANTAGES",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text":"We provide excellent quality products, but also the punctual delivery time."
+        },
+        {
+          "id": 2,
+          "text":"We established profound cooperation with shipping companies such as COSCO, CSCL, MAERSK, PIL, MSC, NDS and SAF etc."
+        },
+        {
+          "id": 3,
+          "text":"With our professional team, we can provide reasonable quotation and best, high efficient services."
+        },
+        {
+          "id": 4,
+          "text":"Thanks to our professional knowledge, excellent quality product and question-solution services, we have gotten the approval from the customers all over the world."
+        },
+        {
+          "id": 5,
+          "text":"Our company registered in Hong Kong – an offshore zone giving our trading activity more flexibility, and reliability."
+        }
+      ]
+
     }
   },
   "product_section": {
     "title": "LIST OF OUR PRODUCTS",
     "product_table": [
-      {
-        "english": "Trinitrotoluene (TNT)",
-        "translation": "导爆管 Nonel tube"
-      },
-      {
-        "english": "Hexogen (RDX)",
-        "translation": "导爆索 Detonating Cord"
-      },
-      {
-        "english": "Octogen (HMX)",
-        "translation": "电雷管 Electric Detonator"
-      },
-      {
-        "english": "Porous prills ammonium nitrate (PPAN)",
-        "translation": "电子雷管 Electronic Detonator"
-      },
-      {
-        "english": "Chemical pure ammonium nitrate (CPAN)",
-        "translation": "非电雷管 Non-electric Detonator"
-      },
-      {
-        "english": "Plastic explosive (C4)",
-        "translation": "甲苯二异性氰酸酯 Toluene Diisocyanate"
-      },
-      {
-        "english": "Nitrocellulose (NC)",
-        "translation": "模组 Module"
-      },
-      {
-        "english": "Sodium cyanide",
-        "translation": "起爆具 Booster"
-      },
-      {
-        "english": "Sodium nitrate",
-        "translation": "氨化钠 Sodium Cyanide-1756x2048"
-      },
-      {
-        "english": "Sodium perchlorate (NaClO4)",
-        "translation": "乳化炸药 Emulsion Explosive"
-      },
-      {
-        "english": "Ammonium nitrate (AN)",
-        "translation": "水胶炸药 Water Gel explosive"
-      },
-      {
-        "english": "Ammonium perchlorate (AP)",
-        "translation": "太安 PETN Pentaerythritol tetranitrate"
-      },
-      {
-        "english": "Nitric acid",
-        "translation": "芯片 Chip"
-      },
-      {
-        "english": "Magnesium nitrate",
-        "translation": "震源药柱 Seismic Explosive Cartridges"
-      },
-      {
-        "english": "Potassium nitrate (KNO3)",
-        "translation": "COPPER-CLAD STEEL composite materials"
-      },
-      {
-        "english": "Potassium perchlorate (KClO3)",
-        "translation": "COLD-ROLLED STEEL CLAD with copper and brass"
-      },
-      {
-        "english": "Sodium azide",
-        "translation": ""
-      },
-      {
-        "english": "Black powder",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "Piric acid (trinitrocresol, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C3H5N3O9)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluene (TNT)" },
+      { "text": "Hexogen (RDX)" },
+      { "text": "Octogen (HMX)" },
+      { "text": "Porous prills ammonium nitrate (PPAN)" },
+      { "text": "Chemical pure ammonium nitrate (CPAN)" },
+      { "text": "Plastic explosive (C4)" },
+      { "text": "Nitrocellulose (NC)" },
+      { "text": "Sodium cyanide" },
+      { "text": "Sodium nitrate" },
+      { "text": "Sodium perchlorate (NaClO4)" },
+      { "text": "Ammonium nitrate (AN)" },
+      { "text": "Ammonium perchlorate (AP)" },
+      { "text": "Nitric acid" },
+      { "text": "Magnesium nitrate" },
+      { "text": "Potassium nitrate (KNO3)" },
+      { "text": "Potassium perchlorate (KClO3)" },
+      { "text": "Sodium azide" },
+      { "text": "Black powder" },
+      { "text": "UAN" },
+      { "text": "Piric acid (trinitrocresol, TNP)" },
+      { "text": "Nitroglycerin (C3H5N3O9)" },
+      { "text": "Nonel tube" },
+      { "text": "Detonating Cord" },
+      { "text": "Electric Detonator" },
+      { "text": "Electronic Detonator" },
+      { "text": "Non-electric Detonator" },
+      { "text": "Toluene Diisocyanate" },
+      { "text": "Module" },
+      { "text": "Booster" },
+      { "text": "Sodium Cyanide-1756x2048" },
+      { "text": "Emulsion Explosive" },
+      { "text": "Water Gel explosive" },
+      { "text": "PETN Pentaerythritol tetranitrate" },
+      { "text": "Chip" },
+      { "text": "Seismic Explosive Cartridges" },
+      { "text": "COPPER-CLAD STEEL composite materials" },
+      { "text": "COLD-ROLLED STEEL CLAD with copper and brass" }
     ]
+
   },
   "cooperation_section": {
     "title": "GENERAL ALGORITHM OF CO-OPERATION",
@@ -194,7 +174,29 @@
   "gallery_section": {
     "title": "DEMONSTRATION OF OUR PRODUCTS",
     "factory_title": "Factory",
-    "produce_title": "Produce"
+    "produce_title": "Produce",
+    "gallery_video_list": [
+      {
+        "title": "A Global Pioneer",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Who we are",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Factory tour",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "The produce",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ]
   },
   "about_section": {
     "title": "Hong Kong Safran Industry Co Limited: A Global Pioneer in Integrated Chemical Solutions",
