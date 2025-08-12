@@ -20,7 +20,10 @@
         "label": "Галерея",
         "href": "/gallery"
       },
-      { "label": "О нас", "href": "/about" }
+      {
+        "label": "О нас",
+        "href": "/about"
+      }
     ]
   },
   "main_section": {
@@ -185,6 +188,30 @@
     }
   },
   "gallery_section": {
-    "title": "ДЕМОНСТРАЦИЯ НАШИХ ПРОДУКТОВ"
+    "title": "ДЕМОНСТРАЦИЯ НАШИХ ПРОДУКТОВ",
+    "factory_title": "Фабрика",
+    "produce_title": "Продукция",
+    "gallery_video_list": [
+      {
+        "title": "Глобальный пионер в области интегрированных химических решений",
+        "src": "/assets/video/Мировой-лидер-в-комплексных-химических-решениях.mov",
+        "poster": "/assets/video/video-background/мировой-лидер.jpg"
+      },
+      {
+        "title": "Кто мы",
+        "src": "/assets/video/Кто-мы.mov",
+        "poster": "/assets/video/video-background/кто-мы.jpg"
+      },
+      {
+        "title": "Экскурсия по заводу",
+        "src": "/assets/video/Фабрика.mp4",
+        "poster": "/assets/video/video-background/фабрика.jpg"
+      },
+      {
+        "title": "Продукция",
+        "src": "/assets/video/Продукция.mp4",
+        "poster": "/assets/video/video-background/продукция.jpg"
+      }
+    ]
   }
 }
