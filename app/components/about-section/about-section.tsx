@@ -13,8 +13,8 @@ export const AboutSection: FC = async () => {
   return (
     <Grid width="100%" display="flex" flexDirection="column" px={2}>
       <Grid pb={2} pt={4}>
-        <TitleSection>{mainTitle.trim()}</TitleSection>
-        {subTitle && <TitleSection>{subTitle.trim()}</TitleSection>}
+        <TitleSection color={'#f788b6'}>{mainTitle.trim()}</TitleSection>
+        {subTitle && <TitleSection color={'#f788b6'}>{subTitle.trim()}</TitleSection>}
       </Grid>
       <Grid>
         <AboutSafran />

@@ -9,10 +9,10 @@ export const ProductsSection: FC = async () => {
   return (
     <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2}>
       <Grid pb={3} pt={4}>
-        <TitleSection>{dict.product_section.title as string}</TitleSection>
+        <TitleSection color={'#d5ebc5'}>{dict.product_section.title as string}</TitleSection>
       </Grid>
       <Grid container justifyContent="center" sx={{ width: '100%', overflowX: 'hidden' }}>
-        <Grid sx={{ width: '100%', maxWidth: '100%' }}>
+        <Grid sx={{ width: '100%', maxWidth: '100%' }} px={5}>
           <ProductTable />
         </Grid>
       </Grid>

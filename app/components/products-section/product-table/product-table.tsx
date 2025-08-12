@@ -32,7 +32,9 @@ export default async function ProductTable() {
         <TableBody>
           {rows.map((row, index) => (
             <TableRow key={index}>
-              <TableCell sx={{ fontSize: 'clamp(12px, 1.5vw, 18px)' }}>{row.text}</TableCell>
+              <TableCell align="center" sx={{ fontSize: 'clamp(12px, 1.5vw, 18px)' }}>
+                {row.text}
+              </TableCell>
             </TableRow>
           ))}
         </TableBody>

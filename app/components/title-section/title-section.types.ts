@@ -1,5 +1,4 @@
-import { ReactNode } from 'react';
-
-export type Props = {
-  children?: ReactNode;
-};
+export interface Props {
+  children: React.ReactNode;
+  color?: string;
+}

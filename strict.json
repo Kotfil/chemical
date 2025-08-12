@@ -1,0 +1,358 @@
+{
+  ".gitignore": "file",
+  ".idea": {
+    ".gitignore": "file",
+    "chemical.iml": "file",
+    "dbnavigator.xml": "file",
+    "inspectionProfiles": {},
+    "modules.xml": "file",
+    "prettier.xml": "file",
+    "vcs.xml": "file",
+    "workspace.xml": "file"
+  },
+  ".next": {
+    "app-build-manifest.json": "file",
+    "build-manifest.json": "file",
+    "react-loadable-manifest.json": "file",
+    "server": {
+      "app": {
+        "about": {
+          "page_client-reference-manifest.js": "file"
+        },
+        "co-operation": {
+          "page_client-reference-manifest.js": "file"
+        },
+        "gallery": {
+          "page_client-reference-manifest.js": "file"
+        },
+        "page_client-reference-manifest.js": "file",
+        "products": {
+          "page_client-reference-manifest.js": "file"
+        }
+      },
+      "middleware-build-manifest.js": "file",
+      "middleware-react-loadable-manifest.js": "file",
+      "next-font-manifest.js": "file",
+      "next-font-manifest.json": "file"
+    },
+    "static": {
+      "chunks": {
+        "app": {
+          "about": {},
+          "co-operation": {},
+          "gallery": {},
+          "layout.js": "file",
+          "products": {}
+        },
+        "webpack.js": "file"
+      },
+      "css": {
+        "app": {
+          "co-operation": {}
+        }
+      },
+      "development": {
+        "_buildManifest.js": "file",
+        "_ssgManifest.js": "file"
+      },
+      "media": {},
+      "webpack": {
+        "3523ae050610ab73.webpack.hot-update.json": "file",
+        "app": {
+          "layout.3523ae050610ab73.hot-update.js": "file"
+        },
+        "webpack.3523ae050610ab73.hot-update.js": "file"
+      }
+    }
+  },
+  ".npmrc": "file",
+  ".prettierignore": "file",
+  ".prettierrc": "file",
+  ".vscode": {
+    "settings.json": "file"
+  },
+  "app": {
+    "about": {
+      "page.tsx": "file"
+    },
+    "co-operation": {
+      "page.tsx": "file"
+    },
+    "components": {
+      "about-section": {
+        "about-safran": {
+          "about-safran.styles.ts": "file",
+          "about-safran.tsx": "file"
+        },
+        "about-section.tsx": "file"
+      },
+      "cooperation-section": {
+        "cooperation-schedule": {
+          "cooperation-schedule.tsx": "file"
+        },
+        "cooperation-section.tsx": "file"
+      },
+      "gallery-section": {
+        "gallery-photo": {
+          "gallery-photo-first.tsx": "file",
+          "gallery-photo-second.tsx": "file",
+          "gallery-photo.tsx": "file",
+          "gallery-photo.types.ts": "file"
+        },
+        "gallery-section.tsx": "file",
+        "gallery-video": {
+          "gallery-video.styles.ts": "file",
+          "gallery-video.tsx": "file"
+        }
+      },
+      "i18n": {
+        "client-18n-provider.tsx": "file",
+        "get-dictionary.ts": "file",
+        "I18n-context.tsx": "file",
+        "i18n.ts": "file"
+      },
+      "icon": {
+        "icons.tsx": "file"
+      },
+      "localization": {
+        "localization.styles.ts": "file",
+        "localization.tsx": "file"
+      },
+      "main-section": {
+        "main-choice": {
+          "main-choice-questions": {
+            "main-choice-questions.tsx": "file",
+            "main-choice-questions.types.ts": "file"
+          },
+          "main-choice.tsx": "file"
+        },
+        "main-section.tsx": "file",
+        "main-selection": {
+          "main-card": {
+            "selection-card-list": {
+              "selection-card-list.tsx": "file",
+              "selection-card-view": {
+                "selection-card-view.tsx": "file"
+              }
+            },
+            "selection-card.tsx": "file",
+            "selection-card.types.ts": "file"
+          },
+          "main-selection.tsx": "file"
+        },
+        "main-title": {
+          "main-title.tsx": "file"
+        }
+      },
+      "navigation": {
+        "navigation-desktop": {
+          "navigation-contact": {
+            "navigation-contact.tsx": "file"
+          },
+          "navigation-desktop.tsx": "file",
+          "navigation-list": {
+            "navigation-list.tsx": "file",
+            "navigation-menu.types.ts": "file"
+          },
+          "navigation-option": {
+            "navigation-option.tsx": "file"
+          }
+        },
+        "navigation-mobile": {
+          "navigation-mobile-list": {
+            "navigation-mobile-list.tsx": "file",
+            "navigation-mobile-view": {
+              "navigation-mobile-view.tsx": "file"
+            }
+          },
+          "navigation-mobile-option": {
+            "navigation-mobile-option.tsx": "file"
+          },
+          "navigation-mobile-title": {
+            "navigation-mobile-title.tsx": "file"
+          },
+          "navigation-mobile.tsx": "file"
+        },
+        "navigation-title": {
+          "navigation-title-text": {
+            "navigation-title-text.tsx": "file"
+          },
+          "navigation-title.tsx": "file"
+        },
+        "navigation.styles.ts": "file",
+        "navigation.tsx": "file"
+      },
+      "products-section": {
+        "product-table": {
+          "product-table.tsx": "file"
+        },
+        "products-section.tsx": "file"
+      },
+      "social": {
+        "socialIcons.tsx": "file"
+      },
+      "styles": {
+        "primitives.ts": "file",
+        "theme-switch.tsx": "file"
+      },
+      "subtitle-section": {
+        "subtitle-section.tsx": "file",
+        "subtitle-section.types.ts": "file"
+      },
+      "title-section": {
+        "title-section.tsx": "file",
+        "title-section.types.ts": "file"
+      }
+    },
+    "error.tsx": "file",
+    "gallery": {
+      "page.tsx": "file"
+    },
+    "i18n-service.ts": "file",
+    "layout.tsx": "file",
+    "page.tsx": "file",
+    "products": {
+      "page.tsx": "file"
+    },
+    "providers.tsx": "file"
+  },
+  "config": {
+    "fonts.ts": "file",
+    "site.ts": "file"
+  },
+  "ecosystem.config.js": "file",
+  "env": "file",
+  "eslint.config.mjs": "file",
+  "lib": {
+    "styled-components-registry.tsx": "file"
+  },
+  "LICENSE": "file",
+  "mock": {
+    "gallery-data.mock.ts": "file",
+    "languages-list.mock.ts": "file",
+    "videos-list.mock.ts": "file"
+  },
+  "next-env.d.ts": "file",
+  "next.config.js": "file",
+  "package-lock.json": "file",
+  "package.json": "file",
+  "postcss.config.js": "file",
+  "public": {
+    "assets": {
+      "factory": {
+        "1.webp": "file",
+        "10.webp": "file",
+        "11.webp": "file",
+        "12.webp": "file",
+        "13.webp": "file",
+        "14.webp": "file",
+        "15.webp": "file",
+        "16.webp": "file",
+        "17.webp": "file",
+        "18.webp": "file",
+        "2.webp": "file",
+        "3.webp": "file",
+        "4.webp": "file",
+        "5.webp": "file",
+        "6.webp": "file",
+        "7.webp": "file",
+        "8.webp": "file",
+        "9.webp": "file"
+      },
+      "LOGO.png": "file",
+      "produce": {
+        "1.webp": "file",
+        "10.webp": "file",
+        "11.webp": "file",
+        "12.webp": "file",
+        "13.webp": "file",
+        "14.webp": "file",
+        "15.webp": "file",
+        "16.webp": "file",
+        "17.webp": "file",
+        "18.webp": "file",
+        "19.webp": "file",
+        "2.webp": "file",
+        "20.webp": "file",
+        "21.webp": "file",
+        "22.webp": "file",
+        "23.webp": "file",
+        "24.webp": "file",
+        "3.webp": "file",
+        "4.webp": "file",
+        "5.webp": "file",
+        "6.webp": "file",
+        "7.webp": "file",
+        "8.webp": "file",
+        "9.webp": "file"
+      },
+      "video": {
+        "A-Global-Pioneer.mov": "file",
+        "Factory-tour.mp4": "file",
+        "The-produce.mp4": "file",
+        "video-background": {
+          "a-global-pioneer.jpg": "file",
+          "the-factory.jpg": "file",
+          "the-produce.jpg": "file",
+          "who-are-we.jpg": "file"
+        },
+        "Who-we-are.mov": "file"
+      }
+    },
+    "favicon.ico": "file",
+    "font": {
+      "blogger": {
+        "blogger-sans.italic.ttf": "file",
+        "blogger-sans.regular.ttf": "file"
+      }
+    },
+    "mock.temp.json": "file",
+    "next.svg": "file",
+    "vercel.svg": "file"
+  },
+  "README.md": "file",
+  "strict.mjs": "file",
+  "styles": {
+    "globals.css": "file"
+  },
+  "tailwind.config.js": "file",
+  "translations": {
+    "bg.json": "file",
+    "bs.json": "file",
+    "ca.json": "file",
+    "cs.json": "file",
+    "da.json": "file",
+    "de.json": "file",
+    "el.json": "file",
+    "en.json": "file",
+    "es.json": "file",
+    "et.json": "file",
+    "fi.json": "file",
+    "fr.json": "file",
+    "hr.json": "file",
+    "hu.json": "file",
+    "it.json": "file",
+    "lt.json": "file",
+    "lv.json": "file",
+    "mk.json": "file",
+    "nb.json": "file",
+    "nl.json": "file",
+    "pl.json": "file",
+    "pt-PT.json": "file",
+    "ro.json": "file",
+    "ru.json": "file",
+    "sk.json": "file",
+    "sl.json": "file",
+    "sq.json": "file",
+    "sr.json": "file",
+    "sv.json": "file",
+    "tr.json": "file",
+    "uk.json": "file",
+    "zh.json": "file"
+  },
+  "tsconfig.json": "file",
+  "types": {
+    "index.ts": "file"
+  },
+  "yarn.lock": "file"
+}

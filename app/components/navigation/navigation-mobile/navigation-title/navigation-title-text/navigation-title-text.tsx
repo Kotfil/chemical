@@ -6,17 +6,17 @@ export const NavigationTitleText = () => {
   return (
     <>
       <Grid>
-        <p className="font-blogger font-bold text-[clamp(0.45rem,1.54vw,1.15rem)] leading-tight">
+        <p className="font-blogger font-bold text-[clamp(0.63rem,2.16vw,1.61rem)] leading-tight">
           {t.navigation.title}
         </p>
       </Grid>
       <Grid>
-        <p className="font-blogger mt-1 text-[clamp(0.6rem,1.6vw,1rem)] opacity-80 leading-snug">
+        <p className="font-blogger mt-1 text-[clamp(0.84rem,2.24vw,1.4rem)] opacity-80 leading-snug">
           {t.navigation.subtitle}
         </p>
       </Grid>
       <Grid>
-        <p className="font-blogger mt-1 text-[clamp(0.6rem,1.6vw,1rem)] opacity-80 leading-snug">
+        <p className="font-blogger mt-1 text-[clamp(0.84rem,2.24vw,1.4rem)] opacity-80 leading-snug">
           {t.navigation.subtitle_second}
         </p>
       </Grid>

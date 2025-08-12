@@ -8,9 +8,9 @@ export const MainChoice: FC = async () => {
   const { dict } = await getLocaleDict();
   return (
     <>
-      <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2} pt={2}>
-        <Grid>
-          <TitleSection>{dict.main_section.main_choice.title as string}</TitleSection>
+      <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2} pt={4}>
+        <Grid pb={2}>
+          <TitleSection color="yellow">{dict.main_section.main_choice.title as string}</TitleSection>
         </Grid>
         <Grid>
           <MainChoiceQuestions />

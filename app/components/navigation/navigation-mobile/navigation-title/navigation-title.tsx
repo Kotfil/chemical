@@ -10,11 +10,11 @@ export const NavigationTitle = () => {
   return (
     <NavbarContent className="basis-1/5 sm:basis-full" justify="start">
       <NavbarBrand as="li" className="gap-3 max-w-fit">
-        <NextLink className="flex justify-start items-center gap-1" href="/">
+        <NextLink className="flex justify-start items-center gap-1 " href="/">
           <LogoWrapper>
             <Image src={'/assets/LOGO.png'} alt="Logo" width={120} height={60} priority />
           </LogoWrapper>
-          <Grid width={'100%'} height={'100%'}>
+          <Grid width={'100%'} height={'100%'} pl={2}>
             <Client18nProvider>
               <NavigationTitleText />
             </Client18nProvider>

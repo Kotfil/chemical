@@ -6,7 +6,7 @@ export const NavigationTitleTextMobile = () => {
   return (
     <>
       <Grid>
-        <p className="font-blogger font-bold text-[clamp(0.65rem,2vw,3.70rem)] leading-tight sm:text-[clamp(0.80rem,1.90vw,2.90rem)]">
+        <p className="font-blogger font-bold text-[clamp(0.68rem,2.1vw,3.89rem)] leading-tight sm:text-[clamp(0.84rem,1.995vw,3.05rem)]">
           {t.navigation.title}
         </p>
       </Grid>
