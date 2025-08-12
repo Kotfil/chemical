@@ -10,7 +10,7 @@ export const MainChoice: FC = async () => {
     <>
       <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2} pt={4}>
         <Grid pb={2}>
-          <TitleSection color="yellow">{dict.main_section.main_choice.title as string}</TitleSection>
+          <TitleSection color="#901ff2">{dict.main_section.main_choice.title as string}</TitleSection>
         </Grid>
         <Grid>
           <MainChoiceQuestions />

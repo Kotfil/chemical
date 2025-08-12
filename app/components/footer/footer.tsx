@@ -9,7 +9,7 @@ import { Client18nProvider } from '@/app/components/i18n/client-18n-provider';
 
 export const Footer = () => {
   return (
-    <footer className="w-full py-3">
+    <footer className="w-full py-5 mt-5">
       <Grid container direction="column" justifyContent="center" alignItems="center" spacing={2} px={2}>
         {/*@ts-ignore*/}
         <Grid xs={12} md={'auto'} textAlign="center">

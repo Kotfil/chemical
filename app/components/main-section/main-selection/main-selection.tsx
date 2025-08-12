@@ -11,7 +11,7 @@ export const MainSelection: FC = async () => {
     <>
       <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2} pt={2}>
         <Grid pb={2} pt={1}>
-          <TitleSection color="violet">{dict.main_section.main_selection.title as string}</TitleSection>
+          <TitleSection color="#f728c0">{dict.main_section.main_selection.title as string}</TitleSection>
         </Grid>
         <Grid>
           <SelectionCard />

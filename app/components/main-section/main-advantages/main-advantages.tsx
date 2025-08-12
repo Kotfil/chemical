@@ -10,7 +10,7 @@ export const MainAdvantages = async () => {
     <>
       <Grid width={'100%'} display={'flex'} flexDirection={'column'} px={2} pt={4}>
         <Grid pb={2}>
-          <TitleSection color="#64aafa">{dict.main_section.main_choice.title as string}</TitleSection>
+          <TitleSection color="#3a1eeb">{dict.main_section.main_choice.title as string}</TitleSection>
         </Grid>
         <Grid>
           <MainAdvantagesList />
