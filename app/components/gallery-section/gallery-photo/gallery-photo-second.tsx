@@ -3,16 +3,17 @@ import * as React from 'react';
 import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import Dialog from '@mui/material/Dialog';
-import { galleryProduceDataList, srcset } from '@/mock/gallery-data.mock';
+import { srcset } from '@/mock/gallery-data.mock';
+import { GalleryPhotoSecondProps } from '@/app/components/gallery-section/gallery-photo/gallery-photo.types';
 
-export default function GalleryPhotoSecond() {
+export default function GalleryPhotoSecond({ gallery_produce_list }: GalleryPhotoSecondProps) {
   const [open, setOpen] = React.useState(false);
   const [selectedImg, setSelectedImg] = React.useState('');
 
   return (
     <>
       <ImageList sx={{ width: '100%', height: '100%' }} variant="quilted" cols={4} rowHeight={121}>
-        {galleryProduceDataList.map(item => (
+        {gallery_produce_list.map(item => (
           <ImageListItem
             key={item.img}
             cols={item.cols || 1}

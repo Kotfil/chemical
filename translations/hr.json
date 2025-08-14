@@ -4,14 +4,26 @@
     "subtitle": "Stan/soba F 6/F Mega Cube Br. 8 Wang Kwong Road KL, Hong Kong",
     "subtitle_second": "Osnovano 2009.",
     "navigation_list": [
-      { "label": "Početna", "href": "/" },
-      { "label": "Proizvodi", "href": "/products" },
-      { "label": "Suradnja", "href": "/co-operation" },
+      {
+        "label": "Početna",
+        "href": "/"
+      },
+      {
+        "label": "Proizvodi",
+        "href": "/products"
+      },
+      {
+        "label": "Suradnja",
+        "href": "/co-operation"
+      },
       {
         "label": "Galerija",
         "href": "/gallery"
       },
-      { "label": "O nama", "href": "/about" }
+      {
+        "label": "O nama",
+        "href": "/about"
+      }
     ]
   },
   "main_section": {
@@ -176,6 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "DEMONSTRACIJA NAŠIH PROIZVODA"
+    "title": "PRIKAZ NAŠIH PROIZVODA",
+    "factory_title": "Tvornica",
+    "produce_title": "Proizvodnja",
+    "gallery_video_list": [
+      {
+        "title": "Globalni pionir u integriranim kemijskim rješenjima",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Tko smo mi",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Obilazak tvornice",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Proizvodi",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "tvornica_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "tvornica_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "tvornica_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "tvornica_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "tvornica_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "tvornica_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "tvornica_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "tvornica_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "tvornica_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "tvornica_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "tvornica_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "tvornica_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "tvornica_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "tvornica_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "tvornica_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "tvornica_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "tvornica_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "tvornica_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "proizvod_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "proizvod_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "proizvod_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "proizvod_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "proizvod_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "proizvod_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "proizvod_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "proizvod_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "proizvod_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "proizvod_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "proizvod_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "proizvod_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "proizvod_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "proizvod_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "proizvod_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "proizvod_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "proizvod_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "proizvod_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "proizvod_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "proizvod_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "proizvod_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "proizvod_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "proizvod_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "proizvod_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "proizvod_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "proizvod_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "proizvod_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Globalni pionir u integriranim kemijskim rješenjima",
+    "about_text": {
+      "intro": [
+        "Osnovana 2009. u dinamičnom trgovačkom središtu Hong Konga, Hong Kong Safran Industry Co Limited postala je globalna referenca u području amonijeva nitrata i eksplozivnih materijala. Njezin uspon vođen je oštrim strateškim vizijama, kontinuiranim inovacijama i nepopustljivim pridržavanjem propisa.",
+        "Vođena principima sigurnosti, učinkovitosti i održivosti, tvrtka pruža napredna kemijska rješenja u rudarskom, građevinskom, obrambenom i civilnom sektoru. Kroz širok portfelj proizvoda i globalnu mrežu usluga, Safran je uspješno izbjegao destruktivnu konkurenciju temeljen na cijenama, gradeći umjesto toga tržišnu poziciju obilježenu otpornosti i jedinstvenošću."
+      ],
+      "section1": {
+        "title": "1. Globalna prisutnost i strateško pozicioniranje",
+        "paragraphs": [
+          "Hong Kong, prepoznat kao treće najveće financijsko središte svijeta i važna luka slobodne trgovine, omogućuje Safranu stratešku bazu u jednom od najprijateljskijih poslovnih okruženja na svijetu. Povoljan porezni režim, vrhunska logistika i snažan međunarodni bankarski sustav omogućuju tvrtki brzu reakciju na globalnu potražnju i učinkovitu integraciju u međunarodni lanac opskrbe.",
+          "Na primjer, politike bescarinske trgovine i moderna luka omogućuju Safranu provođenje troškovno učinkovitih prekograničnih transakcija. Istovremeno, tvrtka besprijekorno upravlja tokovima kapitala putem offshore bankarskih sustava. Strateški odnosi između Hong Konga, kopna Kine i zemalja uključenih u inicijativu Pojas i put omogućuju Safranu produbljivanje prisutnosti na tržištima u nastajanju – sada obuhvaća više od 80 zemalja u Aziji, Bliskom istoku i Americi."
+        ]
+      },
+      "section2": {
+        "title": "2. Tehnološke inovacije i raznolika ponuda",
+        "paragraph1": "U središtu trajnog uspjeha Safrana leži tehnološka sofisticiranost i širok spektar proizvoda. Kao vodeći kineski dobavljač amonijeva nitrata, tvrtka posjeduje obrambene certifikate Ministarstva obrane, osiguravajući nenadmašnu sigurnost i performanse svojih eksplozivnih materijala. Tehnološki proboji proširili su se i u obrambeni sektor, gdje tvrtka isporučuje ključne komponente poput preciznog streljiva, oklopnih vozila i taktičkih dronova.",
+        "list": [
+          "Materijali za civilnu uporabu: amonijev nitrat, emulzijski eksplozivi, vodeni gel eksplozivi",
+          "Vojna rješenja: oklop tenka, artiljerijske granate, taktički UAV-i, inteligentni sustavi detonacije",
+          "Specijalne kemikalije: nitrati, nitroceluloza, perklorati za industrijsku uporabu"
+        ],
+        "paragraph2": "Kroz kontinuirana ulaganja u istraživanje i razvoj, tvrtka je razvila patentirane formulacije – od niskoosjetljivih eksploziva do ekološki prihvatljivih pogonskih tvari – koje povećavaju performanse i istovremeno grade snažan tehnološki zaštitni zid."
+      },
+      "section3": {
+        "title": "3. Usklađenost s propisima i povjerenje industrije",
+        "paragraphs": [
+          "Safran stavlja usklađenost i sigurnost u središte svojih operacija. Osim certifikata ključnih regulatornih tijela, uključujući Ministarstvo obrane i Ministarstvo prometa, tvrtka strogo poštuje međunarodno priznate standarde, kao što su ISO 9001 za upravljanje kvalitetom i REACH za sigurnost okoliša.",
+          "Na primjer, proizvodnja amonijeva nitrata kod Safrana koristi zatvoreni proces, smanjujući emisiju ugljičnog dioksida za više od 30% – što odražava predanost tvrtke globalnim inicijativama ugljične neutralnosti. Ovaj disciplinirani pristup pozicionirao je Safran kao dugoročno pouzdanog partnera vodećim industrijskim igračima, poput BHP Billitona i China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Integrirani lanac opskrbe i dodane vrijednosti",
+        "paragraph1": "Kroz vertikalnu integraciju i horizontalno širenje, Safran je izgradio potpuno integrirani, end-to-end model usluga koji nadilazi tradicionalne funkcije opskrbe. Ovaj sustav „jednog prozora“ uključuje:",
+        "list": [
+          "Kontrola uzlaznog toka: strateški savezi s vodećim globalnim rudarskim tvrtkama za osiguranje opskrbe sirovinama",
+          "Srednji tok inovacija: optimizirane formulacije eksploziva i dizajn eksplozije za poboljšane rezultate",
+          "Sniženi tok suradnje: zajednički razvoj visokovrijednih proizvoda, poput dodataka za beton i energetskih materijala"
+        ],
+        "paragraph2": "Jedan značajan slučaj uključuje kompozitno rješenje amonijev nitrat-nafta eksploziva stvoreno za rudarsku tvrtku u Africi. Ova inovacija poboljšala je učinkovitost eksplozija za 20% i smanjila operativne troškove za 15%, nudeći uvjerljivu alternativu konvencionalnim pristupima temeljenim na cijenama."
+      },
+      "section5": {
+        "title": "5. Održivost i društvena odgovornost",
+        "paragraph1": "U skladu s promjenjivim ESG zahtjevima, Safran ugrađuje zelenu kemiju i odgovornu inovaciju u središte svoje poslovne strategije. Ključne inicijative uključuju:",
+        "list": [
+          "Prakse kružne ekonomije: ponovna obrada nusproizvoda poput otpadne sumporne kiseline",
+          "Proizvodnja s niskim ugljičnim otiskom: korištenje solarne i biomase energije, cilj smanjenja ugljika za 18% do 2024.",
+          "Razvoj zajednice: sigurnosne edukacijske ustanove u razvijajućim regijama za podizanje standarda"
+        ],
+        "paragraph2": "Ovi napori u održivosti donijeli su Safranu formalno priznanje od strane Globalnog sporazuma Ujedinjenih naroda i doprinijeli ESG ocjenama na tržištima kapitala."
+      },
+      "conclusion": {
+        "title": "Zaključak",
+        "paragraphs": [
+          "Put Safrana temelji se na nepokolebljivoj predanosti tehnološkom vodstvu, regulatornoj integriteti i izvrsnosti usluge. Kako se globalna kemijska industrija pomiče prema proizvodima s većom dodanom vrijednošću, Safran je prevladao komodificirano okruženje ratova cijena.",
+          "Njegova višestruka strategija – napredna tehnologija, agilni modeli usluga i snažna ekološka svijest – transformirala je tvrtku u pouzdanog, dugoročnog partnera za klijente širom svijeta.",
+          "Gledajući u budućnost, Safran je u dobroj poziciji da ojača svoje vodstvo na globalnom tržištu, posebno kroz daljnji razvoj obrambeno certificiranih materijala i inovacija kružne ekonomije, postavljajući nove standarde izvrsnosti u industriji."
+        ]
+      },
+      "disclaimer": "Odricanje: Svi prikazani podaci i primjeri dobiveni su iz javno dostupnih izvora i analiza industrijskih trendova. Detalji o specifičnim partnerstvima ostaju povjerljivi prema ugovorima o neotkrivanju informacija."
+    }
   }
 }

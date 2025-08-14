@@ -4,14 +4,26 @@
     "subtitle": "香港九龍宏光道8號Mega Cube 6樓F室",
     "subtitle_second": "成立於2009年",
     "navigation_list": [
-      { "label": "主页", "href": "/" },
-      { "label": "产品", "href": "/products" },
-      { "label": "合作", "href": "/co-operation" },
+      {
+        "label": "主页",
+        "href": "/"
+      },
+      {
+        "label": "产品",
+        "href": "/products"
+      },
+      {
+        "label": "合作",
+        "href": "/co-operation"
+      },
       {
         "label": "画廊",
         "href": "/gallery"
       },
-      { "label": "关于我们", "href": "/about" }
+      {
+        "label": "关于我们",
+        "href": "/about"
+      }
     ]
   },
   "main_section": {
@@ -176,6 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "我们的产品展示"
+    "title": "我们的产品展示",
+    "factory_title": "工厂",
+    "produce_title": "产品",
+    "gallery_video_list": [
+      {
+        "title": "全球一体化化学解决方案的先驱",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "我们是谁",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "工厂参观",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "生产过程",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "工厂_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "工厂_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "工厂_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "工厂_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "工厂_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "工厂_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "工厂_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "工厂_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "工厂_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "工厂_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "工厂_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "工厂_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "工厂_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "工厂_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "工厂_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "工厂_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "工厂_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "工厂_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "产品_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "产品_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "产品_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "产品_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "产品_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "产品_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "产品_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "产品_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "产品_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "产品_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "产品_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "产品_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "产品_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "产品_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "产品_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "产品_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "产品_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "产品_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "产品_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "产品_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "产品_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "产品_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "产品_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "产品_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "产品_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "产品_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "产品_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "香港Safran实业有限公司：全球一体化化学解决方案的先驱",
+    "about_text": {
+      "intro": [
+        "香港Safran实业有限公司成立于2009年，坐落于充满活力的商业枢纽香港，在硝酸铵及炸药材料领域已发展成为全球标杆企业。公司凭借敏锐的战略眼光、持续的创新精神和严格的法规遵循不断壮大。",
+        "秉承安全、高效与可持续的原则，公司为采矿、建筑、国防及民用领域提供先进的化学解决方案。通过打造多元化的产品组合并利用全球化服务网络，Safran成功避免了以价格为中心的恶性竞争，建立了独特而稳固的市场地位。"
+      ],
+      "section1": {
+        "title": "1. 全球布局与战略定位",
+        "paragraphs": [
+          "香港被誉为全球第三大金融中心及主要自由贸易港，Safran在此享有全球最具商业友好性的营商环境之一。香港的优惠税制、世界一流的物流体系和强大的国际银行体系，使公司能够快速响应全球需求，并高效融入国际供应链。",
+          "例如，免关税的贸易政策与现代化港口设施，使Safran能够进行高性价比的跨境交易。同时，公司还通过离岸银行体系顺畅管理资本流动。香港与中国内地及“一带一路”沿线国家的战略联系，使Safran能够进一步拓展新兴市场业务——目前业务已覆盖亚洲、中东、美洲在内的80多个国家。"
+        ]
+      },
+      "section2": {
+        "title": "2. 技术创新与多元化产品",
+        "paragraph1": "Safran持久成功的核心在于其技术实力和广泛的产品布局。作为中国最大的硝酸铵供应商，公司持有由国防部颁发的军用级资质，确保其炸药材料的安全性与性能无可匹敌。其技术突破还延伸至国防领域，提供精确弹药、装甲车辆和战术无人机等关键部件。",
+        "list": [
+          "民用级材料：硝酸铵、乳化炸药、水胶炸药",
+          "军用解决方案：坦克装甲、火炮弹药、战术无人机、智能起爆系统",
+          "特种化学品：硝酸盐、硝化纤维素、高端工业用高氯酸盐"
+        ],
+        "paragraph2": "通过持续的研发投入，公司已开发出多项专利配方——涵盖低敏感度炸药到环保型推进剂——不仅提升了性能，还构筑了坚实的技术壁垒。"
+      },
+      "section3": {
+        "title": "3. 法规遵循与行业信任",
+        "paragraphs": [
+          "Safran将法规遵循与安全置于运营的核心位置。除获得国防部、交通运输部等主要监管机构的认证外，公司还严格遵守ISO 9001质量管理体系和REACH环境安全标准等国际规范。",
+          "例如，Safran在硝酸铵生产中采用闭环工艺，将碳排放减少了30%以上——这体现了公司对全球碳中和倡议的承诺。这种严谨的管理方式，使Safran成为BHP必和必拓、中国铁建等行业领导者长期信赖的合作伙伴。"
+        ]
+      },
+      "section4": {
+        "title": "4. 一体化供应链与增值服务",
+        "paragraph1": "通过纵向一体化与横向扩展，Safran构建了涵盖全流程的端到端一体化服务模式，远超传统供应职能。这个“单一窗口”体系包括：",
+        "list": [
+          "上游控制：与全球顶级矿业企业建立战略联盟，确保原材料供应",
+          "中游创新：优化炸药配方与爆破设计，以提升作业效果",
+          "下游合作：联合开发高附加值产品，如混凝土添加剂与能源材料"
+        ],
+        "paragraph2": "一个典型案例是，公司为非洲某矿业企业研发的复合硝铵燃油炸药方案，使爆破效率提高了20%，运营成本降低了15%，为传统的价格驱动模式提供了有力替代方案。"
+      },
+      "section5": {
+        "title": "5. 可持续发展与企业责任",
+        "paragraph1": "顺应不断演变的ESG要求，Safran将绿色化学与负责任创新置于企业战略核心。主要举措包括：",
+        "list": [
+          "循环经济实践：对废硫酸等副产品进行再处理",
+          "低碳生产：采用太阳能与生物质能源，目标在2024年前实现18%的碳减排",
+          "社区发展：在发展中国家设立安全培训设施，提高安全标准"
+        ],
+        "paragraph2": "这些可持续发展举措，使Safran获得了联合国全球契约组织的正式认可，并在资本市场中获得了ESG评级溢价。"
+      },
+      "conclusion": {
+        "title": "结论",
+        "paragraphs": [
+          "Safran的发展轨迹建立在对技术领先、法规严守和卓越服务的坚定承诺之上。随着全球化工行业向高附加值产品转型，Safran已走出价格战的同质化竞争格局。",
+          "其多元化战略——尖端技术、灵活服务模式与强烈环保意识——已将公司转变为全球客户长期可靠的合作伙伴。",
+          "展望未来，Safran将通过国防级材料的持续创新与循环经济的发展，进一步巩固其全球市场领导地位，并为行业树立新的卓越标准。"
+        ]
+      },
+      "disclaimer": "免责声明：所有数据和案例均来自公开可获取的资料与行业趋势分析。有关具体合作伙伴的详情因保密协议而未予披露。"
+    }
   }
 }

@@ -5,10 +5,10 @@ import ImageList from '@mui/material/ImageList';
 import ImageListItem from '@mui/material/ImageListItem';
 import Skeleton from '@mui/material/Skeleton';
 import Box from '@mui/material/Box';
-import { galleryFactoryDataList } from '@/mock/gallery-data.mock';
 import Dialog from '@mui/material/Dialog';
+import { GalleryPhotoFirstProps } from '@/app/components/gallery-section/gallery-photo/gallery-photo.types';
 
-export default function GalleryPhotoFirst() {
+export default function GalleryPhotoFirst({ gallery_factory_list }: GalleryPhotoFirstProps) {
   const [loadedImages, setLoadedImages] = React.useState<Record<string, boolean>>({});
   const [open, setOpen] = React.useState(false);
   const [selectedImg, setSelectedImg] = React.useState('');
@@ -20,7 +20,7 @@ export default function GalleryPhotoFirst() {
   return (
     <>
       <ImageList sx={{ width: '100%', height: '100%' }} variant="quilted" cols={4} rowHeight={121}>
-        {galleryFactoryDataList.map(item => {
+        {gallery_factory_list.map(item => {
           const isLoaded = loadedImages[item.img];
           return (
             <ImageListItem

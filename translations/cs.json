@@ -4,16 +4,28 @@
     "subtitle": "Jedn./místn. F, 6. patro, Mega Cube, č. 8 Wang Kwong Road, KL, Hongkong",
     "subtitle_second": "Založeno 2009",
     "navigation_list": [
-      { "label": "Domů", "href": "/" },
-      { "label": "Produkty", "href": "/products" },
-      { "label": "Spolupráce", "href": "/co-operation" },
+      {
+        "label": "Domů",
+        "href": "/"
+      },
+      {
+        "label": "Produkty",
+        "href": "/products"
+      },
+      {
+        "label": "Spolupráce",
+        "href": "/co-operation"
+      },
       {
         "label": "Galerie",
         "href": "/gallery"
       },
-      { "label": "O nás", "href": "/about" }
-    ]},
-
+      {
+        "label": "O nás",
+        "href": "/about"
+      }
+    ]
+  },
   "main_section": {
     "title_first": "DODAVATEL KOMPLEXNÍHO ŘEŠENÍ PRO",
     "title_second": "CIVILNÍ TRHACÍ PRÁCE A",
@@ -163,7 +175,7 @@
   "cooperation_section": {
     "title": "OBECNÝ POSTUP SPOLUPRÁCE",
     "cooperation_schedule": {
-      "core": "OBECNÝ POSTUP\nSPOLUPRÁCE",
+      "core": "OBECNÝ POSTUPnSPOLUPRÁCE",
       "labels": [
         "Jednání",
         "Podpis smlouvy",
@@ -176,6 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "PREZENTACE NAŠICH PRODUKTŮ"
+    "title": "DEMONSTRACE NAŠICH PRODUKTŮ",
+    "factory_title": "Továrna",
+    "produce_title": "Produkce",
+    "gallery_video_list": [
+      {
+        "title": "Globální průkopník v integrovaných chemických řešeních",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Kdo jsme",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Prohlídka továrny",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Produkce",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "továrna_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "továrna_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "továrna_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "továrna_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "továrna_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "továrna_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "továrna_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "továrna_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "továrna_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "továrna_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "továrna_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "továrna_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "továrna_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "továrna_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "továrna_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "továrna_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "továrna_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "továrna_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "produkce_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "produkce_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "produkce_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "produkce_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "produkce_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "produkce_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "produkce_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "produkce_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "produkce_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "produkce_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "produkce_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "produkce_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "produkce_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "produkce_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "produkce_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "produkce_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "produkce_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "produkce_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "produkce_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "produkce_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "produkce_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "produkce_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "produkce_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "produkce_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "produkce_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "produkce_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "produkce_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Globální průkopník v integrovaných chemických řešeních",
+    "about_text": {
+      "intro": [
+        "Společnost Hong Kong Safran Industry Co Limited byla založena v roce 2009 v dynamickém obchodním centru Hongkongu a stala se globálním referenčním bodem v oblasti dusičnanu amonného a výbušných materiálů. Její vzestup byl poháněn jasnou strategickou vizí, kontinuální inovací a nekompromisním dodržováním předpisů.",
+        "Společnost se řídí principy bezpečnosti, efektivity a udržitelnosti a poskytuje pokročilá chemická řešení v těžebním, stavebním, obranném a civilním sektoru. Díky rozmanitému portfoliu produktů a celosvětové síti služeb se Safran úspěšně vyhnul destruktivní konkurenci založené na cenách a vytvořil si pozici na trhu charakterizovanou odolností a jedinečností."
+      ],
+      "section1": {
+        "title": "1. Globální dosah a strategické umístění",
+        "paragraphs": [
+          "Hongkong je uznáván jako třetí největší finanční centrum světa a významný přístav pro volný obchod, což společnosti Safran poskytuje strategickou základnu v jednom z nejpřátelštějších obchodních prostředí na světě. Příznivý daňový režim, logistika světové třídy a robustní mezinárodní bankovní systém umožňují společnosti rychle reagovat na globální poptávku a efektivně se integrovat do mezinárodního dodavatelského řetězce.",
+          "Například celní politiky bez cla a moderní přístavní infrastruktura umožňují Safranu provádět nákladově efektivní přeshraniční transakce. Současně společnost plynule spravuje tok kapitálu prostřednictvím offshore bankovních struktur. Strategická propojení mezi Hongkongem, pevninskou Čínou a zeměmi zapojenými do iniciativy Pás a cesta dále umožňují Safranu rozšířit působení na rozvíjejících se trzích, nyní ve více než 80 zemích v Asii, na Středním východě a v Americe."
+        ]
+      },
+      "section2": {
+        "title": "2. Technologická inovace a diverzifikovaná nabídka",
+        "paragraph1": "Jádrem trvalého úspěchu Safranu je technologická sofistikovanost a široký mix produktů. Jako hlavní dodavatel dusičnanu amonného v Číně má společnost obranné certifikace od Ministerstva národní obrany, zajišťující bezkonkurenční bezpečnost a výkon svých výbušných materiálů. Technologické průlomy byly dále rozšířeny do obranného sektoru, kde dodává klíčové komponenty, jako je přesná munice, obrněná vozidla a taktické drony.",
+        "list": [
+          "Materiály pro civilní použití: dusičnan amonný, emulzní výbušniny, vodní gelové výbušniny",
+          "Vojenská řešení: tanková pancéřová ochrana, dělostřelecké granáty, taktické UAV, inteligentní detonační systémy",
+          "Speciální chemikálie: dusičnany, nitrocelulóza, perchloráty pro špičkové průmyslové použití"
+        ],
+        "paragraph2": "Díky trvalým investicím do výzkumu a vývoje společnost vyvinula patentované formulace – od nízkocitlivých výbušnin po ekologické pohonné látky – které zvyšují výkon a vytvářejí robustní technologickou bariéru."
+      },
+      "section3": {
+        "title": "3. Soulad s předpisy a důvěra v odvětví",
+        "paragraphs": [
+          "Safran klade bezpečnost a dodržování předpisů do centra svého fungování. Kromě certifikací od klíčových regulačních orgánů, včetně Ministerstva národní obrany a Ministerstva dopravy, společnost přísně dodržuje mezinárodně uznávané standardy, jako je ISO 9001 pro řízení kvality a REACH pro environmentální bezpečnost.",
+          "Například výroba dusičnanu amonného u Safranu využívá uzavřený proces, který snižuje emise uhlíku o více než 30 % – což odráží závazek společnosti k iniciativám globální uhlíkové neutrality. Tento disciplinovaný přístup učinil ze Safranu dlouhodobého a důvěryhodného partnera pro přední hráče v odvětví, jako jsou BHP Billiton a China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Integrovaný dodavatelský řetězec a služby s přidanou hodnotou",
+        "paragraph1": "Díky vertikální integraci a horizontálnímu rozšíření Safran vybudoval plně integrovaný, end-to-end servisní model, který přesahuje tradiční funkce dodavatelů. Tento „one-stop“ systém zahrnuje:",
+        "list": [
+          "Kontrola upstream: Strategická partnerství s předními globálními těžebními firmami zajišťují dodávku surovin",
+          "Inovace midstream: Optimalizované výbušné formulace a návrh výbuchů zlepšují výsledky",
+          "Spolupráce downstream: Společný vývoj vysoce hodnotných produktů, jako jsou přísady do betonu a energetické materiály"
+        ],
+        "paragraph2": "Jedním pozoruhodným případem je kompozitní výbušné řešení dusičnan amonný-olej vytvořené pro těžební firmu v Africe. Tato inovace zlepšila efektivitu výbuchu o 20 % a snížila provozní náklady o 15 %, což představuje přesvědčivou alternativu k tradičním cenově orientovaným přístupům."
+      },
+      "section5": {
+        "title": "5. Udržitelnost a společenská odpovědnost",
+        "paragraph1": "V souladu s vyvíjejícími se ESG imperativy Safran integruje zelenou chemii a odpovědnou inovaci do svého obchodního strategie. Klíčové iniciativy zahrnují:",
+        "list": [
+          "Praktiky cirkulární ekonomiky: opětovné zpracování vedlejších produktů, jako je odpadní kyselina sírová",
+          "Nízkouhlíková výroba: využití solární a biomasy, s cílem snížit emise uhlíku o 18 % do roku 2024",
+          "Rozvoj komunity: zařízení pro bezpečnostní školení v rozvojových regionech ke zlepšení standardů"
+        ],
+        "paragraph2": "Tyto snahy o udržitelnost získaly Safranu formální uznání od Globálního paktu OSN a přispěly k prémiím ESG hodnocení na kapitálových trzích."
+      },
+      "conclusion": {
+        "title": "Závěr",
+        "paragraphs": [
+          "Trajektorie Safranu je postavena na neochvějném závazku k technologickému vedení, integritě v oblasti předpisů a excelenci služeb. Jak se globální chemický průmysl posouvá směrem k produktům s vyšší přidanou hodnotou, Safran vytyčil cestu nad rámec komoditizovaného prostředí cenových válek.",
+          "Jeho mnohostranná strategie – špičková technologie, agilní servisní modely a silné ekologické vědomí – proměnila společnost v spolehlivého, dlouhodobého partnera pro klienty po celém světě.",
+          "Do budoucna je Safran dobře postaven, aby posílil své vedení na globálním trhu, zejména díky pokračujícím pokrokům v obranných materiálech a inovacích v cirkulární ekonomice, a tím stanovuje nové standardy excelence v celém odvětví."
+        ]
+      },
+      "disclaimer": "Upozornění: Všechna data a příklady jsou odvozeny z veřejně dostupných zdrojů a analýz trendů v odvětví. Podrobnosti o konkrétních partnerstvích zůstávají důvěrné dle smluv o mlčenlivosti."
+    }
   }
 }

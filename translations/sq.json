@@ -4,14 +4,26 @@
     "subtitle": "Dhomë F, kati 6, Mega Cube nr. 8 Wang Kwong Road, KL, Hong Kong",
     "subtitle_second": "Them. 2009",
     "navigation_list": [
-      { "label": "Kreu", "href": "/" },
-      { "label": "Produktet", "href": "/products" },
-      { "label": "Bashkëpunimi", "href": "/co-operation" },
+      {
+        "label": "Kreu",
+        "href": "/"
+      },
+      {
+        "label": "Produktet",
+        "href": "/products"
+      },
+      {
+        "label": "Bashkëpunimi",
+        "href": "/co-operation"
+      },
       {
         "label": "Galeria",
         "href": "/gallery"
       },
-      { "label": "Rreth nesh", "href": "/about" }
+      {
+        "label": "Rreth nesh",
+        "href": "/about"
+      }
     ]
   },
   "main_section": {
@@ -176,6 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "DEMONSTRAIM I PRODUKTEVE TONA"
+    "title": "DEMONSTRIMI I PRODUKTEVE TONA",
+    "factory_title": "Fabrika",
+    "produce_title": "Prodhimi",
+    "gallery_video_list": [
+      {
+        "title": "Një Pionier Global në Zgjidhje Kimi Integruara",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Kush jemi ne",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Turi i Fabrikës",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Prodhimi",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "fabrika_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "fabrika_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "fabrika_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "fabrika_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "fabrika_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "fabrika_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "fabrika_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "fabrika_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "fabrika_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "fabrika_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "fabrika_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "fabrika_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "fabrika_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "fabrika_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "fabrika_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "fabrika_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "fabrika_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "fabrika_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "prodhimi_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "prodhimi_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "prodhimi_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "prodhimi_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "prodhimi_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "prodhimi_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "prodhimi_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "prodhimi_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "prodhimi_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "prodhimi_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "prodhimi_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "prodhimi_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "prodhimi_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "prodhimi_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "prodhimi_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "prodhimi_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "prodhimi_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "prodhimi_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "prodhimi_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "prodhimi_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "prodhimi_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "prodhimi_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "prodhimi_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "prodhimi_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "prodhimi_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "prodhimi_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "prodhimi_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Një Pionier Global në Zgjidhje Kimi Integruara",
+    "about_text": {
+      "intro": [
+        "E themeluar në 2009 në qendrën dinamike tregtare të Hong Kongut, Hong Kong Safran Industry Co Limited është shndërruar në një pikë reference globale në fushën e nitratit të amonit dhe materialeve shpërthyese. Ngjitja e saj është nxitur nga një vizion strategjik i qartë, inovacion i vazhdueshëm dhe përputhje e palëkundur me rregulloret.",
+        "Drejtuar nga parimet e sigurisë, efikasitetit dhe qëndrueshmërisë, kompania ofron zgjidhje të avancuara kimike në sektorët e minierave, ndërtimit, mbrojtjes dhe civil. Duke kultivuar një portofol të gjerë produktesh dhe duke shfrytëzuar një rrjet global shërbimesh, Safran ka shmangur me sukses konkurrencën shkatërruese të bazuar në çmim, duke krijuar një pozicion tregu të qëndrueshëm dhe unik."
+      ],
+      "section1": {
+        "title": "1. Arritja Globale dhe Pozicionimi Strategjik",
+        "paragraphs": [
+          "Me Hong Kongun të njohur si qendra e tretë financiare më e madhe në botë dhe një port tregtar i lirë kryesor, Safran gëzon një bazë strategjike në një nga mjediset më miqësore për biznes në botë. Reparti tatimor i favorshëm i qytetit, logjistika botërore dhe sistemi i fortë bankar ndërkombëtar i mundësojnë kompanisë të përgjigjet shpejt ndaj kërkesës globale dhe të integrohet në mënyrë efikase brenda zinxhirit ndërkombëtar të furnizimit.",
+          "Për shembull, politikat e tregtisë pa taksa dhe infrastruktura moderne portuale i lejojnë Safranit të kryejë transaksione ndërkufitare me kosto efektive. Njëkohësisht, kompania menaxhon rrjedhën e kapitalit në mënyrë të qetë përmes strukturave bankare jashtë vendit. Marrëdhëniet strategjike midis Hong Kongut, Kinës kontinentale dhe vendeve të lidhura me Iniciativën Brezi dhe Rruga lejojnë Safranin të thellojë praninë në tregjet në zhvillim—tani duke mbuluar mbi 80 vende në Azi, Lindjen e Mesme dhe Amerikën."
+        ]
+      },
+      "section2": {
+        "title": "2. Inovacioni Teknologjik dhe Ofrimet e Diversifikuara",
+        "paragraph1": "Në zemër të suksesit të qëndrueshëm të Safran qëndron sofistikimi i saj teknologjik dhe përzierja e gjerë e produkteve. Si furnizuesi kryesor i nitratit të amonit në Kinë, kompania ka certifikime të klasës mbrojtëse nga Ministria e Mbrojtjes Kombëtare, duke garantuar siguri dhe performancë të pakrahasueshme në materialet shpërthyese. Arritjet teknologjike janë zgjeruar më tej në sektorin e mbrojtjes, ku kompania furnizon komponentë jetikë si municion preciz, automjete të blinduara dhe dronë taktike.",
+        "list": [
+          "Materiale civile: nitrat amoni, eksploziv emulsioni, eksploziv uji-gjel",
+          "Zgjidhje ushtarake: mburoja tanku, fishekë artilerie, UAV taktike, sisteme inteligjente shpërthyese",
+          "Kimikate speciale: nitrate, nitrocelulozë, perchlorate për përdorim industrial të avancuar"
+        ],
+        "paragraph2": "Përmes investimeve të qëndrueshme në kërkim dhe zhvillim, kompania ka zhvilluar formulime të patentuara—nga eksplozivët me ndjeshmëri të ulët deri te propellantët miqësorë për mjedisin—që rrisin performancën dhe ndërtojnë një avantazh teknologjik të fortë."
+      },
+      "section3": {
+        "title": "3. Përputhshmëria Rregullatore dhe Besimi i Industrisë",
+        "paragraphs": [
+          "Safran vendos përputhshmërinë dhe sigurinë në qendër të operacioneve të saj. Përveç certifikimeve nga autoritetet kyçe rregullatore, duke përfshirë Ministrinë e Mbrojtjes Kombëtare dhe Ministrinë e Transportit, kompania i përmbahet standardeve të njohura ndërkombëtarisht si ISO 9001 për menaxhimin e cilësisë dhe REACH për sigurinë mjedisore.",
+          "Për shembull, prodhimi i nitratit të amonit të Safran përdor një proces me qark të mbyllur, duke reduktuar emetimet e karbonit mbi 30%—një reflektim i angazhimit të kompanisë ndaj iniciativave globale për neutralitetin e karbonit. Ky qasje e disiplinuar e ka vendosur Safranin si një partner të besueshëm afatgjatë për lojtarët kryesorë të industrisë si BHP Billiton dhe China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Zinxhiri i Integruar i Furnizimit dhe Shërbime me Vlerë të Shtuar",
+        "paragraph1": "Përmes integrimit vertikal dhe zgjerimit horizontal, Safran ka ndërtuar një model shërbimi të integruar, nga fillimi në fund, që shtrihet shumë përtej funksioneve tradicionale të furnizimit. Ky sistem 'një-ndalesë' përfshin:",
+        "list": [
+          "Kontrolli i lartë: Aleanca strategjike me kompanitë kryesore minerare globale sigurojnë furnizimin me lëndë të parë",
+          "Inovacioni i mesëm: Formulime të optimizuara shpërthyese dhe dizajn shpërthimi përmirësojnë rezultatet",
+          "Bashkëpunimi i poshtëm: Zhvillimi i përbashkët i produkteve me vlerë të lartë si shtesat e betonit dhe materialet energjetike"
+        ],
+        "paragraph2": "Një rast i veçantë përfshin një zgjidhje shpërthyese të përbërë nitrat amoni-vaj karburanti të krijuar për një kompani minerare në Afrikë. Ky inovacion rriti efikasitetin e shpërthimit me 20% dhe reduktoi kostot operative me 15%, duke ofruar një alternativë bindëse ndaj qasjeve tradicionale të bazuara në çmim."
+      },
+      "section5": {
+        "title": "5. Qëndrueshmëria dhe Përgjegjësia Korporative",
+        "paragraph1": "Në përputhje me imperativat në zhvillim të ESG, Safran integron kimi të gjelbër dhe inovacion të përgjegjshëm në zemër të strategjisë së saj të biznesit. Iniciativat kryesore përfshijnë:",
+        "list": [
+          "Praktika të ekonomisë rrethore: Riprocesimi i nënprodukteve si acidi i squfurit i mbetur",
+          "Prodhim me karbon të ulët: Përdorimi i energjisë diellore dhe biomase, duke synuar reduktim karboni prej 18% deri në 2024",
+          "Zhvillimi i komunitetit: Facilitete trajnimi për siguri në rajone në zhvillim për të ngritur standardet"
+        ],
+        "paragraph2": "Këto përpjekje për qëndrueshmëri kanë sjellë Safran njohje formale nga Kompaktimi Global i Kombeve të Bashkuara dhe kanë kontribuar në premiumet e vlerësimit ESG në tregjet kapitale."
+      },
+      "conclusion": {
+        "title": "Përfundim",
+        "paragraphs": [
+          "Trajektoria e Safran bazohet në një angazhim të palëkundur ndaj lidershipit teknologjik, integritetit rregullator dhe ekselencës së shërbimeve. Ndërsa industria globale kimike zhvendoset drejt produkteve me vlerë të shtuar më të lartë, Safran ka ndërtuar një rrugë përtej peizazhit të komoditetit të luftës së çmimeve.",
+          "Strategjia e saj multifunksionale—teknologji e avancuar, modele shërbimi fleksibël dhe ndërgjegje e fortë mjedisore—ka transformuar kompaninë në një partner të besueshëm afatgjatë për klientët në mbarë botën.",
+          "Duke parë përpara, Safran është mirëpozicionuar për të forcuar lidershipin e saj në tregun global, veçanërisht përmes avancimeve të vazhdueshme në materialet e klasës mbrojtëse dhe inovacioneve të ekonomisë rrethore, duke vendosur standarde të reja ekselence në të gjithë industrinë."
+        ]
+      },
+      "disclaimer": "Përgjegjësia: Të gjitha të dhënat dhe shembujt e paraqitur janë marrë nga burime të disponueshme publikisht dhe analiza të trendeve të industrisë. Detajet lidhur me partneritetet specifike mbeten konfidenciale sipas marrëveshjeve për moszbulim."
+    }
   }
 }

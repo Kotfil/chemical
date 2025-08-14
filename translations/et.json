@@ -4,17 +4,28 @@
     "subtitle": "Flat/RM F 6/F Mega Cube No.8 Wang Kwong Road KL, Hongkong",
     "subtitle_second": "Asutatud 2009",
     "navigation_list": [
-      { "label": "Avaleht", "href": "/" },
-      { "label": "Tooted", "href": "/products" },
-      { "label": "Koostöö", "href": "/co-operation" },
+      {
+        "label": "Avaleht",
+        "href": "/"
+      },
+      {
+        "label": "Tooted",
+        "href": "/products"
+      },
+      {
+        "label": "Koostöö",
+        "href": "/co-operation"
+      },
       {
         "label": "Galerii",
         "href": "/gallery"
       },
-      { "label": "Meist", "href": "/about" }
+      {
+        "label": "Meist",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "ÜHETS STOPPIS LAHENDUSTE PAKKUJA ",
     "title_second": "TSIVILPLAHVATUSED JA ",
@@ -176,8 +187,277 @@
       ]
     }
   },
-
   "gallery_section": {
-    "title": "MEIE TOODETE DEMONSTRATSIOON"
+    "title": "MEIE TOODETE DEMONSTREERIMINE",
+    "factory_title": "Tehas",
+    "produce_title": "Tooted",
+    "gallery_video_list": [
+      {
+        "title": "Globaalne pioneer integreeritud keemialahendustes",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Kes me oleme",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Tehase ekskursioon",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Tooted",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "tehas_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "tehas_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "tehas_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "tehas_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "tehas_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "tehas_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "tehas_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "tehas_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "tehas_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "tehas_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "tehas_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "tehas_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "tehas_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "tehas_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "tehas_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "tehas_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "tehas_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "tehas_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "toode_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "toode_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "toode_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "toode_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "toode_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "toode_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "toode_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "toode_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "toode_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "toode_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "toode_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "toode_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "toode_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "toode_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "toode_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "toode_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "toode_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "toode_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "toode_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "toode_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "toode_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "toode_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "toode_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "toode_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "toode_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "toode_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "toode_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Globaalne pioneer integreeritud keemialahendustes",
+    "about_text": {
+      "intro": [
+        "Asutatud 2009. aastal Hongkongi dünaamilises ärikeskuses, on Hong Kong Safran Industry Co Limited saanud globaalseks referentspunktiks ammoonium-nitraadi ja lõhkeainete valdkonnas. Selle edu on ajendatud teravast strateegilisest visioonist, pidevast uuenduslikkusest ja kompromissitutest regulatiivsetest järgimistest.",
+        "Järgides ohutuse, tõhususe ja jätkusuutlikkuse põhimõtteid, pakub ettevõte täiustatud keemialahendusi kaevandamise, ehituse, kaitse ja tsiviilsektori jaoks. Laiendades oma tooteportfelli ja rakendades globaalse teenindusvõrgu eeliseid, on Safran edukalt kõrvale hoidnud hävitavast hinnapõhisest konkurentsist, kindlustades turupositsiooni, mida iseloomustab vastupidavus ja unikaalsus."
+      ],
+      "section1": {
+        "title": "1. Globaalne haare ja strateegiline positsioneerimine",
+        "paragraphs": [
+          "Hongkongi tunnustatakse maailma kolmanda suurima finantskeskusena ja suure vaba kaubanduse sadamana, pakkudes Safranile strateegilist alust ühes ärisõbralikumas keskkonnas maailmas. Linna soodne maksusüsteem, tipptasemel logistika ja tugev rahvusvaheline pangandussüsteem võimaldavad ettevõttel kiiresti reageerida globaalsele nõudlusele ja tõhusalt integreeruda rahvusvahelisse tarneahelasse.",
+          "Näiteks tollimaksuvaba kaubanduse poliitikad ja kaasaegne sadama infrastruktuur võimaldavad Safranil teostada kulutõhusaid piiriüleseid tehinguid. Samal ajal haldab ettevõte kapitalivooge sujuvalt offshore-panganduse raamistikus. Strateegilised sidemed Hongkongi, Hiina mandri ja Belt and Road initsiatiiviga seotud riikidega võimaldavad Safranil süvendada oma jalajälge kasvavatel turgudel – nüüd üle 80 riigi Aasias, Lähis-Idas ja Ameerikas."
+        ]
+      },
+      "section2": {
+        "title": "2. Tehnoloogiline uuenduslikkus ja mitmekesised pakkumised",
+        "paragraph1": "Safrani kestva edu tuum peitub selle tehnoloogilises keerukuses ja laias tootevalikus. Hiina juhtiva ammoonium-nitraadi tarnijana omab ettevõte kaitseklassi sertifikaate Riigikaitseministeeriumilt, tagades ületamatu ohutuse ja jõudluse lõhkeainetes. Tehnoloogilised läbimurded on laienenud ka kaitsesektorisse, kus tarnitakse olulisi komponente, nagu täpsuslaskemoon, soomustatud sõidukid ja taktikalised droonid.",
+        "list": [
+          "Tsiviilklassi materjalid: ammoonium-nitraat, emulsioonlõhkeained, veeleelised lõhkeained",
+          "Sõjalised lahendused: tankide soomus, suurtükimoon, taktikalised UAV-id, intelligentse detonatsiooni süsteemid",
+          "Spetsialiseeritud kemikaalid: nitraadid, nitrotselluloos, perkloraadid tipptasemel tööstuslikuks kasutamiseks"
+        ],
+        "paragraph2": "Pideva uurimis- ja arendustegevuse investeeringute kaudu on ettevõte loonud patenteeritud valemeid – alates madala tundlikkusega lõhkeainetest kuni keskkonnasõbralike propellantideni –, mis parandavad jõudlust ja loovad tugeva tehnoloogilise kaitsevöö."
+      },
+      "section3": {
+        "title": "3. Regulatiivne järgimine ja tööstuse usaldus",
+        "paragraphs": [
+          "Safran seab järgimise ja ohutuse oma tegevuse keskmesse. Lisaks sertifikaatidele peamistelt regulatiivsetelt asutustelt, sealhulgas Riigikaitseministeeriumilt ja Transpordiministeeriumilt, järgib ettevõte rangelt rahvusvaheliselt tunnustatud standardeid, nagu ISO 9001 kvaliteedijuhtimise jaoks ja REACH keskkonnaohutuse jaoks.",
+          "Näiteks kasutab Safrani ammoonium-nitraadi tootmine suletud tsükliga protsessi, vähendades süsinikuheiteid üle 30% – mis peegeldab ettevõtte pühendumust globaalsele süsinikuneutraalsusele. See distsiplineeritud lähenemine on muutnud Safrani pikaajalisteks usaldusväärseteks partneriteks juhtivate tööstuse ettevõtete, nagu BHP Billiton ja China Railway Construction, jaoks."
+        ]
+      },
+      "section4": {
+        "title": "4. Integreeritud tarneahel ja lisaväärtusega teenused",
+        "paragraph1": "Nii vertikaalse integratsiooni kui ka horisontaalse laiendamise kaudu on Safran loonud täielikult integreeritud, otsast lõpuni teenindusmudeli, mis ulatub kaugemale traditsioonilistest tarnefunktsioonidest. Seeepeatuse          süsteem hõlmab",
+        "list": [
+          "Ülemise taseme kontroll: strateegilised liidud juhtivate globaalse kaevandusfirmadega tagavad toorainevarustuse",
+          "Kesktaseme innovatsioon: optimeeritud lõhkeainete valemid ja plahvatuse disain parandavad tulemusi",
+          "Alumise taseme koostöö: kõrge väärtusega toodete nagu betooni lisandite ja energiamaterjalide arendamine"
+        ],
+        "paragraph2": "Üks märkimisväärne näide on koostatud ammoonium-nitraadi-kütuseõli lõhkeainesegu, mis loodi Aafrika kaevandusfirmale. See uuendus suurendas plahvatusefektiivsust 20% ja vähendas tegevuskulusid 15%, pakkudes veenvat alternatiivi tavapärastele hinnapõhistele lähenemistele."
+      },
+      "section5": {
+        "title": "5. Jätkusuutlikkus ja ettevõtte vastutus",
+        "paragraph1": "Kooskõlas muutuvate ESG nõudmistega, integreerib Safran rohelist keemiat ja vastutustundlikku innovatsiooni oma äristrateegia keskmesse. Peamised algatused hõlmavad:",
+        "list": [
+          "Ringmajanduse praktika: kõrvalsaaduste nagu väävelhappe taaskasutamine",
+          "Madal süsiniku tootmine: päikese- ja biomassienergia kasutuselevõtt, eesmärk vähendada süsinikku 18% võrra aastaks 2024",
+          "Kogukonna areng: ohutusalased koolitusrajatised arenguriikides standardite tõstmiseks"
+        ],
+        "paragraph2": "Need jätkusuutlikkuse jõupingutused on toonud Safranile Ühinenud Rahvaste Organisatsiooni Globaalse Pakti ametliku tunnustuse ja andnud panuse ESG reitingupreemiatele kapitaliturgudel."
+      },
+      "conclusion": {
+        "title": "Kokkuvõte",
+        "paragraphs": [
+          "Safrani arengutee põhineb vankumatul pühendumisel tehnoloogilisele juhtimisele, regulatiivsele aususele ja teeninduse tipptasemele. Kui globaalne keemiatööstus liigub kõrgema lisandväärtusega toodete suunas, on Safran kindlustanud tee väljapoole kaubastatud hinnasõdade maastikku.",
+          "Selle mitmetahuline strateegia – tipptasemel tehnoloogia, paindlikud teenindusmudelid ja tugev keskkonnateadlikkus – on muutnud ettevõtte usaldusväärseks pikaajalise partneriks klientidele üle kogu maailma.",
+          "Tulevikku vaadates on Safran hästi positsioneeritud, et tugevdada oma juhtpositsiooni globaalsel turul, eriti jätkates kaitseklassi materjalide ja ringmajanduse uuenduste arengut, seades seeläbi tööstusele uusi tipptasemel standardeid."
+        ]
+      },
+      "disclaimer": "Vastutusest loobumine: kõik esitatud andmed ja näited on saadud avalikult kättesaadavatest allikatest ja tööstuse trendide analüüsidest. Spetsiifiliste partnerlussuhete üksikasjad jäävad konfidentsiaalseks vastavalt mitteavaldamise lepingutele."
+    }
   }
 }

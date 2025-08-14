@@ -4,17 +4,28 @@
     "subtitle": "Flat/RM F 6/F Mega Cube No.8 Wang Kwong Road KL, Hongkong",
     "subtitle_second": "Założona 2009",
     "navigation_list": [
-      { "label": "Strona główna", "href": "/" },
-      { "label": "Produkty", "href": "/products" },
-      { "label": "Współpraca", "href": "/co-operation" },
-
+      {
+        "label": "Strona główna",
+        "href": "/"
+      },
+      {
+        "label": "Produkty",
+        "href": "/products"
+      },
+      {
+        "label": "Współpraca",
+        "href": "/co-operation"
+      },
       {
         "label": "Galeria",
         "href": "/gallery"
-      },{ "label": "O nas", "href": "/about" }
+      },
+      {
+        "label": "O nas",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "DOSTAWCA KOMPLEKSOWYCH ROZWIĄZAŃ ",
     "title_second": "W ZAKRESIE CYWILNYCH WYBUCHÓW ORAZ ",
@@ -177,6 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "PREZENTACJA NASZYCH PRODUKTÓW"
+    "title": "DEMONSTRACJA NASZYCH PRODUKTÓW",
+    "factory_title": "Fabryka",
+    "produce_title": "Produkty",
+    "gallery_video_list": [
+      {
+        "title": "Globalny pionier w zintegrowanych rozwiązaniach chemicznych",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Kim jesteśmy",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Wycieczka po fabryce",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Produkty",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "factory_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "factory_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "factory_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "factory_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "factory_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "factory_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "factory_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "factory_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "factory_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "factory_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "factory_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "factory_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "factory_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "factory_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "factory_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "factory_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "factory_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "factory_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "produce_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "produce_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "produce_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "produce_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "produce_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "produce_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "produce_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "produce_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "produce_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "produce_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "produce_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "produce_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "produce_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "produce_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "produce_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "produce_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "produce_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "produce_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "produce_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "produce_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "produce_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "produce_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "produce_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "produce_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "produce_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "produce_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "produce_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Globalny pionier w zintegrowanych rozwiązaniach chemicznych",
+    "about_text": {
+      "intro": [
+        "Założona w 2009 roku w dynamicznym centrum handlowym Hong Kongu, firma Hong Kong Safran Industry Co Limited stała się globalnym punktem odniesienia w dziedzinie azotanu amonu i materiałów wybuchowych. Jej wzrost napędzany był wyraźną wizją strategiczną, ciągłą innowacją i bezkompromisowym przestrzeganiem przepisów.",
+        "Kierując się zasadami bezpieczeństwa, efektywności i zrównoważonego rozwoju, firma dostarcza zaawansowane rozwiązania chemiczne w sektorach górniczym, budowlanym, obronnym i cywilnym. Poprzez rozwijanie szerokiego portfela produktów i wykorzystanie globalnej sieci usług, Safran skutecznie unikał destrukcyjnej konkurencji cenowej, budując pozycję rynkową charakteryzującą się odpornością i wyjątkowością."
+      ],
+      "section1": {
+        "title": "1. Globalny zasięg i strategiczne pozycjonowanie",
+        "paragraphs": [
+          "Hong Kong, uznawany za trzecie co do wielkości centrum finansowe świata i ważny port wolnocłowy, stanowi dla Safran strategiczną bazę w jednym z najbardziej przyjaznych biznesowi miejsc na świecie. Korzystny system podatkowy, logistyczna infrastruktura światowej klasy i stabilny międzynarodowy system bankowy umożliwiają firmie szybkie reagowanie na globalny popyt i efektywne integrowanie się w międzynarodowym łańcuchu dostaw.",
+          "Na przykład polityka wolnego handlu i nowoczesna infrastruktura portowa pozwalają Safran realizować opłacalne transakcje transgraniczne. Jednocześnie firma zarządza przepływami kapitału w sposób płynny poprzez offshore’owe struktury bankowe. Strategiczne powiązania między Hong Kongiem, Chinami kontynentalnymi i krajami związanymi z inicjatywą Belt and Road umożliwiają Safran pogłębienie obecności na rynkach wschodzących – obecnie obejmujących ponad 80 krajów w Azji, na Bliskim Wschodzie i w obu Amerykach."
+        ]
+      },
+      "section2": {
+        "title": "2. Innowacje technologiczne i zróżnicowana oferta",
+        "paragraph1": "U podstaw trwałego sukcesu Safran leży jego zaawansowanie technologiczne i szeroki wachlarz produktów. Jako czołowy dostawca azotanu amonu w Chinach, firma posiada certyfikaty obronne od Ministerstwa Obrony Narodowej, zapewniające niezrównane bezpieczeństwo i wydajność materiałów wybuchowych. Przełomy technologiczne rozciągnęły się również na sektor obronny, w którym firma dostarcza kluczowe komponenty, takie jak amunicja precyzyjna, pojazdy opancerzone i drony taktyczne.",
+        "list": [
+          "Materiały cywilne: azotan amonu, materiały wybuchowe emulsjne, materiały wybuchowe w żelu wodnym",
+          "Rozwiązania wojskowe: pancerze czołgowe, pociski artyleryjskie, UAV taktyczne, inteligentne systemy detonacyjne",
+          "Chemikalia specjalistyczne: azotany, nitroceluloza, perchlorany do zastosowań przemysłowych wysokiej jakości"
+        ],
+        "paragraph2": "Dzięki stałym inwestycjom w badania i rozwój firma opracowała opatentowane formuły – od niskoczułych materiałów wybuchowych po ekologiczne propelenty – które zwiększają wydajność i bud ują silną przewagę technologiczną."
+      },
+      "section3": {
+        "title": "3. Zgodność z przepisami i zaufanie w branży",
+        "paragraphs": [
+          "Safran stawia zgodność i bezpieczeństwo w centrum swojej działalności. Oprócz certyfikatów kluczowych organów regulacyjnych, w tym Ministerstwa Obrony Narodowej i Ministerstwa Transportu, firma ściśle przestrzega międzynarodowych norm, takich jak ISO 9001 dla zarządzania jakością i REACH dla ochrony środowiska.",
+          "Na przykład produkcja azotanu amonu w Safran wykorzystuje proces zamkniętej pętli, redukując emisję CO2 o ponad 30% – co odzwierciedla zaangażowanie firmy w globalne inicjatywy neutralności węglowej. Tak zdyscyplinowane podejście uczyniło Safran długoletnim, zaufanym partnerem dla wiodących graczy branżowych, takich jak BHP Billiton i China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Zintegrowany łańcuch dostaw i usługi dodane",
+        "paragraph1": "Poprzez zarówno integrację pionową, jak i rozwój poziomy, Safran zbudował w pełni zintegrowany model usług end-to-end, wykraczający poza tradycyjne funkcje dostaw. Ten system „one-stop” obejmuje:",
+        "list": [
+          "Kontrola upstream: strategiczne alianse z czołowymi światowymi firmami górniczymi zapewniające dostawy surowców",
+          "Innowacja midstream: optymalizacja formulacji materiałów wybuchowych i projektowania wybuchów zwiększa efektywność",
+          "Współpraca downstream: wspólne opracowywanie produktów wysokiej wartości, takich jak dodatki do betonu i materiały energetyczne"
+        ],
+        "paragraph2": "Jednym z przykładów jest kompozytowy materiał wybuchowy azotan amonu-olej paliwowy stworzony dla firmy górniczej w Afryce. Ta innowacja zwiększyła wydajność wybuchów o 20% i obniżyła koszty operacyjne o 15%, oferując atrakcyjną alternatywę dla konwencjonalnego podejścia opartego na cenie."
+      },
+      "section5": {
+        "title": "5. Zrównoważony rozwój i odpowiedzialność korporacyjna",
+        "paragraph1": "Zgodnie z ewoluującymi wymogami ESG, Safran integruje zieloną chemię i odpowiedzialne innowacje w centrum swojej strategii biznesowej. Kluczowe inicjatywy obejmują:",
+        "list": [
+          "Praktyki gospodarki o obiegu zamkniętym: przetwarzanie produktów ubocznych, takich jak odpadowy kwas siarkowy",
+          "Produkcja niskoemisyjna: wykorzystanie energii słonecznej i biomasy, z celem redukcji CO2 o 18% do 2024 roku",
+          "Rozwój społeczności: ośrodki szkolenia bezpieczeństwa w regionach rozwijających się w celu podnoszenia standardów"
+        ],
+        "paragraph2": "Te działania na rzecz zrównoważonego rozwoju przyniosły Safran formalne uznanie od United Nations Global Compact i przyczyniły się do wyższych ocen ESG na rynkach kapitałowych."
+      },
+      "conclusion": {
+        "title": "Wnioski",
+        "paragraphs": [
+          "Droga Safran opiera się na niezachwianym zaangażowaniu w przywództwo technologiczne, integralność regulacyjną i doskonałość usługową. W miarę jak globalny przemysł chemiczny przesuwa się w kierunku produktów o wyższej wartości dodanej, Safran wytyczył ścieżkę poza skomodytyzowanym krajobrazem wojen cenowych.",
+          "Wielowymiarowa strategia – nowoczesna technologia, elastyczne modele usługowe i silna świadomość ekologiczna – przekształciły firmę w wiarygodnego, długoterminowego partnera dla klientów na całym świecie.",
+          "Patrząc w przyszłość, Safran jest dobrze przygotowany do wzmocnienia swojego przywództwa na rynku globalnym, szczególnie poprzez dalsze postępy w materiałach obronnych wysokiej jakości i innowacjach gospodarki o obiegu zamkniętym, ustanawiając nowe standardy doskonałości w branży."
+        ]
+      },
+      "disclaimer": "Zastrzeżenie: Wszystkie dane i przykłady przedstawione pochodzą z publicznie dostępnych źródeł i analiz trendów branżowych. Szczegóły dotyczące konkretnych partnerstw pozostają poufne na mocy umów o zachowaniu poufności."
+    }
   }
 }

@@ -4,14 +4,26 @@
     "subtitle": "Lejl./oda F 6/F Mega Cube No. 8 Wang Kwong Road KL, Hong Kong",
     "subtitle_second": "Kuruluş: 2009",
     "navigation_list": [
-      { "label": "Ana Sayfa", "href": "/" },
-      { "label": "Ürünler", "href": "/products" },
-      { "label": "İş Birliği", "href": "/co-operation" },
+      {
+        "label": "Ana Sayfa",
+        "href": "/"
+      },
+      {
+        "label": "Ürünler",
+        "href": "/products"
+      },
+      {
+        "label": "İş Birliği",
+        "href": "/co-operation"
+      },
       {
         "label": "Galeri",
         "href": "/gallery"
       },
-      { "label": "Hakkımızda", "href": "/about" }
+      {
+        "label": "Hakkımızda",
+        "href": "/about"
+      }
     ]
   },
   "main_section": {
@@ -175,7 +187,323 @@
       ]
     }
   },
+  Понял,
+  ты
+  хочешь
+  полный
+  перевод
+  на
+  турецкий,
+  сохраняя
+  весь
+  JSON-формат,
+  без
+  обрезки
+  и
+  без
+  верхних
+  фигурных
+  скобок,
+  чтобы
+  структура
+  осталась
+  идентичной
+  —
+  просто
+  заменить
+  весь
+  текст
+  на
+  tr
+  локаль.
+  Я
+  переведу
+  полностью,
+  ничего
+  не
+  урезая
+  и
+  не
+  сокращая.
+  Вот
+  готовый
+  вариант:
+
+  `
+  `
+  `
+  json
   "gallery_section": {
-    "title": "ÜRÜNLERIMIZIN GÖSTERIMI"
+    "title": "ÜRÜNLERİMİZİN GÖSTERİMİ",
+    "factory_title": "Fabrika",
+    "produce_title": "Üretim",
+    "gallery_video_list": [
+      {
+        "title": "Entegre Kimyasal Çözümlerde Küresel Bir Öncü",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Biz Kimiz",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Fabrika turu",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Üretim",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "fabrika_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "fabrika_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "fabrika_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "fabrika_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "fabrika_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "fabrika_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "fabrika_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "fabrika_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "fabrika_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "fabrika_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "fabrika_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "fabrika_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "fabrika_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "fabrika_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "fabrika_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "fabrika_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "fabrika_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "fabrika_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "üretim_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "üretim_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "üretim_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "üretim_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "üretim_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "üretim_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "üretim_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "üretim_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "üretim_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "üretim_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "üretim_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "üretim_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "üretim_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "üretim_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "üretim_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "üretim_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "üretim_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "üretim_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "üretim_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "üretim_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "üretim_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "üretim_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "üretim_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "üretim_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "üretim_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "üretim_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "üretim_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Entegre Kimyasal Çözümlerde Küresel Bir Öncü",
+    "about_text": {
+      "intro": [
+        "2009 yılında Hong Kong’un dinamik ticaret merkezinde kurulan Hong Kong Safran Industry Co Limited, amonyum nitrat ve patlayıcı malzemeler alanında küresel bir referans noktası haline gelmiştir. Şirketin yükselişi, keskin bir stratejik vizyon, sürekli inovasyon ve tavizsiz mevzuat uyumu ile şekillenmiştir.",
+        "Güvenlik, verimlilik ve sürdürülebilirlik ilkeleri doğrultusunda hareket eden şirket; madencilik, inşaat, savunma ve sivil sektörlere ileri düzey kimyasal çözümler sunmaktadır. Geniş bir ürün portföyü geliştirerek ve dünya çapında bir hizmet ağı kullanarak Safran, yıkıcı fiyat odaklı rekabetten uzak durmuş, bunun yerine dayanıklılık ve benzersizlik ile tanımlanan bir pazar konumu oluşturmuştur."
+      ],
+      "section1": {
+        "title": "1. Küresel Erişim ve Stratejik Konumlanma",
+        "paragraphs": [
+          "Hong Kong’un dünyanın üçüncü büyük finans merkezi ve önemli bir serbest ticaret limanı olarak tanınması, Safran’a dünyanın en iş dostu ortamlarından birinde stratejik bir üs sağlamaktadır. Şehrin avantajlı vergi sistemi, dünya standartlarında lojistiği ve güçlü uluslararası bankacılık altyapısı, şirketin küresel taleplere hızlı yanıt vermesini ve uluslararası tedarik zincirine etkin şekilde entegre olmasını mümkün kılmaktadır.",
+          "Örneğin, gümrüksüz ticaret politikaları ve modern liman altyapısı, Safran’ın sınır ötesi işlemleri uygun maliyetle gerçekleştirmesine olanak tanımaktadır. Aynı zamanda, şirket offshore bankacılık sistemleri aracılığıyla sermaye akışlarını sorunsuz yönetmektedir. Hong Kong, Çin ana karası ve Kuşak ve Yol Girişimi’ne dahil ülkeler arasındaki stratejik bağlar, Safran’ın Asya, Orta Doğu ve Amerika kıtası dahil 80’den fazla ülkeye uzanan gelişmekte olan pazarlardaki varlığını güçlendirmesini sağlamaktadır."
+        ]
+      },
+      "section2": {
+        "title": "2. Teknolojik İnovasyon ve Çeşitlendirilmiş Ürün Yelpazesi",
+        "paragraph1": "Safran’ın kalıcı başarısının merkezinde, teknolojik yetkinliği ve geniş ürün yelpazesi yer almaktadır. Çin’in önde gelen amonyum nitrat tedarikçisi olarak, şirket Savunma Bakanlığı’ndan aldığı savunma sınıfı sertifikalar ile patlayıcı malzemelerinde benzersiz güvenlik ve performans sunmaktadır. Teknolojik atılımları, savunma sektörüne hassas mühimmat, zırhlı araçlar ve taktik insansız hava araçları gibi hayati bileşenler tedarik etmesini sağlamıştır.",
+        "list": [
+          "Sivil kullanım malzemeleri: amonyum nitrat, emülsiyon patlayıcılar, su jeli patlayıcılar",
+          "Askeri çözümler: tank zırhı, top mermileri, taktik İHA’lar, akıllı patlatma sistemleri",
+          "Özel kimyasallar: yüksek kaliteli endüstriyel kullanım için nitratlar, nitroselüloz, perkloratlar"
+        ],
+        "paragraph2": "Ar-Ge’ye yapılan sürekli yatırımlar sayesinde şirket, düşük duyarlılıklı patlayıcılardan çevre dostu iticilere kadar uzanan patentli formülasyonlar geliştirmiş ve bu sayede güçlü bir teknolojik üstünlük sağlamıştır."
+      },
+      "section3": {
+        "title": "3. Mevzuata Uyum ve Sektörel Güven",
+        "paragraphs": [
+          "Safran, faaliyetlerinin merkezine uyumu ve güvenliği yerleştirmektedir. Savunma Bakanlığı ve Ulaştırma Bakanlığı dahil olmak üzere kilit düzenleyici kurumların sertifikalarının yanı sıra, ISO 9001 kalite yönetimi ve REACH çevre güvenliği gibi uluslararası kabul görmüş standartlara da sıkı sıkıya bağlıdır.",
+          "Örneğin, Safran’ın amonyum nitrat üretimi kapalı devre bir süreç ile gerçekleştirilmekte, bu da karbon emisyonlarını %30’dan fazla azaltmaktadır — bu yaklaşım, şirketin küresel karbon nötrlüğü girişimlerine olan bağlılığının bir yansımasıdır. Bu disiplinli tutum, Safran’ı BHP Billiton ve China Railway Construction gibi sektör liderleri için uzun vadeli güvenilir bir ortak haline getirmiştir."
+        ]
+      },
+      "section4": {
+        "title": "4. Entegre Tedarik Zinciri ve Katma Değerli Hizmetler",
+        "paragraph1": "Dikey entegrasyon ve yatay genişleme yoluyla Safran, geleneksel tedarik işlevlerinin çok ötesine geçen, uçtan uca entegre bir hizmet modeli geliştirmiştir. Bu \"tek durak\" sistemi şunları kapsamaktadır:",
+        "list": [
+          "Yukarı yönlü kontrol: Hammadde tedarikini güvence altına almak için önde gelen küresel madencilik firmalarıyla stratejik ittifaklar",
+          "Orta aşama inovasyon: Patlayıcı formülasyonlarının optimize edilmesi ve patlatma tasarımının geliştirilmesi",
+          "Aşağı yönlü işbirliği: Beton katkı maddeleri ve enerji malzemeleri gibi yüksek değerli ürünlerin ortak geliştirilmesi"
+        ],
+        "paragraph2": "Dikkat çekici bir örnek, Afrika’daki bir madencilik şirketi için geliştirilen kompozit amonyum nitrat-mazot patlayıcı çözümüdür. Bu yenilik, patlatma verimliliğini %20 artırmış ve operasyonel maliyetleri %15 düşürerek geleneksel fiyat odaklı yaklaşımlara güçlü bir alternatif sunmuştur."
+      },
+      "section5": {
+        "title": "5. Sürdürülebilirlik ve Kurumsal Sorumluluk",
+        "paragraph1": "Gelişen ESG gereklilikleriyle uyumlu olarak Safran, yeşil kimya ve sorumlu inovasyonu iş stratejisinin merkezine yerleştirmiştir. Önemli girişimler arasında şunlar bulunmaktadır:",
+        "list": [
+          "Döngüsel ekonomi uygulamaları: Atık sülfürik asit gibi yan ürünlerin yeniden işlenmesi",
+          "Düşük karbonlu üretim: 2024 yılına kadar %18 karbon azaltımı hedefiyle güneş ve biyokütle enerjisinin benimsenmesi",
+          "Toplumsal kalkınma: Standartları yükseltmek amacıyla gelişmekte olan bölgelerde güvenlik eğitim tesisleri"
+        ],
+        "paragraph2": "Bu sürdürülebilirlik çabaları, Safran’a Birleşmiş Milletler Küresel İlkeler Sözleşmesi’nden resmi tanınma kazandırmış ve sermaye piyasalarında ESG derecelendirme primlerine katkıda bulunmuştur."
+      },
+      "conclusion": {
+        "title": "Sonuç",
+        "paragraphs": [
+          "Safran’ın gelişim rotası, teknolojik liderlik, mevzuata uyum ve hizmet mükemmelliğine olan sarsılmaz bağlılık üzerine kuruludur. Küresel kimya endüstrisi daha yüksek katma değerli ürünlere yönelirken Safran, fiyat savaşlarının ticarileşmiş ortamının ötesinde bir yol haritası çizmiştir.",
+          "Çok yönlü stratejisi — ileri teknoloji, çevik hizmet modelleri ve güçlü bir çevre bilinci — şirketi dünya genelinde güvenilir, uzun vadeli bir ortak haline getirmiştir.",
+          "Geleceğe bakıldığında, Safran savunma sınıfı malzemeler ve döngüsel ekonomi inovasyonlarındaki sürekli gelişmeler yoluyla küresel pazardaki liderliğini pekiştirmeye, böylece sektör genelinde mükemmellik standartlarını yeniden tanımlamaya hazırdır."
+        ]
+      },
+      "disclaimer": "Feragatname: Sunulan tüm veriler ve örnekler, kamuya açık kaynaklar ve sektör trend analizlerinden elde edilmiştir. Belirli ortaklıklara ilişkin ayrıntılar, gizlilik anlaşmaları kapsamında gizli tutulmaktadır."
+    }
   }
 }

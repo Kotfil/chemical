@@ -177,6 +177,141 @@
     }
   },
   "gallery_section": {
-    "title": "DEMONSTRATIE VAN ONZE PRODUCTEN"
+    "title": "DEMONSTRATIE VAN ONZE PRODUCTEN",
+    "factory_title": "Fabriek",
+    "produce_title": "Producten",
+    "gallery_video_list": [
+  {
+    "title": "Een wereldwijde pionier in geïntegreerde chemische oplossingen",
+    "src": "/assets/video/A-Global-Pioneer.mov",
+    "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+  },
+  {
+    "title": "Wie we zijn",
+    "src": "/assets/video/Who-we-are.mov",
+    "poster": "/assets/video/video-background/who-are-we.jpg"
+  },
+  {
+    "title": "Fabriekstour",
+    "src": "/assets/video/Factory-tour.mp4",
+    "poster": "/assets/video/video-background/the-factory.jpg"
+  },
+  {
+    "title": "De producten",
+    "src": "/assets/video/The-produce.mp4",
+    "poster": "/assets/video/video-background/the-produce.jpg"
   }
+],
+"gallery_factory_list": [
+{ "img": "/assets/factory/1.webp", "title": "factory_1" },
+{ "img": "/assets/factory/2.webp", "title": "factory_2" },
+{ "img": "/assets/factory/3.webp", "title": "factory_3" },
+{ "img": "/assets/factory/4.webp", "title": "factory_4" },
+{ "img": "/assets/factory/6.webp", "title": "factory_5" },
+{ "img": "/assets/factory/7.webp", "title": "factory_6" },
+{ "img": "/assets/factory/8.webp", "title": "factory_7" },
+{ "img": "/assets/factory/9.webp", "title": "factory_8" },
+{ "img": "/assets/factory/10.webp", "title": "factory_9" },
+{ "img": "/assets/factory/11.webp", "title": "factory_10" },
+{ "img": "/assets/factory/12.webp", "title": "factory_11" },
+{ "img": "/assets/factory/13.webp", "title": "factory_12" },
+{ "img": "/assets/factory/14.webp", "title": "factory_13" },
+{ "img": "/assets/factory/15.webp", "title": "factory_14" },
+{ "img": "/assets/factory/16.webp", "title": "factory_15" },
+{ "img": "/assets/factory/17.webp", "title": "factory_16" },
+{ "img": "/assets/factory/18.webp", "title": "factory_17" },
+{ "img": "/assets/factory/19.webp", "title": "factory_18" }
+],
+"gallery_produce_list": [
+{ "img": "/assets/produce/1.webp", "title": "produce_1" },
+{ "img": "/assets/produce/2.webp", "title": "produce_2" },
+{ "img": "/assets/produce/3.webp", "title": "produce_3" },
+{ "img": "/assets/produce/4.webp", "title": "produce_4" },
+{ "img": "/assets/produce/5.webp", "title": "produce_5" },
+{ "img": "/assets/produce/6.webp", "title": "produce_6" },
+{ "img": "/assets/produce/7.webp", "title": "produce_7" },
+{ "img": "/assets/produce/8.webp", "title": "produce_8" },
+{ "img": "/assets/produce/9.webp", "title": "produce_9" },
+{ "img": "/assets/produce/10.webp", "title": "produce_10" },
+{ "img": "/assets/produce/11.webp", "title": "produce_11" },
+{ "img": "/assets/produce/12.webp", "title": "produce_12" },
+{ "img": "/assets/produce/13.webp", "title": "produce_13" },
+{ "img": "/assets/produce/14.webp", "title": "produce_14" },
+{ "img": "/assets/produce/15.webp", "title": "produce_15" },
+{ "img": "/assets/produce/16.webp", "title": "produce_16" },
+{ "img": "/assets/produce/17.webp", "title": "produce_17" },
+{ "img": "/assets/produce/18.webp", "title": "produce_18" },
+{ "img": "/assets/produce/19.webp", "title": "produce_19" },
+{ "img": "/assets/produce/20.webp", "title": "produce_20" },
+{ "img": "/assets/produce/21.webp", "title": "produce_21" },
+{ "img": "/assets/produce/22.webp", "title": "produce_22" },
+{ "img": "/assets/produce/23.webp", "title": "produce_23" },
+{ "img": "/assets/produce/24.webp", "title": "produce_24" },
+{ "img": "/assets/produce/25.webp", "title": "produce_25" },
+{ "img": "/assets/produce/26.webp", "title": "produce_26" },
+{ "img": "/assets/produce/27.webp", "title": "produce_27" }
+]
+},
+"about_section": {
+"title": "Hong Kong Safran Industry Co Limited: Een wereldwijde pionier in geïntegreerde chemische oplossingen",
+"about_text": {
+"intro": [
+"Opgericht in 2009 in het dynamische commerciële centrum van Hong Kong, is Hong Kong Safran Industry Co Limited uitgegroeid tot een wereldwijde referentie op het gebied van ammoniumnitraat en explosieve materialen. De opkomst is gedreven door een scherpe strategische visie, voortdurende innovatie en compromisloze naleving van regelgeving.",
+"Geleid door de principes van veiligheid, efficiëntie en duurzaamheid, levert het bedrijf geavanceerde chemische oplossingen in de mijnbouw, bouw, defensie en civiele sectoren. Door een breed productportfolio te cultiveren en een wereldwijd netwerk van dienstverlening te benutten, heeft Safran destructieve prijsgebaseerde concurrentie succesvol vermeden en in plaats daarvan een marktpositie verworven die wordt gekenmerkt door veerkracht en uniciteit."
+],
+"section1": {
+"title": "1. Wereldwijde reikwijdte en strategische positionering",
+"paragraphs": [
+"Met Hong Kong erkend als 's werelds derde grootste financiële centrum en een belangrijke vrijhandelsport, geniet Safran een strategische basis in een van 's werelds meest bedrijfsvriendelijke omgevingen. Het gunstige belastingregime van de stad, logistiek van wereldklasse en robuust internationaal banksysteem stellen het bedrijf in staat snel te reageren op wereldwijde vraag en efficiënt te integreren binnen de internationale toeleveringsketen.",
+"Bijvoorbeeld, belastingvrije handelsbeleid en moderne haveninfrastructuur stellen Safran in staat kosteneffectieve grensoverschrijdende transacties uit te voeren. Tegelijkertijd beheert het bedrijf kapitaalstromen naadloos via offshore bankstructuren. Strategische banden tussen Hong Kong, het vasteland van China en landen die aansluiten bij het Belt and Road-initiatief stellen Safran verder in staat zijn voetafdruk in opkomende markten te verdiepen – nu verspreid over meer dan 80 landen in Azië, het Midden-Oosten en de Amerika’s."
+]
+},
+"section2": {
+"title": "2. Technologische innovatie en gediversifieerd aanbod",
+"paragraph1": "Het hart van Safrans blijvend succes ligt in zijn technologische verfijning en brede productmix. Als China's voornaamste leverancier van ammoniumnitraat bezit het bedrijf defensie-certificeringen van het Ministerie van Defensie, wat ongeëvenaarde veiligheid en prestaties in zijn explosieve materialen garandeert. De technologische doorbraken zijn verder uitgebreid naar de defensiesector, waar het vitale componenten levert zoals precisie-ammunitie, gepantserde voertuigen en tactische drones.",
+"list": [
+"Materialen voor civiel gebruik: ammoniumnitraat, emulsiële explosieven, watergel-explosieven",
+"Militaire oplossingen: tankpantser, artillerieschelp, tactische UAV's, intelligente ontstekingssystemen",
+"Speciale chemicaliën: nitraten, nitrocellulose, perchloraten voor high-end industrieel gebruik"
+],
+"paragraph2": "Door voortdurende investeringen in onderzoek en ontwikkeling, heeft het bedrijf gepatenteerde formules ontwikkeld – variërend van laaggevoelige explosieven tot milieuvriendelijke aandrijvingen – die de prestaties verbeteren en tegelijkertijd een robuuste technologische vesting creëren."
+},
+"section3": {
+"title": "3. Naleving van regelgeving en industrieel vertrouwen",
+"paragraphs": [
+"Safran plaatst naleving en veiligheid in het hart van zijn operaties. Naast certificeringen van belangrijke regelgevende autoriteiten, waaronder het Ministerie van Defensie en het Ministerie van Transport, houdt het bedrijf zich strikt aan internationaal erkende normen zoals ISO 9001 voor kwaliteitsbeheer en REACH voor milieubescherming.",
+"Bijvoorbeeld, Safrans productie van ammoniumnitraat maakt gebruik van een gesloten-lus proces, waardoor de CO2-uitstoot met meer dan 30% wordt verminderd – een reflectie van de toewijding van het bedrijf aan wereldwijde CO2-neutraliteitsinitiatieven. Deze gedisciplineerde aanpak heeft Safran gepositioneerd als een langdurige, vertrouwde partner voor toonaangevende spelers in de industrie zoals BHP Billiton en China Railway Construction."
+]
+},
+"section4": {
+"title": "4. Geïntegreerde toeleveringsketen en waarde toevoegende diensten",
+"paragraph1": "Door zowel verticale integratie als horizontale uitbreiding, heeft Safran een volledig geïntegreerd end-to-end service model opgebouwd dat veel verder gaat dan traditionele leveringsfuncties. Dit “one-stop” systeem omvat:",
+"list": [
+"Upstream control: Strategische allianties met toonaangevende wereldwijde mijnbouwbedrijven garanderen de levering van grondstoffen",
+"Midstream innovatie: Geoptimaliseerde explosieve formuleringen en blast design verbeteren resultaten",
+"Downstream samenwerking: Gezamenlijke ontwikkeling van hoogwaardiger producten zoals betonadditieven en energiematerialen"
+],
+"paragraph2": "Een opmerkelijk voorbeeld betreft een samengestelde ammoniumnitraat-olie explosieve oplossing ontwikkeld voor een mijnbouwbedrijf in Afrika. Deze innovatie verbeterde de blastefficiëntie met 20% en verminderde operationele kosten met 15%, en biedt een overtuigend alternatief voor conventionele prijsgedreven benaderingen."
+},
+"section5": {
+"title": "5. Duurzaamheid en maatschappelijke verantwoordelijkheid",
+"paragraph1": "In lijn met de evoluerende ESG-vereisten, integreert Safran groene chemie en verantwoordelijke innovatie in het hart van zijn bedrijfsstrategie. Belangrijke initiatieven zijn onder andere:",
+"list": [
+"Circulaire economiepraktijken: herverwerking van bijproducten zoals afval zwavelzuur",
+"Laag-koolstofproductie: adoptie van zonne- en biomassa-energie, met een doelstelling van 18% CO2-reductie tegen 2024",
+"Gemeenschapsontwikkeling: veiligheidstrainingen in ontwikkelingsregio’s om standaarden te verhogen"
+],
+"paragraph2": "Deze duurzaamheidsinspanningen hebben Safran formele erkenning van het United Nations Global Compact opgeleverd en bijgedragen aan ESG-beoordelingspremies op de kapitaalmarkten."
+},
+"conclusion": {
+"title": "Conclusie",
+"paragraphs": [
+"Het traject van Safran is gebouwd op een onverzettelijke toewijding aan technologische leiderschap, regelgevingsintegriteit en service-excellentie. Naarmate de wereldwijde chemische industrie verschuift naar producten met hogere toegevoegde waarde, heeft Safran een pad uitgezet voorbij het commoditized landschap van prijsoorlogen.",
+"De veelzijdige strategie – geavanceerde technologie, wendbare servicemodellen en een sterk milieubewustzijn – heeft het bedrijf getransformeerd tot een betrouwbare, langdurige partner voor klanten wereldwijd.",
+"Vooruitkijkend, is Safran goed gepositioneerd om zijn leiderschap op de wereldmarkt te versterken, met name door voortdurende vooruitgang in defensie-materiaal van hoge kwaliteit en innovaties in de circulaire economie, waarmee nieuwe standaarden van excellentie in de industrie worden gezet."
+]
+},
+"disclaimer": "Disclaimer: Alle gegevens en voorbeelden zijn afgeleid van publiek beschikbare bronnen en analyses van industrietrends. Details over specifieke partnerschappen blijven vertrouwelijk onder geheimhoudingsovereenkomsten."
+}
+}
 }

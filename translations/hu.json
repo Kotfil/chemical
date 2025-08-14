@@ -4,14 +4,26 @@
     "subtitle": "F szoba, 6. emelet, Mega Cube 8. szám, Wang Kwong út, KL, Hongkong",
     "subtitle_second": "Alapítva 2009",
     "navigation_list": [
-      { "label": "Főoldal", "href": "/" },
-      { "label": "Termékek", "href": "/products" },
-      { "label": "Együttműködés", "href": "/co-operation" },
+      {
+        "label": "Főoldal",
+        "href": "/"
+      },
+      {
+        "label": "Termékek",
+        "href": "/products"
+      },
+      {
+        "label": "Együttműködés",
+        "href": "/co-operation"
+      },
       {
         "label": "Galéria",
         "href": "/gallery"
       },
-      { "label": "Rólunk", "href": "/about" }
+      {
+        "label": "Rólunk",
+        "href": "/about"
+      }
     ]
   },
   "main_section": {
@@ -176,6 +188,285 @@
     }
   },
   "gallery_section": {
-    "title": "TERMÉKEINK BEMUTATÁSA"
+    "title": "TERMÉKEINK BEMUTATÁSA",
+    "factory_title": "Gyár",
+    "produce_title": "Termékek",
+    "gallery_video_list": [
+      {
+        "title": "Globális úttörő az integrált kémiai megoldások terén",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Kik vagyunk mi",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Gyárlátogatás",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "A termékek",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "gyar_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "gyar_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "gyar_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "gyar_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "gyar_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "gyar_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "gyar_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "gyar_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "gyar_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "gyar_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "gyar_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "gyar_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "gyar_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "gyar_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "gyar_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "gyar_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "gyar_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "gyar_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "termek_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "termek_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "termek_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "termek_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "termek_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "termek_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "termek_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "termek_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "termek_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "termek_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "termek_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "termek_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "termek_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "termek_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "termek_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "termek_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "termek_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "termek_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "termek_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "termek_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "termek_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "termek_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "termek_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "termek_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "termek_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "termek_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "termek_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Globális úttörő az integrált kémiai megoldások terén",
+    "about_text": {
+      "intro": [
+        "2009-ben, a dinamikus hongkongi kereskedelmi központban alapított Hong Kong Safran Industry Co Limited a salétrom és robbanóanyagok területén globális referencia ponttá vált. Fejlődését éles stratégiai látásmód, folyamatos innováció és kompromisszum nélküli szabályozási megfelelés vezérelte.",
+        "A biztonság, hatékonyság és fenntarthatóság elvei szerint működve a vállalat fejlett kémiai megoldásokat nyújt a bányászat, építőipar, védelem és civil szektor számára. Széles termékkínálatának kialakításával és világméretű szolgáltató hálózatának kiaknázásával a Safran sikeresen elkerülte az árverseny miatti káros versengést, ehelyett ellenálló és egyedi piaci pozíciót épített."
+      ],
+      "section1": {
+        "title": "1. Globális jelenlét és stratégiai pozicionálás",
+        "paragraphs": [
+          "Hongkongot a világ harmadik legnagyobb pénzügyi központjaként és jelentős szabadkereskedelmi kikötőjeként ismerve, a Safran stratégiai bázist élvez a világ egyik legüzletbarátabb környezetében. A város kedvező adórendszere, világszínvonalú logisztikája és erős nemzetközi bankrendszere lehetővé teszi a vállalat számára, hogy gyorsan reagáljon a globális keresletre és hatékonyan integrálódjon a nemzetközi ellátási láncba.",
+          "Például a vámmentes kereskedelmi szabályok és a modern kikötői infrastruktúra lehetővé teszik a Safran számára a költséghatékony határokon átnyúló tranzakciókat. Ugyanakkor a vállalat zökkenőmentesen kezeli a tőkemozgásokat offshore banki rendszereken keresztül. Hongkong, Kína szárazföldi része és a Selyemút-kezdeményezéshez kapcsolódó országok közötti stratégiai kapcsolatok tovább erősítik a Safran jelenlétét a feltörekvő piacokon, amelyek mára több mint 80 országot fednek le Ázsiában, a Közel-Keleten és Amerikában."
+        ]
+      },
+      "section2": {
+        "title": "2. Technológiai innováció és diverzifikált kínálat",
+        "paragraph1": "A Safran tartós sikerének központjában technológiai kifinomultsága és széles termékválasztéka áll. Kína vezető salétromszállítójaként a vállalat védelmi minősítésű bizonyítványokkal rendelkezik a Nemzeti Védelmi Minisztériumtól, garantálva a páratlan biztonságot és teljesítményt robbanóanyagainál. Technológiai áttörései a védelmi szektorba is kiterjedtek, ahol létfontosságú komponenseket szállít, például precíziós lőszereket, páncélozott járműveket és taktikai drónokat.",
+        "list": [
+          "Polgári minőségű anyagok: salétrom, emulziós robbanóanyagok, víz-gél robbanóanyagok",
+          "Katonai megoldások: tankpáncél, lövedékek, taktikai UAV-k, intelligens robbanórendszerek",
+          "Speciális vegyszerek: nitrátok, nitrocellulóz, perklorátok magas szintű ipari felhasználásra"
+        ],
+        "paragraph2": "A kutatás-fejlesztés folyamatos befektetése révén a vállalat szabadalmaztatott formulákat dolgozott ki – az alacsony érzékenységű robbanóanyagoktól az öko-barát hajtóanyagokig –, amelyek növelik a teljesítményt, miköz
+
+
+        ben
+        erős
+        technológiai
+        védelmi
+        vonalat
+        építenek.
+        "
+      },
+      "section3": {
+        "title": "3. Szabályozási megfelelés és ipari bizalom",
+        "paragraphs": [
+          "A Safran a megfelelőséget és a biztonságot tevékenysége középpontjába helyezi. A fő szabályozó hatóságok, köztük a Nemzeti Védelmi Minisztérium és a Közlekedési Minisztérium tanúsítványain kívül a vállalat szigorúan betartja a nemzetközileg elismert szabványokat, például az ISO 9001 minőségirányítási és a REACH környezetbiztonsági szabványokat.",
+          "Például a Safran salétrom előállítása zárt hurkú folyamatot alkalmaz, amely több mint 30%-kal csökkenti a szén-dioxid-kibocsátást – ez a vállalat globális karbonsemlegességi kezdeményezések iránti elkötelezettségét tükrözi. Ez a fegyelmezett megközelítés hosszú távon megbízható partnerré tette a Safrant olyan vezető ipari szereplők számára, mint a BHP Billiton és a China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Integrált ellátási lánc és értéknövelt szolgáltatások",
+        "paragraph1": "A vertikális integráció és horizontális terjeszkedés révén a Safran teljesen integrált, végponttól végpontig tartó szolgáltatási modellt épített ki, amely messze túlmutat a hagyományos ellátási funkciókon. Ez az „egyablakos” rendszer magában foglalja:",
+        "list": [
+          "Felső szintű ellenőrzés: Stratégiai szövetségek vezető globális bányászati vállalatokkal az alapanyag-beszállítás biztosítására",
+          "Középszintű innováció: optimalizált robbanóanyag-formulák és robbantástervezés a jobb eredményekért",
+          "Alsó szintű együttműködés: magas értékű termékek, például betonadalékok és energiatároló anyagok közös fejlesztése"
+        ],
+        "paragraph2": "Egy kiemelkedő esetben egy kompozit salétrom-üzemanyag robbanóanyag megoldást hoztak létre egy afrikai bányavállalat számára. Ez az innováció 20%-kal javította a robbantás hatékonyságát és 15%-kal csökkentette az üzemeltetési költségeket, meggyőző alternatívát kínálva a hagyományos ár-alapú megközelítésekkel szemben."
+      },
+      "section5": {
+        "title": "5. Fenntarthatóság és vállalati felelősségvállalás",
+        "paragraph1": "A folyamatosan változó ESG követelményekhez igazodva a Safran a zöld kémiát és a felelős innovációt üzleti stratégiája középpontjába helyezi. A fő kezdeményezések a következők:",
+        "list": [
+          "Körkörös gazdasági gyakorlatok: melléktermékek, például hulladék kénsav újrahasznosítása",
+          "Alacsony szén-dioxid kibocsátású termelés: napenergia és biomassza energia alkalmazása, 2024-re 18%-os széncsökkentési célkitűzés",
+          "Közösségfejlesztés: biztonsági képzőlétesítmények kiépítése fejlődő régiókban a standardok emelésére"
+        ],
+        "paragraph2": "Ezek a fenntarthatósági erőfeszítések hivatalos elismerést hoztak a Safran számára az ENSZ Globális Megállapodásában, és hozzájárultak az ESG minősítési prémiumokhoz a tőkepiacon."
+      },
+      "conclusion": {
+        "title": "Összegzés",
+        "paragraphs": [
+          "A Safran pályafutása az elkötelezett technológiai vezetésre, szabályozási integritásra és szolgáltatási kiválóságra épül. Amint a globális vegyipar a nagyobb hozzáadott értékű termékek felé tolódik, a Safran túllépett az árháborúk árucikkesített tájképén.",
+          "Többoldalú stratégiája – csúcstechnológia, agilis szolgáltatási modellek és erős környezeti tudatosság – megbízható, hosszú távú partnerré alakította a vállalatot ügyfelei számára világszerte.",
+          "A jövőben a Safran jó pozícióban van, hogy tovább erősítse vezető szerepét a globális piacon, különösen a védelmi minőségű anyagok és a körkörös gazdasági innovációk terén, új kiválósági normákat állítva az iparban."
+        ]
+      },
+      "disclaimer": "Nyilatkozat: Minden bemutatott adat és példa nyilvánosan elérhető forrásokból és ipari trend elemzésekből származik. Az egyes partnerségekre vonatkozó részletek bizalmasak a titoktartási megállapodások alapján."
+    }
   }
 }

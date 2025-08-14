@@ -150,6 +150,37 @@ export const WhatsappIcon = ({
   );
 };
 
+export const SignalIcon = ({
+  fill = '#3A76F0', // фирменный цвет Signal
+  size = 22,
+  height = 12,
+  width = 12,
+  ...props
+}) => {
+  return (
+    <svg
+      height={size || height || 24}
+      width={size || width || 24}
+      viewBox="0 0 24 24"
+      xmlns="http://www.w3.org/2000/svg"
+      {...props}
+    >
+      <path
+        fill={fill}
+        d="M12 2C6.48 2 2 6.48 2 12c0 2.21.72 4.25 1.93 5.9L2 22l4.1-1.93C7.75 21.28 9.79 22 12 22c5.52 0 10-4.48 10-10S17.52 2 12 2zm1.5 13h-3v-3h3v3zm0-4.5h-3v-3h3v3z"
+      />
+      <path
+        d="M12 2C6.48 2 2 6.48 2 12c0 2.21.72 4.25 1.93 5.9L2 22l4.1-1.93C7.75 21.28 9.79 22 12 22c5.52 0 10-4.48 10-10S17.52 2 12 2z"
+        fill="none"
+        stroke="#ffffff"
+        strokeLinecap="round"
+        strokeLinejoin="round"
+        strokeWidth={1.5}
+      />
+    </svg>
+  );
+};
+
 export const TelegramIcon = ({
   fill = '#229ED9', // фирменный цвет Telegram
   size = 22,
@@ -178,31 +209,6 @@ export const TelegramIcon = ({
   );
 };
 
-export const TelegraphIcon = ({
-  size = 50,
-  colors = ['#F8FAFB', '#E2E8F0', '#CBD5E1', '#94A3B8'], // светлый градиент
-  ...props
-}: {
-  size?: number;
-  colors?: string[];
-} & React.SVGProps<SVGSVGElement>) => (
-  <svg width={size} height={size} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
-    <defs>
-      <radialGradient id="telegraph-gradient" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stopColor={colors[0]} />
-        <stop offset="40%" stopColor={colors[1]} />
-        <stop offset="70%" stopColor={colors[2]} />
-        <stop offset="100%" stopColor={colors[3]} />
-      </radialGradient>
-    </defs>
-    <circle cx="32" cy="32" r="32" fill="url(#telegraph-gradient)" />
-    <path
-      d="M16 33.5L46.2 22.3C47.5 21.8 48.8 22.9 48.3 24.3L42.3 43.3C41.9 44.6 40.3 45.1 39.3 44.2L33.1 38.6L28.6 43.2C28.3 43.6 27.8 43.8 27.3 43.8L27.2 43.8C26 43.8 25.2 42.5 25.6 41.4L30.2 28.6L18 35.2C16.7 35.9 15.2 34.3 16 33.5Z"
-      fill="#1F2937"
-    />
-  </svg>
-);
-
 export const GumletIcon = ({
   size = 50,
   colors = ['#FF6C37', '#FF5B2B', '#E14A1F', '#B93816'], // оттенки оранжевого
@@ -223,31 +229,6 @@ export const GumletIcon = ({
     <rect width="64" height="64" rx="12" fill="url(#gumlet-gradient)" />
     <path
       d="M32.6 18.7c-6.2 0-11.3 5-11.3 11.3 0 6.2 5 11.3 11.3 11.3 4.8 0 9.1-3 10.6-7.3H37.1c-0.7 1.4-2.1 2.3-3.8 2.3-2.4 0-4.3-2-4.3-4.3s2-4.3 4.3-4.3c1.7 0 3.1 0.9 3.8 2.3h6.1c-1.4-4.3-5.7-7.3-10.6-7.3Z"
-      fill="white"
-    />
-  </svg>
-);
-
-export const RumbleIcon = ({
-  size = 35,
-  colors = ['#7FEA3C', '#57C937', '#3BA631', '#1E802A'], // зелёные оттенки Rumble
-  ...props
-}: {
-  size?: number;
-  colors?: string[];
-} & React.SVGProps<SVGSVGElement>) => (
-  <svg width={size} height={size} viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" {...props}>
-    <defs>
-      <linearGradient id="rumble-gradient" x1="0" y1="0" x2="64" y2="64" gradientUnits="userSpaceOnUse">
-        <stop offset="0%" stopColor={colors[0]} />
-        <stop offset="33%" stopColor={colors[1]} />
-        <stop offset="66%" stopColor={colors[2]} />
-        <stop offset="100%" stopColor={colors[3]} />
-      </linearGradient>
-    </defs>
-    <rect width="64" height="64" rx="12" fill="url(#rumble-gradient)" />
-    <path
-      d="M31.1 16.2C30.1 15.1 28.4 15.1 27.4 16.2L15.6 30.2C14.8 31.1 14.8 32.5 15.6 33.4L27.4 47.4C28.4 48.5 30.1 48.5 31.1 47.4L42.9 33.4C43.7 32.5 43.7 31.1 42.9 30.2L31.1 16.2ZM28.8 25.4L35.5 31.8L28.8 38.2V25.4Z"
       fill="white"
     />
   </svg>

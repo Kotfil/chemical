@@ -4,18 +4,28 @@
     "subtitle": "Unidad/habitación F, piso 6, Mega Cube, nº 8 Wang Kwong Road, KL, Hong Kong",
     "subtitle_second": "Fundada en 2009",
     "navigation_list": [
-      { "label": "Inicio", "href": "/" },
-      { "label": "Productos", "href": "/products" },
-      { "label": "Colaboración", "href": "/co-operation" },
-
+      {
+        "label": "Inicio",
+        "href": "/"
+      },
+      {
+        "label": "Productos",
+        "href": "/products"
+      },
+      {
+        "label": "Colaboración",
+        "href": "/co-operation"
+      },
       {
         "label": "Galería",
         "href": "/gallery"
       },
-      { "label": "Sobre nosotros", "href": "/about" }
+      {
+        "label": "Sobre nosotros",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "PROVEEDOR INTEGRAL DE SOLUCIONES DE ",
     "title_second": "VOLADURAS CIVILES Y ",
@@ -165,7 +175,7 @@
   "cooperation_section": {
     "title": "ALGORITMO GENERAL DE COOPERACIÓN",
     "cooperation_schedule": {
-      "core": "ALGORITMO GENERAL\nDE COOPERACIÓN",
+      "core": "ALGORITMO GENERALnDE COOPERACIÓN",
       "labels": [
         "Negociaciones",
         "Firma de contrato",
@@ -178,6 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "DEMOSTRACIÓN DE NUESTROS PRODUCTOS"
+    "title": "DEMOSTRACIÓN DE NUESTROS PRODUCTOS",
+    "factory_title": "Fábrica",
+    "produce_title": "Producción",
+    "gallery_video_list": [
+      {
+        "title": "Un Pionero Global en Soluciones Químicas Integradas",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Quiénes somos",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Recorrido por la fábrica",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "La producción",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "fábrica_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "fábrica_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "fábrica_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "fábrica_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "fábrica_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "fábrica_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "fábrica_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "fábrica_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "fábrica_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "fábrica_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "fábrica_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "fábrica_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "fábrica_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "fábrica_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "fábrica_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "fábrica_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "fábrica_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "fábrica_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "producción_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "producción_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "producción_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "producción_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "producción_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "producción_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "producción_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "producción_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "producción_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "producción_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "producción_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "producción_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "producción_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "producción_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "producción_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "producción_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "producción_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "producción_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "producción_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "producción_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "producción_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "producción_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "producción_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "producción_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "producción_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "producción_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "producción_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Un Pionero Global en Soluciones Químicas Integradas",
+    "about_text": {
+      "intro": [
+        "Establecida en 2009 en el dinámico centro comercial de Hong Kong, Hong Kong Safran Industry Co Limited se ha convertido en un referente global en el campo del nitrato de amonio y materiales explosivos. Su ascenso ha sido impulsado por una visión estratégica clara, innovación continua y cumplimiento regulatorio estricto.",
+        "Guiada por los principios de seguridad, eficiencia y sostenibilidad, la empresa ofrece soluciones químicas avanzadas en los sectores de minería, construcción, defensa y civil. Al cultivar un amplio portafolio de productos y aprovechar una red de servicios mundial, Safran ha evitado con éxito la competencia destructiva basada en precios, forjando en su lugar una posición de mercado marcada por la resiliencia y la singularidad."
+      ],
+      "section1": {
+        "title": "1. Alcance Global y Posicionamiento Estratégico",
+        "paragraphs": [
+          "Con Hong Kong reconocida como el tercer centro financiero más grande del mundo y un importante puerto de libre comercio, Safran disfruta de una base estratégica en uno de los entornos más favorables para los negocios a nivel mundial. El régimen fiscal favorable de la ciudad, la logística de clase mundial y un sólido sistema bancario internacional permiten a la empresa responder rápidamente a la demanda global e integrarse eficientemente dentro de la cadena de suministro internacional.",
+          "Por ejemplo, las políticas de comercio libre de aranceles y la infraestructura portuaria moderna permiten a Safran realizar transacciones transfronterizas rentables. Al mismo tiempo, la empresa gestiona los flujos de capital sin problemas mediante estructuras bancarias offshore. Los lazos estratégicos entre Hong Kong, China continental y los países alineados con la Iniciativa de la Franja y la Ruta permiten además a Safran profundizar su presencia en mercados emergentes, ahora presentes en más de 80 países en Asia, Medio Oriente y América."
+        ]
+      },
+      "section2": {
+        "title": "2. Innovación Tecnológica y Oferta Diversificada",
+        "paragraph1": "En el corazón del éxito duradero de Safran se encuentra su sofisticación tecnológica y su amplia gama de productos. Como principal proveedor de nitrato de amonio de China, la empresa cuenta con certificaciones de grado militar del Ministerio de Defensa, asegurando una seguridad y rendimiento incomparables en sus materiales explosivos. Sus avances tecnológicos se han extendido aún más al sector de defensa, suministrando componentes vitales como munición de precisión, vehículos blindados y drones tácticos.",
+        "list": [
+          "Materiales civiles: nitrato de amonio, explosivos de emulsión, explosivos de gel acuoso",
+          "Soluciones militares: blindaje de tanques, proyectiles de artillería, UAVs tácticos, sistemas de detonación inteligentes",
+          "Químicos especializados: nitratos, nitrocelulosa, percloratos para uso industrial de alta gama"
+        ],
+        "paragraph2": "A través de una inversión sostenida en investigación y desarrollo, la empresa ha desarrollado formulaciones patentadas, desde explosivos de baja sensibilidad hasta propelentes ecológicos, que mejoran el rendimiento mientras construyen un sólido foso tecnológico."
+      },
+      "section3": {
+        "title": "3. Cumplimiento Regulatorio y Confianza en la Industria",
+        "paragraphs": [
+          "Safran sitúa el cumplimiento y la seguridad en el núcleo de sus operaciones. Además de las certificaciones de autoridades regulatorias clave, incluyendo el Ministerio de Defensa y el Ministerio de Transporte, la empresa se adhiere estrictamente a normas internacionalmente reconocidas como ISO 9001 para gestión de calidad y REACH para seguridad ambiental.",
+          "Por ejemplo, la producción de nitrato de amonio de Safran emplea un proceso de circuito cerrado, reduciendo las emisiones de carbono en más del 30%, reflejando el compromiso de la empresa con iniciativas globales de neutralidad de carbono. Este enfoque disciplinado ha posicionado a Safran como un socio confiable y a largo plazo para líderes de la industria como BHP Billiton y China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Cadena de Suministro Integrada y Servicios de Valor Añadido",
+        "paragraph1": "A través de la integración vertical y expansión horizontal, Safran ha construido un modelo de servicio completamente integrado, de extremo a extremo, que va mucho más allá de las funciones tradicionales de suministro. Este sistema “todo en uno” comprende:",
+        "list": [
+          "Control ascendente: Alianzas estratégicas con firmas mineras globales para asegurar el suministro de materias primas",
+          "Innovación intermedia: Formulaciones de explosivos optimizadas y diseño de voladuras para mejorar los resultados",
+          "Colaboración descendente: Co-desarrollo de productos de alto valor como aditivos para concreto y materiales energéticos"
+        ],
+        "paragraph2": "Un caso notable involucra una solución explosiva compuesta de nitrato de amonio y fuel oil creada para una empresa minera en África. Esta innovación mejoró la eficiencia de la voladura en un 20% y redujo los costos operativos en un 15%, ofreciendo una alternativa convincente a los enfoques convencionales basados en precios."
+      },
+      "section5": {
+        "title": "5. Sostenibilidad y Responsabilidad Corporativa",
+        "paragraph1": "Alineada con los imperativos ESG en evolución, Safran incorpora la química verde y la innovación responsable en el núcleo de su estrategia empresarial. Las iniciativas clave incluyen:",
+        "list": [
+          "Prácticas de economía circular: Reprocesamiento de subproductos como ácido sulfúrico residual",
+          "Producción baja en carbono: Adopción de energía solar y biomasa, con objetivo de reducción de carbono del 18% para 2024",
+          "Desarrollo comunitario: Instalaciones de formación en seguridad en regiones en desarrollo para elevar estándares"
+        ],
+        "paragraph2": "Estos esfuerzos de sostenibilidad han otorgado a Safran reconocimiento formal del Pacto Global de las Naciones Unidas y han contribuido a primas de calificación ESG en los mercados de capitales."
+      },
+      "conclusion": {
+        "title": "Conclusión",
+        "paragraphs": [
+          "La trayectoria de Safran se basa en un compromiso inquebrantable con el liderazgo tecnológico, la integridad regulatoria y la excelencia en el servicio. A medida que la industria química global se orienta hacia productos de mayor valor añadido, Safran ha trazado un camino más allá del paisaje commoditizado de guerras de precios.",
+          "Su estrategia multifacética—tecnología de vanguardia, modelos de servicio ágiles y una fuerte conciencia ambiental—ha transformado a la empresa en un socio confiable y a largo plazo para clientes de todo el mundo.",
+          "De cara al futuro, Safran está bien posicionada para reforzar su liderazgo en el mercado global, particularmente mediante continuos avances en materiales de grado militar e innovaciones de economía circular, estableciendo así nuevos estándares de excelencia en toda la industria."
+        ]
+      },
+      "disclaimer": "Aviso: Todos los datos y ejemplos presentados se derivan de fuentes públicas y análisis de tendencias de la industria. Los detalles sobre asociaciones específicas permanecen confidenciales bajo acuerdos de no divulgación."
+    }
   }
 }

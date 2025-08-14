@@ -4,11 +4,26 @@
     "subtitle": "Flat/RM F 6/F Mega Cube No.8 Wang Kwong Road KL, Hong Kong",
     "subtitle_second": "Fundada em 2009",
     "navigation_list": [
-      { "label": "Início", "href": "/" },
-      { "label": "Produtos", "href": "/products" },
-      { "label": "Cooperação", "href": "/co-operation" },
-      { "label": "Galeria", "href": "/gallery" },
-      { "label": "Sobre nós", "href": "/about" }
+      {
+        "label": "Início",
+        "href": "/"
+      },
+      {
+        "label": "Produtos",
+        "href": "/products"
+      },
+      {
+        "label": "Cooperação",
+        "href": "/co-operation"
+      },
+      {
+        "label": "Galeria",
+        "href": "/gallery"
+      },
+      {
+        "label": "Sobre nós",
+        "href": "/about"
+      }
     ]
   },
   "main_section": {
@@ -75,27 +90,90 @@
   "product_section": {
     "title": "LISTA DOS NOSSOS PRODUTOS",
     "product_table": [
-      { "english": "Trinitrotoluene (TNT)", "translation": "Tubo não elétrico (Nonel tube)" },
-      { "english": "Hexogen (RDX)", "translation": "Corda detonadora (Detonating Cord)" },
-      { "english": "Octogen (HMX)", "translation": "Detonador elétrico (Electric Detonator)" },
-      { "english": "Porous prills ammonium nitrate (PPAN)", "translation": "Detonador electrónico (Electronic Detonator)" },
-      { "english": "Chemical pure ammonium nitrate (CPAN)", "translation": "Detonador não elétrico (Non-electric Detonator)" },
-      { "english": "Plastic explosive (C4)", "translation": "Isocianato de tolueno (Toluene Diisocyanate)" },
-      { "english": "Nitrocellulose (NC)", "translation": "Módulo (Module)" },
-      { "english": "Sodium cyanide", "translation": "Amplificador (Booster)" },
-      { "english": "Sodium nitrate", "translation": "Cianeto de sódio (Sodium Cyanide-1756x2048)" },
-      { "english": "Sodium perchlorate (NaClO4)", "translation": "Explosivo emulsionado (Emulsion Explosive)" },
-      { "english": "Ammonium nitrate (AN)", "translation": "Explosivo em gel aquoso (Water Gel explosive)" },
-      { "english": "Ammonium perchlorate (AP)", "translation": "PETN (Pentaerythritol tetranitrate)" },
-      { "english": "Nitric acid", "translation": "Chip (Chip)" },
-      { "english": "Magnesium nitrate", "translation": "Cartuchos explosivos sísmicos (Seismic Explosive Cartridges)" },
-      { "english": "Potassium nitrate (KNO3)", "translation": "Materiais compósitos de aço revestido (COPPER-CLAD STEEL composite materials)" },
-      { "english": "Potassium perchlorate (KClO3)", "translation": "Aço laminado a frio revestido com cobre e latão (COLD-ROLLED STEEL CLAD with copper and brass)" },
-      { "english": "Sodium azide", "translation": "" },
-      { "english": "Black powder", "translation": "" },
-      { "english": "UAN", "translation": "" },
-      { "english": "Piric acid (trinitrocresol, TNP)", "translation": "" },
-      { "english": "Nitroglycerin (C3H5N3O9)", "translation": "" }
+      {
+        "english": "Trinitrotoluene (TNT)",
+        "translation": "Tubo não elétrico (Nonel tube)"
+      },
+      {
+        "english": "Hexogen (RDX)",
+        "translation": "Corda detonadora (Detonating Cord)"
+      },
+      {
+        "english": "Octogen (HMX)",
+        "translation": "Detonador elétrico (Electric Detonator)"
+      },
+      {
+        "english": "Porous prills ammonium nitrate (PPAN)",
+        "translation": "Detonador electrónico (Electronic Detonator)"
+      },
+      {
+        "english": "Chemical pure ammonium nitrate (CPAN)",
+        "translation": "Detonador não elétrico (Non-electric Detonator)"
+      },
+      {
+        "english": "Plastic explosive (C4)",
+        "translation": "Isocianato de tolueno (Toluene Diisocyanate)"
+      },
+      {
+        "english": "Nitrocellulose (NC)",
+        "translation": "Módulo (Module)"
+      },
+      {
+        "english": "Sodium cyanide",
+        "translation": "Amplificador (Booster)"
+      },
+      {
+        "english": "Sodium nitrate",
+        "translation": "Cianeto de sódio (Sodium Cyanide-1756x2048)"
+      },
+      {
+        "english": "Sodium perchlorate (NaClO4)",
+        "translation": "Explosivo emulsionado (Emulsion Explosive)"
+      },
+      {
+        "english": "Ammonium nitrate (AN)",
+        "translation": "Explosivo em gel aquoso (Water Gel explosive)"
+      },
+      {
+        "english": "Ammonium perchlorate (AP)",
+        "translation": "PETN (Pentaerythritol tetranitrate)"
+      },
+      {
+        "english": "Nitric acid",
+        "translation": "Chip (Chip)"
+      },
+      {
+        "english": "Magnesium nitrate",
+        "translation": "Cartuchos explosivos sísmicos (Seismic Explosive Cartridges)"
+      },
+      {
+        "english": "Potassium nitrate (KNO3)",
+        "translation": "Materiais compósitos de aço revestido (COPPER-CLAD STEEL composite materials)"
+      },
+      {
+        "english": "Potassium perchlorate (KClO3)",
+        "translation": "Aço laminado a frio revestido com cobre e latão (COLD-ROLLED STEEL CLAD with copper and brass)"
+      },
+      {
+        "english": "Sodium azide",
+        "translation": ""
+      },
+      {
+        "english": "Black powder",
+        "translation": ""
+      },
+      {
+        "english": "UAN",
+        "translation": ""
+      },
+      {
+        "english": "Piric acid (trinitrocresol, TNP)",
+        "translation": ""
+      },
+      {
+        "english": "Nitroglycerin (C3H5N3O9)",
+        "translation": ""
+      }
     ]
   },
   "cooperation_section": {
@@ -116,68 +194,274 @@
   "gallery_section": {
     "title": "DEMONSTRAÇÃO DOS NOSSOS PRODUTOS",
     "factory_title": "Fábrica",
-    "produce_title": "Produção"
+    "produce_title": "Produção",
+    "gallery_video_list": [
+      {
+        "title": "Um Pioneiro Global em Soluções Químicas Integradas",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Quem somos",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Tour pela fábrica",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "A produção",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "factory_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "factory_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "factory_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "factory_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "factory_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "factory_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "factory_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "factory_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "factory_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "factory_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "factory_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "factory_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "factory_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "factory_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "factory_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "factory_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "factory_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "factory_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "produce_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "produce_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "produce_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "produce_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "produce_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "produce_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "produce_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "produce_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "produce_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "produce_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "produce_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "produce_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "produce_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "produce_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "produce_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "produce_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "produce_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "produce_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "produce_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "produce_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "produce_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "produce_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "produce_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "produce_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "produce_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "produce_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "produce_27"
+      }
+    ]
   },
   "about_section": {
     "title": "Hong Kong Safran Industry Co Limited: Um Pioneiro Global em Soluções Químicas Integradas",
     "about_text": {
       "intro": [
-        "Estabelecida em 2009 no dinâmico centro comercial de Hong Kong, a Hong Kong Safran Industry Co Limited tornou-se uma referência global no setor de nitrato de amónio e materiais explosivos. O seu crescimento tem sido impulsionado por visão estratégica apurada, inovação contínua e conformidade rigorosa com as regulamentações.",
-        "Guiada pelos princípios de segurança, eficiência e sustentabilidade, a empresa oferece soluções químicas avançadas nos setores de mineração, construção, defesa e civil. Ao cultivar um amplo portfólio de produtos e aproveitar uma rede de serviços global, a Safran evitou com sucesso a competição destrutiva baseada no preço, firmando em vez disso uma posição de mercado marcada por resiliência e singularidade."
+        "Fundada em 2009 no dinâmico centro comercial de Hong Kong, a Hong Kong Safran Industry Co Limited emergiu como um ponto de referência global na área de nitrato de amónio e materiais explosivos. O seu crescimento foi impulsionado por uma visão estratégica clara, inovação contínua e conformidade regulatória intransigente.",
+        "Guiada pelos princípios de segurança, eficiência e sustentabilidade, a empresa fornece soluções químicas avançadas nos setores de mineração, construção, defesa e civil. Ao cultivar um portfólio de produtos amplo e aproveitar uma rede de serviços mundial, a Safran evitou com sucesso a concorrência destrutiva baseada em preços, estabelecendo uma posição de mercado marcada por resiliência e singularidade."
       ],
       "section1": {
         "title": "1. Alcance Global e Posicionamento Estratégico",
         "paragraphs": [
-          "Com Hong Kong reconhecida como o terceiro maior centro financeiro do mundo e um importante porto livre de comércio, a Safran beneficia de uma base estratégica num dos ambientes mais favoráveis aos negócios. O regime fiscal favorável da cidade, logística de classe mundial e sistema bancário internacional robusto permitem à empresa responder rapidamente à procura global e integrar-se eficazmente na cadeia de abastecimento internacional.",
-          "Por exemplo, políticas de comércio isento de direitos e infraestrutura portuária moderna permitem à Safran realizar transações transfronteiriças com eficiência de custos. Simultaneamente, a empresa gere os fluxos de capital de forma fluida através de estruturas bancárias offshore. Laços estratégicos entre Hong Kong, a China continental e países alinhados com a Iniciativa Belt and Road permitem à Safran aprofundar sua presença em mercados emergentes — agora em mais de 80 países na Ásia, Médio Oriente e Américas."
+          "Com Hong Kong reconhecida como o terceiro maior centro financeiro do mundo e um importante porto de livre comércio, a Safran dispõe de uma base estratégica num dos ambientes mais favoráveis aos negócios globalmente. O regime fiscal favorável da cidade, logística de classe mundial e um robusto sistema bancário internacional permitem à empresa responder rapidamente à procura global e integrar-se de forma eficiente na cadeia de abastecimento internacional.",
+          "Por exemplo, políticas de comércio livre de impostos e infraestruturas portuárias modernas permitem à Safran realizar transações transfronteiriças com eficiência de custos. Simultaneamente, a empresa gere fluxos de capital de forma fluida através de estruturas bancárias offshore. Os laços estratégicos entre Hong Kong, a China continental e países alinhados com a Iniciativa Belt and Road permitem à Safran aprofundar a sua presença em mercados emergentes — agora abrangendo mais de 80 países na Ásia, Médio Oriente e Américas."
         ]
       },
       "section2": {
-        "title": "2. Inovação Tecnológica e Ofertas Diversificadas",
-        "paragraph1": "No cerne do sucesso duradouro da Safran está a sua sofisticação tecnológica e ampla variedade de produtos. Como principal fornecedora de nitrato de amónio da China, a empresa detém certificações de grau militar do Ministério da Defesa, garantindo segurança e desempenho incomparáveis nos seus materiais explosivos. Os seus avanços tecnológicos estenderam-se ainda ao setor de defesa, fornecendo componentes essenciais como munições de precisão, veículos blindados e drones táticos.",
+        "title": "2. Inovação Tecnológica e Oferta Diversificada",
+        "paragraph1": "No cerne do sucesso duradouro da Safran está a sua sofisticação tecnológica e uma gama ampla de produtos. Como o principal fornecedor de nitrato de amónio na China, a empresa possui certificações de nível defensivo do Ministério da Defesa Nacional, garantindo segurança e desempenho inigualáveis nos seus materiais explosivos. Os avanços tecnológicos estenderam-se ainda ao setor de defesa, onde fornece componentes vitais como munições de precisão, veículos blindados e drones táticos.",
         "list": [
           "Materiais de grau civil: nitrato de amónio, explosivos emulsionados, explosivos em gel aquoso",
-          "Soluções militares: armadura de tanques, projéteis de artilharia, UAVs táticos, sistemas de detonação inteligentes",
-          "Produtos químicos especiais: nitratos, nitrocelulose, percloratos para uso industrial de alto nível"
+          "Soluções militares: blindagem de tanques, projéteis de artilharia, UAVs táticos, sistemas de detonação inteligentes",
+          "Químicos especializados: nitratos, nitrocelulose, percloratos para uso industrial de alto padrão"
         ],
-        "paragraph2": "Através de investimento contínuo em I&D, a empresa desenvolveu formulações patenteadas — desde explosivos de baixa sensibilidade até propelentes ecológicos — que aprimoram o desempenho ao mesmo tempo que constroem um robusto diferencial tecnológico."
+        "paragraph2": "Através de investimento contínuo em pesquisa e desenvolvimento, a empresa criou formulações patenteadas — desde explosivos de baixa sensibilidade a propelentes ecológicos — que aumentam o desempenho, construindo uma sólida vantagem tecnológica."
       },
       "section3": {
         "title": "3. Conformidade Regulamentar e Confiança na Indústria",
         "paragraphs": [
-          "A Safran coloca a conformidade e a segurança no centro das suas operações. Além de certificações de autoridades regulatórias chave, incluindo o Ministério da Defesa Nacional e o Ministério dos Transportes, a empresa cumpre rigorosamente padrões reconhecidos internacionalmente como ISO 9001 para gestão da qualidade e REACH para segurança ambiental.",
-          "Por exemplo, a produção de nitrato de amónio da Safran utiliza um processo em circuito fechado, reduzindo as emissões de carbono em mais de 30% — um reflexo do compromisso da empresa com iniciativas globais de neutralidade carbónica. Esta abordagem disciplinada posicionou a Safran como um parceiro confiável de longo prazo para players líderes como BHP Billiton e China Railway Construction."
+          "A Safran coloca a conformidade e a segurança no centro das suas operações. Além das certificações das principais autoridades regulatórias, incluindo o Ministério da Defesa Nacional e o Ministério dos Transportes, a empresa adere rigorosamente a normas internacionalmente reconhecidas, como ISO 9001 para gestão da qualidade e REACH para segurança ambiental.",
+          "Por exemplo, a produção de nitrato de amónio da Safran utiliza um processo em circuito fechado, reduzindo as emissões de carbono em mais de 30% — refletindo o compromisso da empresa com iniciativas globais de neutralidade carbónica. Esta abordagem disciplinada posicionou a Safran como um parceiro confiável e de longo prazo para líderes da indústria como BHP Billiton e China Railway Construction."
         ]
       },
       "section4": {
         "title": "4. Cadeia de Abastecimento Integrada e Serviços de Valor Acrescentado",
-        "paragraph1": "Através da integração vertical e expansão horizontal, a Safran construiu um modelo de serviço “one-stop” totalmente integrado, que vai muito além das funções tradicionais de fornecimento. Este sistema abrange:",
+        "paragraph1": "Através da integração vertical e expansão horizontal, a Safran construiu um modelo de serviço totalmente integrado, end-to-end, que vai muito além das funções tradicionais de fornecimento. Este sistema 'one-stop' inclui:",
         "list": [
-          "Controlo upstream: alianças estratégicas com empresas mineiras globais de primeira linha para assegurar o abastecimento de matérias-primas",
-          "Inovação midstream: formulações explosivas otimizadas e design de detonações para melhores resultados",
-          "Colaboração downstream: codesenvolvimento de produtos de alto valor como aditivos de concreto e materiais energéticos"
+          "Controle upstream: Alianças estratégicas com principais empresas de mineração globais asseguram o fornecimento de matérias-primas",
+          "Inovação midstream: Formulações de explosivos otimizadas e design de detonações melhoram os resultados",
+          "Colaboração downstream: Co-desenvolvimento de produtos de alto valor como aditivos para betão e materiais energéticos"
         ],
-        "paragraph2": "Um caso notável envolve uma solução explosiva composta de nitrato de amónio e óleo combustível criada para uma empresa mineira em África. Esta inovação aumentou a eficiência da detonação em 20% e reduziu custos operacionais em 15%, oferecendo uma alternativa convincente às abordagens tradicionais guiadas pelo preço."
+        "paragraph2": "Um caso notável envolve uma solução explosiva composta de nitrato de amónio-óleo combustível criada para uma empresa de mineração em África. Esta inovação aumentou a eficiência das detonações em 20% e reduziu os custos operacionais em 15%, oferecendo uma alternativa atraente às abordagens convencionais baseadas em preço."
       },
       "section5": {
         "title": "5. Sustentabilidade e Responsabilidade Corporativa",
-        "paragraph1": "Alinhada com imperativos ESG emergentes, a Safran incorpora química verde e inovação responsável no coração de sua estratégia de negócios. As principais iniciativas incluem:",
+        "paragraph1": "Alinhada com os imperativos ESG em evolução, a Safran incorpora química verde e inovação responsável no centro da sua estratégia de negócios. As iniciativas chave incluem:",
         "list": [
-          "Práticas de economia circular: reprocesamento de subprodutos como ácido sulfúrico residual",
-          "Produção de baixo carbono: adoção de energia solar e biomassa, visando redução de 18% nas emissões de carbono até 2024",
-          "Desenvolvimento comunitário: instalações de formação em segurança em regiões em desenvolvimento para elevar padrões"
+          "Práticas de economia circular: Reprocessamento de subprodutos, como ácido sulfúrico residual",
+          "Produção de baixo carbono: Adoção de energia solar e biomassa, com meta de redução de carbono em 18% até 2024",
+          "Desenvolvimento comunitário: Instalações de formação em segurança em regiões em desenvolvimento para elevar padrões"
         ],
-        "paragraph2": "Esses esforços de sustentabilidade valeram à Safran o reconhecimento formal do Pacto Global das Nações Unidas e contribuíram para prémios de classificação ESG nos mercados de capitais."
+        "paragraph2": "Estes esforços de sustentabilidade valeram à Safran reconhecimento formal pelo Pacto Global das Nações Unidas e contribuíram para prémios de classificação ESG nos mercados de capitais."
       },
       "conclusion": {
         "title": "Conclusão",
         "paragraphs": [
-          "A trajetória da Safran é construída sobre um compromisso inabalável com liderança tecnológica, integridade regulatória e excelência no serviço. À medida que a indústria química global se desloca para produtos de maior valor agregado, a Safran traçou um caminho além do cenário comoditizado das guerras de preços.",
-          "Sua estratégia multifacetada — tecnologia de ponta, modelos de serviço ágeis e forte consciência ambiental — transformou a empresa em um parceiro confiável e duradouro para clientes em todo o mundo.",
-          "Olhando para o futuro, a Safran está bem posicionada para reforçar sua liderança no mercado global, especialmente por meio de avanços contínuos em materiais de grau militar e inovações na economia circular, estabelecendo novos padrões de excelência no setor."
+          "A trajetória da Safran baseia-se num compromisso inabalável com a liderança tecnológica, integridade regulatória e excelência de serviço. À medida que a indústria química global se desloca para produtos de maior valor agregado, a Safran traçou um caminho além do panorama comoditizado das guerras de preços.",
+          "A sua estratégia multifacetada — tecnologia de ponta, modelos de serviço ágeis e forte consciência ambiental — transformou a empresa num parceiro confiável e de longo prazo para clientes em todo o mundo.",
+          "Olhando para o futuro, a Safran está bem posicionada para reforçar a sua liderança no mercado global, particularmente através de avanços contínuos em materiais de defesa de alta qualidade e inovações de economia circular, estabelecendo novos padrões de excelência na indústria."
         ]
       },
-      "disclaimer": "Isenção de responsabilidade: Todos os dados e exemplos apresentados derivam de fontes públicas e análises de tendências da indústria. Detalhes sobre parcerias específicas permanecem confidenciais sob acordos de não divulgação."
+      "disclaimer": "Aviso: Todos os dados e exemplos apresentados são derivados de fontes publicamente disponíveis e análises de tendências do setor. Detalhes sobre parcerias específicas permanecem confidenciais sob acordos de não divulgação."
     }
   }
 }

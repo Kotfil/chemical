@@ -4,17 +4,28 @@
     "subtitle": "Lejl./rum F 6/F Mega Cube Nr. 8 Wang Kwong Road KL, Hongkong",
     "subtitle_second": "Etabl. 2009",
     "navigation_list": [
-      { "label": "Hjem", "href": "/" },
-      { "label": "Produkter", "href": "/products" },
-      { "label": "Samarbejde", "href": "/co-operation" },
+      {
+        "label": "Hjem",
+        "href": "/"
+      },
+      {
+        "label": "Produkter",
+        "href": "/products"
+      },
+      {
+        "label": "Samarbejde",
+        "href": "/co-operation"
+      },
       {
         "label": "Galleri",
         "href": "/gallery"
       },
-      { "label": "Om os", "href": "/about" }
+      {
+        "label": "Om os",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "ONE-STOP LØSNINGSLEVERANDØR FOR",
     "title_second": "CIVILE SPRÆNGNINGSARBEJDER OG",
@@ -177,7 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "DEMONSTRATION AF VORES PRODUKTER"
+    "title": "DEMOSTRATION AF VORES PRODUKTER",
+    "factory_title": "Fabrik",
+    "produce_title": "Produktion",
+    "gallery_video_list": [
+      {
+        "title": "En global pioner inden for integrerede kemiske løsninger",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Hvem vi er",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Fabrikstur",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Produkter",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "factory_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "factory_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "factory_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "factory_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "factory_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "factory_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "factory_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "factory_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "factory_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "factory_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "factory_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "factory_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "factory_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "factory_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "factory_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "factory_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "factory_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "factory_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "produce_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "produce_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "produce_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "produce_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "produce_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "produce_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "produce_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "produce_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "produce_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "produce_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "produce_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "produce_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "produce_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "produce_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "produce_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "produce_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "produce_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "produce_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "produce_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "produce_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "produce_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "produce_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "produce_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "produce_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "produce_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "produce_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "produce_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: En global pioner inden for integrerede kemiske løsninger",
+    "about_text": {
+      "intro": [
+        "Grundlagt i 2009 i Hong Kongs dynamiske kommercielle centrum er Hong Kong Safran Industry Co Limited blevet en global reference inden for ammoniumnitrat og sprængstofmaterialer. Dets fremgang er drevet af en skarp strategisk vision, kontinuerlig innovation og kompromisløs overholdelse af regler.",
+        "Guidet af principperne om sikkerhed, effektivitet og bæredygtighed leverer virksomheden avancerede kemiske løsninger på tværs af minedrift, byggeri, forsvar og civile sektorer. Ved at udvikle en bred produktportefølje og udnytte et verdensomspændende servicenetværk har Safran med succes undgået destruktiv prisbaseret konkurrence og i stedet skabt en markedsposition præget af robusthed og unikhed."
+      ],
+      "section1": {
+        "title": "1. Global rækkevidde og strategisk positionering",
+        "paragraphs": [
+          "Med Hong Kong anerkendt som verdens tredjestørste finanscenter og en stor frihandelsport nyder Safran godt af en strategisk base i et af verdens mest erhvervsvenlige miljøer. Byens gunstige skattesystem, verdensklasse logistik og robuste internationale banksystem gør det muligt for virksomheden hurtigt at reagere på global efterspørgsel og integrere effektivt i den internationale forsyningskæde.",
+          "For eksempel gør toldfri handelspolitikker og moderne havneinfrastruktur det muligt for Safran at gennemføre omkostningseffektive grænseoverskridende transaktioner. Samtidig håndterer virksomheden kapitalstrømme problemfrit gennem offshore bankrammer. Strategiske bånd mellem Hong Kong, Kina og nationer tilknyttet Belt and Road Initiative gør det yderligere muligt for Safran at udvide sit fodaftryk på nye markeder—nu i over 80 lande i Asien, Mellemøsten og Amerika."
+        ]
+      },
+      "section2": {
+        "title": "2. Teknologisk innovation og diversificerede tilbud",
+        "paragraph1": "Kernen i Safrans vedvarende succes ligger i dens teknologiske sofistikering og brede produktmix. Som Kinas førende leverandør af ammoniumnitrat har virksomheden forsvarsgodkendelser fra Forsvarsministeriet, hvilket sikrer uovertruffen sikkerhed og ydeevne i dens sprængstofmaterialer. Dens teknologiske gennembrud har yderligere strakt sig ind i forsvarssektoren, hvor den leverer vitale komponenter såsom præcisionsammunition, pansrede køretøjer og taktiske droner.",
+        "list": [
+          "Civile materialer: ammoniumnitrat, emulsionseksplosiver, vandgel-eksplosiver",
+          "Militære løsninger: tankpanser, artillerigranater, taktiske UAV'er, intelligente detonationssystemer",
+          "Specialkemikalier: nitrater, nitrocellulose, perchlorater til højt specialiseret industriel brug"
+        ],
+        "paragraph2": "Gennem vedvarende investeringer i forskning og udvikling har virksomheden udviklet patenterede formuleringer—fra lavfølsomme sprængstoffer til miljøvenlige drivmidler—der forbedrer ydeevnen og samtidig skaber en robust teknologisk beskyttelsesbarriere."
+      },
+      "section3": {
+        "title": "3. Overholdelse af regler og branchens tillid",
+        "paragraphs": [
+          "Safran placerer overholdelse og sikkerhed i centrum af sine operationer. Ud over certificeringer fra nøglemyndigheder, herunder Forsvarsministeriet og Transportministeriet, overholder virksomheden strengt internationalt anerkendte standarder som ISO 9001 for kvalitetsstyring og REACH for miljøsikkerhed.",
+          "For eksempel anvender Safrans produktion af ammoniumnitrat en lukket proces, der reducerer CO2-udledningen med over 30%—et udtryk for virksomhedens engagement i globale initiativer for kulstofneutralitet. Denne disciplinerede tilgang har positioneret Safran som en langsigtet, pålidelig partner for førende industrispillere som BHP Billiton og China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Integreret forsyningskæde og værdiskabende tjenester",
+        "paragraph1": "Gennem både vertikal integration og horisontal ekspansion har Safran opbygget en fuldt integreret end-to-end service model, der strækker sig langt ud over traditionelle forsyningsfunktioner. Dette 'one-stop' system omfatter:",
+        "list": [
+          "Opstrøms kontrol: Strategiske alliancer med førende globale minefirmaer sikrer råmaterialeforsyning",
+          "Midtstrøms innovation: Optimerede sprængstofformuleringer og sprængdesign forbedrer resultater",
+          "Nedstrøms samarbejde: Samarbejde om udvikling af højværdi produkter som betonadditiver og energimaterialer"
+        ],
+        "paragraph2": "Et bemærkelsesværdigt eksempel involverer en komposit ammoniumnitrat-fuelolie sprængstofløsning udviklet til et minefirma i Afrika. Denne innovation forbedrede sprængnings effektiviteten med 20% og reducerede driftsomkostningerne med 15%, hvilket giver et overbevisende alternativ til konventionelle prisdrevne tilgange."
+      },
+      "section5": {
+        "title": "5. Bæredygtighed og virksomhedsansvar",
+        "paragraph1": "I tråd med udviklende ESG-krav integrerer Safran grøn kemi og ansvarlig innovation i kernen af sin forretningsstrategi. Nøgleinitiativer omfatter:",
+        "list": [
+          "Cirkulær økonomi praksis: Genbehandling af biprodukter som affaldssvovlsyre",
+          "Lav-karbon produktion: Adoption af sol- og biomasseenergi, med mål om 18% reduktion af kulstofudledning inden 2024",
+          "Samfundsudvikling: Sikkerhedstræningsfaciliteter i udviklingsregioner for at hæve standarder"
+        ],
+        "paragraph2": "Disse bæredygtighedsindsatser har givet Safran formel anerkendelse fra FN's Global Compact og bidraget til ESG-rangeringer i kapitalmarkeder."
+      },
+      "conclusion": {
+        "title": "Konklusion",
+        "paragraphs": [
+          "Safrans udvikling er bygget på en urokkelig forpligtelse til teknologisk lederskab, regulatorisk integritet og service excellence. Efterhånden som den globale kemiske industri bevæger sig mod højværdi produkter, har Safran chartret en vej ud over den commoditiserede prisbaserede konkurrence.",
+          "Dens mangefacetterede strategi—banebrydende teknologi, smidige servicemodeller og stærk miljøbevidsthed—har forvandlet virksomheden til en pålidelig, langsigtet partner for kunder verden over.",
+          "Fremadrettet er Safran godt positioneret til at styrke sin ledelse på det globale marked, især gennem fortsatte fremskridt inden for forsvarsgodkendte materialer og cirkulær økonomi-innovationer, og dermed sætte nye standarder for excellence i branchen."
+        ]
+      },
+      "disclaimer": "Ansvarsfraskrivelse: Alle data og eksempler, der præsenteres, er hentet fra offentligt tilgængelige kilder og analyser af branchetrends. Oplysninger om specifikke partnerskaber forbliver fortrolige under ikke-offentliggørelsesaftaler."
+    }
   }
-
 }

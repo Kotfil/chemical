@@ -4,17 +4,28 @@
     "subtitle": "Butas/kambarys F 6/F Mega Cube Nr. 8 Wang Kwong Road KL, Honkongas",
     "subtitle_second": "Įkurta 2009 m.",
     "navigation_list": [
-      { "label": "Pagrindinis", "href": "/" },
-      { "label": "Produktai", "href": "/products" },
-      { "label": "Bendradarbiavimas", "href": "/co-operation" },
+      {
+        "label": "Pagrindinis",
+        "href": "/"
+      },
+      {
+        "label": "Produktai",
+        "href": "/products"
+      },
+      {
+        "label": "Bendradarbiavimas",
+        "href": "/co-operation"
+      },
       {
         "label": "Galerija",
         "href": "/gallery"
       },
-      { "label": "Apie mus", "href": "/about" }
+      {
+        "label": "Apie mus",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "VIENO VISO SPRENDIMO TIEKĖJAS ",
     "title_second": "CIVILINIŲ SPROGDINIMŲ IR ",
@@ -177,7 +188,277 @@
     }
   },
   "gallery_section": {
-    "title": "MŪSŲ PRODUKTŲ DEMONSTRAVIMAS"
+    "title": "MŪSŲ PRODUKTŲ DEMONSTRACIJA",
+    "factory_title": "Gamykla",
+    "produce_title": "Produkcija",
+    "gallery_video_list": [
+      {
+        "title": "Pasaulinis integruotų cheminių sprendimų pionierius",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Kas mes esame",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Gamyklos turas",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Produkto pristatymas",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "gamykla_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "gamykla_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "gamykla_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "gamykla_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "gamykla_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "gamykla_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "gamykla_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "gamykla_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "gamykla_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "gamykla_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "gamykla_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "gamykla_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "gamykla_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "gamykla_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "gamykla_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "gamykla_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "gamykla_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "gamykla_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "produkto_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "produkto_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "produkto_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "produkto_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "produkto_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "produkto_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "produkto_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "produkto_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "produkto_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "produkto_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "produkto_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "produkto_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "produkto_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "produkto_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "produkto_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "produkto_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "produkto_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "produkto_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "produkto_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "produkto_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "produkto_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "produkto_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "produkto_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "produkto_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "produkto_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "produkto_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "produkto_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Pasaulinis integruotų cheminių sprendimų pionierius",
+    "about_text": {
+      "intro": [
+        "Įkurta 2009 m. dinamiškoje komercinėje Honkongo zonoje, Hong Kong Safran Industry Co Limited tapo pasauliniu atskaitos tašku amonio nitrato ir sprogstamųjų medžiagų srityje. Įmonės augimą skatino aiški strateginė vizija, nuolatinė inovacija ir nesutramdomas reglamentų laikymasis.",
+        "Vadovaujantis saugumo, efektyvumo ir tvarumo principais, įmonė tiekia pažangius cheminius sprendimus kasybos, statybos, gynybos ir civiliniams sektoriams. Plėtodama platų produktų portfelį ir pasinaudodama pasauline paslaugų tinklu, Safran sėkmingai išvengė destruktyvios kainos konkurencijos, užtikrindama rinkoje atsparią ir unikalią poziciją."
+      ],
+      "section1": {
+        "title": "1. Pasaulinė aprėptis ir strateginė pozicija",
+        "paragraphs": [
+          "Honkongas, pripažintas trečiuoju didžiausiu finansų centru pasaulyje ir svarbiu laisvosios prekybos uostu, suteikia Safran strateginę bazę vienoje palankiausių verslui aplinkų pasaulyje. Miesto palankus mokesčių režimas, pasaulinės klasės logistika ir tvirtas tarptautinių bankų tinklas leidžia įmonei greitai reaguoti į pasaulinę paklausą ir efektyviai integruotis į tarptautinę tiekimo grandinę.",
+          "Pavyzdžiui, nemokamos prekybos politika ir moderni uosto infrastruktūra leidžia Safran vykdyti ekonomiškai efektyvias tarptautines operacijas. Tuo pačiu metu įmonė sklandžiai valdo kapitalo srautus per užsienio bankų sistemas. Strateginiai ryšiai tarp Honkongo, Kinijos žemyninės dalies ir šalių, susijusių su BRI iniciatyva, dar labiau leidžia Safran plėsti veiklą besivystančiose rinkose – dabar apimančiose daugiau nei 80 šalių Azijoje, Artimuosiuose Rytuose ir Amerikoje."
+        ]
+      },
+      "section2": {
+        "title": "2. Technologinė inovacija ir įvairiapusiški pasiūlymai",
+        "paragraph1": "Safran ilgalaikės sėkmės širdyje glūdi technologinis rafinuotumas ir plačiai įvairūs produktai. Būdama pirmaujanti amonio nitrato tiekėja Kinijoje, įmonė turi gynybinio lygio sertifikatus iš Nacionalinės gynybos ministerijos, užtikrinančius neprilygstamą saugumą ir sprogstamųjų medžiagų našumą. Jos technologiniai proveržiai taip pat išplito į gynybos sektorių, kur tiekia svarbias komponentes, tokias kaip tikslios amunicijos, šarvuoti transporto priemonės ir taktinių dronų sistemos.",
+        "list": [
+          "Civilinės paskirties medžiagos: amonio nitratas, emulsiniai sprogmenys, vandens želės sprogmenys",
+          "Karinių sprendimų: tankų šarvai, artilerijos šoviniai, taktiniai UAV, intelektualios detonacijos sistemos",
+          "Specializuotos cheminės medžiagos: nitratai, nitroceliuliozė, perchloratai aukštos klasės pramoniniam naudojimui"
+        ],
+        "paragraph2": "Tęsiant nuolatinę mokslinių tyrimų ir plėtros investiciją, įmonė sukūrė patentuotas formules – nuo mažo jautrumo sprogmenų iki ekologiškų propelentų – kurios didina našumą ir kuria tvirtą technologinę apsaugą."
+      },
+      "section3": {
+        "title": "3. Reglamentų laikymasis ir pramonės pasitikėjimas",
+        "paragraphs": [
+          "Safran saugumą ir atitiktį laiko savo veiklos pagrindu. Be pagrindinių reguliavimo institucijų, įskaitant Nacionalinės gynybos ministeriją ir Transporto ministeriją, sertifikatų, įmonė griežtai laikosi tarptautinių standartų, tokių kaip ISO 9001 kokybės valdymui ir REACH aplinkos saugai.",
+          "Pavyzdžiui, Safran amonio nitrato gamyboje naudojamas uždaro ciklo procesas, sumažinantis anglies dioksido emisiją daugiau nei 30% – tai atspindi įmonės įsipareigojimą pasaulinėms anglies neutralumo iniciatyvoms. Ši disciplinuota veikla padarė Safran patikimu ilgalaikiu partneriu pagrindiniams pramonės žaidėjams, tokiems kaip BHP Billiton ir China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Integruota tiekimo grandinė ir pridėtinės vertės paslaugos",
+        "paragraph1": "Tiek vertikalios integracijos, tiek horizontalaus plėtros dėka, Safran sukūrė visiškai integruotą, nuo pradžios iki pabaigos paslaugų modelį, kuris žymiai viršija tradicines tiekimo funkcijas. Ši „vieno langelio“ sistema apima:",
+        "list": [
+          "Išankstinė kontrolė: strateginės sąjungos su pirmaujančiomis pasaulio kasybos įmonėmis užtikrina žaliavų tiekimą",
+          "Vidurio grandies inovacija: optimizuoti sprogmenų formulės ir sprogimų projektavimas gerina rezultatus",
+          "Vėlesnių etapų bendradarbiavimas: aukštos vertės produktų, tokių kaip betono priedai ir energijos medžiagos, bendradarbiavimas"
+        ],
+        "paragraph2": "Vienas žymus atvejis apima kompozicinį amonio nitrato–kurinį sprogmenų sprendimą, sukurtą Afrikos kasybos įmonei. Ši inovacija pagerino sprogimų efektyvumą 20% ir sumažino veiklos sąnaudas 15%, siūlydama patrauklią alternatyvą tradiciniams kainos varžymu pagrįstiems metodams."
+      },
+      "section5": {
+        "title": "5. Tvarumas ir įmonių atsakomybė",
+        "paragraph1": "Atitinkant kintančius ESG reikalavimus, Safran integruoja žaliąją chemiją ir atsakingas inovacijas į savo verslo strategijos šerdį. Pagrindinės iniciatyvos apima:",
+        "list": [
+          "Cirkulinės ekonomikos praktikos: šalutinių produktų, tokių kaip sieros rūgšties atliekos, perdirbimas",
+          "Mažo anglies dioksido kiekio gamyba: saulės ir biomasės energijos naudojimas, tikslas – 18% anglies sumažinimas iki 2024 m.",
+          "Bendruomenės plėtra: saugumo mokymo įstaigos besivystančiose šalyse standartų kėlimui"
+        ],
+        "paragraph2": "Šie tvarumo veiksmai užtikrino Safran oficialų pripažinimą Jungtinių Tautų Pasauliniame kompakte ir prisidėjo prie ESG reitingų pranašumų kapitalo rinkose."
+      },
+      "conclusion": {
+        "title": "Išvada",
+        "paragraphs": [
+          "Safran trajektorija grindžiama nenutrūkstamu įsipareigojimu technologiniam lyderiavimui, reglamentų laikymuisi ir paslaugų kokybei. Kai pasaulinė chemijos pramonė pereina prie didesnės pridėtinės vertės produktų, Safran nubraižė kelią už prastumtos kainos karų ribų.",
+          "Jos daugialypė strategija – pažangia technologija, lankstūs paslaugų modeliai ir tvirta aplinkos sąžinė – pavertė įmonę patikimu ilgalaikiu partneriu klientams visame pasaulyje.",
+          "Žvelgiant į ateitį, Safran yra puikioje pozicijoje stiprinti savo lyderystę pasaulinėje rinkoje, ypač per nuolatines gynybinių medžiagų ir cirkulinės ekonomikos inovacijų pažangas, nustatant naujus pramonės kokybės standartus."
+        ]
+      },
+      "disclaimer": "Atsakomybės apribojimas: visi pateikti duomenys ir pavyzdžiai gauti iš viešai prieinamų šaltinių ir pramonės tendencijų analizės. Detalės apie konkrečias partnerystes lieka konfidencialios pagal neatskleidimo sutartis."
+    }
   }
 }
 

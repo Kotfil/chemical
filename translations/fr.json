@@ -4,17 +4,28 @@
     "subtitle": "Chambre F, 6ᵉ étage Mega Cube, n°8 Wang Kwong Road, KL, Hong Kong",
     "subtitle_second": "Établie en 2009",
     "navigation_list": [
-      { "label": "Accueil", "href": "/" },
-      { "label": "Produits", "href": "/products" },
-      { "label": "Coopération", "href": "/co-operation" },
+      {
+        "label": "Accueil",
+        "href": "/"
+      },
+      {
+        "label": "Produits",
+        "href": "/products"
+      },
+      {
+        "label": "Coopération",
+        "href": "/co-operation"
+      },
       {
         "label": "Galerie",
         "href": "/gallery"
       },
-      { "label": "À propos", "href": "/about" }
+      {
+        "label": "À propos",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "FOURNISSEUR DE SOLUTIONS COMPLETES POUR ",
     "title_second": "LE DÉCAPAGE CIVIL ET ",
@@ -176,9 +187,279 @@
       ]
     }
   },
-
-
   "gallery_section": {
-    "title": "DÉMONSTRATION DE NOS PRODUITS"
+    "title": "DÉMONSTRATION DE NOS PRODUITS",
+    "factory_title": "Usine",
+    "produce_title": "Produits",
+    "gallery_video_list": [
+      {
+        "title": "Un pionnier mondial des solutions chimiques intégrées",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Qui nous sommes",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Visite de l'usine",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Les produits",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "usine_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "usine_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "usine_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "usine_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "usine_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "usine_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "usine_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "usine_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "usine_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "usine_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "usine_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "usine_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "usine_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "usine_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "usine_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "usine_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "usine_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "usine_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "produit_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "produit_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "produit_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "produit_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "produit_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "produit_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "produit_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "produit_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "produit_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "produit_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "produit_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "produit_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "produit_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "produit_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "produit_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "produit_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "produit_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "produit_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "produit_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "produit_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "produit_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "produit_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "produit_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "produit_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "produit_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "produit_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "produit_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited : un pionnier mondial des solutions chimiques intégrées",
+    "about_text": {
+      "intro": [
+        "Établie en 2009 dans le dynamique centre commercial de Hong Kong, Hong Kong Safran Industry Co Limited est devenue un point de référence mondial dans le domaine du nitrate d'ammonium et des matériaux explosifs. Son ascension a été guidée par une vision stratégique précise, une innovation continue et un respect strict des réglementations.",
+        "Guidée par les principes de sécurité, d'efficacité et de durabilité, l'entreprise fournit des solutions chimiques avancées dans les secteurs minier, de la construction, de la défense et civil. En cultivant un large portefeuille de produits et en s'appuyant sur un réseau de services mondial, Safran a réussi à éviter la concurrence destructrice basée sur les prix, forgeant plutôt une position sur le marché marquée par la résilience et l'unicité."
+      ],
+      "section1": {
+        "title": "1. Portée mondiale et positionnement stratégique",
+        "paragraphs": [
+          "Avec Hong Kong reconnue comme le troisième plus grand centre financier mondial et un port franc majeur, Safran bénéficie d'une base stratégique dans l'un des environnements commerciaux les plus favorables au monde. Le régime fiscal favorable de la ville, sa logistique de classe mondiale et son système bancaire international robuste permettent à l'entreprise de répondre rapidement à la demande mondiale et de s'intégrer efficacement dans la chaîne d'approvisionnement internationale.",
+          "Par exemple, les politiques de commerce hors taxes et les infrastructures portuaires modernes permettent à Safran de réaliser des transactions transfrontalières rentables. Simultanément, l'entreprise gère les flux de capitaux de manière transparente grâce aux structures bancaires offshore. Les liens stratégiques entre Hong Kong, la Chine continentale et les pays alignés sur l'Initiative la Ceinture et la Route permettent à Safran de renforcer sa présence sur les marchés émergents, couvrant désormais plus de 80 pays à travers l'Asie, le Moyen-Orient et les Amériques."
+        ]
+      },
+      "section2": {
+        "title": "2. Innovation technologique et offres diversifiées",
+        "paragraph1": "Au cœur du succès durable de Safran réside sa sophistication technologique et sa large gamme de produits. En tant que principal fournisseur de nitrate d'ammonium en Chine, l'entreprise détient des certifications de niveau défense du ministère de la Défense nationale, garantissant une sécurité et des performances inégalées dans ses matériaux explosifs. Ses percées technologiques se sont étendues au secteur de la défense, où elle fournit des composants essentiels tels que munitions de précision, véhicules blindés et drones tactiques.",
+        "list": [
+          "Matériaux civils : nitrate d'ammonium, explosifs à émulsion, explosifs en gel aqueux",
+          "Solutions militaires : blindage de chars, obus d'artillerie, drones tactiques, systèmes de détonation intelligents",
+          "Produits chimiques spécialisés : nitrates, nitrocellulose, perchlorates pour usage industriel haut de gamme"
+        ],
+        "paragraph2": "Grâce à un investissement soutenu en recherche et développement, l'entreprise a mis au point des formulations brevetées, allant des explosifs à faible sensibilité aux propulseurs écologiques, améliorant les performances tout en construisant un fossé technologique robuste."
+      },
+      "section3": {
+        "title": "3. Conformité réglementaire et confiance de l'industrie",
+        "paragraphs": [
+          "Safran place la conformité et la sécurité au cœur de ses opérations. En plus des certifications des principales autorités réglementaires, y compris le ministère de la Défense nationale et le ministère des Transports, l'entreprise respecte strictement les normes reconnues internationalement telles que ISO 9001 pour la gestion de la qualité et REACH pour la sécurité environnementale.",
+          "Par exemple, la production de nitrate d'ammonium de Safran utilise un processus en boucle fermée, réduisant les émissions de carbone de plus de 30 % — reflet de l'engagement de l'entreprise envers les initiatives mondiales de neutralité carbone. Cette approche disciplinée a positionné Safran comme un partenaire de confiance à long terme pour des acteurs industriels majeurs tels que BHP Billiton et China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Chaîne d'approvisionnement intégrée et services à valeur ajoutée",
+        "paragraph1": "Grâce à l'intégration verticale et à l'expansion horizontale, Safran a construit un modèle de service entièrement intégré, de bout en bout, qui va bien au-delà des fonctions d'approvisionnement traditionnelles. Ce système "
+        tout-en-un
+        " comprend :",
+        "list": [
+          "Contrôle en amont : alliances stratégiques avec des entreprises minières mondiales pour sécuriser l'approvisionnement en matières premières",
+          "Innovation en milieu de chaîne : formulations explosives optimisées et conception de tirs pour améliorer les résultats",
+          "Collaboration en aval : co-développement de produits à forte valeur ajoutée tels que additifs pour béton et matériaux énergétiques"
+        ],
+        "paragraph2": "Un cas notable implique une solution explosive composite nitrate d'ammonium-fioul créée pour une entreprise minière en Afrique. Cette innovation a amélioré l'efficacité des tirs de 20 % et réduit les coûts opérationnels de 15 %, offrant une alternative convaincante aux approches traditionnelles basées sur les prix."
+      },
+      "section5": {
+        "title": "5. Durabilité et responsabilité d'entreprise",
+        "paragraph1": "Aligné sur les impératifs ESG en évolution, Safran intègre la chimie verte et l'innovation responsable au cœur de sa stratégie d'entreprise. Les initiatives clés incluent :",
+        "list": [
+          "Pratiques d'économie circulaire : retraitement des sous-produits tels que l'acide sulfurique résiduel",
+          "Production à faible émission de carbone : adoption de l'énergie solaire et de la biomasse, visant une réduction de 18 % du carbone d'ici 2024",
+          "Développement communautaire : installations de formation à la sécurité dans les régions en développement pour améliorer les normes"
+        ],
+        "paragraph2": "Ces efforts de durabilité ont valu à Safran une reconnaissance officielle du Pacte mondial des Nations Unies et ont contribué à des primes d'évaluation ESG sur les marchés financiers."
+      },
+      "conclusion": {
+        "title": "Conclusion",
+        "paragraphs": [
+          "La trajectoire de Safran repose sur un engagement inébranlable envers le leadership technologique, l'intégrité réglementaire et l'excellence du service. Alors que l'industrie chimique mondiale se tourne vers des produits à plus forte valeur ajoutée, Safran a tracé une voie au-delà du paysage commoditisé des guerres de prix.",
+          "Sa stratégie multifacette — technologie de pointe, modèles de service agiles et conscience environnementale forte — a transformé l'entreprise en un partenaire fiable à long terme pour les clients du monde entier.",
+          "À l'avenir, Safran est bien positionné pour renforcer son leadership sur le marché mondial, notamment grâce aux avancées continues dans les matériaux de niveau défense et les innovations en économie circulaire, établissant ainsi de nouvelles normes d'excellence dans l'industrie."
+        ]
+      },
+      "disclaimer": "Avertissement : Toutes les données et exemples présentés sont tirés de sources publiques et d'analyses des tendances du secteur. Les détails concernant des partenariats spécifiques restent confidentiels en vertu d'accords de non-divulgation."
+    }
   }
 }

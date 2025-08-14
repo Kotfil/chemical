@@ -176,6 +176,144 @@
     }
   },
   "gallery_section": {
-    "title": "DEMONSTRAREA PRODUSELOR NOASTRE"
+    "title": "DEMONSTRAREA PRODUSELOR NOASTRE",
+    "factory_title": "Fabrică",
+    "produce_title": "Producție",
+    "gallery_video_list": [
+  {
+    "title": "Un Pionier Global în Soluții Chimice Integrate",
+    "src": "/assets/video/A-Global-Pioneer.mov",
+    "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+  },
+  {
+    "title": "Cine suntem",
+    "src": "/assets/video/Who-we-are.mov",
+    "poster": "/assets/video/video-background/who-are-we.jpg"
+  },
+  {
+    "title": "Turul fabricii",
+    "src": "/assets/video/Factory-tour.mp4",
+    "poster": "/assets/video/video-background/the-factory.jpg"
+  },
+  {
+    "title": "Producția",
+    "src": "/assets/video/The-produce.mp4",
+    "poster": "/assets/video/video-background/the-produce.jpg"
   }
+],
+"gallery_factory_list": [
+{ "img": "/assets/factory/1.webp", "title": "factory_1" },
+{ "img": "/assets/factory/2.webp", "title": "factory_2" },
+{ "img": "/assets/factory/3.webp", "title": "factory_3" },
+{ "img": "/assets/factory/4.webp", "title": "factory_4" },
+{ "img": "/assets/factory/6.webp", "title": "factory_5" },
+{ "img": "/assets/factory/7.webp", "title": "factory_6" },
+{ "img": "/assets/factory/8.webp", "title": "factory_7" },
+{ "img": "/assets/factory/9.webp", "title": "factory_8" },
+{ "img": "/assets/factory/10.webp", "title": "factory_9" },
+{ "img": "/assets/factory/11.webp", "title": "factory_10" },
+{ "img": "/assets/factory/12.webp", "title": "factory_11" },
+{ "img": "/assets/factory/13.webp", "title": "factory_12" },
+{ "img": "/assets/factory/14.webp", "title": "factory_13" },
+{ "img": "/assets/factory/15.webp", "title": "factory_14" },
+{ "img": "/assets/factory/16.webp", "title": "factory_15" },
+{ "img": "/assets/factory/17.webp", "title": "factory_16" },
+{ "img": "/assets/factory/18.webp", "title": "factory_17" },
+{ "img": "/assets/factory/19.webp", "title": "factory_18" }
+],
+"gallery_produce_list": [
+{ "img": "/assets/produce/1.webp", "title": "produce_1" },
+{ "img": "/assets/produce/2.webp", "title": "produce_2" },
+{ "img": "/assets/produce/3.webp", "title": "produce_3" },
+{ "img": "/assets/produce/4.webp", "title": "produce_4" },
+{ "img": "/assets/produce/5.webp", "title": "produce_5" },
+{ "img": "/assets/produce/6.webp", "title": "produce_6" },
+{ "img": "/assets/produce/7.webp", "title": "produce_7" },
+{ "img": "/assets/produce/8.webp", "title": "produce_8" },
+{ "img": "/assets/produce/9.webp", "title": "produce_9" },
+{ "img": "/assets/produce/10.webp", "title": "produce_10" },
+{ "img": "/assets/produce/11.webp", "title": "produce_11" },
+{ "img": "/assets/produce/12.webp", "title": "produce_12" },
+{ "img": "/assets/produce/13.webp", "title": "produce_13" },
+{ "img": "/assets/produce/14.webp", "title": "produce_14" },
+{ "img": "/assets/produce/15.webp", "title": "produce_15" },
+{ "img": "/assets/produce/16.webp", "title": "produce_16" },
+{ "img": "/assets/produce/17.webp", "title": "produce_17" },
+{ "img": "/assets/produce/18.webp", "title": "produce_18" },
+{ "img": "/assets/produce/19.webp", "title": "produce_19" },
+{ "img": "/assets/produce/20.webp", "title": "produce_20" },
+{ "img": "/assets/produce/21.webp", "title": "produce_21" },
+{ "img": "/assets/produce/22.webp", "title": "produce_22" },
+{ "img": "/assets/produce/23.webp", "title": "produce_23" },
+{ "img": "/assets/produce/24.webp", "title": "produce_24" },
+{ "img": "/assets/produce/25.webp", "title": "produce_25" },
+{ "img": "/assets/produce/26.webp", "title": "produce_26" },
+{ "img": "/assets/produce/27.webp", "title": "produce_27" }
+]
+},
+"about_section": {
+"title": "Hong Kong Safran Industry Co Limited: Un Pionier Global în Soluții Chimice Integrate",
+"about_text": {
+"intro": [
+"Înființată în 2009 în centrul comercial dinamic al Hong Kong-ului, Hong Kong Safran Industry Co Limited a devenit un reper global în domeniul azotatului de amoniu și al materialelor explozive. Ascensiunea sa a fost condusă de o viziune strategică clară, inovație continuă și conformitate reglementară fără compromisuri.",
+"Ghidată de principiile siguranței, eficienței și sustenabilității, compania oferă soluții chimice avansate în sectoarele mineritului, construcțiilor, apărării și civil. Prin cultivarea unui portofoliu larg de produse și valorificarea unei rețele de servicii la nivel mondial, Safran a evitat cu succes concurența distructivă bazată pe preț, consolidând în schimb o poziție pe piață caracterizată de reziliență și unicitate."
+],
+"section1": {
+"title": "1. Acoperire Globală și Poziționare Strategică",
+"paragraphs": [
+"Cu Hong Kong recunoscut ca al treilea cel mai mare centru financiar al lumii și un important port de liber schimb, Safran beneficiază de o bază strategică într-unul dintre cele mai favorabile medii de afaceri la nivel global. Regimul fiscal favorabil al orașului, logistica de clasă mondială și un sistem bancar internațional robust permit companiei să răspundă rapid cererii globale și să se integreze eficient în lanțul de aprovizionare internațional.",
+"De exemplu, politicile de comerț liber de taxe și infrastructura portuară modernă permit Safran să efectueze tranzacții transfrontaliere eficiente din punct de vedere al costurilor. În același timp, compania gestionează fluxurile de capital fără probleme prin cadrul bancar offshore. Legăturile strategice dintre Hong Kong, China continentală și țările aliniate cu Inițiativa Belt and Road permit, de asemenea, Safran să își adâncească amprenta în piețele emergente — acum acoperind peste 80 de țări din Asia, Orientul Mijlociu și Americi."
+]
+},
+"section2": {
+"title": "2. Inovație Tehnologică și Oferte Diversificate",
+"paragraph1": "La baza succesului durabil al Safran se află sofisticarea tehnologică și gama sa largă de produse. Ca principal furnizor de azotat de amoniu din China, compania deține certificări de nivel defensiv de la Ministerul Apărării Naționale, asigurând siguranță și performanță neegalate în materialele sale explozive. Descoperirile tehnologice s-au extins în sectorul apărării, unde furnizează componente vitale precum muniție de precizie, vehicule blindate și drone tactice.",
+"list": [
+"Materiale civile: azotat de amoniu, explozivi emulsiune, explozivi gel apos",
+"Soluții militare: blindaj pentru tancuri, proiectile de artilerie, UAV-uri tactice, sisteme inteligente de detonație",
+"Chimicale specializate: nitrați, nitroceluloză, perclorați pentru utilizare industrială de înaltă calitate"
+],
+"paragraph2": "Prin investiții susținute în cercetare și dezvoltare, compania a dezvoltat formule patentate — de la explozivi cu sensibilitate redusă la propelanți ecologici — care sporesc performanța și construiesc o fortăreață tehnologică solidă."
+},
+"section3": {
+"title": "3. Conformitate Reglementară și Încredere în Industrie",
+"paragraphs": [
+"Safran plasează conformitatea și siguranța în centrul operațiunilor sale. Pe lângă certificările autorităților cheie, inclusiv Ministerul Apărării Naționale și Ministerul Transporturilor, compania respectă strict standarde recunoscute internațional, precum
+
+
+ISO 9001 pentru managementul calității și REACH pentru siguranța mediului.",
+"De exemplu, producția de azotat de amoniu a Safran utilizează un proces în circuit închis, reducând emisiile de carbon cu peste 30% — reflectând angajamentul companiei față de inițiativele globale de neutralitate a carbonului. Această abordare disciplinată a poziționat Safran ca un partener de încredere pe termen lung pentru lideri din industrie, precum BHP Billiton și China Railway Construction."
+]
+},
+"section4": {
+"title": "4. Lanț de Aprovizionare Integrat și Servicii cu Valoare Adăugată",
+"paragraph1": "Prin integrare verticală și extindere orizontală, Safran a construit un model de servicii complet integrat, de la capăt la capăt, care depășește cu mult funcțiile tradiționale de aprovizionare. Acest sistem „one-stop” include:",
+"list": [
+"Control upstream: alianțe strategice cu principale companii miniere globale pentru asigurarea aprovizionării cu materii prime",
+"Inovație midstream: formule optimizate de explozivi și design de detonație pentru rezultate mai bune",
+"Colaborare downstream: co-dezvoltarea de produse de mare valoare, cum ar fi aditivi pentru beton și materiale energetice"
+],
+"paragraph2": "Un caz notabil implică o soluție explozivă compusă de azotat de amoniu-ulei combustibil creată pentru o companie minieră din Africa. Această inovație a îmbunătățit eficiența detonării cu 20% și a redus costurile operaționale cu 15%, oferind o alternativă atractivă la abordările convenționale bazate pe preț."
+},
+"section5": {
+"title": "5. Sustenabilitate și Responsabilitate Corporativă",
+"paragraph1": "Aliniată cu imperativul ESG în evoluție, Safran încorporează chimia verde și inovația responsabilă în centrul strategiei sale de afaceri. Inițiativele cheie includ:",
+"list": [
+"Practici de economie circulară: reprocesarea subproduselor, precum acidul sulfuric rezidual",
+"Producție cu emisii reduse de carbon: adoptarea energiei solare și biomasei, cu obiectiv de reducere a carbonului cu 18% până în 2024",
+"Dezvoltare comunitară: facilități de instruire în siguranță în regiunile în curs de dezvoltare pentru ridicarea standardelor"
+],
+"paragraph2": "Aceste eforturi de sustenabilitate i-au adus Safran recunoaștere formală din partea Pactului Global al Națiunilor Unite și au contribuit la prime de rating ESG pe piețele de capital."
+},
+"conclusion": {
+"title": "Concluzie",
+"paragraphs": [
+"Traiectoria Safran se bazează pe un angajament neclintit față de leadershipul tehnologic, integritatea reglementară și excelența serviciilor. Pe măsură ce industria chimică globală se îndreaptă către produse cu valoare adăugată mai mare, Safran a trasat un drum dincolo de peisajul comoditizat al războaielor de prețuri.",
+"Strategia sa multifacetată — tehnologie de vârf, modele de servicii agile și o conștiință puternică de mediu — a transformat compania într-un partener de încredere pe termen lung pentru clienți din întreaga lume.",
+"Privind înainte, Safran este bine poziționată pentru a-și consolida leadershipul pe piața globală, în special prin progrese continue în materiale de grad defensiv și inovații de economie circulară, stabilind noi standarde de excelență în întreaga industrie."
+]
+},
+"disclaimer": "Declinare de responsabilitate: Toate datele și exemplele prezentate sunt derivate din surse publice și analize de tendințe din industrie. Detaliile privind parteneriatele specifice rămân confidențiale conform acordurilor de non-dezvăluire."
+}
+}
 }

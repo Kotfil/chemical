@@ -4,17 +4,28 @@
     "subtitle": "Huone F, 6/F Mega Cube, No. 8 Wang Kwong Road, KL, Hongkong",
     "subtitle_second": "Perustettu 2009",
     "navigation_list": [
-      { "label": "Etusivu", "href": "/" },
-      { "label": "Tuotteet", "href": "/products" },
-      { "label": "Yhteistyö", "href": "/co-operation" },
+      {
+        "label": "Etusivu",
+        "href": "/"
+      },
+      {
+        "label": "Tuotteet",
+        "href": "/products"
+      },
+      {
+        "label": "Yhteistyö",
+        "href": "/co-operation"
+      },
       {
         "label": "Galleria",
         "href": "/gallery"
       },
-      { "label": "Tietoa meistä", "href": "/about" }
+      {
+        "label": "Tietoa meistä",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "KOKONAISVALTAINEN RATKAISUN TOIMITTAJA ",
     "title_second": "SIVIILIRAJAKOULUUN JA ",
@@ -177,6 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "TUOTTEIDEMME ESITTELY"
+    "title": "TUOTTEIDEMME ESITTELY",
+    "factory_title": "Tehdas",
+    "produce_title": "Tuotteet",
+    "gallery_video_list": [
+      {
+        "title": "Kansainvälinen edelläkävijä integroiduissa kemiallisissa ratkaisuissa",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Keitä me olemme",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Tehdaskierros",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Tuotanto",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "tehdas_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "tehdas_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "tehdas_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "tehdas_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "tehdas_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "tehdas_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "tehdas_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "tehdas_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "tehdas_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "tehdas_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "tehdas_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "tehdas_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "tehdas_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "tehdas_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "tehdas_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "tehdas_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "tehdas_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "tehdas_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "tuote_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "tuote_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "tuote_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "tuote_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "tuote_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "tuote_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "tuote_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "tuote_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "tuote_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "tuote_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "tuote_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "tuote_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "tuote_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "tuote_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "tuote_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "tuote_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "tuote_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "tuote_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "tuote_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "tuote_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "tuote_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "tuote_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "tuote_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "tuote_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "tuote_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "tuote_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "tuote_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Kansainvälinen edelläkävijä integroiduissa kemiallisissa ratkaisuissa",
+    "about_text": {
+      "intro": [
+        "Vuonna 2009 Hongkongin dynaamisessa kaupallisessa keskuksessa perustettu Hong Kong Safran Industry Co Limited on noussut maailmanlaajuiseksi vertailukohdaksi ammoniumnitraatin ja räjähteiden alalla. Sen nousua ohjaa terävä strateginen näkemys, jatkuva innovaatio ja tinkimätön sääntelyn noudattaminen.",
+        "Turvallisuuden, tehokkuuden ja kestävyyden periaatteiden ohjaamana yritys tarjoaa edistyneitä kemiallisia ratkaisuja kaivosteollisuudessa, rakentamisessa, puolustuksessa ja siviilisektoreilla. Laajan tuoteportfolion kehittäminen ja maailmanlaajuisen palveluverkoston hyödyntäminen on mahdollistanut Safranille erottumisen tuhoisasta hintakilpailusta ja luonut markkina-aseman, jota leimaa kestävyys ja ainutlaatuisuus."
+      ],
+      "section1": {
+        "title": "1. Kansainvälinen ulottuvuus ja strateginen asema",
+        "paragraphs": [
+          "Hongkongin tunnustaminen maailman kolmanneksi suurimmaksi finanssikeskukseksi ja merkittäväksi vapaakauppasatamaksi antaa Safranille strategisen perustan yhdessä maailman yritysmyönteisimmistä ympäristöistä. Kaupungin suotuisa verojärjestelmä, huippuluokan logistiikka ja vahva kansainvälinen pankkijärjestelmä mahdollistavat yrityksen nopean reagoinnin maailmanlaajuiseen kysyntään ja tehokkaan integroinnin kansainväliseen toimitusketjuun.",
+          "Esimerkiksi tullivapaat kauppapolitiikat ja moderni satamainfrastruktuuri mahdollistavat kustannustehokkaat rajat ylittävät liiketoimet. Samanaikaisesti yritys hallitsee pääomavirtoja saumattomasti offshore-pankkijärjestelmien kautta. Strategiset yhteydet Hongkongin, Manner-Kiinan ja Belt and Road -aloitteeseen osallistuvien maiden välillä mahdollistavat Safranille jalansijan vahvistamisen kehittyvillä markkinoilla – nyt yli 80 maassa Aasiassa, Lähi-idässä ja Amerikassa."
+        ]
+      },
+      "section2": {
+        "title": "2. Teknologinen innovaatio ja monipuoliset tarjonnat",
+        "paragraph1": "Safranin kestävän menestyksen ytimessä on sen teknologinen hienostuneisuus ja laaja tuotevalikoima. Kiinan johtavana ammoniumnitraatin toimittajana yrityksellä on puolustustason sertifikaatit Kansallisen puolustusministeriön myöntäminä, mikä takaa vertaansa vailla olevan turvallisuuden ja suorituskyvyn räjähteissä. Sen teknologiset läpimurrot ovat laajentuneet myös puolustussektorille, jossa se toimittaa keskeisiä komponentteja, kuten tarkkuusammuksia, panssaroituja ajoneuvoja ja taktisia droneja.",
+        "list": [
+          "Siviililuokan materiaalit: ammoniumnitraatti, emulsiopohjaiset räjähteet, vesigeeliräjähteet",
+          "Sotilasratkaisut: panssari, tykistöammukset, taktiset UAV:t, älykkäät sytytysjärjestelmät",
+          "Erikoiskemikaalit: nitraatit, nitroselluloosa, perkloraatit huippuluokan teolliseen käyttöön"
+        ],
+        "paragraph2": "Jatkuvan tutkimus- ja kehitysinvestoinnin kautta yritys on luonut patentoituja koostumuksia – alhaisesta herkkyydestä ekologisiin propellanteihin – jotka parantavat suorituskykyä samalla kun rakentavat vahvaa teknologista etua."
+      },
+      "section3": {
+        "title": "3. Sääntelyn noudattaminen ja alan luottamus",
+        "paragraphs": [
+          "Safran asettaa sääntelyn noudattamisen ja turvallisuuden toimintansa keskiöön. Keskeisten sääntelyviranomaisten, mukaan lukien Kansallinen puolustusministeriö ja Liikenneministeriö, myöntämien sertifikaattien lisäksi yritys noudattaa tiukasti kansainvälisesti tunnustettuja standardeja, kuten ISO 9001 laadunhallintaan ja REACH ympäristöturvallisuuteen.",
+          "Esimerkiksi Safranin ammoniumnitraatin tuotannossa käytetään suljettua kiertoprosessia, mikä vähentää hiilidioksidipäästöjä yli 30% – heijastaen yrityksen sitoutumista maailmanlaajuisiin hiilineutraaliustavoitteisiin. Tämä kurinalainen lähestymistapa on asemoinut Safranin pitkäaikaiseksi, luotettavaksi kumppaniksi johtaville alan toimijoille, kuten BHP Billiton ja China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Integroitu toimitusketju ja lisäarvopalvelut",
+        "paragraph1": "Sekä vertikaalisen integraation että horisontaalisen laajentumisen kautta Safran on rakentanut täysin integroidun, end-to-end-palvelumallin, joka ulottuu kauas perinteisistä toimitustoiminnoista. Tämä ”yhdestä paikasta” -järjestelmä kattaa:",
+        "list": [
+          "Ylävirran valvonta: Strategiset liittoutumat johtavien globaalien kaivosyritysten kanssa raaka-aineiden varmistamiseksi",
+          "Keskivirran innovaatio: Optimoidut räjähteiden koostumukset ja räjäytysten suunnittelu parantavat tuloksia",
+          "Alavirran yhteistyö: Korkean arvon tuotteiden, kuten betonilisäaineiden ja energiamateriaalien, yhteiskehitys"
+        ],
+        "paragraph2": "Yksi merkittävä tapaus koskee koostetta ammoniumnitraatti-polttoöljyräjähdettä, joka luotiin afrikkalaiselle kaivosyritykselle. Tämä innovaatio paransi räjäytystehokkuutta 20% ja vähensi toimintakustannuksia 15%, tarjoten vakuuttavan vaihtoehdon perinteiselle hintakilpailuun perustuville lähestymistavoille."
+      },
+      "section5": {
+        "title": "5. Kestävyys ja yritysvastuu",
+        "paragraph1": "Suhteessa kehittyviin ESG-vaatimuksiin Safran upottaa vihreän kemian ja vastuullisen innovaation liiketoimintastrategiansa ytimeen. Keskeisiä aloitteita ovat:",
+        "list": [
+          "Kierrätystalouden käytännöt: sivutuotteiden, kuten rikkihapon, uudelleenkäsittely",
+          "Matala hiilijalanjälki tuotannossa: aurinko- ja biomassasähkön käyttö, 18% hiilen vähennystavoite vuoteen 2024 mennessä",
+          "Yhteisön kehitys: turvallisuuskoulutuskeskukset kehittyvillä alueilla standardien nostamiseksi"
+        ],
+        "paragraph2": "Nämä kestävän kehityksen ponnistelut ovat ansainneet Safranille virallisen tunnustuksen Yhdistyneiden Kansakuntien Global Compactilta ja vaikuttaneet ESG-luokituksen lisäarvoon pääomamarkkinoilla."
+      },
+      "conclusion": {
+        "title": "Johtopäätös",
+        "paragraphs": [
+          "Safranin kehityspolku perustuu horjumattomaan sitoutumiseen teknologiseen johtajuuteen, sääntelyn noudattamiseen ja palvelun erinomaisuuteen. Kun maailman kemianteollisuus siirtyy korkeampaa lisäarvoa tuottaviin tuotteisiin, Safran on luonut polun ohi hintakilpailun tavallisen maiseman.",
+          "Sen monipuolinen strategia – huipputeknologia, ketterät palvelumallit ja vahva ympäristötietoisuus – on muuttanut yrityksen luotettavaksi, pitkäaikaiseksi kumppaniksi asiakkaille maailmanlaajuisesti.",
+          "Tulevaisuutta ajatellen Safranilla on vahva asema vahvistaa johtajuuttaan maailmanmarkkinoilla, erityisesti jatkamalla puolustustason materiaalien ja kiertotalouden innovaatioiden kehittämistä, asettaen näin uusia erinomaisuuden standardeja koko alalle."
+        ]
+      },
+      "disclaimer": "Vastuuvapauslauseke: Kaikki esitetyt tiedot ja esimerkit perustuvat julkisesti saatavilla oleviin lähteisiin ja alan trendianalyyseihin. Yksityiskohtia tietyistä kumppanuuksista pidetään luottamuksellisina salassapitosopimusten mukaisesti."
+    }
   }
 }

@@ -4,17 +4,28 @@
     "subtitle": "Lejl./istaba F 6/F Mega Cube Nr. 8 Wang Kwong Road KL, Honkonga",
     "subtitle_second": "Dibināts 2009",
     "navigation_list": [
-      { "label": "Sākums", "href": "/" },
-      { "label": "Produkti", "href": "/products" },
-      { "label": "Sadarbība", "href": "/co-operation" },
+      {
+        "label": "Sākums",
+        "href": "/"
+      },
+      {
+        "label": "Produkti",
+        "href": "/products"
+      },
+      {
+        "label": "Sadarbība",
+        "href": "/co-operation"
+      },
       {
         "label": "Galerija",
         "href": "/gallery"
       },
-      { "label": "Par mums", "href": "/about" }
+      {
+        "label": "Par mums",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "VIENAS PIETEIKUMU RISINĀJUMU PIEGĀDĀTĀJS ",
     "title_second": "CIVILAJĀM SPRĀDZIENSPĒKĀM UN ",
@@ -177,6 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "MŪSU PRODUKTU DEMONSTRĀCIJA"
+    "title": "MŪSU PRODUKTU DEMONSTRĒJUMS",
+    "factory_title": "Fabrika",
+    "produce_title": "Ražojums",
+    "gallery_video_list": [
+      {
+        "title": "Globāls pionieris integrēto ķīmisko risinājumu jomā",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Kas mēs esam",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Fabrikas tūre",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "Ražojums",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "fabrika_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "fabrika_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "fabrika_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "fabrika_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "fabrika_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "fabrika_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "fabrika_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "fabrika_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "fabrika_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "fabrika_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "fabrika_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "fabrika_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "fabrika_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "fabrika_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "fabrika_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "fabrika_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "fabrika_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "fabrika_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "razhojums_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "razhojums_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "razhojums_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "razhojums_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "razhojums_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "razhojums_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "razhojums_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "razhojums_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "razhojums_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "razhojums_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "razhojums_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "razhojums_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "razhojums_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "razhojums_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "razhojums_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "razhojums_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "razhojums_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "razhojums_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "razhojums_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "razhojums_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "razhojums_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "razhojums_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "razhojums_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "razhojums_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "razhojums_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "razhojums_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "razhojums_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Globāls pionieris integrēto ķīmisko risinājumu jomā",
+    "about_text": {
+      "intro": [
+        "Dibināta 2009. gadā dinamiskajā Hongkongas komerciālajā centrā, Hong Kong Safran Industry Co Limited ir kļuvusi par globālu atsauces punktu amonija nitrāta un sprāgstvielu jomā. Tās izaugsme ir balstīta uz skaidru stratēģisko redzējumu, nepārtrauktu inovāciju un stingru normatīvo atbilstību.",
+        "Vadoties pēc drošības, efektivitātes un ilgtspējības principiem, uzņēmums piedāvā modernus ķīmiskos risinājumus ieguves, būvniecības, aizsardzības un civilajā sektorā. Attīstot plašu produktu portfeli un izmantojot globālu pakalpojumu tīklu, Safran veiksmīgi izvairījās no destruktīvas cenu konkurences, nostiprinot tirgus pozīciju, kas raksturojas ar noturību un unikālumu."
+      ],
+      "section1": {
+        "title": "1. Globāla sasniedzamība un stratēģiskā pozicionēšana",
+        "paragraphs": [
+          "Hongkonga, kas tiek atzīta par pasaules trešo lielāko finanšu centru un nozīmīgu brīvās tirdzniecības ostu, sniedz Safran stratēģisku bāzi vienā no visdraudzīgākajiem uzņēmējdarbības vidiem pasaulē. Pilsētas labvēlīgais nodokļu režīms, pasaules klases loģistika un spēcīga starptautiskā banku sistēma ļauj uzņēmumam ātri reaģēt uz globālo pieprasījumu un efektīvi integrēties starptautiskajā piegādes ķēdē.",
+          "Piemēram, muitas atbrīvojuma politikas un mūsdienīga ostas infrastruktūra ļauj Safran veikt izmaksu efektīvas starpvalstu darījumu operācijas. Vienlaikus uzņēmums nepārtraukti pārvalda kapitāla plūsmas caur ārzonas banku struktūrām. Stratēģiskās saites starp Hongkongu, Ķīnas kontinentālo daļu un valstīm, kas saskaņotas ar “Belt and Road” iniciatīvu, tālāk ļauj Safran paplašināt savu ietekmi jaunattīstības tirgos — tagad vairāk nekā 80 valstīs Āzijā, Tuvajos Austrumos un Amerikā."
+        ]
+      },
+      "section2": {
+        "title": "2. Tehnoloģiskās inovācijas un dažādotie piedāvājumi",
+        "paragraph1": "Safran ilgtermiņa panākumu pamatā ir tās tehnoloģiskā sarežģītība un plašais produktu klāsts. Kā vadošais amonija nitrāta piegādātājs Ķīnā, uzņēmums ir saņēmis aizsardzības līmeņa sertifikātus no Nacionālās aizsardzības ministrijas, nodrošinot nepārspējamu drošību un veiktspēju sprāgstvielu materiālos. Tās tehnoloģiskie sasniegumi ir paplašinājušies arī aizsardzības sektorā, kur tiek piegādātas būtiskas sastāvdaļas, piemēram, precīzas munīcijas, bruņoti transportlīdzekļi un taktiskie droni.",
+        "list": [
+          "Civilā līmeņa materiāli: amonija nitrāts, emulsijas sprāgstvielas, ūdens želejas sprāgstvielas",
+          "Militārie risinājumi: tanku bruņas, artilērijas lādiņi, taktiskie bezpilota lidaparāti, inteliģentas detonācijas sistēmas",
+          "Speciālie ķīmiskie materiāli: nitrāti, nitroceluloze, perhlorāti augstas klases rūpnieciskai lietošanai"
+        ],
+        "paragraph2": "Turpinot ieguldījumus pētniecībā un attīstībā, uzņēmums ir izstrādājis patentētas formulas — sākot no zemas jutības sprāgstvielām līdz videi draudzīgiem propulsiem —, kas uzlabo veiktspēju, veidojot spēcīgu tehnoloģisko aizsardzību."
+      },
+      "section3": {
+        "title": "3. Normatīvā atbilstība un nozares uzticība",
+        "paragraphs": [
+          "Safran drošību un atbilstību likumdošanai liek savas darbības centrā. Papildus sertifikātiem no galvenajām regulējošajām iestādēm, tostarp Nacionālās aizsardzības ministrijas un Transporta ministrijas, uzņēmums stingri ievēro starptautiski atzītus standartus, piemēram, ISO 9001 kvalitātes vadībai un REACH vides drošībai.",
+          "Piemēram, Safran amonija nitrāta ražošana izmanto noslēgtu cikla procesu, samazinot oglekļa emisijas par vairāk nekā 30% — tas atspoguļo uzņēmuma apņemšanos globālās oglekļa neitralitātes iniciatīvās. Šī disciplinētā pieeja ir nostiprinājusi Safran kā ilgtermiņa, uzticamu partneri vadošajiem nozares spēlētājiem, piemēram, BHP Billiton un China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Integrēta piegādes ķēde un vērtību pievienojošie pakalpojumi",
+        "paragraph1": "Gan vertikālās integrācijas, gan horizontālās paplašināšanās rezultātā Safran ir izveidojis pilnīgi integrētu, galapunktu pakalpojumu modeli, kas ietver daudz vairāk nekā tradicionālās piegādes funkcijas. Šī “vienas pieturas” sistēma aptver:",
+        "list": [
+          "Augšupejošā kontrole: Stratēģiskās alianzes ar vadošajiem globālajiem ieguves uzņēmumiem nodrošina izejvielu piegādi",
+          "Vidusposma inovācijas: Optimizētas sprāgstvielu formulas un sprādzienu projektēšana uzlabo rezultātus",
+          "Lejupvadošā sadarbība: Augstas vērtības produktu kopizstrāde, piemēram, betona piedevas un enerģijas materiāli"
+        ],
+        "paragraph2": "Viens ievērojams gadījums ietver kompozīta amonija nitrāta–dīzeļdegvielas sprāgstvielu risinājumu, kas radīts Āfrikas ieguves uzņēmumam. Šī inovācija uzlaboja spridzināšanas efektivitāti par 20% un samazināja darbības izmaksas par 15%, piedāvājot pārliecinošu alternatīvu tradicionālajām cenu vadītajām pieejām."
+      },
+      "section5": {
+        "title": "5. Ilgtspēja un uzņēmuma atbildība",
+        "paragraph1": "Saskaņā ar mainīgajām ESG prasībām Safran iekļauj zaļo ķīmiju un atbildīgas inovācijas uzņēmuma stratēģijas centrā. Galvenās iniciatīvas ietver:",
+        "list": [
+          "Cirkulārās ekonomikas prakse: blakusproduktu, piemēram, sērskābes atkritumu pārstrāde",
+          "Zema oglekļa ražošana: Saules un biomasas enerģijas izmantošana, mērķējot uz 18% oglekļa samazinājumu līdz 2024. gadam",
+          "Kopienas attīstība: Drošības apmācību centri attīstības reģionos, lai paaugstinātu standartus"
+        ],
+        "paragraph2": "Šīs ilgtspējas iniciatīvas ir pelnījušas Safran oficiālu atzinību no Apvienoto Nāciju Globālā līguma un veicinājušas ESG reitingu priekšrocības kapitāla tirgos."
+      },
+      "conclusion": {
+        "title": "Secinājums",
+        "paragraphs": [
+          "Safran trajektorija balstās uz nepārtrauktu apņemšanos tehnoloģiskajā vadībā, normatīvajā integritātē un pakalpojumu izcilībā. Tā kā globālā ķīmiskā industrija virzās uz augstvērtīgākiem produktiem, Safran ir izstrādājis ceļu ārpus komodificētās cenu kari ainavas.",
+          "Tās daudzpusīgā stratēģija — modernākā tehnoloģija, elastīgi pakalpojumu modeļi un spēcīga vides apziņa — ir pārvērtusi uzņēmumu par uzticamu ilgtermiņa partneri klientiem visā pasaulē.",
+          "Skatoties nākotnē, Safran ir labi pozicionēts, lai nostiprinātu savu līderību globālajā tirgū, īpaši turpinot attīstīt aizsardzības līmeņa materiālus un cirkulārās ekonomikas inovācijas, tādējādi nosakot jaunas izcilības standartu nozarē."
+        ]
+      },
+      "disclaimer": "Brīdinājums: Visi sniegtie dati un piemēri ir iegūti no publiski pieejamiem avotiem un nozares tendenču analīzes. Informācija par konkrētām partnerattiecībām ir konfidenciāla saskaņā ar neizpaušanas līgumiem."
+    }
   }
 }

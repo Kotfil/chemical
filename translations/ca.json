@@ -4,17 +4,28 @@
     "subtitle": "Sala F, 6è pis, Mega Cube, núm. 8 Wang Kwong Road, KL, Hong Kong",
     "subtitle_second": "Fund. 2009",
     "navigation_list": [
-      { "label": "Inici", "href": "/" },
-      { "label": "Productes", "href": "/products" },
-      { "label": "Cooperació", "href": "/co-operation" },
+      {
+        "label": "Inici",
+        "href": "/"
+      },
+      {
+        "label": "Productes",
+        "href": "/products"
+      },
+      {
+        "label": "Cooperació",
+        "href": "/co-operation"
+      },
       {
         "label": "Galeria",
         "href": "/gallery"
       },
-      { "label": "Sobre nosaltres", "href": "/about" }
+      {
+        "label": "Sobre nosaltres",
+        "href": "/about"
+      }
     ]
   },
-
   "main_section": {
     "title_first": "PROVEÏDOR DE SOLUCIONS COMPLETES PER A",
     "title_second": "OPERACIONS D’EXPLOSIÓ CIVILS I",
@@ -177,8 +188,276 @@
     }
   },
   "gallery_section": {
-    "title": "DEMOSTRACIÓ DELS NOSTRES PRODUCTES"
+    "title": "DEMONSTRACIÓ DELS NOSTRES PRODUCTES",
+    "factory_title": "Fàbrica",
+    "produce_title": "Producte",
+    "gallery_video_list": [
+      {
+        "title": "Un pioner global en solucions químiques integrades",
+        "src": "/assets/video/A-Global-Pioneer.mov",
+        "poster": "/assets/video/video-background/a-global-pioneer.jpg"
+      },
+      {
+        "title": "Qui som",
+        "src": "/assets/video/Who-we-are.mov",
+        "poster": "/assets/video/video-background/who-are-we.jpg"
+      },
+      {
+        "title": "Visita a la fàbrica",
+        "src": "/assets/video/Factory-tour.mp4",
+        "poster": "/assets/video/video-background/the-factory.jpg"
+      },
+      {
+        "title": "La producció",
+        "src": "/assets/video/The-produce.mp4",
+        "poster": "/assets/video/video-background/the-produce.jpg"
+      }
+    ],
+    "gallery_factory_list": [
+      {
+        "img": "/assets/factory/1.webp",
+        "title": "fàbrica_1"
+      },
+      {
+        "img": "/assets/factory/2.webp",
+        "title": "fàbrica_2"
+      },
+      {
+        "img": "/assets/factory/3.webp",
+        "title": "fàbrica_3"
+      },
+      {
+        "img": "/assets/factory/4.webp",
+        "title": "fàbrica_4"
+      },
+      {
+        "img": "/assets/factory/6.webp",
+        "title": "fàbrica_5"
+      },
+      {
+        "img": "/assets/factory/7.webp",
+        "title": "fàbrica_6"
+      },
+      {
+        "img": "/assets/factory/8.webp",
+        "title": "fàbrica_7"
+      },
+      {
+        "img": "/assets/factory/9.webp",
+        "title": "fàbrica_8"
+      },
+      {
+        "img": "/assets/factory/10.webp",
+        "title": "fàbrica_9"
+      },
+      {
+        "img": "/assets/factory/11.webp",
+        "title": "fàbrica_10"
+      },
+      {
+        "img": "/assets/factory/12.webp",
+        "title": "fàbrica_11"
+      },
+      {
+        "img": "/assets/factory/13.webp",
+        "title": "fàbrica_12"
+      },
+      {
+        "img": "/assets/factory/14.webp",
+        "title": "fàbrica_13"
+      },
+      {
+        "img": "/assets/factory/15.webp",
+        "title": "fàbrica_14"
+      },
+      {
+        "img": "/assets/factory/16.webp",
+        "title": "fàbrica_15"
+      },
+      {
+        "img": "/assets/factory/17.webp",
+        "title": "fàbrica_16"
+      },
+      {
+        "img": "/assets/factory/18.webp",
+        "title": "fàbrica_17"
+      },
+      {
+        "img": "/assets/factory/19.webp",
+        "title": "fàbrica_18"
+      }
+    ],
+    "gallery_produce_list": [
+      {
+        "img": "/assets/produce/1.webp",
+        "title": "producte_1"
+      },
+      {
+        "img": "/assets/produce/2.webp",
+        "title": "producte_2"
+      },
+      {
+        "img": "/assets/produce/3.webp",
+        "title": "producte_3"
+      },
+      {
+        "img": "/assets/produce/4.webp",
+        "title": "producte_4"
+      },
+      {
+        "img": "/assets/produce/5.webp",
+        "title": "producte_5"
+      },
+      {
+        "img": "/assets/produce/6.webp",
+        "title": "producte_6"
+      },
+      {
+        "img": "/assets/produce/7.webp",
+        "title": "producte_7"
+      },
+      {
+        "img": "/assets/produce/8.webp",
+        "title": "producte_8"
+      },
+      {
+        "img": "/assets/produce/9.webp",
+        "title": "producte_9"
+      },
+      {
+        "img": "/assets/produce/10.webp",
+        "title": "producte_10"
+      },
+      {
+        "img": "/assets/produce/11.webp",
+        "title": "producte_11"
+      },
+      {
+        "img": "/assets/produce/12.webp",
+        "title": "producte_12"
+      },
+      {
+        "img": "/assets/produce/13.webp",
+        "title": "producte_13"
+      },
+      {
+        "img": "/assets/produce/14.webp",
+        "title": "producte_14"
+      },
+      {
+        "img": "/assets/produce/15.webp",
+        "title": "producte_15"
+      },
+      {
+        "img": "/assets/produce/16.webp",
+        "title": "producte_16"
+      },
+      {
+        "img": "/assets/produce/17.webp",
+        "title": "producte_17"
+      },
+      {
+        "img": "/assets/produce/18.webp",
+        "title": "producte_18"
+      },
+      {
+        "img": "/assets/produce/19.webp",
+        "title": "producte_19"
+      },
+      {
+        "img": "/assets/produce/20.webp",
+        "title": "producte_20"
+      },
+      {
+        "img": "/assets/produce/21.webp",
+        "title": "producte_21"
+      },
+      {
+        "img": "/assets/produce/22.webp",
+        "title": "producte_22"
+      },
+      {
+        "img": "/assets/produce/23.webp",
+        "title": "producte_23"
+      },
+      {
+        "img": "/assets/produce/24.webp",
+        "title": "producte_24"
+      },
+      {
+        "img": "/assets/produce/25.webp",
+        "title": "producte_25"
+      },
+      {
+        "img": "/assets/produce/26.webp",
+        "title": "producte_26"
+      },
+      {
+        "img": "/assets/produce/27.webp",
+        "title": "producte_27"
+      }
+    ]
+  },
+  "about_section": {
+    "title": "Hong Kong Safran Industry Co Limited: Un pioner global en solucions químiques integrades",
+    "about_text": {
+      "intro": [
+        "Fundada el 2009 al dinàmic centre comercial de Hong Kong, Hong Kong Safran Industry Co Limited ha esdevingut un punt de referència global en el camp del nitrat d’amoni i materials explosius. El seu ascens ha estat impulsat per una visió estratègica clara, innovació constant i un compliment normatiu rigorós.",
+        "Guiada pels principis de seguretat, eficiència i sostenibilitat, l’empresa ofereix solucions químiques avançades per als sectors de la mineria, construcció, defensa i civil. Mitjançant un ampli portafolis de productes i una xarxa de serveis mundial, Safran ha evitat la competència destructiva basada en preus, establint en canvi una posició de mercat marcada per la resiliència i la singularitat."
+      ],
+      "section1": {
+        "title": "1. Abast global i posicionament estratègic",
+        "paragraphs": [
+          "Amb Hong Kong reconegut com el tercer centre financer del món i un port franc important, Safran gaudeix d’una base estratègica en un dels entorns més favorables per als negocis. El règim fiscal avantatjós de la ciutat, la logística de primer nivell i un sistema bancari internacional sòlid permeten a l’empresa respondre ràpidament a la demanda global i integrar-se de manera eficient a la cadena de subministrament internacional.",
+          "Per exemple, les polítiques comercials lliures d’impostos i les infraestructures portuàries modernes permeten a Safran realitzar transaccions transfrontereres rendibles. Al mateix temps, l’empresa gestiona els fluxos de capital sense problemes a través de marcs bancaris offshore. Els vincles estratègics entre Hong Kong, la Xina continental i les nacions alineades amb la Iniciativa de la Franja i la Ruta permeten a Safran ampliar la seva presència en mercats emergents, arribant actualment a més de 80 països d’Àsia, Orient Mitjà i Amèrica."
+        ]
+      },
+      "section2": {
+        "title": "2. Innovació tecnològica i oferta diversificada",
+        "paragraph1": "En el cor de l’èxit continuat de Safran hi ha la seva sofisticació tecnològica i la seva àmplia gamma de productes. Com a principal proveïdor xinès de nitrat d’amoni, l’empresa compta amb certificacions de grau militar del Ministeri de Defensa Nacional, que garanteixen una seguretat i rendiment inigualables en els seus materials explosius. Les seves innovacions tecnològiques també s’han estès al sector de defensa, on subministra components vitals com munició de precisió, vehicles blindats i drons tàctics.",
+        "list": [
+          "Materials de grau civil: nitrat d’amoni, explosius en emulsió, explosius de gel aquós",
+          "Solucions militars: blindatge per a tancs, projectils d’artilleria, UAV tàctics, sistemes intel·ligents de detonació",
+          "Productes químics especials: nitrats, nitrocel·lulosa, perclorats per a ús industrial d’alta gamma"
+        ],
+        "paragraph2": "Mitjançant una inversió sostinguda en recerca i desenvolupament, l’empresa ha desenvolupat formulacions patentades —des d’explosius de baixa sensibilitat fins a propel·lents ecològics— que milloren el rendiment alhora que construeixen una sòlida barrera tecnològica."
+      },
+      "section3": {
+        "title": "3. Compliment normatiu i confiança en la indústria",
+        "paragraphs": [
+          "Safran situa el compliment i la seguretat al centre de les seves operacions. A més de les certificacions d’autoritats reguladores clau, incloent el Ministeri de Defensa Nacional i el Ministeri de Transport, l’empresa compleix estrictament normes reconegudes internacionalment com la ISO 9001 per a la gestió de qualitat i REACH per a la seguretat ambiental.",
+          "Per exemple, la producció de nitrat d’amoni de Safran utilitza un procés de cicle tancat que redueix les emissions de carboni en més d’un 30 %, reflectint el compromís de l’empresa amb les iniciatives globals de neutralitat de carboni. Aquest enfocament disciplinat ha posicionat Safran com un soci de confiança a llarg termini per a actors líders com BHP Billiton i China Railway Construction."
+        ]
+      },
+      "section4": {
+        "title": "4. Cadena de subministrament integrada i serveis de valor afegit",
+        "paragraph1": "A través de la integració vertical i l’expansió horitzontal, Safran ha construït un model de servei complet i integrat que va molt més enllà de les funcions tradicionals de subministrament. Aquest sistema \"tot en un\" inclou:",
+        "list": [
+          "Control a l’inici: aliances estratègiques amb empreses mineres líders asseguren el subministrament de matèries primeres",
+          "Innovació en el procés: formulacions optimitzades i disseny de voladura milloren els resultats",
+          "Col·laboració en el lliurament: co-desenvolupament de productes d’alt valor com additius per a formigó i materials energètics"
+        ],
+        "paragraph2": "Un cas destacat és una solució composta de nitrat d’amoni i oli combustible creada per a una empresa minera a l’Àfrica. Aquesta innovació va millorar l’eficiència de la voladura en un 20 % i va reduir els costos operatius en un 15 %, oferint una alternativa atractiva als enfocaments tradicionals basats en el preu."
+      },
+      "section5": {
+        "title": "5. Sostenibilitat i responsabilitat corporativa",
+        "paragraph1": "En línia amb les noves exigències ESG, Safran integra la química verda i la innovació responsable al cor de la seva estratègia empresarial. Les iniciatives clau inclouen:",
+        "list": [
+          "Pràctiques d’economia circular: reprocessament de subproductes com l’àcid sulfúric residual",
+          "Producció baixa en carboni: adopció d’energia solar i de biomassa, amb un objectiu de reducció del carboni del 18 % per al 2024",
+          "Desenvolupament comunitari: instal·lacions de formació en seguretat a regions en desenvolupament per millorar els estàndards"
+        ],
+        "paragraph2": "Aquests esforços de sostenibilitat han valgut a Safran el reconeixement formal del Pacte Mundial de les Nacions Unides i han contribuït a obtenir primes en la qualificació ESG als mercats de capitals."
+      },
+      "conclusion": {
+        "title": "Conclusió",
+        "paragraphs": [
+          "La trajectòria de Safran es basa en un compromís ferm amb el lideratge tecnològic, la integritat reguladora i l’excel·lència en el servei. A mesura que la indústria química mundial es dirigeix cap a productes de més valor afegit, Safran ha traçat un camí més enllà del paisatge commodititzat de les guerres de preus.",
+          "La seva estratègia multifacètica —tecnologia capdavantera, models de servei àgils i una forta consciència mediambiental— ha transformat l’empresa en un soci fiable i a llarg termini per a clients de tot el món.",
+          "De cara al futur, Safran està ben posicionada per reforçar el seu lideratge en el mercat global, especialment mitjançant avenços continus en materials de grau militar i innovacions en economia circular, establint així nous estàndards d’excel·lència a la indústria."
+        ]
+      },
+      "disclaimer": "Avís legal: Totes les dades i exemples presentats provenen de fonts públiques i anàlisis de tendències del sector. Els detalls sobre associacions específiques romanen confidencials en virtut d’acords de no divulgació."
+    }
   }
-
-
 }
