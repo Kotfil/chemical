@@ -85,92 +85,76 @@
           "text": "Sme priamym zástupcom viacerých tovární. Vďaka veľkým objemom zásielok vieme získať výhodné ceny priamo z továrne a ponúknuť profesionálne exportné služby, vďaka čomu vynikneme v medzinárodnom obchode."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "VÝHODY",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Poskytujeme produkty vynikajúcej kvality, ako aj presné dodacie lehoty."
+        },
+        {
+          "id": 2,
+          "text": "Nadviazali sme silnú spoluprácu so spoločnosťami lodnej dopravy, ako sú COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF a ďalšie."
+        },
+        {
+          "id": 3,
+          "text": "S naším profesionálnym tímom môžeme ponúknuť rozumné cenové ponuky a najlepšie, vysoko efektívne služby."
+        },
+        {
+          "id": 4,
+          "text": "Vďaka našim odborným znalostiam, vynikajúcej kvalite produktov a službám riešiacim problémy sme získali uznanie klientov na celom svete."
+        },
+        {
+          "id": 5,
+          "text": "Naša spoločnosť je registrovaná v Hongkongu – v offshore zóne, ktorá poskytuje väčšiu flexibilitu a spoľahlivosť našich obchodných operácií."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "ZOZNAM NAŠICH PRODUKTOV",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel trubica"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Zapaľovacia šnúra"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Elektrický zapaľovač"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektronický zapaľovač"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Ne-elektrický zapaľovač"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluéndiisokyanát"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Booster"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Kyanid sodný-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulzné výbušniny"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Vodný gélový výbušný prostriedok"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerytritol tetranitrát"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Čip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seizmické výbušné náplne"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Kompozitné materiály s medeným opláštením"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "ZA STUDENA VALCOVANÁ OCEĽ opláštená meďou a mosadzou"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluén (TNT)" },
+      { "text": "Hexogén (RDX)" },
+      { "text": "Oktogén (HMX)" },
+      { "text": "Porézne prílky amónia nitrát (PPAN)" },
+      { "text": "Chemicky čistý amónia nitrát (CPAN)" },
+      { "text": "Plastická výbušnina (C4)" },
+      { "text": "Nitrocelulóza (NC)" },
+      { "text": "Kyanid sodný" },
+      { "text": "Nitrát sodný" },
+      { "text": "Perchlorát sodný (NaClO4)" },
+      { "text": "Amónia nitrát (AN)" },
+      { "text": "Amónia perchlorát (AP)" },
+      { "text": "Kyselina dusičná" },
+      { "text": "Magnézium nitrát" },
+      { "text": "Draslíkový nitrát (KNO3)" },
+      { "text": "Perchlorát draselný (KClO3)" },
+      { "text": "Sodný azid" },
+      { "text": "Čierny prášok" },
+      { "text": "UAN" },
+      { "text": "Pyriková kyselina (trinitrokrezol, TNP)" },
+      { "text": "Nitroglycerín (C3H5N3O9)" },
+      { "text": "Nonel trubica" },
+      { "text": "Detonačný šnúr" },
+      { "text": "Elektrický detonátor" },
+      { "text": "Elektronický detonátor" },
+      { "text": "Ne-elektrický detonátor" },
+      { "text": "Diizokyanát toluénu" },
+      { "text": "Modul" },
+      { "text": "Zosilňovač" },
+      { "text": "Kyanid sodný-1756x2048" },
+      { "text": "Emulzné výbušniny" },
+      { "text": "Vodný gél výbušniny" },
+      { "text": "PETN (Pentaerytritol tetranitrátny)" },
+      { "text": "Čip" },
+      { "text": "Seizmické výbušné kazety" },
+      { "text": "Kovové kompozity potiahnuté medeným plechom" },
+      { "text": "Studenokované oceľové plechy s medeným a mosadzným povlakom" }
     ]
+
   },
   "cooperation_section": {
     "title": "VŠEOBECNÝ ALGORITMUS SPOLUPRÁCE",

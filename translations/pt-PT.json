@@ -85,96 +85,76 @@
           "text": "Somos agentes de primeiro nível de diversas fábricas. Graças ao nosso elevado volume de envio, conseguimos obter preços competitivos, somados aos serviços profissionais de exportação, o que nos destaca no comércio internacional."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "VANTAGENS",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Fornecemos produtos de excelente qualidade, bem como prazos de entrega pontuais."
+        },
+        {
+          "id": 2,
+          "text": "Estabelecemos uma forte cooperação com companhias de navegação como a COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF e outras."
+        },
+        {
+          "id": 3,
+          "text": "Com a nossa equipa profissional, podemos oferecer orçamentos razoáveis e os melhores serviços de elevada eficiência."
+        },
+        {
+          "id": 4,
+          "text": "Graças ao nosso conhecimento profissional, excelente qualidade de produtos e serviços de resolução de problemas, conquistámos a aprovação de clientes em todo o mundo."
+        },
+        {
+          "id": 5,
+          "text": "A nossa empresa está registada em Hong Kong – uma zona offshore que proporciona maior flexibilidade e fiabilidade nas nossas operações comerciais."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "LISTA DOS NOSSOS PRODUTOS",
     "product_table": [
-      {
-        "english": "Trinitrotoluene (TNT)",
-        "translation": "Tubo não elétrico (Nonel tube)"
-      },
-      {
-        "english": "Hexogen (RDX)",
-        "translation": "Corda detonadora (Detonating Cord)"
-      },
-      {
-        "english": "Octogen (HMX)",
-        "translation": "Detonador elétrico (Electric Detonator)"
-      },
-      {
-        "english": "Porous prills ammonium nitrate (PPAN)",
-        "translation": "Detonador electrónico (Electronic Detonator)"
-      },
-      {
-        "english": "Chemical pure ammonium nitrate (CPAN)",
-        "translation": "Detonador não elétrico (Non-electric Detonator)"
-      },
-      {
-        "english": "Plastic explosive (C4)",
-        "translation": "Isocianato de tolueno (Toluene Diisocyanate)"
-      },
-      {
-        "english": "Nitrocellulose (NC)",
-        "translation": "Módulo (Module)"
-      },
-      {
-        "english": "Sodium cyanide",
-        "translation": "Amplificador (Booster)"
-      },
-      {
-        "english": "Sodium nitrate",
-        "translation": "Cianeto de sódio (Sodium Cyanide-1756x2048)"
-      },
-      {
-        "english": "Sodium perchlorate (NaClO4)",
-        "translation": "Explosivo emulsionado (Emulsion Explosive)"
-      },
-      {
-        "english": "Ammonium nitrate (AN)",
-        "translation": "Explosivo em gel aquoso (Water Gel explosive)"
-      },
-      {
-        "english": "Ammonium perchlorate (AP)",
-        "translation": "PETN (Pentaerythritol tetranitrate)"
-      },
-      {
-        "english": "Nitric acid",
-        "translation": "Chip (Chip)"
-      },
-      {
-        "english": "Magnesium nitrate",
-        "translation": "Cartuchos explosivos sísmicos (Seismic Explosive Cartridges)"
-      },
-      {
-        "english": "Potassium nitrate (KNO3)",
-        "translation": "Materiais compósitos de aço revestido (COPPER-CLAD STEEL composite materials)"
-      },
-      {
-        "english": "Potassium perchlorate (KClO3)",
-        "translation": "Aço laminado a frio revestido com cobre e latão (COLD-ROLLED STEEL CLAD with copper and brass)"
-      },
-      {
-        "english": "Sodium azide",
-        "translation": ""
-      },
-      {
-        "english": "Black powder",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "Piric acid (trinitrocresol, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C3H5N3O9)",
-        "translation": ""
-      }
+      { "text": "Trinitrotolueno (TNT)" },
+      { "text": "Hexogénio (RDX)" },
+      { "text": "Octogénio (HMX)" },
+      { "text": "Prills porosos de nitrato de amónio (PPAN)" },
+      { "text": "Nitrato de amónio químico puro (CPAN)" },
+      { "text": "Explosivo plástico (C4)" },
+      { "text": "Nitrocelulose (NC)" },
+      { "text": "Cianeto de sódio" },
+      { "text": "Nitrato de sódio" },
+      { "text": "Perclorato de sódio (NaClO4)" },
+      { "text": "Nitrato de amónio (AN)" },
+      { "text": "Perclorato de amónio (AP)" },
+      { "text": "Ácido nítrico" },
+      { "text": "Nitrato de magnésio" },
+      { "text": "Nitrato de potássio (KNO3)" },
+      { "text": "Perclorato de potássio (KClO3)" },
+      { "text": "Azida de sódio" },
+      { "text": "Pólvora negra" },
+      { "text": "UAN" },
+      { "text": "Ácido pírico (trinitrocresol, TNP)" },
+      { "text": "Nitroglicerina (C3H5N3O9)" },
+      { "text": "Tubo Nonel" },
+      { "text": "Cordão detonante" },
+      { "text": "Detonador elétrico" },
+      { "text": "Detonador eletrónico" },
+      { "text": "Detonador não elétrico" },
+      { "text": "Diisocianato de tolueno" },
+      { "text": "Módulo" },
+      { "text": "Amplificador" },
+      { "text": "Cianeto de sódio-1756x2048" },
+      { "text": "Explosivo em emulsão" },
+      { "text": "Explosivo de gel de água" },
+      { "text": "PETN Pentaeritritol tetranitrato" },
+      { "text": "Chip" },
+      { "text": "Cartuchos de explosivos sísmicos" },
+      { "text": "Materiais compósitos com aço revestido a cobre" },
+      { "text": "Aço laminado a frio revestido com cobre e latão" }
     ]
+
   },
   "cooperation_section": {
     "title": "ALGORITMO GERAL DE COOPERAÇÃO",

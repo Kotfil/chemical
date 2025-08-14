@@ -85,92 +85,75 @@
           "text": "Som agents de primer nivell per a moltes fàbriques. Gràcies al gran volum de lliuraments podem negociar preus competitius directament amb el fabricant, combinat amb els nostres serveis professionals d’exportació que ens fan destacar al mercat internacional."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "AVANTATGES",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Proporcionem productes d'excel·lent qualitat, així com terminis de lliurament puntuals."
+        },
+        {
+          "id": 2,
+          "text": "Hem establert una col·laboració profunda amb companyies navilieres com COSCO, CSCL, MAERSK, PIL, MSC, NDS i SAF, etc."
+        },
+        {
+          "id": 3,
+          "text": "Amb el nostre equip professional, podem oferir pressupostos raonables i els millors serveis altament eficients."
+        },
+        {
+          "id": 4,
+          "text": "Gràcies al nostre coneixement professional, productes d'alta qualitat i serveis de resolució de problemes, hem aconseguit l'aprovació dels clients a tot el món."
+        },
+        {
+          "id": 5,
+          "text": "La nostra empresa està registrada a Hong Kong – una zona offshore que dóna més flexibilitat i fiabilitat a la nostra activitat comercial."
+        }
+      ]
     }
   },
   "product_section": {
     "title": "LLISTA DELS NOSTRES PRODUCTES",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel tube"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Detonating Cord"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Electric Detonator"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Electronic Detonator"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Non‑electric Detonator"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluene Diisocyanate"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Module"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Booster"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Sodium Cyanide‑1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsion Explosive"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Water Gel explosive"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerythritol tetranitrate"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismic Explosive Cartridges"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "COPPER‑CLAD STEEL composite materials"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "COLD‑ROLLED STEEL CLAD with copper and brass"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluè (TNT)" },
+      { "text": "Hexogen (RDX)" },
+      { "text": "Octogen (HMX)" },
+      { "text": "Prills poroses de nitrat d'amoni (PPAN)" },
+      { "text": "Nitrat d'amoni pur químic (CPAN)" },
+      { "text": "Explosiu plàstic (C4)" },
+      { "text": "Nitrocel·lulosa (NC)" },
+      { "text": "Cianur de sodi" },
+      { "text": "Nitrat de sodi" },
+      { "text": "Perclorat de sodi (NaClO4)" },
+      { "text": "Nitrat d'amoni (AN)" },
+      { "text": "Perclorat d'amoni (AP)" },
+      { "text": "Àcid nítric" },
+      { "text": "Nitrat de magnesi" },
+      { "text": "Nitrat de potassi (KNO3)" },
+      { "text": "Perclorat de potassi (KClO3)" },
+      { "text": "Azida de sodi" },
+      { "text": "Pols negra" },
+      { "text": "UAN" },
+      { "text": "Àcid piric (trinitrocresol, TNP)" },
+      { "text": "Nitroglicerina (C3H5N3O9)" },
+      { "text": "Tub Nonel" },
+      { "text": "Corda detonant" },
+      { "text": "Detonador elèctric" },
+      { "text": "Detonador electrònic" },
+      { "text": "Detonador no elèctric" },
+      { "text": "Diisocianat de toluè" },
+      { "text": "Mòdul" },
+      { "text": "Booster" },
+      { "text": "Cianur de sodi-1756x2048" },
+      { "text": "Explosiu emulsió" },
+      { "text": "Explosiu de gel d'aigua" },
+      { "text": "PETN Pentaeritritol tetranitrato" },
+      { "text": "Xip" },
+      { "text": "Cartridges explosives sísmics" },
+      { "text": "Materials compostos d'acer recoberts de coure" },
+      { "text": "ACER RECOBERT EN COLD ROLLED amb coure i llautó" }
     ]
+
   },
   "cooperation_section": {
     "title": "ALGORITME GENERAL DE COOPERACIÓ",

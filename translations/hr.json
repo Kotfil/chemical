@@ -85,92 +85,76 @@
           "text": "Prvi smo agent za mnoge tvornice. Na temelju velikog obujma isporuka dobivamo konkurentne cijene od tvornica, plus naše profesionalne izvozne usluge koje nas čine istaknutima na međunarodnoj trgovini."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "PREDNOSTI",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Pružamo proizvode izvrsne kvalitete, kao i točna vremena isporuke."
+        },
+        {
+          "id": 2,
+          "text": "Uspostavili smo snažnu suradnju s brodarskim kompanijama kao što su COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF i druge."
+        },
+        {
+          "id": 3,
+          "text": "S našim profesionalnim timom možemo ponuditi razumne ponude i najbolje, visokoučinkovite usluge."
+        },
+        {
+          "id": 4,
+          "text": "Zahvaljujući našem profesionalnom znanju, izvrsnoj kvaliteti proizvoda i uslugama rješavanja problema, stekli smo odobrenje klijenata širom svijeta."
+        },
+        {
+          "id": 5,
+          "text": "Naša tvrtka je registrirana u Hong Kongu – offshore zoni koja pruža veću fleksibilnost i pouzdanost za naše poslovanje."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "POPIS NAŠIH PROIZVODA",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel cijev"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Detonacijski konop"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Električni detonator"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektronički detonator"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Nenelektrični detonator"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluendiizocijanat"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Pojačivač"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Cijanid natrija-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulzijski eksploziv"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Vodeni gel eksploziv"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaeritritol tetranitarat"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Čip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seizmičke eksplozivne patrone"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Kompozitni materijali od čelika presvučenog bakrom"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Hladno valjani čelik obložen bakrom i mesingom"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluen (TNT)" },
+      { "text": "Heksogen (RDX)" },
+      { "text": "Oktogen (HMX)" },
+      { "text": "Porozni prah amonijevog nitrata (PPAN)" },
+      { "text": "Kemijski čisti amonijev nitrat (CPAN)" },
+      { "text": "Plastični eksploziv (C4)" },
+      { "text": "Nitroceluloza (NC)" },
+      { "text": "Natrijev cijanid" },
+      { "text": "Natrijev nitrat" },
+      { "text": "Natrijev perklorat (NaClO4)" },
+      { "text": "Amonijev nitrat (AN)" },
+      { "text": "Amonijev perklorat (AP)" },
+      { "text": "Kisela kiselina" },
+      { "text": "Magnezijev nitrat" },
+      { "text": "Kalijev nitrat (KNO3)" },
+      { "text": "Kalijev perklorat (KClO3)" },
+      { "text": "Natrijev azid" },
+      { "text": "Crni prah" },
+      { "text": "UAN" },
+      { "text": "Pirinska kiselina (trinitrocresol, TNP)" },
+      { "text": "Nitroglicerin (C3H5N3O9)" },
+      { "text": "Nonel cijev" },
+      { "text": "Detonatorski kabel" },
+      { "text": "Električni detonator" },
+      { "text": "Elektronički detonator" },
+      { "text": "Ne-električni detonator" },
+      { "text": "Diizocijanat toluena" },
+      { "text": "Modul" },
+      { "text": "Pojačivač" },
+      { "text": "Natrijev cijanid-1756x2048" },
+      { "text": "Emulzijski eksploziv" },
+      { "text": "Vodeni gel eksploziv" },
+      { "text": "PETN Pentaeritritol tetranitrat" },
+      { "text": "Čip" },
+      { "text": "Seizmičke eksplozivne patrone" },
+      { "text": "Kompozitni materijali od bakra presvučeni čelikom" },
+      { "text": "Hladno valjani čelik presvučen bakrom i mesingom" }
     ]
+
   },
   "cooperation_section": {
     "title": "OPĆI ALGORITAM SURADNJE",

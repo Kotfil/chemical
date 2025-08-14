@@ -6,7 +6,7 @@ export const NavigationTitleText = () => {
   return (
     <>
       <Grid>
-        <p className="font-blogger font-bold text-[clamp(0.63rem,2.16vw,1.61rem)] leading-tight">
+        <p className="font-blogger font-bold text-[clamp(0.54rem,1.84vw,1.37rem)] leading-tight">
           {t.navigation.title}
         </p>
       </Grid>

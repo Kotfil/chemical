@@ -85,92 +85,76 @@
           "text": "Ne jemi agjentë të nivelit të parë për shumë lloje fabrikash. Bazuar në volumin tonë të madh të dërgesave, mund të marrim çmim konkurrues nga fabrika dhe bashkë me shërbimet tona profesionale të eksportit, do të spikasim në tregtinë ndërkombëtare."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "PËRPARËSITË",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Ne ofrojmë produkte me cilësi të shkëlqyer, si dhe afate të sakta të dorëzimit."
+        },
+        {
+          "id": 2,
+          "text": "Kemi krijuar bashkëpunim të fortë me kompani transporti detar si COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF dhe të tjera."
+        },
+        {
+          "id": 3,
+          "text": "Me ekipin tonë profesional, mund të ofrojmë oferta të arsyeshme dhe shërbimet më të mira, shumë efikase."
+        },
+        {
+          "id": 4,
+          "text": "Falë njohurive tona profesionale, cilësisë së shkëlqyer të produkteve dhe shërbimeve për zgjidhjen e problemeve, kemi fituar mirënjohjen e klientëve në mbarë botën."
+        },
+        {
+          "id": 5,
+          "text": "Kompania jonë është e regjistruar në Hong Kong – një zonë offshore që ofron më shumë fleksibilitet dhe besueshmëri për operacionet tona të biznesit."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "LISTA E PRODUKTEVE TONA",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Tubi Nonel"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Litar Detonues"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Detonator Elektrik"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Detonator Elektronik"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Detonator Jo-Elektrik"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluene Diisocyanate"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Nxitës"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Cianidi i Natriumit-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Eksploziv Emulsion"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Eksploziv Gel Uji"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaeritritol tetranitrat"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Çip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Fishekë Eksplozivë Sizmikë"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Materiale të kompozituara ÇELIK TË MBULUAR ME BAKËR"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "ÇELIK I RULUAR NË TË FTOHTË I MBULUAR ME BAKËR DHE BRONZ"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluen (TNT)" },
+      { "text": "Heksogjen (RDX)" },
+      { "text": "Oktogjen (HMX)" },
+      { "text": "Prillë të ngurta amoniaku me pore (PPAN)" },
+      { "text": "Amoniak nitrat kimik i pastër (CPAN)" },
+      { "text": "Eksploziv plastik (C4)" },
+      { "text": "Nitrocelulozë (NC)" },
+      { "text": "Cianidi i natriumit" },
+      { "text": "Nitrat natriumi" },
+      { "text": "Perklorat natriumi (NaClO4)" },
+      { "text": "Amoniak nitrat (AN)" },
+      { "text": "Amoniak perklorat (AP)" },
+      { "text": "Acid azotik" },
+      { "text": "Magnezium nitrat" },
+      { "text": "Potassium nitrat (KNO3)" },
+      { "text": "Potassium perklorat (KClO3)" },
+      { "text": "Azidi i natriumit" },
+      { "text": "Pudër e zezë" },
+      { "text": "UAN" },
+      { "text": "Acid pirik (trinitrokrezol, TNP)" },
+      { "text": "Nitroglicerina (C3H5N3O9)" },
+      { "text": "Tuba Nonel" },
+      { "text": "Korda e detonimit" },
+      { "text": "Detonator elektrik" },
+      { "text": "Detonator elektronik" },
+      { "text": "Detonator jo-elektrik" },
+      { "text": "Diisocianat tolueni" },
+      { "text": "Modul" },
+      { "text": "Forcues" },
+      { "text": "Cianidi i natriumit-1756x2048" },
+      { "text": "Eksploziv emulsioni" },
+      { "text": "Eksploziv xhel uji" },
+      { "text": "PETN Pentaeritritol tetranitrati" },
+      { "text": "Çip" },
+      { "text": "Kartuçë eksplozivi sizmik" },
+      { "text": "Materiale kompozite çelik të mbështjellë me bakër" },
+      { "text": "Çelik i mbështjellë me fletë të ftohtë dhe bakër dhe brons" }
     ]
+
   },
   "cooperation_section": {
     "title": "ALGORITMI I PËRGJITHSHËM I BASHKËPUNIMIT",

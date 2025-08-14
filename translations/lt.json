@@ -85,90 +85,146 @@
           "text": "Esame pirmo lygio agentas daugeliui gamyklų. Dėl didelio siuntų kiekio gauname konkurencingą kainą iš gamyklų ir teikiame profesionalias eksporto paslaugas, leidžiančias mums išsiskirti tarptautinėje prekyboje."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "PRIVALUMAI",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Teikiame puikios kokybės produktus bei laikomės tikslių pristatymo terminų."
+        },
+        {
+          "id": 2,
+          "text": "Užmezgėme tvirtą bendradarbiavimą su laivyba užsiimančiomis įmonėmis, tokiomis kaip COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF ir kitomis."
+        },
+        {
+          "id": 3,
+          "text": "Su mūsų profesionalia komanda galime pasiūlyti pagrįstas kainas ir geriausias, aukšto efektyvumo paslaugas."
+        },
+        {
+          "id": 4,
+          "text": "Dėl mūsų profesionalių žinių, puikios produktų kokybės ir problemų sprendimo paslaugų sulaukėme klientų pripažinimo visame pasaulyje."
+        },
+        {
+          "id": 5,
+          "text": "Mūsų įmonė registruota Honkonge – ofšorinėje zonoje, kuri suteikia daugiau lankstumo ir patikimumo mūsų verslo operacijoms."
+        }
+      ]
     }
   },
   "product_section": {
     "title": "MŪSŲ PRODUKTŲ SĄRAŠAS",
     "product_table": [
       {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel vamzdelis"
+        "text": "Trinitrotoluenas (TNT)"
       },
       {
-        "english": "RDX – Hexogen",
-        "translation": "Detonacinė virvė"
+        "text": "Hexogenas (RDX)"
       },
       {
-        "english": "HMX – Octogen",
-        "translation": "Elektrinis detonatorius"
+        "text": "Oktogenas (HMX)"
       },
       {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektroninis detonatorius"
+        "text": "Porūs priedai amonio nitratas (PPAN)"
       },
       {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Neelektrinis detonatorius"
+        "text": "Cheminis grynas amonio nitratas (CPAN)"
       },
       {
-        "english": "C4 – Plastic explosive",
-        "translation": "Tolueno diizocianatas"
+        "text": "Plastikiniai sprogmenys (C4)"
       },
       {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modulis"
+        "text": "Nitroceliuliozė (NC)"
       },
       {
-        "english": "SODIUM CYANIDE",
-        "translation": "Stiprintuvas (Booster)"
+        "text": "Natrio cianidas"
       },
       {
-        "english": "SODIUM NITRATE",
-        "translation": "Cianido natris-1756x2048"
+        "text": "Natrio nitratas"
       },
       {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsinis sprogstamasis mišinys"
+        "text": "Natrio perkloratas (NaClO4)"
       },
       {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Vandens želės sprogstamasis mišinys"
+        "text": "Amonio nitratas (AN)"
       },
       {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN pentaeritritolio tetranitratas"
+        "text": "Amonio perkloratas (AP)"
       },
       {
-        "english": "NITRIC ACID",
-        "translation": "Chipas"
+        "text": "Azoto rūgštis"
       },
       {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seisminiai sprogstamieji kasetai"
+        "text": "Magnio nitratas"
       },
       {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Variniu dengtos plieno kompozitai"
+        "text": "Kalio nitratas (KNO3)"
       },
       {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Šaltai valcuoto plieno lakštai padengti variu ir žalvariu"
+        "text": "Kalio perkloratas (KClO3)"
       },
       {
-        "english": "SODIUM AZIDE",
-        "translation": ""
+        "text": "Natrio azidas"
       },
       {
-        "english": "UAN",
-        "translation": ""
+        "text": "Juodasis parakas"
       },
       {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
+        "text": "UAN"
       },
       {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
+        "text": "Piridinė rūgštis (trinitrocresolis, TNP)"
+      },
+      {
+        "text": "Nitroglicerinas (C3H5N3O9)"
+      },
+      {
+        "text": "Nonel vamzdis"
+      },
+      {
+        "text": "Detonuojanti virvė"
+      },
+      {
+        "text": "Elektrinis detonatorius"
+      },
+      {
+        "text": "Elektroninis detonatorius"
+      },
+      {
+        "text": "Neelektrinis detonatorius"
+      },
+      {
+        "text": "Toliueno diizocianatas"
+      },
+      {
+        "text": "Modulis"
+      },
+      {
+        "text": "Stiprintuvas"
+      },
+      {
+        "text": "Natrio cianidas-1756x2048"
+      },
+      {
+        "text": "Emulsinis sprogmuo"
+      },
+      {
+        "text": "Vandens gelio sprogmuo"
+      },
+      {
+        "text": "PETN Pentaritritolio tetranitratas"
+      },
+      {
+        "text": "Čipas"
+      },
+      {
+        "text": "Seisminės sprogstamosios kapsulės"
+      },
+      {
+        "text": "Varžtas ir plienas su vario apvalkalu"
+      },
+      {
+        "text": "ŠALTAS ROLIUOTAS PLIENAS su vario ir žalvario apvalkalu"
       }
     ]
   },

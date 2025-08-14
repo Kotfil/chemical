@@ -85,92 +85,76 @@
           "text": "Jsme přímým agentem mnoha továren. Díky velkému objemu objednávek získáváme konkurenceschopné ceny a kombinací s profesionálním exportním servisem vynikáme na mezinárodním trhu."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "VÝHODY",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Poskytujeme produkty vynikající kvality, ale také dodržujeme přesné dodací lhůty."
+        },
+        {
+          "id": 2,
+          "text": "Navázali jsme úzkou spolupráci s přepravními společnostmi, jako jsou COSCO, CSCL, MAERSK, PIL, MSC, NDS a SAF atd."
+        },
+        {
+          "id": 3,
+          "text": "S naším profesionálním týmem můžeme nabídnout rozumné cenové nabídky a nejlepší, vysoce efektivní služby."
+        },
+        {
+          "id": 4,
+          "text": "Díky našim odborným znalostem, produktům vynikající kvality a službám řešení problémů jsme získali uznání zákazníků po celém světě."
+        },
+        {
+          "id": 5,
+          "text": "Naše společnost je registrována v Hongkongu – v offshore zóně, která poskytuje naší obchodní činnosti větší flexibilitu a spolehlivost."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "SEZNAM NAŠICH PRODUKTŮ",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel trubice"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Detonační šňůra"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Elektrický rozbuška"
-      },
-      {
-        "english": "PPAN – Porézní granulovaný dusičnan amonný",
-        "translation": "Elektronický rozbuška"
-      },
-      {
-        "english": "CPAN – Chemicky čistý dusičnan amonný",
-        "translation": "Ne-elektrická rozbuška"
-      },
-      {
-        "english": "C4 – Plastická trhavina",
-        "translation": "Toluendiisokyanát"
-      },
-      {
-        "english": "NC – Nitrobavlna",
-        "translation": "Modul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Booster"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Dusičnan sodný"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulzní trhavina"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Vodní gelová trhavina"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN (tetranitrát pentaerythritolu)"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Čip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismické trhací patrony"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Kompozitní materiály s ocelí plátovanou mědí"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Za studena válcovaná ocel plátovaná mědí a mosazí"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluen (TNT)" },
+      { "text": "Hexogen (RDX)" },
+      { "text": "Octogen (HMX)" },
+      { "text": "Porézní granule amoniakového dusičnanu (PPAN)" },
+      { "text": "Chemicky čistý amoniakový dusičnan (CPAN)" },
+      { "text": "Plastické výbušniny (C4)" },
+      { "text": "Nitrocelulóza (NC)" },
+      { "text": "Kyanid sodný" },
+      { "text": "Dusičnan sodný" },
+      { "text": "Perchlorát sodný (NaClO4)" },
+      { "text": "Amoniakový dusičnan (AN)" },
+      { "text": "Amoniový perchlorát (AP)" },
+      { "text": "Kyselina dusičná" },
+      { "text": "Dusičnan hořečnatý" },
+      { "text": "Dusičnan draselný (KNO3)" },
+      { "text": "Perchlorát draselný (KClO3)" },
+      { "text": "Azid sodný" },
+      { "text": "Černý prach" },
+      { "text": "UAN" },
+      { "text": "Pyrická kyselina (trinitrokrezol, TNP)" },
+      { "text": "Nitroglycerin (C3H5N3O9)" },
+      { "text": "Nonel trubka" },
+      { "text": "Detonační kabel" },
+      { "text": "Elektrický detonátor" },
+      { "text": "Elektronický detonátor" },
+      { "text": "Ne-elektrický detonátor" },
+      { "text": "Diisokyanát toluenu" },
+      { "text": "Modul" },
+      { "text": "Booster" },
+      { "text": "Kyanid sodný-1756x2048" },
+      { "text": "Emulzní výbušnina" },
+      { "text": "Vodní gelová výbušnina" },
+      { "text": "PETN Pentaeritritol tetranitrát" },
+      { "text": "Čip" },
+      { "text": "Seizmické výbušné náboje" },
+      { "text": "KOMPÓZITNÍ MATERIÁLY s mědí pokrytý ocelí" },
+      { "text": "STUDENÁ VALCOVANÁ OCEL S MĚDÍ A MOSAZÍ" }
     ]
+
   },
   "cooperation_section": {
     "title": "OBECNÝ POSTUP SPOLUPRÁCE",

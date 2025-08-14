@@ -85,92 +85,76 @@
           "text": "Oleme paljude tehase esmatasandi agent. Suure saadetiste mahu põhjal saame tehase konkurentsivõimelise hinna ning meie professionaalsed eksporditeenused teevad meist rahvusvahelises kaubanduses silmapaistva."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "EELISED",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Pakume suurepärase kvaliteediga tooteid ning täpseid tarneaegu."
+        },
+        {
+          "id": 2,
+          "text": "Oleme loonud tugeva koostöö laevandusettevõtetega nagu COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF ja teised."
+        },
+        {
+          "id": 3,
+          "text": "Meie professionaalse meeskonnaga saame pakkuda mõistlikke pakkumisi ning parimaid ja tõhusaid teenuseid."
+        },
+        {
+          "id": 4,
+          "text": "Tänu meie professionaalsele teadmistele, suurepärasele toodete kvaliteedile ja probleemide lahendamise teenustele oleme saanud klientidelt üle maailma tunnustust."
+        },
+        {
+          "id": 5,
+          "text": "Meie ettevõte on registreeritud Hongkongis – offshore-tsoonis, mis pakub meie ärile rohkem paindlikkust ja usaldusväärsust."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "MEIE TOOTEDE LOETELU",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel toru"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Detonaatori nöör"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Elektriline detonaator"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektrooniline detonaator"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Mittetulevik detonaator"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Tolueendiisotsüanaat"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Moodul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Kordisti"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Naatriumtsüaniid-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsioonplahvatus"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Veepõhine geelplahvatus"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerütritool tetranitraat"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Kiip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismilised plahvatuspatroonid"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Vaskkattega terase komposiitmaterjalid"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Külmvaltsitud teras vask- ja messingkattega"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluool (TNT)" },
+      { "text": "Heksogeen (RDX)" },
+      { "text": "Oktogeeni (HMX)" },
+      { "text": "Poorsed graanulid ammooniumnitraat (PPAN)" },
+      { "text": "Keemiliselt puhas ammooniumnitraat (CPAN)" },
+      { "text": "Plastiline lõhkeaine (C4)" },
+      { "text": "Nitrotselluloos (NC)" },
+      { "text": "Naatriumtsüaniid" },
+      { "text": "Naatriumnitraat" },
+      { "text": "Naatriumperkloraat (NaClO4)" },
+      { "text": "Ammooniumnitraat (AN)" },
+      { "text": "Ammooniumperkloraat (AP)" },
+      { "text": "Lämmastikhape" },
+      { "text": "Magneesiumi nitraat" },
+      { "text": "Kaalium nitraat (KNO3)" },
+      { "text": "Kaaliumperkloraat (KClO3)" },
+      { "text": "Naatriumasiid" },
+      { "text": "Must püssirohi" },
+      { "text": "UAN" },
+      { "text": "Piriksükkel (trinitrokresool, TNP)" },
+      { "text": "Nitrogütseriin (C3H5N3O9)" },
+      { "text": "Nonel toru" },
+      { "text": "Detoneerimisjuhe" },
+      { "text": "Elektriline detonator" },
+      { "text": "Elektrooniline detonator" },
+      { "text": "Mitte-elektriline detonator" },
+      { "text": "Toluueendiisotsüanaat" },
+      { "text": "Moodul" },
+      { "text": "Booster" },
+      { "text": "Naatriumtsüaniid-1756x2048" },
+      { "text": "Emulsioon lõhkeaine" },
+      { "text": "Veegieli lõhkeaine" },
+      { "text": "PETN Pentereitritooltetranitraat" },
+      { "text": "Kiip" },
+      { "text": "Seismilised lõhkeaine padrunid" },
+      { "text": "Vaskkattega teras komposiitmaterjalid" },
+      { "text": "Külmvaltsitud teras, mis on kaetud vase ja messingiga" }
     ]
+
   },
   "cooperation_section": {
     "title": "KOOSTÖÖ ÜLDINE ALGORITM",

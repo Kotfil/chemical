@@ -85,92 +85,76 @@
           "text": "Olemme monien tehtaiden ensitason agentti. Suuren lähetysmäärän ansiosta saamme tehtaalta kilpailukykyisen hinnan sekä ammattimaiset vientipalvelumme, jotka tekevät meistä erottuvan kansainvälisessä kaupassa."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "EDUT",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Tarjoamme erinomaisen laatuisia tuotteita sekä täsmällisiä toimitusaikoja."
+        },
+        {
+          "id": 2,
+          "text": "Olemme luoneet vahvan yhteistyön kuljetusyritysten, kuten COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF ja muiden kanssa."
+        },
+        {
+          "id": 3,
+          "text": "Ammattitaitoisella tiimillämme voimme tarjota kohtuullisia tarjouksia ja parhaita, tehokkaita palveluita."
+        },
+        {
+          "id": 4,
+          "text": "Ammattitaitomme, tuotteidemme erinomainen laatu ja ongelmanratkaisupalvelut ovat saaneet asiakkaiden hyväksynnän maailmanlaajuisesti."
+        },
+        {
+          "id": 5,
+          "text": "Yrityksemme on rekisteröity Hongkongissa – offshore-alueella, joka tarjoaa enemmän joustavuutta ja luotettavuutta liiketoiminnallemme."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "TUOTELUETTELOMME",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel-putki"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Sytytysnaru"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Sähkösytytin"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektroninen sytytin"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Ei-sähköinen sytytin"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Tolueenidi-isosyanaatti"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Moduuli"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Vahvistin"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Natriumsyanidi-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsiopräjähde"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Vesigeelipräjähde"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerytritoli tetranitraatti"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Sirun osa"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismiset räjähdepatruunat"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Kuparipinnoitettu teräskomposiittimateriaali"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Kylmävalssattu teräs kuparilla ja messingillä"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotolueeni (TNT)" },
+      { "text": "Heksogeeni (RDX)" },
+      { "text": "Oktogeeni (HMX)" },
+      { "text": "Huokoiset ammoniumnitraattikiteet (PPAN)" },
+      { "text": "Kemiallisesti puhdas ammoniumnitraatti (CPAN)" },
+      { "text": "Muovinen räjähde (C4)" },
+      { "text": "Nitroselluloosa (NC)" },
+      { "text": "Natriumsyaniidi" },
+      { "text": "Natriumnitraatti" },
+      { "text": "Natriumperkloraatti (NaClO4)" },
+      { "text": "Ammoniumnitraatti (AN)" },
+      { "text": "Ammoniumperkloraatti (AP)" },
+      { "text": "Typpihappo" },
+      { "text": "Magnesiumnitraatti" },
+      { "text": "Kaliumnitraatti (KNO3)" },
+      { "text": "Kaliumperkloraatti (KClO3)" },
+      { "text": "Natriumasidi" },
+      { "text": "Mustapauke" },
+      { "text": "UAN" },
+      { "text": "Pyrikihappo (trinitrokresoli, TNP)" },
+      { "text": "Nitroglyseriini (C3H5N3O9)" },
+      { "text": "Nonel-putki" },
+      { "text": "Detonaatiojohto" },
+      { "text": "Sähköinen detonaattori" },
+      { "text": "Elektroninen detonaattori" },
+      { "text": "Ei-sähköinen detonaattori" },
+      { "text": "Tolueenidiisotsyanaatti" },
+      { "text": "Moduuli" },
+      { "text": "Booster" },
+      { "text": "Natriumsyaniidi-1756x2048" },
+      { "text": "Emulsioräjähde" },
+      { "text": "Vesigeeliräjähde" },
+      { "text": "PETN Pentaeritritoltetranitraatti" },
+      { "text": "Sirpale" },
+      { "text": "Seismiset räjähdepadrunit" },
+      { "text": "Vaskipinnoitettu teräskomposiittimateriaali" },
+      { "text": "Kylmävalssattu teräs, joka on pinnoitettu kuparilla ja messinkiellä" }
     ]
+
   },
   "cooperation_section": {
     "title": "YHTEISTYÖN YLEINEN ALGORITMI",

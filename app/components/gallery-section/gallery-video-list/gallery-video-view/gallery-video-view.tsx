@@ -5,7 +5,7 @@ import { GalleryVideoViewProps } from '@/app/components/gallery-section/gallery-
 export const GalleryVideoView: FC<GalleryVideoViewProps> = ({ video }) => {
   return (
     <VideoWrapper>
-      <h3 className="font-blogger pb-2 text-base italic">{video.title}</h3>
+      <h3 className="font-blogger pb-2 text-base italic ">{video.title}</h3>
       <video src={video.src} poster={video.poster} controls preload="metadata">
         Your browser does not support the video tag.
       </video>

@@ -74,92 +74,76 @@
           "text": "We zijn de eerstelijns agent van vele soorten fabrieken. Op basis van ons enorme verzendvolume kunnen we een concurrerende prijs van de fabriek krijgen plus onze professionele exportdiensten, waardoor we uitblinken in de internationale handel."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "VOORDELEN",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Wij leveren producten van uitstekende kwaliteit, evenals stipte levertijden."
+        },
+        {
+          "id": 2,
+          "text": "Wij hebben een sterke samenwerking opgebouwd met rederijen zoals COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF en anderen."
+        },
+        {
+          "id": 3,
+          "text": "Met ons professionele team kunnen wij redelijke offertes en de beste, zeer efficiënte diensten aanbieden."
+        },
+        {
+          "id": 4,
+          "text": "Dankzij onze professionele kennis, uitstekende productkwaliteit en probleemoplossende diensten hebben wij goedkeuring gekregen van klanten wereldwijd."
+        },
+        {
+          "id": 5,
+          "text": "Ons bedrijf is geregistreerd in Hongkong – een offshorezone die meer flexibiliteit en betrouwbaarheid biedt voor onze bedrijfsactiviteiten."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "LIJST VAN ONZE PRODUCTEN",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel-buis"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Ontstekingskoord"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Elektrische ontsteker"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektronische ontsteker"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Niet-elektrische ontsteker"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Tolueendi-isocyanaat"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Module"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Booster"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Natriumcyanide-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsie-explosief"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Watergel-explosief"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerythritol tetranitraat"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismische explosieve patronen"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "KOPER-OMHULD STAAL composietmaterialen"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "KOUDGEROLD STAAL BEDUID MET koper en messing"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotolueen (TNT)" },
+      { "text": "Hexogeen (RDX)" },
+      { "text": "Octogeen (HMX)" },
+      { "text": "Porous prills ammoniumnitraat (PPAN)" },
+      { "text": "Chemisch puur ammoniumnitraat (CPAN)" },
+      { "text": "Plastic explosief (C4)" },
+      { "text": "Nitrocellulose (NC)" },
+      { "text": "Natriumcyanide" },
+      { "text": "Natriumnitraat" },
+      { "text": "Natriumperkloraat (NaClO4)" },
+      { "text": "Amoniumnitraat (AN)" },
+      { "text": "Amoniumperkloraat (AP)" },
+      { "text": "Salpetersuur" },
+      { "text": "Magnesiumnitraat" },
+      { "text": "Kaliumnitraat (KNO3)" },
+      { "text": "Kaliumperkloraat (KClO3)" },
+      { "text": "Natriumazide" },
+      { "text": "Zwart poeder" },
+      { "text": "UAN" },
+      { "text": "Pirinezuur (trinitrocresol, TNP)" },
+      { "text": "Nitroglycerine (C3H5N3O9)" },
+      { "text": "Nonel buis" },
+      { "text": "Detonator draad" },
+      { "text": "Elektrische detonator" },
+      { "text": "Elektronische detonator" },
+      { "text": "Niet-elektrische detonator" },
+      { "text": "Tolueendiisocyanaten" },
+      { "text": "Module" },
+      { "text": "Booster" },
+      { "text": "Natriumcyanide-1756x2048" },
+      { "text": "Emulsie explosief" },
+      { "text": "Watergel explosief" },
+      { "text": "PETN Pentaerythritoltetranitraat" },
+      { "text": "Chip" },
+      { "text": "Seismische explosieve patronen" },
+      { "text": "KOPER-GEVORMDE STAAL composietmaterialen" },
+      { "text": "KOUDE-ROLLED STAAL bedekt met koper en messing" }
     ]
+
   },
   "cooperation_section": {
     "title": "ALGEMENE ALGORITME VAN SAMENWERKING",

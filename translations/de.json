@@ -85,92 +85,76 @@
           "text": "Wir sind Erstagents vieler Fabriken. Aufgrund unseres großen Versandvolumens können wir konkurrenzfähige Preise von der Fabrik erhalten, ergänzt durch unseren professionellen Exportservice, der uns im internationalen Handel hervorhebt."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "VORTEILE",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Wir bieten Produkte von ausgezeichneter Qualität sowie pünktliche Lieferzeiten."
+        },
+        {
+          "id": 2,
+          "text": "Wir haben eine stabile Zusammenarbeit mit Transportunternehmen wie COSCO, CSCL, MAERSK, PIL, MSC, NDS und SAF sowie anderen etabliert."
+        },
+        {
+          "id": 3,
+          "text": "Mit unserem professionellen Team können wir faire Angebote und die besten, hocheffizienten Dienstleistungen anbieten."
+        },
+        {
+          "id": 4,
+          "text": "Dank unseres Fachwissens, der hervorragenden Produktqualität und unserer problemlösenden Dienstleistungen haben wir die Anerkennung von Kunden weltweit erhalten."
+        },
+        {
+          "id": 5,
+          "text": "Unser Unternehmen ist in Hongkong registriert – einer Offshore-Zone, die unserer Geschäftstätigkeit mehr Flexibilität und Zuverlässigkeit verleiht."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "LISTE UNSERER PRODUKTE",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel-Rohr"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Zündschnur"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Elektrischer Zünder"
-      },
-      {
-        "english": "PPAN – Poröse Körner Ammoniumnitrat",
-        "translation": "Elektronischer Zünder"
-      },
-      {
-        "english": "CPAN – Chemisch reines Ammoniumnitrat",
-        "translation": "Nicht-elektrischer Zünder"
-      },
-      {
-        "english": "C4 – Plastiksprengstoff",
-        "translation": "Toluen-Diisocyanat"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Booster"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Natriumcyanid-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsionssprengstoff"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Wasser-Gel-Sprengstoff"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerythritol-Tetranitrat"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismische Sprengkartuschen"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Kupferbeschichtete Stahl-Verbundwerkstoffe"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Kaltgewalzter Stahl mit Kupfer- und Messingbeschichtung"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluol (TNT)" },
+      { "text": "Hexogen (RDX)" },
+      { "text": "Octogen (HMX)" },
+      { "text": "Poröse Granulate Ammoniumnitrat (PPAN)" },
+      { "text": "Chemisch reines Ammoniumnitrat (CPAN)" },
+      { "text": "Plastischer Sprengstoff (C4)" },
+      { "text": "Nitrozellulose (NC)" },
+      { "text": "Natriumcyanid" },
+      { "text": "Natriumnitrat" },
+      { "text": "Natriumperklorat (NaClO4)" },
+      { "text": "Ammoniumnitrat (AN)" },
+      { "text": "Ammoniumperklorat (AP)" },
+      { "text": "Salpetersäure" },
+      { "text": "Magnesiumnitrat" },
+      { "text": "Kalium nitrat (KNO3)" },
+      { "text": "Kaliumperklorat (KClO3)" },
+      { "text": "Natriumazid" },
+      { "text": "Schwarzpulver" },
+      { "text": "UAN" },
+      { "text": "Pyrinsäure (Trinitrokresol, TNP)" },
+      { "text": "Nitroglycerin (C3H5N3O9)" },
+      { "text": "Nonel-Rohr" },
+      { "text": "Detonationsleitung" },
+      { "text": "Elektrischer Detonator" },
+      { "text": "Elektronischer Detonator" },
+      { "text": "Nicht-elektrischer Detonator" },
+      { "text": "Toluendiisocyanat" },
+      { "text": "Modul" },
+      { "text": "Booster" },
+      { "text": "Natriumcyanid-1756x2048" },
+      { "text": "Emulsionssprengstoff" },
+      { "text": "Wassergel-Sprengstoff" },
+      { "text": "PETN Pentaeritritol tetranitrat" },
+      { "text": "Chip" },
+      { "text": "Seismische Sprengpatronen" },
+      { "text": "Kupferbeschichtete Stahl-Verbundmaterialien" },
+      { "text": "Kaltgewalzter Stahl mit Kupfer und Messing beschichtet" }
     ]
+
   },
   "cooperation_section": {
     "title": "ALLGEMEINER KOOPERATIONSPROZESS",

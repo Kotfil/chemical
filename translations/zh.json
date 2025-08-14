@@ -85,92 +85,76 @@
           "text": "我们是多家工厂的一级代理，凭借庞大的出货量，可从工厂获得极具竞争力的价格，加上我们专业的出口服务，使我们在国际贸易中脱颖而出。"
         }
       ]
+    },
+    "main_advantages": {
+      "title": "优势",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "我们提供优质的产品，以及准时的交付时间。"
+        },
+        {
+          "id": 2,
+          "text": "我们已与COSCO、CSCL、MAERSK、PIL、MSC、NDS、SAF等海运公司建立了稳固的合作关系。"
+        },
+        {
+          "id": 3,
+          "text": "凭借我们的专业团队，我们能够提供合理的报价和高效的服务。"
+        },
+        {
+          "id": 4,
+          "text": "凭借我们的专业知识、优质的产品和问题解决服务，我们赢得了全球客户的认可。"
+        },
+        {
+          "id": 5,
+          "text": "我们的公司注册在香港——一个为业务运营提供更多灵活性和可靠性的离岸地区。"
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "产品列表",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "诺内尔导爆管"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "导爆索"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "电雷管"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "电子雷管"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "非电雷管"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "塑料炸药"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "模块"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "氰化钠"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "硝酸钠"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "乳化炸药"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "水凝胶炸药"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN季戊四醇四硝酸酯"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "硝酸"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "地震用炸药弹"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "硝酸钾"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "冷轧铜包钢和黄铜"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "三硝基甲苯 (TNT)" },
+      { "text": "海克辛 (RDX)" },
+      { "text": "辛烯 (HMX)" },
+      { "text": "多孔颗粒氯化铵 (PPAN)" },
+      { "text": "化学纯氯化铵 (CPAN)" },
+      { "text": "塑料炸药 (C4)" },
+      { "text": "硝化纤维素 (NC)" },
+      { "text": "氰化钠" },
+      { "text": "硝酸钠" },
+      { "text": "高氯酸钠 (NaClO4)" },
+      { "text": "氯化铵 (AN)" },
+      { "text": "过氯酸铵 (AP)" },
+      { "text": "硝酸" },
+      { "text": "硝酸镁" },
+      { "text": "硝酸钾 (KNO3)" },
+      { "text": "过氯酸钾 (KClO3)" },
+      { "text": "氮化钠" },
+      { "text": "黑火药" },
+      { "text": "UAN" },
+      { "text": "吡啶酸 (三硝基克雷索尔, TNP)" },
+      { "text": "硝基甘油 (C3H5N3O9)" },
+      { "text": "Nonel管" },
+      { "text": "引爆绳" },
+      { "text": "电引信" },
+      { "text": "电子引信" },
+      { "text": "非电引信" },
+      { "text": "二异氰酸酯" },
+      { "text": "模块" },
+      { "text": "增强剂" },
+      { "text": "氰化钠-1756x2048" },
+      { "text": "乳液炸药" },
+      { "text": "水凝胶炸药" },
+      { "text": "PETN 五氯化五氯四氮" },
+      { "text": "芯片" },
+      { "text": "地震爆炸药筒" },
+      { "text": "铜包钢复合材料" },
+      { "text": "铜和黄铜包覆的冷轧钢" }
     ]
+
   },
   "cooperation_section": {
     "title": "合作通用流程",

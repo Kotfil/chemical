@@ -85,92 +85,76 @@
           "text": "Ние сме първо ниво агенти на множество фабрики. Поради големия ни обем на доставка можем да договорим конкурентни цени директно от производителя, комбинирано с нашите професионални износни услуги, които ни отличават на международния пазар."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "ПРЕДИМСТВА",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Ние предоставяме продукти с отлично качество, както и точни срокове на доставка."
+        },
+        {
+          "id": 2,
+          "text": "Установихме стабилно сътрудничество с транспортни компании като COSCO, CSCL, MAERSK, PIL, MSC, NDS и SAF и други."
+        },
+        {
+          "id": 3,
+          "text": "С нашия професионален екип можем да предложим разумни оферти и най-добрите, високоефективни услуги."
+        },
+        {
+          "id": 4,
+          "text": "Благодарение на нашите професионални знания, отличното качество на продуктите и услугите за решаване на проблеми, получихме одобрението на клиентите по целия свят."
+        },
+        {
+          "id": 5,
+          "text": "Нашата компания е регистрирана в Хонг Конг – офшорна зона, която дава повече гъвкавост и надеждност на търговската ни дейност."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "СПИСЪК НА НАШИТЕ ПРОДУКТИ",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel tube"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Detonating Cord"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Electric Detonator"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Electronic Detonator"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Non‑electric Detonator"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluene Diisocyanate"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Module"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Booster"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Sodium Cyanide‑1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsion Explosive"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Water Gel explosive"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerythritol tetranitrate"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismic Explosive Cartridges"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "COPPER‑CLAD STEEL composite materials"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "COLD‑ROLLED STEEL CLAD with copper and brass"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Тринитротолуен (TNT)" },
+      { "text": "Хексоген (RDX)" },
+      { "text": "Окстоген (HMX)" },
+      { "text": "Порьозни гранули амониев нитрат (PPAN)" },
+      { "text": "Химически чист амониев нитрат (CPAN)" },
+      { "text": "Пластичен взривател (C4)" },
+      { "text": "Нитроцелулоза (NC)" },
+      { "text": "Натриев цианид" },
+      { "text": "Натриев нитрат" },
+      { "text": "Натриев перхлорат (NaClO4)" },
+      { "text": "Амониев нитрат (AN)" },
+      { "text": "Амониев перхлорат (AP)" },
+      { "text": "Нитрична киселина" },
+      { "text": "Магнезиев нитрат" },
+      { "text": "Калиев нитрат (KNO3)" },
+      { "text": "Калиев перхлорат (KClO3)" },
+      { "text": "Натриев азид" },
+      { "text": "Черна барут" },
+      { "text": "UAN" },
+      { "text": "Пирична киселина (тринитрокрезол, TNP)" },
+      { "text": "Нитроглицерин (C3H5N3O9)" },
+      { "text": "Неонелова тръба" },
+      { "text": "Детониращ кабел" },
+      { "text": "Електрически детонатор" },
+      { "text": "Електронен детонатор" },
+      { "text": "Неелектрически детонатор" },
+      { "text": "Толуен диизоцианат" },
+      { "text": "Модул" },
+      { "text": "Усилвател" },
+      { "text": "Натриев цианид-1756x2048" },
+      { "text": "Емулсионен взривател" },
+      { "text": "Воден гел експлозив" },
+      { "text": "PETN Пентаеритритол тетранитрат" },
+      { "text": "Чип" },
+      { "text": "Сеизмични взривни патрони" },
+      { "text": "КУПРОВО-ПОКРИТИ МАТЕРИАЛИ от стомана" },
+      { "text": "СТУДЕНО-ВАЛЦУВАНА СТУДЕНА с мед и месинг" }
     ]
+
   },
   "cooperation_section": {
     "title": "ОБЩ АЛГОРИТЪМ НА СЪТРУДНИЧЕСТВО",

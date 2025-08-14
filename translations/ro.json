@@ -85,92 +85,76 @@
           "text": "Suntem agenți de nivel 1 pentru mai multe tipuri de fabrici. Datorită volumului nostru mare de livrări, putem obține un preț competitiv de la fabrică, iar serviciile noastre profesionale de export ne fac să ne remarcăm în comerțul internațional."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "AVANTAJE",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Oferim produse de calitate excelentă, precum și termene de livrare punctuale."
+        },
+        {
+          "id": 2,
+          "text": "Am stabilit o colaborare strânsă cu companii de transport maritim precum COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF și altele."
+        },
+        {
+          "id": 3,
+          "text": "Cu echipa noastră profesionistă, putem oferi oferte rezonabile și cele mai bune servicii cu eficiență ridicată."
+        },
+        {
+          "id": 4,
+          "text": "Datorită cunoștințelor noastre profesionale, calității excelente a produselor și serviciilor noastre de rezolvare a problemelor, am câștigat aprecierea clienților din întreaga lume."
+        },
+        {
+          "id": 5,
+          "text": "Compania noastră este înregistrată în Hong Kong – o zonă offshore care oferă mai multă flexibilitate și fiabilitate operațiunilor noastre de afaceri."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "LISTA PRODUSELOR NOASTRE",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Tub Nonel"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Cord detonant"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Detonator electric"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Detonator electronic"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Detonator ne-electric"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluene Diisocyanate"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Booster"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Cianură de sodiu-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Exploziv emulsionat"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Exploziv gelatinos"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaeritrit tetranitrat"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Cip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Cartușe explozive seismice"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Materiale compozite din oțel placat cu cupru"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "OȚEL LAMINAT LA RECE placat cu cupru și alamă"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluen (TNT)" },
+      { "text": "Hexogen (RDX)" },
+      { "text": "Octogen (HMX)" },
+      { "text": "Granule poroase de nitrat de amoniu (PPAN)" },
+      { "text": "Nitrat de amoniu pur chimic (CPAN)" },
+      { "text": "Exploziv plastic (C4)" },
+      { "text": "Nitroceluloză (NC)" },
+      { "text": "Cianură de sodiu" },
+      { "text": "Nitrat de sodiu" },
+      { "text": "Perclorat de sodiu (NaClO4)" },
+      { "text": "Nitrat de amoniu (AN)" },
+      { "text": "Perclorat de amoniu (AP)" },
+      { "text": "Acid azotic" },
+      { "text": "Nitrat de magneziu" },
+      { "text": "Nitrat de potasiu (KNO3)" },
+      { "text": "Perclorat de potasiu (KClO3)" },
+      { "text": "Azidă de sodiu" },
+      { "text": "Praf negru" },
+      { "text": "UAN" },
+      { "text": "Acid piroic (trinitrocresol, TNP)" },
+      { "text": "Nitroglicerină (C3H5N3O9)" },
+      { "text": "Tub Nonel" },
+      { "text": "Cordon detonator" },
+      { "text": "Detonator electric" },
+      { "text": "Detonator electronic" },
+      { "text": "Detonator neelectronic" },
+      { "text": "Diizocianat de toluen" },
+      { "text": "Modul" },
+      { "text": "Amplificator" },
+      { "text": "Cianură de sodiu-1756x2048" },
+      { "text": "Exploziv în emulzie" },
+      { "text": "Exploziv cu gel de apă" },
+      { "text": "PETN Pentaeritritol tetranitrato" },
+      { "text": "Chip" },
+      { "text": "Cartușe de explozivi seismici" },
+      { "text": "Materiale compozite din oțel acoperit cu cupru" },
+      { "text": "Oțel laminat la rece acoperit cu cupru și alamă" }
     ]
+
   },
   "cooperation_section": {
     "title": "ALGORITMUL GENERAL DE COOPERARE",

@@ -85,92 +85,76 @@
           "text": "Vi är förstahandsagent för många fabriker. Tack vare vår stora volym kan vi få konkurrenskraftiga priser från fabriken, och tillsammans med vår professionella exportservice gör det att vi utmärker oss inom internationell handel."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "FÖRDELAR",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Vi erbjuder produkter av utmärkt kvalitet samt punktliga leveranstider."
+        },
+        {
+          "id": 2,
+          "text": "Vi har etablerat ett starkt samarbete med rederier som COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF och andra."
+        },
+        {
+          "id": 3,
+          "text": "Med vårt professionella team kan vi erbjuda rimliga erbjudanden och mycket effektiva tjänster."
+        },
+        {
+          "id": 4,
+          "text": "Tack vare vår professionella kunskap, utmärkta produktkvalitet och problemlösningstjänster har vi fått erkännande från kunder över hela världen."
+        },
+        {
+          "id": 5,
+          "text": "Vårt företag är registrerat i Hongkong – en offshorezon som erbjuder större flexibilitet och pålitlighet för vår verksamhet."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "LISTA ÖVER VÅRA PRODUKTER",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel-slang"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Detonerande snöre"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Elektrisk detonator"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektronisk detonator"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Icke-elektrisk detonator"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluen diisocyanat"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Förstärkare"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Natriumcyanid-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsionssprängämne"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Vattengelssprängämne"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN – Pentaerytritol tetranitrat"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismiska sprängpatroner"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "KOPPARBEKLÄTT STÅL – kompositmaterial"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "KALLVALSAT STÅL BEKLÄTT med koppar och mässing"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluen (TNT)" },
+      { "text": "Hexogen (RDX)" },
+      { "text": "Oktogen (HMX)" },
+      { "text": "Porösa prills ammoniumnitrat (PPAN)" },
+      { "text": "Kemiskt rent ammoniumnitrat (CPAN)" },
+      { "text": "Plastisk sprängämne (C4)" },
+      { "text": "Nitrocellulosa (NC)" },
+      { "text": "Natriumcyanid" },
+      { "text": "Natriumnitrat" },
+      { "text": "Natriumperklorat (NaClO4)" },
+      { "text": "Ammoniumnitrat (AN)" },
+      { "text": "Ammoniumperklorat (AP)" },
+      { "text": "Salpetersyra" },
+      { "text": "Magnesiumnitrat" },
+      { "text": "Kalium nitrat (KNO3)" },
+      { "text": "Kaliumperklorat (KClO3)" },
+      { "text": "Natriumazid" },
+      { "text": "Svart krut" },
+      { "text": "UAN" },
+      { "text": "Pirinsyra (trinitrokresol, TNP)" },
+      { "text": "Nitroglycerin (C3H5N3O9)" },
+      { "text": "Nonel-rör" },
+      { "text": "Detoneringsledning" },
+      { "text": "Elektrisk detonator" },
+      { "text": "Elektronisk detonator" },
+      { "text": "Icke-elektrisk detonator" },
+      { "text": "Toluen-diisocyanat" },
+      { "text": "Modul" },
+      { "text": "Booster" },
+      { "text": "Natriumcyanid-1756x2048" },
+      { "text": "Emulsionssprängämne" },
+      { "text": "Vatten-gel sprängämne" },
+      { "text": "PETN Pentaeritritol tetranitrat" },
+      { "text": "Chip" },
+      { "text": "Seismiska sprängpatroner" },
+      { "text": "KOPPAR-KLÄDD STÅL kompositmaterial" },
+      { "text": "KALLVALSAT STÅL KLÄDD med koppar och mässing" }
     ]
+
   },
   "cooperation_section": {
     "title": "ALLMÄN SAMARBETSALGORITM",

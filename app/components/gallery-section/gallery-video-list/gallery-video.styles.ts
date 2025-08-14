@@ -14,7 +14,6 @@ export const VideoGrid = styled.section`
 
 export const VideoWrapper = styled.div`
   width: 100%;
-
   video {
     width: 100%;
     height: auto;

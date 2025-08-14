@@ -85,92 +85,77 @@
           "text": "Számos gyár első szintű ügynökei vagyunk. Nagy szállítási volumenünk alapján versenyképes árat kapunk a gyártótól, továbbá szakmai export szolgáltatásaink révén kiemelkedünk a nemzetközi kereskedelemben."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "ELŐNYÖK",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Kiváló minőségű termékeket kínálunk, valamint pontos szállítási határidőket."
+        },
+        {
+          "id": 2,
+          "text": "Erős együttműködést alakítottunk ki szállítmányozó cégekkel, mint például a COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF és mások."
+        },
+        {
+          "id": 3,
+          "text": "Professzionális csapatunkkal ésszerű ajánlatokat és a legjobb, nagy hatékonyságú szolgáltatásokat kínálhatunk."
+        },
+        {
+          "id": 4,
+          "text": "Szakértelmünknek, kiváló termékminőségünknek és problémamegoldó szolgáltatásainknak köszönhetően világszerte elismertséget szereztünk ügyfeleinktől."
+        },
+        {
+          "id": 5,
+          "text": "Cégünk Hongkongban van bejegyezve – egy offshore zónában, amely nagyobb rugalmasságot és megbízhatóságot biztosít üzleti tevékenységünk számára."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "TERMÉKEINK LISTÁJA",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel cső"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Detonációs zsinór"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Elektromos gyújtó"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektronikus gyújtó"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Nem elektromos gyújtó"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluén-dizocianát"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modul"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Fokozó"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Nátrium-cianid-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulziós robbanóanyag"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Vízzel gél robbanóanyag"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaeritrit-tetranitrát"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Szeizmikus robbanópatronok"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Rézzel borított acél kompozit anyagok"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "HIDEGEN HENGERELT ACÉL RÉZZEL ÉS SÁRGARÉZZEL BORÍTVA"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluen (TNT)" },
+      { "text": "Heksogen (RDX)" },
+      { "text": "Oktogen (HMX)" },
+      { "text": "Porózus prills ammónium-nitrát (PPAN)" },
+      { "text": "Kémiailag tiszta ammónium-nitrát (CPAN)" },
+      { "text": "Műanyag robbanóanyag (C4)" },
+      { "text": "Nitrocellulóz (NC)" },
+      { "text": "Nátrium-cianid" },
+      { "text": "Nátrium-nitrát" },
+      { "text": "Nátrium-perklorát (NaClO4)" },
+      { "text": "Ammónium-nitrát (AN)" },
+      { "text": "Ammónium-perklorát (AP)" },
+      { "text": "Nitrogén-sav" },
+      { "text": "Magnézium-nitrát" },
+      { "text": "Kálium-nitrát (KNO3)" },
+      { "text": "Kálium-perklorát (KClO3)" },
+      { "text": "Nátrium-azid" },
+      { "text": "Fekete por" },
+      { "text": "UAN" },
+      { "text": "Pirinsav (trinitrokrezol, TNP)" },
+      { "text": "Nitroglicerin (C3H5N3O9)" },
+      { "text": "Nonel cső" },
+      { "text": "Detonáló vezeték" },
+      { "text": "Elektronikus detonátor" },
+      { "text": "Elektronikus detonátor" },
+      { "text": "Nem elektromos detonátor" },
+      { "text": "Toluol-diizocianát" },
+      { "text": "Modul" },
+      { "text": "Erősítő" },
+      { "text": "Nátrium-cianid-1756x2048" },
+      { "text": "Emulzió robbanóanyag" },
+      { "text": "Vizes gél robbanóanyag" },
+      { "text": "PETN Pentaeritritol-tetranitrád" },
+      { "text": "Chipes" },
+      { "text": "Szeizmikus robbanó patronok" },
+      { "text": "Rézbevonatú acél kompozit anyagok" },
+      { "text": "Hidegen hengerelt acél réz és réz ötvözet borítással" }
     ]
+
+
   },
   "cooperation_section": {
     "title": "ÁLTALÁNOS EGYÜTTMŰKÖDÉSI ALGORITMUS",

@@ -85,92 +85,76 @@
           "text": "Jesteśmy agentem pierwszego stopnia wielu fabryk. Dzięki dużemu wolumenowi wysyłek otrzymujemy konkurencyjne ceny od fabryk oraz świadczymy profesjonalne usługi eksportowe, co pozwala nam wyróżnić się na rynku międzynarodowym."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "ZALETY",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Oferujemy produkty doskonałej jakości oraz terminowe dostawy."
+        },
+        {
+          "id": 2,
+          "text": "Nawiązaliśmy silną współpracę z firmami żeglugowymi takimi jak COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF i innymi."
+        },
+        {
+          "id": 3,
+          "text": "Dzięki naszemu profesjonalnemu zespołowi możemy zaoferować rozsądne wyceny oraz najlepsze, wysoce efektywne usługi."
+        },
+        {
+          "id": 4,
+          "text": "Dzięki naszej wiedzy fachowej, doskonałej jakości produktów i usługom rozwiązującym problemy zdobyliśmy uznanie klientów na całym świecie."
+        },
+        {
+          "id": 5,
+          "text": "Nasza firma jest zarejestrowana w Hongkongu – w strefie offshore, która zapewnia większą elastyczność i niezawodność naszych operacji biznesowych."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "LISTA NASZYCH PRODUKTÓW",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Rurka Nonel"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Lina detonująca"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Detonator elektryczny"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Detonator elektroniczny"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Detonator nieelektryczny"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Toluendiizocyjanian"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Moduł"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Wzmacniacz (Booster)"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Cyjanek sodu-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsja wybuchowa"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Wybuch w żelu wodnym"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaerytrol tetranitrat"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Chip"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Kartusze wybuchowe sejsmiczne"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Kompozyty ze stali pokrytej miedzią"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Stal walcowana na zimno pokryta miedzią i mosiądzem"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluen (TNT)" },
+      { "text": "Heksogen (RDX)" },
+      { "text": "Oktozen (HMX)" },
+      { "text": "Porowate granule azotanu amonu (PPAN)" },
+      { "text": "Czysty chemicznie azotan amonu (CPAN)" },
+      { "text": "Eksplozja plastikowa (C4)" },
+      { "text": "Nitroceluloza (NC)" },
+      { "text": "Cyjanek sodu" },
+      { "text": "Azotan sodu" },
+      { "text": "Perkloarat sodu (NaClO4)" },
+      { "text": "Azotan amonu (AN)" },
+      { "text": "Perkloarat amonu (AP)" },
+      { "text": "Kwas azotowy" },
+      { "text": "Azotan magnezu" },
+      { "text": "Azotan potasu (KNO3)" },
+      { "text": "Perkloarat potasu (KClO3)" },
+      { "text": "Azotyk sodu" },
+      { "text": "Proch strzelniczy" },
+      { "text": "UAN" },
+      { "text": "Kwas pirydynowy (trinitrokrezol, TNP)" },
+      { "text": "Nitrogliceryna (C3H5N3O9)" },
+      { "text": "Rura Nonel" },
+      { "text": "Zapalnik przewodowy" },
+      { "text": "Zapalnik elektryczny" },
+      { "text": "Zapalnik elektroniczny" },
+      { "text": "Zapalnik nieelektryczny" },
+      { "text": "Diizocyjanian toluenu" },
+      { "text": "Moduł" },
+      { "text": "Wzmacniacz" },
+      { "text": "Cyjanek sodu-1756x2048" },
+      { "text": "Eksplozja emulsji" },
+      { "text": "Eksplozja żelu wodnego" },
+      { "text": "PETN Pentaerytrytol tetranitrat" },
+      { "text": "Płytka" },
+      { "text": "Kartusze sejsmiczne" },
+      { "text": "Kompozytowe materiały ze stali pokrytej miedzią" },
+      { "text": "Stal zimno walcowana pokryta miedzią i mosiądzem" }
     ]
+
   },
   "cooperation_section": {
     "title": "OGÓLNY ALGORYTM WSPÓŁPRACY",

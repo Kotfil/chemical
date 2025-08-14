@@ -85,92 +85,76 @@
           "text": "Mēs esam pirmā līmeņa aģents daudziem rūpnīcu veidiem. Pamatojoties uz mūsu lielo sūtījumu apjomu, varam iegūt konkurētspējīgas cenas no rūpnīcām, kā arī profesionālus eksporta pakalpojumus, kas ļauj mums izcelties starptautiskajā tirdzniecībā."
         }
       ]
+    },
+    "main_advantages": {
+      "title": "PRIEKŠROCĪBAS",
+      "main_advantages_list": [
+        {
+          "id": 1,
+          "text": "Mēs piedāvājam augstas kvalitātes produktus, kā arī precīzus piegādes termiņus."
+        },
+        {
+          "id": 2,
+          "text": "Esam izveidojuši ciešu sadarbību ar kuģniecības uzņēmumiem, piemēram, COSCO, CSCL, MAERSK, PIL, MSC, NDS, SAF un citiem."
+        },
+        {
+          "id": 3,
+          "text": "Ar mūsu profesionālo komandu mēs varam piedāvāt saprātīgas cenas un labākos, augstas efektivitātes pakalpojumus."
+        },
+        {
+          "id": 4,
+          "text": "Pateicoties mūsu profesionālajām zināšanām, izcilajai produktu kvalitātei un problēmu risināšanas pakalpojumiem, esam guvuši klientu atzinību visā pasaulē."
+        },
+        {
+          "id": 5,
+          "text": "Mūsu uzņēmums ir reģistrēts Honkongā – ofšora zonā, kas nodrošina lielāku elastību un uzticamību mūsu biznesa darbībām."
+        }
+      ]
     }
+
   },
   "product_section": {
     "title": "MŪSU PRODUKTU SARAKSTS",
     "product_table": [
-      {
-        "english": "TNT – Trinitrotoluene",
-        "translation": "Nonel caurule"
-      },
-      {
-        "english": "RDX – Hexogen",
-        "translation": "Detonējošā virve"
-      },
-      {
-        "english": "HMX – Octogen",
-        "translation": "Elektriskais detonators"
-      },
-      {
-        "english": "PPAN – Porous prills ammonium nitrate",
-        "translation": "Elektroniskais detonators"
-      },
-      {
-        "english": "CPAN – Chemical pure ammonium nitrate",
-        "translation": "Neelektriskais detonators"
-      },
-      {
-        "english": "C4 – Plastic explosive",
-        "translation": "Tolūlēna diizocianāts"
-      },
-      {
-        "english": "NC – Nitrocellulose",
-        "translation": "Modulis"
-      },
-      {
-        "english": "SODIUM CYANIDE",
-        "translation": "Pastiprinātājs"
-      },
-      {
-        "english": "SODIUM NITRATE",
-        "translation": "Nātrija cianīds-1756x2048"
-      },
-      {
-        "english": "SODIUM PERCHLORATE (NaClO₄)",
-        "translation": "Emulsijas sprāgstviela"
-      },
-      {
-        "english": "AMMONIUM NITRATE",
-        "translation": "Ūdens želejas sprāgstviela"
-      },
-      {
-        "english": "AMMONIUM PERCHLORATE",
-        "translation": "PETN Pentaeritritola tetranitrāts"
-      },
-      {
-        "english": "NITRIC ACID",
-        "translation": "Čips"
-      },
-      {
-        "english": "MAGNESIUM NITRATE",
-        "translation": "Seismiskās sprāgstvielu patronas"
-      },
-      {
-        "english": "POTASSIUM NITRATE (KNO₃)",
-        "translation": "Varš pārklāts tērauda kompozītmateriāls"
-      },
-      {
-        "english": "POTASSIUM PERCHLORATE",
-        "translation": "Dzesēti auksti valcēts tērauds ar vara un misiņa pārklājumu"
-      },
-      {
-        "english": "SODIUM AZIDE",
-        "translation": ""
-      },
-      {
-        "english": "UAN",
-        "translation": ""
-      },
-      {
-        "english": "PIRIC ACID (TRINITROCRESOL, TNP)",
-        "translation": ""
-      },
-      {
-        "english": "Nitroglycerin (C₃H₅N₃O₉)",
-        "translation": ""
-      }
+      { "text": "Trinitrotoluēns (TNT)" },
+      { "text": "Hekzogēns (RDX)" },
+      { "text": "Oktogēns (HMX)" },
+      { "text": "Porainās granulas amonija nitrāts (PPAN)" },
+      { "text": "Ķīmiski tīrs amonija nitrāts (CPAN)" },
+      { "text": "Plastmasas sprāgstviela (C4)" },
+      { "text": "Nitroceliuloze (NC)" },
+      { "text": "Nātrija cianīds" },
+      { "text": "Nātrija nitrāts" },
+      { "text": "Nātrija perhlorāts (NaClO4)" },
+      { "text": "Amonija nitrāts (AN)" },
+      { "text": "Amonija perhlorāts (AP)" },
+      { "text": "Slāpekļa skābe" },
+      { "text": "Magnija nitrāts" },
+      { "text": "Kālija nitrāts (KNO3)" },
+      { "text": "Kālija perhlorāts (KClO3)" },
+      { "text": "Nātrija azīds" },
+      { "text": "Melnais pulveris" },
+      { "text": "UAN" },
+      { "text": "Pirīnskābe (trinitrocresols, TNP)" },
+      { "text": "Nitroglicerīns (C3H5N3O9)" },
+      { "text": "Nonel caurule" },
+      { "text": "Detonējošā virve" },
+      { "text": "Elektriskais detonators" },
+      { "text": "Elektroniskais detonators" },
+      { "text": "Ne-elektriskais detonators" },
+      { "text": "Toluenes diizocianāts" },
+      { "text": "Modulis" },
+      { "text": "Stiprinātājs" },
+      { "text": "Nātrija cianīds-1756x2048" },
+      { "text": "Emulsijas sprāgstviela" },
+      { "text": "Ūdens gēla sprāgstviela" },
+      { "text": "PETN Pentaritritolpenta-nitrāts" },
+      { "text": "Čips" },
+      { "text": "Seismiskās sprāgstvielu kārtridži" },
+      { "text": "Vara pārklāts tērauds kompozītmateriāli" },
+      { "text": "AUKSTĀM RUĻLĒTS TĒRAUDS ar vara un misiņa pārklājumu" }
     ]
+
   },
   "cooperation_section": {
     "title": "VISPĀRĪGA SADARBĪBAS ALGORITMA",
