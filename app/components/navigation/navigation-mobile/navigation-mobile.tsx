@@ -9,6 +9,32 @@ import { Grid } from '@mui/material';
 import { NavigationMobileList } from '@/app/components/navigation/navigation-mobile/navigation-mobile-list/navigation-mobile-list';
 import { NavigationMobileOption } from '@/app/components/navigation/navigation-mobile/navigation-mobile-option/navigation-mobile-option';
 import { NavigationTitleTextMobile } from '@/app/components/navigation/navigation-desktop/navigation-mobile-title/navigation-mobile-title';
+import styled from 'styled-components';
+
+const CustomNavbarMenuToggle = styled(NavbarMenuToggle)`
+  background-color: transparent;
+  border: 2px solid transparent;
+  border-radius: 8px;
+  padding: 8px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+
+  &[data-open='true'] {
+    transform: rotate(90deg);
+  }
+
+  &[data-pressed='true'] {
+    background-color: rgba(0, 0, 0, 0.1);
+  }
+
+  &[data-hover='true'] {
+    background-color: rgba(0, 0, 0, 0.05);
+  }
+
+  &[data-focus-visible='true'] {
+    outline: 2px solid #007aff;
+  }
+`;
 
 export default function NavigationMobile() {
   const [isMenuOpen, setIsMenuOpen] = React.useState(false);
@@ -17,7 +43,7 @@ export default function NavigationMobile() {
   return (
     <Navbar isBordered isMenuOpen={isMenuOpen} onMenuOpenChange={setIsMenuOpen}>
       <NavbarContent justify="start">
-        <NavbarMenuToggle aria-label={isMenuOpen ? 'Close menu' : 'Open menu'} />
+        <CustomNavbarMenuToggle aria-label={isMenuOpen ? 'Close menu' : 'Open menu'} />
       </NavbarContent>
 
       <NavbarContent className=" sm:flex gap-4" justify="center">

@@ -11,12 +11,12 @@ export const NavigationTitleTextMobile = () => {
         </p>
       </Grid>
       <Grid>
-        <p className="font-blogger mt-1 text-[clamp(0.6rem,1.5vw,1rem)] opacity-80 leading-snug max-w-[50vw] ">
+        <p className="font-blogger mt-1 text-[clamp(0.6rem,1.5vw,2rem)] opacity-80 leading-snug max-w-[50vw] ">
           {t.navigation.subtitle}
         </p>
       </Grid>
       <Grid>
-        <p className="font-blogger mt-0.3 text-[clamp(0.6rem,1.5vw,1rem)] opacity-80 leading-snug max-w-[50vw]">
+        <p className="font-blogger mt-0.3 text-[clamp(0.6rem,1.5vw,2rem)] opacity-80 leading-snug max-w-[50vw]">
           {t.navigation.subtitle_second}
         </p>
       </Grid>

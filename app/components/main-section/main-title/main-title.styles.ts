@@ -14,6 +14,7 @@ export const Wrapper = styled.div`
     white-space: normal !important;
     margin: 0 !important;
     padding: 0 !important;
+    font-size: 130% !important;
   }
 
   /* Стили для экранов шире 1200px */

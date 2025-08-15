@@ -6,8 +6,9 @@ export const TitleSection: FC<Props> = ({ children, color }) => {
     <h2
       style={{ lineHeight: '1.2', color: color || 'white' }}
       className="
+      text-center
         font-blogger
-  text-[clamp(1.0781rem,2.15625vw,1.725rem)]
+text-[clamp(1.618rem,3.235vw,2.588rem)]
   tracking-tight
   dark:text-white
   mb-4

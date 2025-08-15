@@ -7,7 +7,7 @@ export const MainTitle: FC = async () => {
   const { dict } = await getLocaleDict();
   return (
     <Wrapper>
-      <div className="font-blogger inline-block max-w-xl text-center justify-center leading-[1]">
+      <div className="font-blogger inline-block max-w-xl text-center justify-center leading-[1]  text-[150%]">
         <span className={title({ color: 'yellow' })}>{dict.main_section.title_first}</span>
         <span className={title({ color: 'violet' })}>{dict.main_section.title_second}</span>
         <br />

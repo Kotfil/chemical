@@ -27,7 +27,7 @@
     ]
   },
   "main_section": {
-    "title_first": "SOLUÇÃO INTEGRAL DE FORNECIMENTO DE",
+    "title_first": "SOLUÇÃO INTEGRAL DE FORNECIMENTO DE ",
     "title_second": "DESENVOLVIMENTO CIVIL E",
     "title_third": "MATÉRIAS-PRIMAS QUÍMICAS",
     "main_choice": {
@@ -111,50 +111,122 @@
         }
       ]
     }
-
   },
   "product_section": {
     "title": "LISTA DOS NOSSOS PRODUTOS",
     "product_table": [
-      { "text": "Trinitrotolueno (TNT)" },
-      { "text": "Hexogénio (RDX)" },
-      { "text": "Octogénio (HMX)" },
-      { "text": "Prills porosos de nitrato de amónio (PPAN)" },
-      { "text": "Nitrato de amónio químico puro (CPAN)" },
-      { "text": "Explosivo plástico (C4)" },
-      { "text": "Nitrocelulose (NC)" },
-      { "text": "Cianeto de sódio" },
-      { "text": "Nitrato de sódio" },
-      { "text": "Perclorato de sódio (NaClO4)" },
-      { "text": "Nitrato de amónio (AN)" },
-      { "text": "Perclorato de amónio (AP)" },
-      { "text": "Ácido nítrico" },
-      { "text": "Nitrato de magnésio" },
-      { "text": "Nitrato de potássio (KNO3)" },
-      { "text": "Perclorato de potássio (KClO3)" },
-      { "text": "Azida de sódio" },
-      { "text": "Pólvora negra" },
-      { "text": "UAN" },
-      { "text": "Ácido pírico (trinitrocresol, TNP)" },
-      { "text": "Nitroglicerina (C3H5N3O9)" },
-      { "text": "Tubo Nonel" },
-      { "text": "Cordão detonante" },
-      { "text": "Detonador elétrico" },
-      { "text": "Detonador eletrónico" },
-      { "text": "Detonador não elétrico" },
-      { "text": "Diisocianato de tolueno" },
-      { "text": "Módulo" },
-      { "text": "Amplificador" },
-      { "text": "Cianeto de sódio-1756x2048" },
-      { "text": "Explosivo em emulsão" },
-      { "text": "Explosivo de gel de água" },
-      { "text": "PETN Pentaeritritol tetranitrato" },
-      { "text": "Chip" },
-      { "text": "Cartuchos de explosivos sísmicos" },
-      { "text": "Materiais compósitos com aço revestido a cobre" },
-      { "text": "Aço laminado a frio revestido com cobre e latão" }
+      {
+        "text": "Trinitrotolueno (TNT)"
+      },
+      {
+        "text": "Hexogénio (RDX)"
+      },
+      {
+        "text": "Octogénio (HMX)"
+      },
+      {
+        "text": "Prills porosos de nitrato de amónio (PPAN)"
+      },
+      {
+        "text": "Nitrato de amónio químico puro (CPAN)"
+      },
+      {
+        "text": "Explosivo plástico (C4)"
+      },
+      {
+        "text": "Nitrocelulose (NC)"
+      },
+      {
+        "text": "Cianeto de sódio"
+      },
+      {
+        "text": "Nitrato de sódio"
+      },
+      {
+        "text": "Perclorato de sódio (NaClO4)"
+      },
+      {
+        "text": "Nitrato de amónio (AN)"
+      },
+      {
+        "text": "Perclorato de amónio (AP)"
+      },
+      {
+        "text": "Ácido nítrico"
+      },
+      {
+        "text": "Nitrato de magnésio"
+      },
+      {
+        "text": "Nitrato de potássio (KNO3)"
+      },
+      {
+        "text": "Perclorato de potássio (KClO3)"
+      },
+      {
+        "text": "Azida de sódio"
+      },
+      {
+        "text": "Pólvora negra"
+      },
+      {
+        "text": "UAN"
+      },
+      {
+        "text": "Ácido pírico (trinitrocresol, TNP)"
+      },
+      {
+        "text": "Nitroglicerina (C3H5N3O9)"
+      },
+      {
+        "text": "Tubo Nonel"
+      },
+      {
+        "text": "Cordão detonante"
+      },
+      {
+        "text": "Detonador elétrico"
+      },
+      {
+        "text": "Detonador eletrónico"
+      },
+      {
+        "text": "Detonador não elétrico"
+      },
+      {
+        "text": "Diisocianato de tolueno"
+      },
+      {
+        "text": "Módulo"
+      },
+      {
+        "text": "Amplificador"
+      },
+      {
+        "text": "Cianeto de sódio-1756x2048"
+      },
+      {
+        "text": "Explosivo em emulsão"
+      },
+      {
+        "text": "Explosivo de gel de água"
+      },
+      {
+        "text": "PETN Pentaeritritol tetranitrato"
+      },
+      {
+        "text": "Chip"
+      },
+      {
+        "text": "Cartuchos de explosivos sísmicos"
+      },
+      {
+        "text": "Materiais compósitos com aço revestido a cobre"
+      },
+      {
+        "text": "Aço laminado a frio revestido com cobre e latão"
+      }
     ]
-
   },
   "cooperation_section": {
     "title": "ALGORITMO GERAL DE COOPERAÇÃO",

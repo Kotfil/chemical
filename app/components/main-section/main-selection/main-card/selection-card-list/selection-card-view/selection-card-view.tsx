@@ -12,7 +12,10 @@ export const SelectionCardView: FC<SelectionCardProps> = ({ title, text }) => {
       <CardBody className="flex flex-col h-full">
         <SubtitleSection>{title}</SubtitleSection>
         <Divider />
-        <p className="pt-1 font-blogger flex-grow overflow-hidden">{text}</p> {/* чтобы текст не влиял на высоту */}
+        <p className="text-[clamp(1.133rem,2.265vw,1.812rem)] pt-1 font-blogger flex-grow overflow-hidden">
+          {text}
+        </p>{' '}
+        {/* чтобы текст не влиял на высоту */}
       </CardBody>
     </Card>
   );

@@ -12,7 +12,7 @@ import { useEffect, useState } from 'react';
 export default function ProductTable() {
   const [rows, setRows] = useState<{ text: string }[]>([]);
   const t = useTranslation() as any;
-  console.log('t.product_section.product_table', t.product_section.product_table);
+
   useEffect(() => {
     let mounted = true;
     const loadDict = async () => {
@@ -32,7 +32,7 @@ export default function ProductTable() {
       sx={{
         width: '100%',
         maxWidth: '100%',
-        fontSize: 'clamp(12px, 1.5vw, 18px)',
+        fontSize: 'clamp(20px, 1.5vw, 22px)',
       }}
     >
       <Table
@@ -40,14 +40,14 @@ export default function ProductTable() {
         sx={{
           width: '100%',
           tableLayout: 'auto',
-          fontSize: 'clamp(12px, 1.5vw, 18px)',
+          fontSize: 'clamp(20px, 1.5vw, 22px)',
         }}
         aria-label="explosives table"
       >
         <TableBody>
           {rows.map((row, index) => (
             <TableRow key={index}>
-              <TableCell align="center" sx={{ fontSize: 'clamp(12px, 1.5vw, 18px)' }}>
+              <TableCell align="center" sx={{ fontSize: 'clamp(20px, 1.5vw, 26px)' }}>
                 {row.text}
               </TableCell>
             </TableRow>

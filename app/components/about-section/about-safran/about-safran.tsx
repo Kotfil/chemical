@@ -7,11 +7,14 @@ export default async function AboutSafran() {
   const aboutText = dict.about_section.about_text;
 
   return (
-    <section className="font-blogger max-w-[1200px] mx-auto px-0.5 py-1">
+    <section className="font-blogger max-w-[1200px] mx-auto px-0.5 py-1 text-[120%]">
       <Card>
         <CardBody>
           {aboutText.intro.map((paragraph: string, i: number) => (
-            <p key={i} className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300">
+            <p
+              key={i}
+              className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300 text-[120%]"
+            >
               {paragraph}
             </p>
           ))}
@@ -23,23 +26,26 @@ export default async function AboutSafran() {
         return (
           <Card key={n} className="font-blogger mt-8">
             <CardBody>
-              <h3 className="font-blogger italic text-2xl font-semibold mb-4 text-blue-400 dark:text-blue-300">
+              <h3 className="font-blogger italic text-2xl font-semibold mb-4 text-blue-400 dark:text-blue-300 text-[120%]">
                 {section.title}
               </h3>
               {section.paragraph1 && (
-                <p className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300">
+                <p className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300 text-[120%]">
                   {section.paragraph1}
                 </p>
               )}
               {Array.isArray(section.paragraphs) &&
                 section.paragraphs.map((p: string, i: number) => (
-                  <p key={i} className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300">
+                  <p
+                    key={i}
+                    className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300 text-[120%]"
+                  >
                     {p}
                   </p>
                 ))}
 
               {Array.isArray(section.list) && (
-                <ul className="font-blogger list-disc list-inside mb-6 text-gray-700 dark:text-gray-300">
+                <ul className="font-blogger list-disc list-inside mb-6 text-gray-700 dark:text-gray-300 text-[120%]">
                   {section.list.map((item: string, i: number) => (
                     <li key={i} className="font-blogger mb-2">
                       {item}
@@ -49,7 +55,7 @@ export default async function AboutSafran() {
               )}
 
               {section.paragraph2 && (
-                <p className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300">
+                <p className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300 text-[120%]">
                   {section.paragraph2}
                 </p>
               )}
@@ -59,11 +65,14 @@ export default async function AboutSafran() {
       })}
       <Card className="font-blogger mt-8">
         <CardBody>
-          <h3 className="font-blogger text-2xl font-semibold mb-4 text-blue-400 dark:text-blue-300">
+          <h3 className="font-blogger text-2xl font-semibold mb-4 text-blue-400 dark:text-blue-300 text-[120%]">
             {aboutText.conclusion.title}
           </h3>
           {aboutText.conclusion.paragraphs.map((p: string, i: number) => (
-            <p key={i} className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300">
+            <p
+              key={i}
+              className="font-blogger text-lg leading-relaxed mb-5 text-gray-700 dark:text-gray-300 text-[120%]"
+            >
               {p}
             </p>
           ))}
@@ -71,7 +80,7 @@ export default async function AboutSafran() {
       </Card>
       <Card className="font-blogger mt-8 mb-10">
         <CardBody>
-          <p className="font-blogger text-sm  text-gray-900 dark:text-gray-100">{aboutText.disclaimer}</p>
+          <p className="font-blogger text-sm text-gray-900 dark:text-gray-100 text-[120%]">{aboutText.disclaimer}</p>
         </CardBody>
       </Card>
     </section>
