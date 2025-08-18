@@ -20,9 +20,9 @@ const bloggerSans = localFont({
 export const metadata = {
   title: 'Chemical',
   icons: {
-    icon: '/favicon.ico', // стандартная иконка для браузеров
-    shortcut: '/favicon.ico', // для старых браузеров
-    apple: '/assets/LOGO.png', // для iOS
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/assets/LOGO.png',
   },
 };
 
@@ -30,7 +30,13 @@ export default async function LocaleLayout({ children }: { children: React.React
   const { locale } = await getLocaleDict();
   return (
     <html suppressHydrationWarning lang={locale}>
-      <head />
+      <head>
+        <title>{metadata.title}</title>
+        <link rel="icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon.ico" />
+        <link rel="apple-touch-icon" sizes="180x180" href="/assets/LOGO.png" />
+        <meta name="description" content="Chemical app description" />
+      </head>
       <body className={clsx('min-h-screen text-foreground bg-background font-sans antialiased', bloggerSans.variable)}>
         <Providers themeProps={{ attribute: 'class', defaultTheme: 'dark' }}>
           <StyledComponentsRegistry>
