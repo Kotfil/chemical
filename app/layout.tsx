@@ -8,10 +8,6 @@ import { Navigation } from '@/app/components/navigation/navigation';
 import localFont from 'next/font/local';
 import { Footer } from '@/app/components/footer/footer';
 
-export const metadata = {
-  title: 'Chemical',
-};
-
 const bloggerSans = localFont({
   src: [
     { path: '../public/font/blogger/blogger-sans.regular.ttf', weight: '400', style: 'normal' },
@@ -20,6 +16,15 @@ const bloggerSans = localFont({
   variable: '--font-blogger',
   display: 'swap',
 });
+
+export const metadata = {
+  title: 'Chemical',
+  icons: {
+    icon: '/favicon.ico', // стандартная иконка для браузеров
+    shortcut: '/favicon.ico', // для старых браузеров
+    apple: '/assets/LOGO.png', // для iOS
+  },
+};
 
 export default async function LocaleLayout({ children }: { children: React.ReactNode }) {
   const { locale } = await getLocaleDict();
