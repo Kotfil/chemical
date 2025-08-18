@@ -5,6 +5,18 @@ export const languagesListMock = [
     link: `https://cdn-cf.cms.flixbus.com/drupal-assets/flags/bg.min.svg`,
     locale: 'bg',
   },
+  {
+    title: 'العربية',
+    alt: 'Arabic Flag',
+    link: `https://upload.wikimedia.org/wikipedia/commons/b/bb/Arabic-Language-Flag.svg`,
+    locale: 'ar-AE',
+  },
+  {
+    title: 'भारतीय',
+    alt: 'Indian Flag',
+    link: `https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg`,
+    locale: 'hi',
+  },
 
   {
     title: 'Русский',

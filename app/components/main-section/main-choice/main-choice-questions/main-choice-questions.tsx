@@ -1,7 +1,7 @@
 import React, { FC } from 'react';
 import { Grid } from '@mui/material';
 import { Divider } from '@heroui/divider';
-import { SubtitleSection } from '@/app/components/subtitle-section/subtitle-section';
+import { Text } from './main-choice-questions.styles';
 import { getLocaleDict } from '@/app/i18n-service';
 import { MainChoice } from '@/app/components/main-section/main-choice/main-choice-questions/main-choice-questions.types';
 
@@ -15,7 +15,7 @@ export const MainChoiceQuestions: FC = async () => {
         {main_choice_list.map((item, idx) => {
           return (
             <Grid key={idx}>
-              <SubtitleSection>{`(${item.id}) ${item.text}`}</SubtitleSection>
+              <Text>{`(${item.id}) ${item.text}`}</Text>
             </Grid>
           );
         })}

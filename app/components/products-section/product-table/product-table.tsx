@@ -20,7 +20,7 @@ export default function ProductTable() {
         setRows(t.product_section.product_table as { text: string }[]);
       }
     };
-    console.log('ww');
+
     loadDict();
     return () => {
       mounted = false;
@@ -32,7 +32,8 @@ export default function ProductTable() {
       sx={{
         width: '100%',
         maxWidth: '100%',
-        fontSize: 'clamp(20px, 1.5vw, 22px)',
+        tableLayout: 'auto',
+        fontSize: 'clamp(14px, 2vw, 20px)',
       }}
     >
       <Table
@@ -40,14 +41,14 @@ export default function ProductTable() {
         sx={{
           width: '100%',
           tableLayout: 'auto',
-          fontSize: 'clamp(20px, 1.5vw, 22px)',
+          fontSize: 'clamp(14px, 2vw, 20px)',
         }}
         aria-label="explosives table"
       >
         <TableBody>
           {rows.map((row, index) => (
             <TableRow key={index}>
-              <TableCell align="center" sx={{ fontSize: 'clamp(20px, 1.5vw, 26px)' }}>
+              <TableCell align="center" sx={{ fontSize: 'clamp(14px, 2vw, 26px)', whiteSpace: 'normal' }}>
                 {row.text}
               </TableCell>
             </TableRow>

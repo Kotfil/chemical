@@ -8,7 +8,8 @@ export const TitleSection: FC<Props> = ({ children, color }) => {
       className="
       text-center
         font-blogger
-text-[clamp(1.618rem,3.235vw,2.588rem)]
+text-[clamp(1.294rem,2.588vw,2.070rem)]
+
   tracking-tight
   dark:text-white
   mb-4

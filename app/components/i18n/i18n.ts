@@ -2,6 +2,8 @@ import 'server-only';
 
 export const locales = [
   'ru', // Russian
+  'ar-AE', // Arabic
+  'hi', // Hindi
   'uk', // Ukrainian
   'en', // English
   'bg', // Bulgarian
